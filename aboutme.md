@@ -1,16 +1,36 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+Younghyun Kim, Ph.D.
+김 영현 (Korean), 金 榮現 (Hanja)
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+R&D engineer
+
+IMEC, Leuven, Belgium 
+
+
+
+
+
+Ph.D. in Electrical Engineering, University of Tokyo (2015)
+
+   Takagi & Takenaka Group
+
+M.E. in Electrical Engineering, University of Tokyo (2012)
+
+   Takagi & Takenaka Group
+
+B.E. in Electrical Engineering, University of Tokushima (2010)
+
+   
+
+E-mail: younghyun.kim@imec.be
+
+Linkedin/ Researchgate/ Google scholar/ CV
