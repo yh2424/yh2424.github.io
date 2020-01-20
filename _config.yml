@@ -26,8 +26,9 @@ description: Awesome !
 navbar-links:
   BLOG: "blog"
   About Me: "aboutme"
-  Open Learning: "openlearning"
   Projects: "projects"
+  Open Learning: "openlearning"
+
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -69,8 +70,8 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
-  facebook: true
+  rss: false
+  facebook: false
   email: true
   twitter: false
   github: true
@@ -81,7 +82,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
