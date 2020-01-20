@@ -7,4 +7,4 @@ excerpt: >-
  
 comments: true
 ---
-I have started working as an R&D engineer in a Si Photonics group at IMEC which is the world-leading semiconductor R&D consortium since July 2018.
+Since July 2018, I have started working as an R&D engineer in a Si Photonics group at IMEC which is the world-leading semiconductor R&D consortium.
