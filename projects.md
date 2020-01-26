@@ -12,6 +12,7 @@ Details to be updated soon ....
 ## Systematic design guide for high-speed Si micro ring modulator  
 ### Yonsei Univ.,    Apr ‘17 - present
 The Si micro-ring modulator is expected to play an important role in optical interconnect systems thanks to the large modulation bandwidth and small device footprints. There are many reports for analysis and experimental demonstrations. However, a systematic device design guide for determining optimal doping concentrations, ring radius, and coupling strength between ring and bus waveguides for a target data rate is not available.  In this work, we study on realizing such a design guide.
+- [Y. Kim et.al., "Parametric optimization of depletion-type Si micro-ring modulator performances", JJAP vo.58, 062006, 2019](https://iopscience.iop.org/article/10.7567/1347-4065/ab22ce/pdf)
 
 ![image](https://4.bp.blogspot.com/-M26bOq5E9Tw/Wla2FIZWAPI/AAAAAAAACjY/JA4rhMcW1_4-1G_ftsKu7vxoF5fyykw8ACLcBGAs/s1600/02.JPG)
 
@@ -21,6 +22,7 @@ The Si micro-ring modulator is expected to play an important role in optical int
 High-power laser diodes are highly attractive for material processing and military applications.  However, the performance of a laser diode is easily deteriorated by thermal effect due to high-power operation; e.g. thermal lens effect which induces low beam quality.  In this work, we numerically analyze the mechanism of the deterioration of laser diodes, and suggest the improved device structures.
 
 ![image](https://2.bp.blogspot.com/-A2_HOV9sWz8/Wla2AeeaeoI/AAAAAAAACjU/V0M6TWUoDm8FWBtjTIyiNBWlZP6babHRgCLcBGAs/s1600/01.JPG)
+- [Y. Kim et.al., "High-power broad-area laser diode performance improvement with a double pedestal structure", JJAP vo.58, 042004, 2019](http://tera.yonsei.ac.kr/publication/pdf/Kim_2019_Jpn._J._Appl._Phys._58_042004.pdf)
 
 
 ## Micro LED display                                
@@ -30,7 +32,7 @@ Micro LED is considered to be a key enabling technology for the next-generation 
 - US20170287887A1, Display apparatus and manufacturing method thereof, Oct. 5 ‘17
 - US20170250329A1, Display apparatus and manufacturing method thereof, Aug. 31 ‘17
 - US20170250164A1, Display apparatus and manufacturing method thereof, Aug. 31 ‘17
-- US 20170194304A1, Display apparatus, Jul. 6 ‘17
+- US20170194304A1, Display apparatus, Jul. 6 ‘17
 - WO2017014564A1, Display device and method for manufacturing same, Jan 26 ‘17 
 - US20170025388A1, Display apparatus and manufacturing method thereof, Jan 26 ‘17
 
