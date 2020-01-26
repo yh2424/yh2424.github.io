@@ -24,7 +24,7 @@ description: Awesome !
 
 # List of links in the navigation bar
 navbar-links:
-  BLOG: "blog"
+  BLOG: "https://yh2424.github.io"
   About Me: "aboutme"
   Projects: "projects"
   Open Learning: "openlearning"
