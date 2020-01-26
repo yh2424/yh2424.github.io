@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: Hi, I `m Younghyun :).
 ---
 
 ![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
