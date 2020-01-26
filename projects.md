@@ -20,9 +20,9 @@ The Si micro-ring modulator is expected to play an important role in optical int
 ## Numerical analysis on high-power laser diode                         
 ### Yonsei Univ.,     Apr ‘17 - present
 High-power laser diodes are highly attractive for material processing and military applications.  However, the performance of a laser diode is easily deteriorated by thermal effect due to high-power operation; e.g. thermal lens effect which induces low beam quality.  In this work, we numerically analyze the mechanism of the deterioration of laser diodes, and suggest the improved device structures.
+- [Y. Kim et.al., "High-power broad-area laser diode performance improvement with a double pedestal structure", JJAP vo.58, 042004, 2019](http://tera.yonsei.ac.kr/publication/pdf/Kim_2019_Jpn._J._Appl._Phys._58_042004.pdf)
 
 ![image](https://2.bp.blogspot.com/-A2_HOV9sWz8/Wla2AeeaeoI/AAAAAAAACjU/V0M6TWUoDm8FWBtjTIyiNBWlZP6babHRgCLcBGAs/s1600/01.JPG)
-- [Y. Kim et.al., "High-power broad-area laser diode performance improvement with a double pedestal structure", JJAP vo.58, 042004, 2019](http://tera.yonsei.ac.kr/publication/pdf/Kim_2019_Jpn._J._Appl._Phys._58_042004.pdf)
 
 
 ## Micro LED display                                
