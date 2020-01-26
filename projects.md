@@ -14,9 +14,9 @@ subtitle: Research and development experiences
 ## Systematic design guide for high-speed Si micro ring modulator  
 ### Yonsei Univ.,    Apr ‘17 - present
 The Si micro-ring modulator is expected to play an important role in optical interconnect systems thanks to the large modulation bandwidth and small device footprints. There are many reports for analysis and experimental demonstrations. However, a systematic device design guide for determining optimal doping concentrations, ring radius, and coupling strength between ring and bus waveguides for a target data rate is not available.  In this work, we study on realizing such a design guide.
-####
-- [Y. Kim et.al., "Parametric optimization of depletion-type Si micro-ring modulator performances", JJAP vo.58, 062006, 2019](https://iopscience.iop.org/article/10.7567/1347-4065/ab22ce/meta)
 #### Selected papers
+- [Y. Kim et.al., "Parametric optimization of depletion-type Si micro-ring modulator performances", JJAP vo.58, 062006, 2019](https://iopscience.iop.org/article/10.7567/1347-4065/ab22ce/meta)
+
 ![image](https://4.bp.blogspot.com/-M26bOq5E9Tw/Wla2FIZWAPI/AAAAAAAACjY/JA4rhMcW1_4-1G_ftsKu7vxoF5fyykw8ACLcBGAs/s1600/02.JPG)
 
 ## Numerical analysis on high-power laser diode                         
