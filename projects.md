@@ -12,12 +12,14 @@ Details to be updated soon ....
 ## Systematic design guide for high-speed Si micro ring modulator  
 ### Yonsei Univ.,    Apr ‘17 - present
 The Si micro-ring modulator is expected to play an important role in optical interconnect systems thanks to the large modulation bandwidth and small device footprints. There are many reports for analysis and experimental demonstrations. However, a systematic device design guide for determining optimal doping concentrations, ring radius, and coupling strength between ring and bus waveguides for a target data rate is not available.  In this work, we study on realizing such a design guide.
+
 ![image](https://4.bp.blogspot.com/-M26bOq5E9Tw/Wla2FIZWAPI/AAAAAAAACjY/JA4rhMcW1_4-1G_ftsKu7vxoF5fyykw8ACLcBGAs/s1600/02.JPG)
 
 
 ## Numerical analysis on high-power laser diode                         
 ### Yonsei Univ.,     Apr ‘17 - present
 High-power laser diodes are highly attractive for material processing and military applications.  However, the performance of a laser diode is easily deteriorated by thermal effect due to high-power operation; e.g. thermal lens effect which induces low beam quality.  In this work, we numerically analyze the mechanism of the deterioration of laser diodes, and suggest the improved device structures.
+
 ![image](https://2.bp.blogspot.com/-A2_HOV9sWz8/Wla2AeeaeoI/AAAAAAAACjU/V0M6TWUoDm8FWBtjTIyiNBWlZP6babHRgCLcBGAs/s1600/01.JPG)
 
 

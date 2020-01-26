@@ -1,10 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Hi, I `m Younghyun :).
+subtitle: Hi, I am Younghyun :)
 ---
-
-![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
 
 ### Younghyun Kim, Ph.D.
 ### 김 영현 (Korean), 金 榮現 (Hanja)
@@ -24,3 +22,4 @@ E-mail: younghyun.kim@imec.be
 [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)/ 
 [CV](https://github.com/yh2424/yh2424.github.io/blob/master/_mydata/CV_yhkim.pdf)
 
+![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
