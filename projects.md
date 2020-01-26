@@ -6,7 +6,9 @@ subtitle: Research and development experiences
 
 ## Si-based optical modulators 
 ### IMEC,    July ‘18 - present
-Details to be updated soon ....
+#### Si MZM
+#### III-V/Si MZM
+- Details to be updated ....
 
 
 ## Systematic design guide for high-speed Si micro ring modulator  
