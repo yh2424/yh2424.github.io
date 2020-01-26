@@ -14,13 +14,15 @@ subtitle: Research and development experiences
 ## Systematic design guide for high-speed Si micro ring modulator  
 ### Yonsei Univ.,    Apr ‘17 - present
 The Si micro-ring modulator is expected to play an important role in optical interconnect systems thanks to the large modulation bandwidth and small device footprints. There are many reports for analysis and experimental demonstrations. However, a systematic device design guide for determining optimal doping concentrations, ring radius, and coupling strength between ring and bus waveguides for a target data rate is not available.  In this work, we study on realizing such a design guide.
+####
 - [Y. Kim et.al., "Parametric optimization of depletion-type Si micro-ring modulator performances", JJAP vo.58, 062006, 2019](https://iopscience.iop.org/article/10.7567/1347-4065/ab22ce/meta)
-
+#### Selected papers
 ![image](https://4.bp.blogspot.com/-M26bOq5E9Tw/Wla2FIZWAPI/AAAAAAAACjY/JA4rhMcW1_4-1G_ftsKu7vxoF5fyykw8ACLcBGAs/s1600/02.JPG)
 
 ## Numerical analysis on high-power laser diode                         
 ### Yonsei Univ.,     Apr ‘17 - present
 High-power laser diodes are highly attractive for material processing and military applications.  However, the performance of a laser diode is easily deteriorated by thermal effect due to high-power operation; e.g. thermal lens effect which induces low beam quality.  In this work, we numerically analyze the mechanism of the deterioration of laser diodes, and suggest the improved device structures.
+#### Selected papers
 - [Y. Kim et.al., "High-power broad-area laser diode performance improvement with a double pedestal structure", JJAP vo.58, 042004, 2019](https://iopscience.iop.org/article/10.7567/1347-4065/ab0c71)
 
 ![image](https://2.bp.blogspot.com/-A2_HOV9sWz8/Wla2AeeaeoI/AAAAAAAACjU/V0M6TWUoDm8FWBtjTIyiNBWlZP6babHRgCLcBGAs/s1600/01.JPG)
@@ -40,7 +42,6 @@ Micro LED is considered to be a key enabling technology for the next-generation 
 ## Strained SiGe optical modulator                      
 ### Univ. of Tokyo                Apr ‘10 – Mar ‘15
 Silicon photonics is one of the most promising technologies for electronic-photonic integrated circuit.  The Si optical modulator is a key component to encode electrical signals into light.  However, the bottleneck of a Si optical modulator is low modulation efficiency due to weak electrooptical effects in Si. In this work, we introduced strained SiGe technology to boost the performance of a Si optical modulator, and successfully demonstrated as follows:
-
 #### Selected papers
 - [Younghyun Kim et. al.,“Strain-induced enhancement of plasma dispersion effect and free-carrier absorption in SiGe
 optical modulators”, Scientific Reports 4, no.4683 (2014).](https://www.nature.com/articles/srep04683)
