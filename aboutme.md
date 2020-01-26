@@ -18,4 +18,7 @@ subtitle:
 - B.E. in Electrical Engineering, University of Tokushima (2010)
 
 E-mail: younghyun.kim@imec.be
-[Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/ [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)/ CV
+[Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/
+[Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ 
+[Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)/ 
+[CV](https://github.com/yh2424/yh2424.github.io/blob/master/_mydata/CV_yhkim.pdf)
