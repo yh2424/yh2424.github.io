@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle:
+subtitle: Research and development
 ---
 
 ### Si-based optical modulators 
