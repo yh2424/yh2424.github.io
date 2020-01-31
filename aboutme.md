@@ -20,6 +20,5 @@ E-mail: younghyun.kim@imec.be
 [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/
 [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ 
 [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)/ 
-[CV](https://github.com/yh2424/yh2424.github.io/blob/master/_mydata/CV_yhkim.pdf)
-
+[CV](https://drive.google.com/open?id=15Nja9tzf1k6F4oR9PBoC8Pk2fcHD_vLQ)
 ![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
