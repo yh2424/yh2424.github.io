@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Publication, High-power broad-area laser diode'
+title: 'New Publication on High-power broad-area laser diode'
 date: '2019-07-28 00:00'
 excerpt: >-
   High-power broad-area laser diode performance improvement with a double pedestal structure   
@@ -14,3 +14,5 @@ In our laser diode, the pedestal structure is introduced to both top and bottom 
 The characteristics of high-power broad-area laser diodes containing the double pedestal structure are numerically analyzed by self-consistent electro-thermal-optical simulation. It is demonstrated that our laser diode has narrower lateral far-field angle and lower active region temperature compared to previously reported high-power laser diode structures.
 
 [Link](https://iopscience.iop.org/article/10.7567/1347-4065/ab0c71)    
+
+https://1.bp.blogspot.com/-aEHBALIPskg/XT3mHRoJF_I/AAAAAAAAC-g/lpGtgTiy2G8_PvaLgKg6m_srvgWm705kACLcBGAs/s1600/IMG_20190728_201353.jpg
