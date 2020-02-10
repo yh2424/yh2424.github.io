@@ -3,8 +3,7 @@ layout: post
 title: 'New Publication, High-power broad-area laser diode performance improvement with a double pedestal structure'
 date: '2019-03-11 00:00'
 excerpt: >-
-  I have started working as an R&D engineer in a Si Photonics group at IMEC.
-   
+  High-power broad-area laser diode performance improvement with a double pedestal structure   
 comments: true
 ---
 ![image](https://user-images.githubusercontent.com/32427749/74132870-bce9d580-4c2a-11ea-82dc-e7a4cb0bf983.png)
