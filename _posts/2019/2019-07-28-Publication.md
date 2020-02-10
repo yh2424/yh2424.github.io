@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'New Publication, High-power broad-area laser diode performance improvement with a double pedestal structure'
-date: '2019-03-11 00:00'
+title: 'New Publication, High-power broad-area laser diode'
+date: '2019-07-28 00:00'
 excerpt: >-
   High-power broad-area laser diode performance improvement with a double pedestal structure   
 comments: true
