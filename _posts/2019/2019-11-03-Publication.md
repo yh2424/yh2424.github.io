@@ -3,7 +3,7 @@ layout: post
 title: 'New Publication on Si Micro-ring modulators'
 date: '2019-11-03 00:00'
 excerpt: >-
-  Large-signal SPICE model for depletion-type silicon ring modulators   
+  Title: Large-signal SPICE model for depletion-type silicon ring modulators   
 comments: true
 ---
 ![image](https://1.bp.blogspot.com/-gdm9ob8tQlo/Xb76ABimxII/AAAAAAAADFE/AXxRdWQR4dI6B8Pxq9jJ5iKPHXzRVS0NQCEwYBhgL/s1600/ec.PNG)

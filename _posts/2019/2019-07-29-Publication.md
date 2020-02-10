@@ -3,7 +3,7 @@ layout: post
 title: 'New Publication on Si Micro-ring modulators'
 date: '2019-07-28 00:00'
 excerpt: >-
-  Parametric optimization of depletion-type Si micro-ring modulator performances   
+  Title: Parametric optimization of depletion-type Si micro-ring modulator performances   
 comments: true
 ---
 ![image](https://1.bp.blogspot.com/-aEHBALIPskg/XT3mHRoJF_I/AAAAAAAAC-g/lpGtgTiy2G8_PvaLgKg6m_srvgWm705kACLcBGAs/s1600/IMG_20190728_201353.jpg)
