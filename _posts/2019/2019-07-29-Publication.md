@@ -10,5 +10,5 @@ comments: true
 
 ## Abstract
 We present the modulation performance optimization process for a depletion-type Si micro-ring modulator (MRM). Our optimization process is based on two different types of model parameters for ring resonator decay time constants derived from the coupled-mode theory. The MRM figure of merit (FOM) is defined for target data rates considering both optical modulation amplitude and the modulation frequency response based on two model parameters. The parametric optimization for modulator output eye diagrams is achieved by analyzing the FOM with MRM simulation with varying two model parameters. In addition, we demonstrate the optimized eye diagram can be achieved with our optimization process and the measurement results agree well with the simulation result.
-[Link](https://iopscience.iop.org/article/10.7567/1347-4065/ab22ce/meta)    
+[More detail](https://iopscience.iop.org/article/10.7567/1347-4065/ab22ce/meta)    
 
