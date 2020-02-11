@@ -51,7 +51,7 @@ SiGe with optimized lateral pin junction,” Optics Express, Vol. 23, No. 9, p.1
 “First demonstration of SiGe-based carrier-injection Mach-Zehnder modulator with enhanced
 plasma dispersion effect,” Optics Express, Vol. 24, No. 3, p.1979 (2016)](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-3-1979)
 
-![image](https://4.bp.blogspot.com/-xBB_WAA42xA/Wgu0OacWpsI/AAAAAAAACGk/8zSmh2difGMI3jFigPFGc2pY0yKusIVIQCLcBGAs/s1600/test02.JPG)
+![image](https://user-images.githubusercontent.com/32427749/74204810-07656380-4cb8-11ea-93be-64209bbedb4c.png)
 
 
 ## BTO-on-Si optical modulator                           
