@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Conference report on Monolothic III-V/Si MZ modulator'
+title: 'Conference Report on Monolothic III-V/Si MZ Modulator'
 date: '2019-11-27 00:00'
 excerpt: >-
   Title: Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter

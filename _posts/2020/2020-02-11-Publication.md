@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Publication on Monolithic III-V/Si Modulators'
+title: 'Journal Publication on Monolithic III-V/Si Modulators'
 date: '2020-02-11 00:00'
 excerpt: >-
   Title: Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter

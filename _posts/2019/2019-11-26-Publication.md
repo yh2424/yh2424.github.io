@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Publication on High-power laser diodes'
+title: 'Journal Publication on High-power Laser Diodes'
 date: '2019-11-26 00:00'
 excerpt: >-
   Title: Influence of Emitter Width on the Performance of 975-nm (In,Ga)(As,P)/(Al,Ga)As High-power Laser Diodes

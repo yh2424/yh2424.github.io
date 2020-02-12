@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Publication on Si Micro-ring modulators'
+title: 'Journal Publication on Si Micro-ring Modulators'
 date: '2019-07-28 00:00'
 excerpt: >-
   Title: Parametric optimization of depletion-type Si micro-ring modulator performances   

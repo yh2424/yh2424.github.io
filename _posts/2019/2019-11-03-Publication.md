@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Publication on Si Micro-ring modulators'
+title: 'Journal Publication on Si Micro-ring Modulators'
 date: '2019-11-03 00:00'
 excerpt: >-
   Title: Large-signal SPICE model for depletion-type silicon ring modulators   
