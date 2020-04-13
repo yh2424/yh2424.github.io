@@ -31,7 +31,7 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 **IMEC, R&D Engineer, Jul ‘18 – Present**  
 Si Photonics group  
 **Yonsei University, Postdoctoral Researcher, Apr ‘17 – May ‘18**  
-[High Speed Circuit & System Lab.](http://tera.yonsei.ac.kr/index.php), Prof. Woo-young Choi  
+High Speed Circuit & System Lab., Prof. Woo-young Choi  
 Alternative military service in South Korea (3-years obligation, Apr ‘15 – Apr ‘18)
 **Seoul Semiconductor/Viosys, Senior engineer, Apr ‘15 – Mar ‘17**  
 Frontier R&D center   
