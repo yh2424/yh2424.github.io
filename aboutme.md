@@ -14,10 +14,12 @@ subtitle: Hi, I am Younghyun :)
 - M.E. in Electrical Engineering, University of Tokyo (2012) [Takagi & Takenaka Group](http://www.mosfet.k.u-tokyo.ac.jp/index-e.html)  
 - B.E. in Electrical Engineering, University of Tokushima (2010)
 
+### More
 [More about me (CV)](https://yh2424.github.io/cv)  
 [Publication](https://yh2424.github.io/publication)  
+E-mail: younghyun.kim@imec.be
 
-### Other links about me
+### Other links
 [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/
 [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/
 [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)
