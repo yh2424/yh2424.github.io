@@ -3,9 +3,6 @@ layout: page
 title: Publication
 subtitle: List of publication: Journal, Conference, and Patent
 ---
-
-
-# PUBLICATION								    
 ## Journal
 -	Sanghyeon Kim, ****Younghyun Kim*****, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: “Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter”, IEEE Journal of Quantum Electronics, (Accepted)
 -	Minkyu Kim, Myungjin Shin, Min-Hyeong Kim, Byung-Min Yu, **Younghyun Kim**, Yoojin Ban, Stefan Lischke, Christian Mai, Lars Zimmermann, and Woo-Young Choi, “Large-signal SPICE model for depletion-type silicon ring modulators”, Photonics Research Vol. 7, Issue 9, pp. 948-954, 2019

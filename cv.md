@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Hi, I am Younghyun :)
+title: More about me
+subtitle: CV_v3_9
 ---
 # YOUNGHYUN KIM
 Doctor of engineering  
 younghyun.kim@imec.be  
 https://yh2424.github.io/  
 
-## EDUCATION										    
-The University of Tokyo, Japan, Ph.D.			  		Apr ‘12 – Mar ‘15  
+## EDUCATION
+### The University of Tokyo, Japan, Ph.D., Apr ‘12 – Mar ‘15  
 Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: “Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators”  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
