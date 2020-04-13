@@ -10,9 +10,9 @@ https://yh2424.github.io/
 
 ## EDUCATION
 #### The University of Tokyo, Japan, Ph.D., Apr ‘12 – Mar ‘15  
-Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
-Thesis: “Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators”  
-Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
+- Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
+- Thesis: “Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators”  
+- Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
 #### The University of Tokyo, Japan, M.E.			  		Apr ‘10 – Mar ‘12  
 Dept. of Electrical Engineering,  
 Graduate School of Engineering (GPA : 3.9/4.0)  
