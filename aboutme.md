@@ -10,7 +10,7 @@ subtitle: Hi, I am Younghyun :)
 #### R&D engineer, IMEC, Leuven, Belgium 
 
 - Ph.D. in Electrical Engineering, University of Tokyo (2015) [Takagi & Takenaka Group](http://www.mosfet.k.u-tokyo.ac.jp/index-e.html)  
-   Dissertation : Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators
+   **Dissertation : Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators**
 - M.E. in Electrical Engineering, University of Tokyo (2012) [Takagi & Takenaka Group](http://www.mosfet.k.u-tokyo.ac.jp/index-e.html)  
 - B.E. in Electrical Engineering, University of Tokushima (2010)
 
