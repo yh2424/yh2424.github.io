@@ -12,7 +12,7 @@ comments: true
 In this paper, we propose a new carrier depletion-type hybrid III-V/Si optical phase shifter using a n-III-V/p-Si hetero-junction, which can be fabricated with direct epitaxial growth of III-V semiconductors on Si. We numerically analyzed the performance of the III-V/Si hybrid optical phase shifter by comparing the performance in reverse bias operation with that of pure Si or III-V p-n optical phase shifters. The hybrid III-V/Si optical phase shifter showed improved modulation efficiency and lower optical loss compared to pure Si and III-V p-n optical phase shifters, owing to the large electron-induced refractive index change of III-V compound semiconductors, while avoiding the large hole-induced optical loss of III-V compound semiconductor. The simulation study suggests the feasibility of a very low voltage-length product (VπL) of 0.07 V·cm, a low insertion loss (α) of 16 dB/cm, and a very low αVπL product close to 1 V·dB at 1.31 μm, which is 10x lower than for Si p-n optical phase shifters.
 [More detail](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=8984307)
 
-Congraturation SangHyeon! :)
+Congraturation [SangHyeon](https://www.3doedl.com/)! :)
 
 ---
 Additionally, It is now the 2nd most popular paper in IEEE JQE. 
