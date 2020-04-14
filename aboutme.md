@@ -21,8 +21,10 @@ subtitle: Hi, I am Younghyun :)
 - [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/  [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)
 
 #### Contact
-- E-mail: younghyun.kim**(at)**imec.be
-- E-mail: yhkim.mosfet**(at)**gmail.com
-Please use **@** instead of **(at)** 
+- E-mail: younghyun.kim**(アート마크)**imec.be
+- E-mail: yhkim.mosfet**(アート마크)**gmail.com  
+Please use **@** instead of **(アート마크)** 
+
+
 ![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
 
