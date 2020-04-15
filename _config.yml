@@ -27,8 +27,8 @@ navbar-links:
   HOME: "https://yh2424.github.io"
   About Me: "aboutme"
   Projects: "projects"
-  Open Learning: "openlearning"
   Publication: "publication"
+  Open Learning: "openlearning"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
