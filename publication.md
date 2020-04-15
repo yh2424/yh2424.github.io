@@ -4,8 +4,8 @@ title: Publication
 subtitle: List of publication: Journal, Conference, and Patent
 ---
 ## Journal
--	Sanghyeon Kim, **Younghyun Kim***, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: “Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter”,  IEEE Journal of Quantum Electronics 56, p. 6300208 (2020)
--	Minkyu Kim, Myungjin Shin, Min-Hyeong Kim, Byung-Min Yu, **Younghyun Kim**, Yoojin Ban, Stefan Lischke, Christian Mai, Lars Zimmermann, and Woo-Young Choi, “Large-signal SPICE model for depletion-type silicon ring modulators”, Photonics Research Vol. 7, Issue 9, pp. 948-954, 2019
+-	Sanghyeon Kim, **Younghyun Kim***, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: “Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter”,  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020. [[Link]](https://ieeexplore.ieee.org/document/8984307)  
+-	Minkyu Kim, Myungjin Shin, Min-Hyeong Kim, Byung-Min Yu, **Younghyun Kim**, Yoojin Ban, Stefan Lischke, Christian Mai, Lars Zimmermann, and Woo-Young Choi, “Large-signal SPICE model for depletion-type silicon ring modulators”, Photonics Research Vol. 7, Issue 9, pp. 948-954, Aug. 7th, 2019 [[Link]](https://www.osapublishing.org/prj/abstract.cfm?uri=prj-7-9-948)
 -	**Younghyun Kim**, Youngkwan Jo, Minkyu Kim, Byung-Min Yu, Stefan Lischke, Dieter Knoll, Lars Zimmermann, and Woo-Young Choi “Parametric Optimization for High-speed Si Micro Ring Modulators”, Japanese Jour. of applied physics, vo.58, 062006, 2019
 -	**Younghyun Kim**, Jung-Tack Yang and Woo-Young Choi, “High-power broad-area laser diode performance improvement with a double pedestal structure”, Japanese Jour. of applied physics, vo.58, 042004, 2019
 -	Junichi Fujikata, Masataka Noguchi, **Younghyun Kim**, Jaehoon Han, Shigeki Takahashi, Takahiro Nakamura and Mitsuru Takenaka “High-speed and highly efficient Si optical modulator with strained SiGe layer”, Applied Physics Express, vol. 11, no. 3, Mar, 2018.
