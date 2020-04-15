@@ -24,7 +24,7 @@ subtitle: List of publication: Journal, Conference, and Patent
 
 
 ## Conference
--	**Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout : “Simulation of high-power laser diode with improved heat sinking structure using epitaxial liftoff technique”, SPIE Photonics West, San Franscisco, USA roc. SPIE 10514, High-Power Diode Laser Technology XVI, 105140C (27 February 2018); doi: 10.1117/12.2288639    
+-	**Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout : “Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter,” 2019, doi: 10.1109/group4.2019.8926128.    
 -   **Y. Kim**, J.-T Yang and W.-Y Choi: “Simulation of high-power laser diode with improved heat sinking structure using epitaxial liftoff technique”, SPIE Photonics West, San Franscisco, USA roc. SPIE 10514, High-Power Diode Laser Technology XVI, 105140C (27 February 2018); doi: 10.1117/12.2288639    
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang and S. Takagi: “CMOS Photonics Based on SiGe and Ge for near and Mid-infrared Photonic Integrated Circuits (Invited)”, Solid State Devices and Materials (SSDM), Tsukuba, Japan, (2016) 
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang, Y. Ikku, Y. Cheng, J. Park, S. Kim and S. Takagi: “Heterogeneous integration of SiGe/Ge and III-V for Si photonics (Invited)”, SPIE Photonics Europe 2016, Brussels, (2016) 
