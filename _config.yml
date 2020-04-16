@@ -28,7 +28,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Publication: "publication"
-  Open Learning: "openlearning"
+  Link: "openlearning"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

@@ -63,6 +63,8 @@ subtitle: List of publication: Journal, Conference, and Patent
 -   US10050026B2 (Granted on Aug. 14 ‘18)
 -	US20170025399A1, Display apparatus and manufacturing method thereof,		Jan 26 ‘17
 -   US9887184B2 (Granted on Feb. 6 ‘18)
+-   US20180024410 - OPTICAL MODULATOR AND METHOD OF MANUFACTURING SAME, Jan. 25, 2018, [[Link]](https://patentscope.wipo.int/search/en/detail.jsf?docId=US210202016)
+-   WO2016125772 - OPTICAL MODULATOR AND METHOD OF MANUFACTURING SAME, Aug. 11, 2016 [[Link]](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016125772)  
 -	US20180024410A1, Optical modulator and method of manufacturing same, 		Aug 11 ‘16
 
 
