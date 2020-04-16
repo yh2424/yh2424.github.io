@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publication
-subtitle: List of publication: Journal, Conference, and Patent
+title: publication
+subtitle: publication
 ---
 
 
