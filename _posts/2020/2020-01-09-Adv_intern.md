@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: 'ADV, Intern Student to Si Photonics'
 date: '2020-01-09 00:00'
@@ -23,4 +23,3 @@ Si VOA is one of the essential building blocks in a Si photonics platform in ord
 *Variable optical attenuator  
 Ref.: Y. Kim et.al., “Record-low Injection-current Strained SiGe variable optical attenuator with optimized lateral PIN junction” Opt. Exp. (2015)
 
----
