@@ -22,8 +22,6 @@ subtitle: Hi, I am Younghyun :)
 #### Contact
 - E-mail: younghyun.kim**[at]**imec.be
 - E-mail: yhkim.mosfet**[at]**gmail.com  
-Please use **@** instead of **[at]** 
-
 
 ![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
 
