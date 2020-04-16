@@ -1,6 +1,6 @@
  ---
 layout: post
-title: 'Adv of Intern Student to IMEC's Si Photonics group
+title: 'ADV of Intern Student to IMEC's Si Photonics group
 date: '2020-01-09 00:00'
 excerpt: >-
   Title: Why don't you do an internship at Si Photonics group in IMEC, one of the world leading pioneers in Si Photonics ?
