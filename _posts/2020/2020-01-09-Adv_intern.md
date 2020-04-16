@@ -7,7 +7,7 @@ excerpt: >-
 comments: true
 ---
 Why don't you do an internship at Si Photonics group in IMEC, one of the world leading pioneers in Si Photonics?
-If you are interested in the topics below, please email me, younghyun.kim@imec.be. 
+If you are interested in the topics below, let me know :), younghyun.kim@imec.be. 
 
 ## Analysis and modeling on propagation loss of III-V/Si waveguide 
 III-V materials had been traditionally considered one of the most promising materials for semiconductor photonic devices, and it has been introduced in Si photonics to breakthrough the limited device performances due to Si's poor optical properties. We have proposed and demonstrated a monolithic III-V/Si phase modulator. This work aims to understand the behaviour of propagation loss of III-V/Si waveguide, which is one of the most important performances for low optical link budget.  
