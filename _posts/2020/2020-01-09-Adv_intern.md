@@ -1,6 +1,6 @@
  ---
 layout: post
-title: 'ADV of Intern Student to IMEC's Si Photonics group
+title: 'ADV of Intern Student to Si Photonics'
 date: '2020-01-09 00:00'
 excerpt: >-
   Title: Why don't you do an internship at Si Photonics group in IMEC, one of the world leading pioneers in Si Photonics ?
@@ -21,6 +21,6 @@ Ref.: B. Kunert et. al. “ III/V nano ridge structures for optical applications
 ## Si VOA* modeling for PDK development 
 Si VOA is one of the essential building blocks in a Si photonics platform in order to control optical power level in a chip. This work aims to analyze device performance by means of experiment and TCAD simulation, and provide the compact model of Si VOA for PDK development.   
 *Variable optical attenuator  
-Ref.: Y. Kim et.al., “Record-low Injection-current Strained SiGe variable optical attenuator with optimized lateral PIN junction” Opt. Exp. (2015)---
+Ref.: Y. Kim et.al., “Record-low Injection-current Strained SiGe variable optical attenuator with optimized lateral PIN junction” Opt. Exp. (2015)
 
 ---
