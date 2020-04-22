@@ -6,9 +6,16 @@ subtitle: Research and development experiences
 
 ## Si-based optical modulators 
 ### IMEC,    July ‘18 - present
-#### Si MZM
-#### III-V/Si MZM
-- Details to be updated ....
+#### Si MZ Modulator
+- Device performance improvement
+- Device modeling
+- Design optimization
+
+#### III-V/Si MZ Modulator
+We proposed the III-V/Si MZ modulator which is monolithically integrated on Si Photonics platfrom. Thanks to the superior electro-optic property of III-V materials, the device performance is expected to breakthrough the limited performance of conventional Si MZ modulators. 
+#### Selected paper
+- [S. Kim et.al., “Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter”,  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020.](https://ieeexplore.ieee.org/document/8984307)  
+
 
 ## Systematic design guide for high-speed Si micro ring modulator  
 ### Yonsei Univ.,    Apr ‘17 - May ‘18
