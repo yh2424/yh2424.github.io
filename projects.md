@@ -9,7 +9,7 @@ subtitle: Research and development experiences
 #### Si MZ Modulator
 - Device performance improvement
 - Device modeling
-- Design optimization
+- Design optimization  
 
 #### III-V/Si MZ Modulator
 We proposed the III-V/Si MZ modulator which is monolithically integrated on Si Photonics platfrom. Thanks to the superior electro-optic property of III-V materials, the device performance is expected to breakthrough the limited performance of conventional Si MZ modulators. 
