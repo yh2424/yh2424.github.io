@@ -49,7 +49,7 @@ subtitle: List of Journal, Conference, and Patent
 -	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, “Fabrication of Ge-rich SiGe-on-Insulator waveguide for Optical Modulator”, IEEE Photonics Conference, Oct. 2011. 
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, **Kim YoungHyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : GaN MOSFET with Gate SiO2 Deposited by Silane-Based PECVD, The 37th International Symposium on Compound Semiconductors, Takamatsu, May 2010.
 
-## PATENT										    				
+## PATENT
 - KR1020190137521B2, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR1020190137521B2.pdf)    
 - US10606121B2, Display apparatus (디스플레이 장치), March 31, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10606121B2.pdf)    
 - US20200083422A1, DISPLAY APPARATUS AND MANUFACTURING METHOD THEREOF (디스플레이 장치와 그 제작 방법), March 12, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20200083422A1.pdf)    
@@ -58,16 +58,10 @@ subtitle: List of Journal, Conference, and Patent
 - EP3439042A1, DISPLAY DEVICE AND MANUFACTURING METHOD THEREFOR (디스플레이부 기기와 그 제작 방법), February 6, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/EP3439042A1.pdf)    
 - EP3328162A1, DISPLAY DEVICE AND METHOD FOR MANUFACTURING SAME (디스플레이부 기기와 이의 제조방법 ), May 30, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/EP3328162A1.pdf)    
 - US20190288049A1, DISPLAY APPARATUS (디스플레이 장치), September 19, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20190288049A1.pdf)    
-- EP2765611A1, Vertical gallium nitride transistors and methods of fabricating the same (수직의 갈륨 나이트라이드 트랜지스터와 이를 제조하는 방법), December 3, 2014 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/EP2765611A1.pdf)    
-- EP2824711A1, Vertical transistors having p-type gallium nitride current barrier layers and methods of fabricating the same (이를 제조하는 것의 p형 질화 갈륨 전류 방지막 층과 방법을 가지는 수직 트랜지스터), July 15, 2015 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/EP2824711A1.pdf)    
 - US20190206851A1, DISPLAY APPARATUS AND MANUFACTURING METHOD THEREOF (디스플레이 장치와 그 제작 방법), July 4, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20190206851A1.pdf)    
 - US10332949B2, Display apparatus (디스플레이 장치), June 25, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10332949B2.pdf)    
 - US10312225B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 4, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10312225B2.pdf)    
-- US20140252371A1, HETEROJUNCTION TRANSISTOR AND METHOD OF FABRICATING THE SAME (이질 이음 삼극 소자와 이를 제조하는 방법), September 11, 2014 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20140252371A1.pdf)    
-- US20150014699A1, VERTICAL TRANSISTORS HAVING P-TYPE GALLIUM NITRIDE CURRENT BARRIER LAYERS AND METHODS OF FABRICATING THE SAME (이를 제조하는 것의 p형 질화 갈륨 전류 방지막 층과 방법을 가지는 수직 트랜지스터), January 15, 2015 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20150014699A1.pdf)    
-- US9219137B2, Vertical gallium nitride transistors and methods of fabricating the same (수직의 갈륨 나이트라이드 트랜지스터와 이를 제조하는 방법), December 22, 2015 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9219137B2.pdf)    
 - US9997688B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 12, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9997688B2.pdf)    
-- US20150325689A1, III-V TRANSISTOR AND METHOD FOR MANUFACTURING SAME (III-V 트랜지스터와 이의 제조방법 ), November 12, 2015 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20150325689A1.pdf)    
 - US20180287030A1, DISPLAY APPARATUS AND MANUFACTURING METHOD THEREOF (디스플레이 장치와 그 제작 방법), October 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20180287030A1.pdf)    
 - US9887184B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), February 6, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9887184B2.pdf)    
 - US10096647B2, Display apparatus having a plurality of reflective electrodes (다수의 반사 전극을 가지는 디스플레이 장치), October 9, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10096647B2.pdf)    
@@ -76,4 +70,5 @@ subtitle: List of Journal, Conference, and Patent
 - US9978727B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), May 22, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9978727B2.pdf)    
 - WO2016125772A1, OPTICAL MODULATOR AND METHOD OF MANUFACTURING SAME (광학 변조기와 이의 제조 방법 ), August 11, 2016 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/WO2016125772A1.pdf)    
 - EP3255480A1, OPTICAL MODULATOR AND METHOD OF MANUFACTURING SAME (광학 변조기와 이의 제조 방법 ), December 13, 2017 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/EP3255480A1.pdf)    
-- US10146070B2, Optical modulator and method of manufacturing same (광학 변조기와 이의 제조 방법 ), December 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10146070B2.pdf)    
+- US10146070B2, Optical modulator and method of manufacturing same (광학 변조기와 이의 제조 방법 ), December 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10146070B2.pdf)  
+
