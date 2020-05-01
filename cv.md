@@ -82,15 +82,15 @@ Device Measurement: LCR meter, Semiconductor Parameter Analyzer, Tunable CW lase
 Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, frequency responses, eye diagrams etc.
 
 ## HONORS AND AWARD								    
-Award for Doctoral thesis in School of engineering				Mar 24 ‘15  
-Japan Government Scholarship (MEXT) for Ph.D. student			Apr ‘12 – Mar ‘15  
-Japan Government Scholarship (MEXT) for M.S. student			Apr ‘10 – Mar ‘12  
-Early Graduation in 3 years and Summa Cum Laude 			Mar 23 ‘10  
-Best student Awards of Nichia Co. for outstanding academic records 	Jun 25 ‘09  
-Best student Awards of Nichia Co. for outstanding academic records		Jul 3 ‘08  
-Award for International Communication of English Ability			Jul 2 ‘08  
-Best student Award for courses in liberal arts 			 	Jun ‘08	  
-Korea-Japan Government Joint Scholarship				Mar ‘06 – Mar ‘10  
+Award for Doctoral thesis in School of engineering, March 24 2015  
+Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 – March 2015  
+Japan Government Scholarship (MEXT) for M.S. student, April 2010 – Mar ‘12  
+Early Graduation in 3 years (Department Rank 1), March 23, 2010  
+Best student Awards of Nichia Co. for outstanding academic records, June 25 2009  
+Best student Awards of Nichia Co. for outstanding academic records, July 3 2008  
+Award for International Communication of English Ability, July 2 2008  
+Best student Award for courses in liberal arts, April 24 2008	  
+Korea-Japan Government Joint Scholarship, March 2006 – March 2010  
 
 ## CITATIONS										    
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=-X-RZCgAAAAJ&imq=Younghyun+Kim&authuser=1  
