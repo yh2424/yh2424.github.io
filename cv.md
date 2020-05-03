@@ -44,7 +44,7 @@ Graphene transistor team,
 Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 ## RESEARCH INTERESTS								    
-**Semiconductor Device Physics and Engineering**  
+**Semiconductor Device Physics and Engineering**
 - 	Demonstration of the new-generation photonic and electronic device with novel material and CMOS-compatible technology  
 -   Design, simulation, fabrication, characterization, and modeling of semiconductor devices
 
