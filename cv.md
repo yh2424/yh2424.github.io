@@ -38,7 +38,7 @@ Frontier R&D center
 Alternative military service in South Korea (3-years obligation, Apr ‘15 – Apr ‘18)  
 **IMEC, Belgium, Internship						Aug ‘14 – Sept ‘14**  
 Silicon photonics team,  
-Advisor: Dr. Marianna Pantouvaki and Dr. Joris Van Compenhout
+Advisor: Dr. Marianna Pantouvaki and Dr. Joris Van Compenhout  
 **Samsung Advanced Institute of Technology, Korea, Internship		Jul ‘13 – Aug ‘13**  
 Graphene transistor team,  
 Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
