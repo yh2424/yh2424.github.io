@@ -98,4 +98,4 @@ Korea-Japan Government Joint Scholarship, March 2006 – March 2010
 [ResearchGate](https://www.researchgate.net/profile/Younghyun_Kim4): 102 citations on Feb 02 ‘20  
 
 ## PUBLICATION
-[LinkToPublication](https://yh2424.github.io/publication)
+[Link to Publication](https://yh2424.github.io/publication)
