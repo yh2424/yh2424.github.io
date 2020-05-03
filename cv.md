@@ -92,7 +92,7 @@ Award for International Communication of English Ability, July 2 2008
 Best student Award for courses in liberal arts, April 24 2008	  
 Korea-Japan Government Joint Scholarship, March 2006 – March 2010  
 
-## PUNLIVSTION
+## PUBLICATION
 [[LinkToPublication](https://yh2424.github.io/publication)]
 
 ## CITATIONS										    
