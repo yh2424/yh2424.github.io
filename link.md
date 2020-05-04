@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Open Learning"
+title: "Link"
 date: "2020-01-26 20:14"
 excerpt: "Let's learn together :)"
 ---
