@@ -8,7 +8,7 @@ subtitle: Research and development experiences
 ### IMEC,    July ‘18 - present
 - Device performance improvement
 - Device modeling
-- Design optimization  
+- Design design optimization  
 
 ## Explore : III-V/Si MZ Modulator
 ### IMEC,    July ‘18 - present
