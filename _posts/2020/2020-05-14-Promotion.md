@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Promoted in IMEC'
+title: 'Promoted at IMEC'
 date: '2020-05-14 00:00'
 excerpt: >-
-  Title: My works in imec were appriciated and I got thanksfully promoted.
+  Title: My works in imec were appriciated and I was thanksfully promoted.
 comments: False
 ---
 
