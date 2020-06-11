@@ -1,6 +1,6 @@
 ---
 layout: page
-title: curriculum vitae
+title: Curriculum vitae
 subtitle: 
 ---
 # YOUNGHYUN KIM
@@ -30,15 +30,19 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 ##  WORK EXPERIENCE									    
 **IMEC, R&D Engineer, Jul ‘18 – Present**  
 Si Photonics group  
+
 **Yonsei University, Postdoctoral Researcher, Apr ‘17 – May ‘18**  
 High Speed Circuit & System Lab., Prof. Woo-young Choi  
 Alternative military service in South Korea (3-years obligation, Apr ‘15 – Apr ‘18)
+
 **Seoul Semiconductor/Viosys, Senior engineer, Apr ‘15 – Mar ‘17**  
 Frontier R&D center   
 Alternative military service in South Korea (3-years obligation, Apr ‘15 – Apr ‘18)  
+
 **IMEC, Belgium, Internship						Aug ‘14 – Sept ‘14**  
 Silicon photonics team,  
 Advisor: Dr. Marianna Pantouvaki and Dr. Joris Van Compenhout  
+
 **Samsung Advanced Institute of Technology, Korea, Internship		Jul ‘13 – Aug ‘13**  
 Graphene transistor team,  
 Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
@@ -97,7 +101,6 @@ Korea-Japan Government Joint Scholarship, March 2006 – March 2010
 ): 152 citations on Feb 02 ’20   
 [ResearchGate](https://www.researchgate.net/profile/Younghyun_Kim4): 102 citations on Feb 02 ‘20  
 
-
 ## Journal
 -	Sanghyeon Kim, **Younghyun Kim***, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: “Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter”,  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020. [[Link]](https://ieeexplore.ieee.org/document/8984307)  
 -   Jung-Tack Yang, **Younghyun Kim**, Marzieh Pournoury, Jae-Bong Lee, Dong-Soo Bang, Tae-Kyung Kim, and Woo-Young Choi: "Influence of Emitter Width on the Performance of 975-nm (In,Ga)(As,P)/(Al,Ga)As High-power Laser Diodes",  Current Optics and Photonics, Vol. 3, No. 5, pp. 445-450, Oct. 25th, 2019. [[Link]](http://koreascience.or.kr/article/JAKO201930968645035.page)
@@ -117,7 +120,6 @@ Korea-Japan Government Joint Scholarship, March 2006 – March 2010
 -	**Younghyun Kim***, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, and Shinichi Takagi: “Ge-rich SiGe-on-insulator for waveguide optical modulator application fabricated by Ge condensation and SiGe regrowth,” Optics Express, Vol. 21, Iss. 17, pp. 19615-19623, Aug. 13th, 2013. [[Link]](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-17-19615)  
 -	**Younghyun Kim***, Mitsuru Takenaka, Takenori Osada, Masahiko Hata, and Shinichi Takagi : “Strain-induced enhancement of plasma dispersion effect and free-carrier absorption in SiGe optical modulators”, arXiv:1304.1229, Submitted Apr. 4th, 2013. [[Link]](https://arxiv.org/abs/1304.1229)  
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, Akamatsu Shiro, **Kim Young Hyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : "GaN MOSFET with a gate SiO2 insulator deposited by silane-based plasma-enhanced chemical vapor deposition", physica status solidi (c), Vol.8, No.2, pp.457-460, Jan. 13th, 2011. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssc.201000489)  
-
 
 ## Conference
 -	**Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout : “Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter,” 2019, doi: 10.1109/group4.2019.8926128.    
