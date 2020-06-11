@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae
+title:Curriculum vitae
 subtitle: 
 ---
 # YOUNGHYUN KIM
