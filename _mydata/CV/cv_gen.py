@@ -21,8 +21,8 @@ def read_contents(filename):
 
     return contents
 
-cont =  read_contents('cv.md')
-cont +=  read_contents('publication.md')
+cont = read_contents('cv.md')
+cont += read_contents('publication.md')
 
 
 ## Write cv_print.md
