@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum vitae
-subtitle: 
+subtitle: Engineer interested in Photonics and Electronics
 ---
 # YOUNGHYUN KIM
 Doctor of engineering  
