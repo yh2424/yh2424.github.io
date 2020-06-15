@@ -54,6 +54,7 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 ## RESEARCH EXPERIENCE								    
 **Developement of Si Mach-Zehnder modulators, IMEC, July 2018 - present**  
+
 **Reaserch of advanced III-V/Si Mach-Zehnder modulator, IMEC, July 2018 - present**  
 
 **Systematic design guide for high-speed Si micro ring modulator, Yonsei Univ.	Apr 2017 - May 2018**     
