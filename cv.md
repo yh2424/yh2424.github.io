@@ -53,6 +53,9 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 -   Design, simulation, fabrication, characterization, and modeling of semiconductor devices
 
 ## RESEARCH EXPERIENCE								    
+**Si-based optical modulators, IMEC, July 2018 - present**  
+**Advanced III-V/Si MZ Modulator, IMEC, July 2018 - present**  
+
 **Systematic design guide for high-speed Si micro ring modulator, Yonsei Univ.	Apr 2017 - May 2018**     
 	  The Si micro-ring modulator is expected to play an important role in optical interconnect systems thanks to the large modulation bandwidth and small device footprints.  There are many reports for analysis and experimental demonstrations. However, a systematic device design guide for determining optimal doping concentrations, ring radius, and coupling strength between ring and bus waveguides for a target data rate is not available.  In this work, we study on realizing such a design guide.  
 
