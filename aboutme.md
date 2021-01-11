@@ -6,7 +6,6 @@ subtitle: Hi, I am Younghyun :)
 
 ## Younghyun Kim, Ph.D.
 #### 김 영현 (Korean), 金 榮現 (Hanja)
-####
 #### Asistant professor, Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
 - Ph.D. in Electrical Engineering, University of Tokyo (2015)
 - M.E. in Electrical Engineering, University of Tokyo (2012) 
