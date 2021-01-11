@@ -6,7 +6,7 @@ subtitle: Hi, I am Younghyun :)
 
 ## Younghyun Kim, Ph.D.
 #### 김 영현 (Korean), 金 榮現 (Hanja)
-#### R&D engineer, IMEC, Leuven, Belgium (Now)
+#### Asistant professor, Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
 - Ph.D. in Electrical Engineering, University of Tokyo (2015) [Takagi & Takenaka Group](http://www.mosfet.k.u-tokyo.ac.jp/index-e.html)  
    **Dissertation : Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators**
 - M.E. in Electrical Engineering, University of Tokyo (2012) [Takagi & Takenaka Group](http://www.mosfet.k.u-tokyo.ac.jp/index-e.html)  
@@ -14,14 +14,13 @@ subtitle: Hi, I am Younghyun :)
 
 #### More
 - [More about me (CV)](https://yh2424.github.io/cv)  
-- E-mail: younghyun.kim@imec.be
+- E-mail: younghyunkim@hanyang.ac.kr
 
 #### Other links
 - [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/  [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)
 
 #### Contact
-- E-mail: younghyun.kim**[at]**imec.be
-- E-mail: yhkim.mosfet**[at]**gmail.com  
+- E-mail: younghyunkim@hanyang.ac.kr
 
 ![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
 
