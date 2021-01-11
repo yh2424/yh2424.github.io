@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Younghyun Kim
+title: YK Research Group
 
 
 # Short description of your site
@@ -26,6 +26,7 @@ description: Welcome :)
 navbar-links:
   HOME: "https://yh2424.github.io"
   About Me: "aboutme"
+  Member: "member"
   Projects: "projects"
   Publication: "publication"
   Link: "link"
