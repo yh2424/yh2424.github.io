@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Link"
-excerpt: "Let's learn together :)"
+subtitle:  "Let's learn together :)"
 ---
 
 ## Si Photonics
