@@ -5,16 +5,16 @@ subtitle: Our team :)
 ---
 
 # Principal Invesigator
-## Younghyun Kim, Ph.D.
+### Younghyun Kim, Ph.D.
 
-
+---
 # Researcher
-## Taewon Jin, undergraduate
+### Taewon Jin, undergraduate
 
 
-## Youngjoo Bae, undergraduate
+### Youngjoo Bae, undergraduate
 
 
-## Daehong Kim, undergraduate
+### Daehong Kim, undergraduate
 
 
