@@ -4,15 +4,17 @@ title: People
 subtitle: Our team :)
 ---
 
-## Younghyun Kim, Ph.D. (Principal Invesigator)
+# Principal Invesigator
+## Younghyun Kim, Ph.D.
 
 
-## Taewon Jin, undergraduate, (Resercher)
+# Researcher
+## Taewon Jin, undergraduate
 
 
-## Youngjoo Bae, undergraduate, (Resercher)
+## Youngjoo Bae, undergraduate
 
 
-## Daehong Kim, undergraduate, (Resercher)
+## Daehong Kim, undergraduate
 
 
