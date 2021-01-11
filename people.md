@@ -1,10 +1,10 @@
 ---
 layout: page
 title: People
-subtitle: 
+subtitle: Our team
 ---
 
-## Younghyun Kim, Ph.D. (Assistant Professor)
+## Younghyun Kim, Ph.D. (Principal Invesigator)
 
 ## Taewon Jin, undergraduate, (Resercher)
  
