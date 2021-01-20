@@ -1,4 +1,4 @@
-remote_theme: beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll
 plugins:
  - jekyll-feed
  - jekyll-paginate
