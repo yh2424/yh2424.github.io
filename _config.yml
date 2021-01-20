@@ -1,12 +1,15 @@
-remote_theme: daattali/beautiful-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
+# remote_theme: daattali/beautiful-jekyll
+# plugins:
+#  - jekyll-feed
+#  - jekyll-paginate
+#  - jekyll-sitemap
 
 title: YK Research Group
 author: Younghyun Kim
-
+  name: yh2424
+  email: "yh2424@gmail.com"
+  github: yh2424
+  linkedin: younghyun-kim-6806b5119
 
 navbar-links:
   HOME: "https://yh2424.github.io"
