@@ -67,11 +67,11 @@ defaults:
     values:
       layout: "post"
       carbonads: true
-      comments: true
-      social-share: true
-      show-share: true
-      show-subscribe: true
-      support_promo_box: true
+      comments: false
+      social-share: false
+      show-share: false
+      show-subscribe: false
+      support_promo_box: false
       after-content: [share-section.html, purpleads.html, scroll-box.html]
   -
     scope:
@@ -90,7 +90,7 @@ defaults:
       path: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
   -
     scope:
       path: ""
