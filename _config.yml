@@ -9,11 +9,12 @@ author: Dean Attali
 
 
 navbar-links:
-  Blog: "/"
-  Hire me: "https://attalitech.com/"
+  HOME: "https://yh2424.github.io"
+  About Me: "aboutme"
+  People: "people"
   Projects: "projects"
-  About Me / Contact: "aboutme"
-  ❤ Support: "https://github.com/sponsors/daattali"
+  Publication: "publication"
+  Link: "link"
 
 avatar: "/assets/img/deanimg.jpeg"
 
