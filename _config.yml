@@ -1,8 +1,8 @@
 remote_theme: daattali/beautiful-jekyll
-# plugins:
-#  - jekyll-feed
-#  - jekyll-paginate
-#  - jekyll-sitemap
+plugins:
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-sitemap
 
 title: YK Research Group
 author: Younghyun Kim
