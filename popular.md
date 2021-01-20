@@ -4,8 +4,8 @@ title: "Hi, I'm Dean"
 subtitle: R-Shiny Expert / Open-Source Developer / Tireless Traveller
 css: "/assets/css/index.css"
 share-img: /assets/img/deanimg.jpeg
-share-title: "Dean Attali - R-Shiny consultant"
-share-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
+share-title: "Dean Attali - R-Shiny consultant | Popular posts"
+share-description: "List of all the most popular posts by Dean Attali."
 support_promo_box: true
 cover-img:
   - "/assets/img/big-imgs/costa-rica-house.jpeg" : "Montezuma, Costa Rica (2011)"
@@ -50,8 +50,8 @@ cover-img:
 ---
 
 <div class="list-filters">
-  <a href="/" class="list-filter filter-selected">All posts</a>
-  <a href="/popular" class="list-filter">Most Popular</a>
+  <a href="/" class="list-filter">All posts</a>
+  <a href="/popular" class="list-filter filter-selected">Most Popular</a>
   <a href="/tutorials" class="list-filter">Tutorials</a>
   <a href="/tags" class="list-filter">Index</a>
 </div>
@@ -59,7 +59,7 @@ cover-img:
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in site.tags.popular %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
