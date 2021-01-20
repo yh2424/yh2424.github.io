@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll
 plugins:
- - jekyll-feed
+#  - jekyll-feed
  - jekyll-paginate
  - jekyll-sitemap
 
