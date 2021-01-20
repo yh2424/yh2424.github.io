@@ -1,7 +1,7 @@
 # remote_theme: daattali/beautiful-jekyll
-plugins:
+# plugins:
 #  - jekyll-feed
- - jekyll-paginate
+#  - jekyll-paginate
 #  - jekyll-sitemap
 
 title: YK Research Group
@@ -101,6 +101,5 @@ exclude:
   - README.md
   - docs/
   - files/java/Scrabble/*
-
 
 # 2fc73a3a967e97599c9763d05e564189d5
