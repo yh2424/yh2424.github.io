@@ -10,16 +10,12 @@ subtitle: Hi, I am Younghyun :)
 - Ph.D. in Electrical Engineering, University of Tokyo (2015)
 - M.E. in Electrical Engineering, University of Tokyo (2012) 
 - B.E. in Electrical Engineering, University of Tokushima (2010)
-
-#### More
-- [More about me (CV)](https://yh2424.github.io/cv)  
-- E-mail: younghyunkim@hanyang.ac.kr
+- [Curriculum vitae](https://yh2424.github.io/cv)
 
 #### Other links
 - [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/  [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)
 
 #### Contact
-- E-mail: younghyunkim@hanyang.ac.kr
+- E-mail: younghyunkim[at]hanyang.ac.kr
 
 ![image](https://user-images.githubusercontent.com/32427749/72687864-647b5880-3b02-11ea-958b-3324cf14382e.png)
-
