@@ -1,9 +1,0 @@
-
-# temporary files
-temp/
-
-# For editors
-.idea/
-.vscode/
-*~
-*.swp
