@@ -10,8 +10,7 @@ subtitle: Our team :)
 - Ph.D. in Electrical Engineering, University of Tokyo (2015)
 - M.E. in Electrical Engineering, University of Tokyo (2012) 
 - B.E. in Electrical Engineering, University of Tokushima (2010)
-
-[More about me]("https://yh2424.github.io/aboutme/")
+[More about me](https://yh2424.github.io/aboutme)  
 
 ---
 # Researcher
