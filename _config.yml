@@ -9,7 +9,7 @@
 title: YK Research Group
 
 # Your name to show in the footer
-author: Some Person
+author: Younghyun Kim
 
 # --- List of links in the navigation bar --- #
 navbar-links:
@@ -75,7 +75,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://yh2424.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
