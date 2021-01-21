@@ -7,7 +7,7 @@ share-img: /assets/img/yh_profile.jpg
 share-title: "The YK Research Group"
 share-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
 support_promo_box: false
-cover-img:
+share-img:
   - "/assets/img/big-imgs/ERICA.jpg" : "ERICA (2020)"
   - "/assets/img/big-imgs/HYU_PN01.jpg" : "Photonics and Nanoelectronics (2020)" 
   - "/assets/img/big-imgs/wafer-fiber.jpg" : "Photonics (2020)" 
@@ -22,11 +22,11 @@ cover-img:
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
-      {% elsif post.cover-img %}
-        {% if post.cover-img.first %}
-          {{ post.cover-img[0].first.first }}
+      {% elsif post.share-img %}
+        {% if post.share-img.first %}
+          {{ post.share-img[0].first.first }}
         {% else %}
-          {{ post.cover-img }}
+          {{ post.share-img }}
         {% endif %}
       {% else %}
       {% endif %}
