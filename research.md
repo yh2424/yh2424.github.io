@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 subtitle: NOT AVAILABLE NOW
 ---
 
