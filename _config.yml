@@ -13,12 +13,13 @@ author: Younghyun Kim
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-  HOME: "https://yh2424.github.io"
+#  HOME: "https://yh2424.github.io"
 #  About Me: "aboutme"
   Research: "research"
   People: "people"
   Projects: "projects"
   Publication: "publication"
+  Contact: "contact"
   Link: "link"
 
 # --- Logo --- #
