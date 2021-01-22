@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Research and development experiences
+subtitle: List of research and development projects
 ---
 
 ## Si-based optical modulators 
