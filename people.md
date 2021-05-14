@@ -13,10 +13,11 @@ subtitle: Our team :)
 # Researcher
 ### Taewon Jin, undergraduate
 
-
 ### Youngjoo Bae, undergraduate
-
 
 ### Daehong Kim, undergraduate
 
+### Sung-Ui Ahn, undergraduate
+
+### Yushin Kim, undergraduate
 
