@@ -7,10 +7,10 @@ subtitle: List of Journal, Conference, and Patent
 
 ## Journal
 
-#### - 2021
+### 2021
 -	**Younghyun Kim*** , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
 
-#### 2020
+### 2020
 -	Sanghyeon Kim, **Younghyun Kim***, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: "Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter",  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020. [[Link]](https://ieeexplore.ieee.org/document/8984307)  
 
 ### 2019
