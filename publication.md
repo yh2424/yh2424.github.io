@@ -8,7 +8,7 @@ subtitle: List of Journal, Conference, and Patent
 ## Journal
 
 ### 2021
-- Younghyun Kim, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines, accepted
+- Younghyun Kim, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021.[[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
 
 -	Younghyun Kim* , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
 
