@@ -5,7 +5,7 @@ subtitle: Our team :)
 ---
 
 # Principal Invesigator
-### 김영현, Younghyun Kim, Ph.D.
+### 김 영현, Younghyun Kim, Ph.D.
 #### Asistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA, [More about me](https://yh2424.github.io/people/younghyunkim) 
 
 <!--- 
@@ -19,7 +19,7 @@ subtitle: Our team :)
   
     
 
-    
+
 ### 배 영주, Youngjoo Bae
 #### Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
