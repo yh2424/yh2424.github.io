@@ -15,7 +15,7 @@ subtitle: Our current team members  :)
 ---
 # Researcher
 ### 진 태원, Taewon Jin
-#### Field effect transistor, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Electronic device, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 배 영주, Youngjoo Bae
 #### Optical phase shifter, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
@@ -36,7 +36,7 @@ subtitle: Our current team members  :)
 #### GaN-based light source, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 송 준수, Junsu Song
-#### Field effect transistor, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 노 태현, Taehyun Noh
-#### Field effect transistor, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
