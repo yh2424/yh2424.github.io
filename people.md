@@ -21,28 +21,22 @@ subtitle: Our team :)
 #### Optical phase shifter, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 김 대홍, Daehong Kim
-#### GaN-based light source, undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### GaN-based light source, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 김 유신, Yooshin Kim
-#### Optical phase shifter
-#### undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Optical phase shifter, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 안 성의, Sung-Ui Ahn
-#### Optical phase shifter
-#### undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Optical phase shifter, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 박 승민, Seungmin Park
-#### Mid-IR Photonic platform and device
-#### undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Mid-IR Photonic platform and device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 김 강석, Kangseok Kim 
-#### GaN-based light source
-#### undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### GaN-based light source, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 송 준수, Junsu Song
-#### Field effect transistor
-#### undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Field effect transistor, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 노 태현, Taehyun Noh
-#### Field effect transistor
-#### undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Field effect transistor, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
