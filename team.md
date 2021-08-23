@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-subtitle: Our team :)
+title: Team
+subtitle: Our current team members  :)
 ---
 
 # Principal Invesigator
