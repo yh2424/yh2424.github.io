@@ -15,16 +15,16 @@ subtitle: Our team :)
 ---
 # Researcher
 ### 진 태원, Taewon Jin
-#### Theme: Field effect transistor
-#### Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+##### Theme: Field effect transistor
+##### Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 배 영주, Youngjoo Bae
-#### Theme: Optical phase shifter 
-#### Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+##### Theme: Optical phase shifter 
+##### Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 김 대홍, Daehong Kim
-#### Theme: GaN-based light source
-#### undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+##### Theme: GaN-based light source
+##### undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 김 유신, Yooshin Kim
 #### Theme: Optical phase shifter
