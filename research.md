@@ -19,5 +19,6 @@ Our research team aims to develope photonic and electronic semiconductor devices
 - Hangynag University ERICA
 - 두뇌한국(BK, Brain Korea)21
 - 산업통상자원부
+- 한국연구재단
 - KIST 한국과학기술연구원
 - KAIST 한국과학기술원
