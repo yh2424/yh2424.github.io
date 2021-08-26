@@ -22,3 +22,4 @@ Our research team aims to develope photonic and electronic semiconductor devices
 - 한국연구재단
 - KIST 한국과학기술연구원
 - KAIST 한국과학기술원
+- IMEC (벨기에, 반도체연구소)
