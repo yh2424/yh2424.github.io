@@ -26,7 +26,7 @@ subtitle: Our current team members  :)
 ### 김 유신, Yooshin Kim
 #### Optical phase shifter, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
-### 안 성의, Sung-Ui Ahn
+### 안 성의, Seongui An
 #### Optical phase shifter, Undergraduate (4th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 박 승민, Seungmin Park
