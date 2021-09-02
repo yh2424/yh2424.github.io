@@ -36,7 +36,7 @@ subtitle: Our current team members  :)
 #### GaN-based light source, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 송 준수, Junsu Song
-#### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/Songjunsu)  
+#### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/songjunsu)  
 
 ### 노 태현, Taehyun Noh
 #### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
