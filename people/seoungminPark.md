@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome my introduce page :)
+subtitle: Welcome my introduce_page :)
 ---
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park_seoungmin&fontAlign=50&fontAlignY=40&color=gradient)
 
-<p align="center"><img src="../img/../assets/img/sm_profile.jpg" width="400"></p>
+<p align="center"><img src="../assets/img/sm_profile.jpg" width="400"></p>
 
 
 
