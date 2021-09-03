@@ -31,6 +31,7 @@ subtitle: Our current team members  :)
 
 ### 박 승민, Seoungmin Park
 #### Mid-IR Photonic platform and device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/seoungminpark)
+
 ### 김 강석, Kangseok Kim 
 #### GaN-based light source, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
