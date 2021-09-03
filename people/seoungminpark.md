@@ -6,8 +6,12 @@ subtitle: Welcome my introduce_page :)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park_seoungmin&fontAlign=50&fontAlignY=40&color=gradient)
 
-<p align="center"><img src="../assets/img/sm_profile.jpg" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/32427749/131963021-26b1db94-9c9c-4f0e-93eb-5b84f868cfcc.png" width="400"></p>
 
+
+<!---
+<p align="center"><img src="../assets/img/sm_profile.jpg" width="400"></p>
+--->
 
 
 ---
