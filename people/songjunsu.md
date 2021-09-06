@@ -1,27 +1,60 @@
 ---
 layout: page
 title: About me
-subtitle: Hi, I am Songjunsu :)
+subtitle: Welcome I am Song_Jusnu :)
 ---
-<!--- 
-<p align="center"><img src="https://user-images.githubusercontent.com/32427749/130535244-3c8956f4-23e3-4b1b-92f9-a2343ab566b3.png"></p>
---->
 
-## Songjunsu, Ph.D.
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Song_Junsu&fontAlign=50&fontAlignY=40&color=gradient)
+
+<p align="center"><img src="../assets/img/js_profile.jpg" width="400"></p>
+
+---
 #### 송 준수 (Korean), 宋 準守 (Hanja)
-#### Asistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
+
+## "HEllO👋 
+Let's me introduce myself."
+
+**Just Do it and then some** 
+
+---
+**<h1><dl><dt>👩 About Me </dt>**
+---
+
+## **🎓 Education**
+
+`2017.03~` Hanyang University Undergraduate (3rd-year student)
 
 
-#### Teaching
+## **📝 Research** 
+
+`2021.07~` Electronic device
+
+## **🏆 Prize**
+
+`2019.12` IC-PBL 경진대회 포토폴리오 부문 우수상
+
+`2021.07` SID Audition 창업 아이디어 경진대회 SID상
+
+`2021.08` IC-PBL 경진대회 포토폴리오 부문 우수상
+
+## **📑 Carrer**
 
 
-#### Other links
 
 
-#### Contact
-- E-mail: sb020578[at]hanyang.ac.kr
+## **📭 Contack** 
+### KaKaotalkID : sb020578
+### instagram : song_jun98
+### E-mail : psm401@hanyang.ac.kr
 
-<!--- 
-![image](https://user-images.githubusercontent.com/32427749/127579757-95fe1d97-7820-4485-acfe-42483abd727e.png)
-![image](https://user-images.githubusercontent.com/32427749/130535244-3c8956f4-23e3-4b1b-92f9-a2343ab566b3.png)
---->
+---
+
+<center>
+
+**<h1><dl><dt>💻 Tech Stack </dt>**
+<h5><dd>Techs that I've used at least once</dd></dl>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=white"/></a>
