@@ -6,12 +6,8 @@ subtitle: Welcome my introduce_page :)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park_seoungmin&fontAlign=50&fontAlignY=40&color=gradient)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/32427749/131963021-26b1db94-9c9c-4f0e-93eb-5b84f868cfcc.png" width="400"></p>
-
-
-<!---
 <p align="center"><img src="../assets/img/sm_profile.jpg" width="400"></p>
---->
+
 
 
 ---
@@ -24,7 +20,7 @@ Let's me introduce myself."
 I am considerate for collaboration, and I try to grow.
 
 ---
-**<h1><dl><dt>👩 About Me </dt>**
+**<h1><dl><dt>👩 About Me </dt></dl>**
 ---
 
 ## **🎓 Education**
@@ -47,16 +43,16 @@ I am considerate for collaboration, and I try to grow.
 `2020.07~2021.01` 한양대학교 ERICA 창업교육센터 서포터즈 라이온스타 1기
 
 ## **📭 Contack** 
-### E-mail : psm401@hanyang.ac.kr
+#### E-mail : psm401@hanyang.ac.kr
 ---
 
 <center>
 
 **<h1><dl><dt>💻 Tech Stack </dt>**
 <h5><dd>Techs that I've used at least once</dd></dl>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
 
