@@ -40,3 +40,9 @@ subtitle: Our current team members  :)
 
 ### 노 태현, Taehyun Noh
 #### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/NoTH)  
+
+### 정 재웅, Jaeung Jeong
+#### Optical phase shifter, Undergraduate (3th-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+
+### 주 기준, Kijun Ju
+#### GaN-based light source, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)
