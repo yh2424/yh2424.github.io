@@ -21,7 +21,7 @@ I am considerate for collaboration, and I try to grow.
 
 ---
 
-**<h1><dl><dt>👩 About Me </dt></dl>**
+**<dl><dt><h1> 👩 About Me </dt></dl>**
   
 ---
 
@@ -50,8 +50,8 @@ I am considerate for collaboration, and I try to grow.
 
 <center>
 
-**<h1><dl><dt>💻 Tech Stack </dt>**
-<h5><dd>Techs that I've used at least once</dd></dl>
+**<dl><dt><h1> 💻 Tech Stack </dt>**
+<dd><h5>Techs that I've used at least once</dd></dl>
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
