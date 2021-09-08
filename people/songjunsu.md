@@ -31,7 +31,7 @@ Let's me introduce myself."
 
 ## **🏆 Prize**
 
-`2019.12` IC-PBL 경진대회 포토폴리오 부문 우수상
+`2019.12` IC-PBL 경진대회 아이디어 부문 우수상
 
 `2021.07` SID Audition 창업 아이디어 경진대회 SID상
 
@@ -45,7 +45,7 @@ Let's me introduce myself."
 ## **📭 Contack** 
 ### KaKaotalkID : sb020578
 ### instagram : song_jun98
-### E-mail : psm401@hanyang.ac.kr
+### E-mail : sb020578@hanyang.ac.kr
 
 ---
 
