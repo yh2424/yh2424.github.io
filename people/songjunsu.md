@@ -17,7 +17,7 @@ Let's me introduce myself."
 **Just Do it and then some** 
 
 ---
-**<h1><dl><dt>👩 About Me </dt>**
+**👩 About Me**
 ---
 
 ## **🎓 Education**
@@ -51,10 +51,10 @@ Let's me introduce myself."
 
 <center>
 
-**<h1><dl><dt>💻 Tech Stack </dt>**
-<h5><dd>Techs that I've used at least once</dd></dl>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=white"/></a>
+**💻 Tech Stack**
+<h5><dd>Techs that I've used at least once</dd>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=white"/>
