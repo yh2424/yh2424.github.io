@@ -20,7 +20,9 @@ Let's me introduce myself."
 I am considerate for collaboration, and I try to grow.
 
 ---
+
 **<h1><dl><dt>👩 About Me </dt></dl>**
+  
 ---
 
 ## **🎓 Education**
@@ -50,6 +52,7 @@ I am considerate for collaboration, and I try to grow.
 
 **<h1><dl><dt>💻 Tech Stack </dt>**
 <h5><dd>Techs that I've used at least once</dd></dl>
+  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
