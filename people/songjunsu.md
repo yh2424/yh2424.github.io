@@ -6,7 +6,7 @@ subtitle: Welcome I am Song_Jusnu :)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Song_Junsu&fontAlign=50&fontAlignY=40&color=gradient)
 
-<p align="center"><img src="../assets/img/js_profile.jpg" width="400"></p>
+![js_profile](https://user-images.githubusercontent.com/74344434/132435989-8e193368-3cd4-464f-8b4e-5f9894810763.jpg)
 
 ---
 #### 송 준수 (Korean), 宋 準守 (Hanja)
