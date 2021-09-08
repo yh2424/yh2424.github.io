@@ -39,4 +39,4 @@ subtitle: Our current team members  :)
 #### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
 
 ### 노 태현, Taehyun Noh
-#### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/YOURNAME)  
+#### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/NoTH)  
