@@ -48,8 +48,8 @@ I am considerate for collaboration, and I try to grow.
 
 <center>
 
-## **💻 Tech Stack**
-### **Techs that I've used at least once**
+<h1> 💻 Tech Stack
+<h5><dl> Techs that I've used at least once</dl>
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
