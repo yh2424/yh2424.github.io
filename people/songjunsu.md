@@ -9,7 +9,7 @@ subtitle: Welcome I am Song_Jusnu :)
 ![js_profile](https://user-images.githubusercontent.com/74344434/132435989-8e193368-3cd4-464f-8b4e-5f9894810763.jpg)
 
 ---
-#### 송 준수 (Korean), 宋 準守 (Hanja)
+# **송 준수 (Korean), 宋 準守 (Hanja)**
 
 ## "HEllO👋"
 Let's me introduce myself."
