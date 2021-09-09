@@ -4,7 +4,7 @@ title: About me
 subtitle: Welcome I am Song_Jusnu :)
 ---
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Song_Junsu&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Song%20Junsu&fontAlign=50&fontAlignY=40&color=gradient)
 
 ![js_profile](https://user-images.githubusercontent.com/74344434/132435989-8e193368-3cd4-464f-8b4e-5f9894810763.jpg)
 
@@ -17,7 +17,7 @@ Let's me introduce myself."
 **Just Do it and then some** 
 
 ---
-**👩 About Me**
+## **👩 About Me**
 ---
 
 ## **🎓 Education**
@@ -51,8 +51,8 @@ Let's me introduce myself."
 
 <center>
 
-**💻 Tech Stack**
-<h5><dd>Techs that I've used at least once</dd>
+## **💻 Tech Stack**
+### **Techs that I've used at least once**
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>

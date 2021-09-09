@@ -4,11 +4,9 @@ title: About me
 subtitle: Welcome my introduce_page :)
 ---
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park_seoungmin&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park%20seoungmin&fontAlign=50&fontAlignY=40&color=gradient)
 
-<p align="center"><img src="../assets/img/sm_profile.jpg" width="400"></p>
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/74344434/132600680-305e9b05-ae38-4f10-8175-539f14431c12.jpg" width="400"></p>
 
 ---
 
@@ -21,7 +19,7 @@ I am considerate for collaboration, and I try to grow.
 
 ---
 
-**<dl><dt><h1> 👩 About Me </dt></dl>**
+## **👩 About Me**
   
 ---
 
@@ -50,8 +48,8 @@ I am considerate for collaboration, and I try to grow.
 
 <center>
 
-**<dl><dt><h1> 💻 Tech Stack </dt>**
-<dd><h5>Techs that I've used at least once</dd></dl>
+## **💻 Tech Stack**
+### **Techs that I've used at least once**
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
