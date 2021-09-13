@@ -12,7 +12,7 @@ subtitle: Welcome I am Song_Jusnu :)
 # **송 준수 (Korean), 宋 準守 (Hanja)**
 
 ## "HEllO👋"
-Let's me introduce myself."
+Let me introduce myself."
 
 **Just Do it and then some** 
 
@@ -42,7 +42,7 @@ Let's me introduce myself."
 
 
 
-## **📭 Contack** 
+## **📭 Contact** 
 ### KaKaotalkID : sb020578
 ### instagram : song_jun98
 ### E-mail : sb020578@hanyang.ac.kr
