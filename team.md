@@ -46,3 +46,6 @@ subtitle: Our current team members  :)
 
 ### 주 기준, Kijun Ju
 #### GaN-based light source, Undergraduate (3rd-year student)
+
+### 선 신개, Xinkai Sun
+#### TBD, Undergraduate (4th-year student)
