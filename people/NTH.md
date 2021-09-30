@@ -5,7 +5,7 @@ subtitle: Hi, I am Tae Hyeon Noh :)
 ---
 <center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&&text=Tae%20Hyeon%20Noh%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Advanced%20Seiconductor%20Devices%20Lab%20&descAlignY=50&descAlign=68)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&&text=Tae%20Hyeon%20Noh%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Advanced%20Seiconductor%20Devices%20Lab%20&descAlignY=50&descAlign=68)
 
 
 <p align='center'> Welcome to Eddie's github! </p>
