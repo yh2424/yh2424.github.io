@@ -38,7 +38,7 @@ subtitle: Our current team members  :)
 ### 송 준수, Junsu Song
 #### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/songjunsu)  
 
-### 노 태현, Taehyun Noh
+### 노 태현, Taehyeon Noh
 #### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/NTH)  
 
 ### 정 재웅, Jaeung Jeong
