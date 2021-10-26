@@ -42,7 +42,7 @@ I am considerate for collaboration, and I try to grow.
 
 `2020.07~2021.01` 한양대학교 ERICA 창업교육센터 서포터즈 라이온스타 1기
 
-## **📭 Contack** 
+## **📭 Contact** 
 #### E-mail : psm401@hanyang.ac.kr
 ---
 
