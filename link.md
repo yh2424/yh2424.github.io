@@ -26,5 +26,9 @@ subtitle:  "Useful websites"
 ## Machine learning
 - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) 
 
+## 교육
+- [재직자 교육 - 웨이퍼 스케일 데이터 처리](https://hyu-my.sharepoint.com/:u:/g/personal/younghyunkim_hanyang_ac_kr/ET39iqKWkcNOqSMGzJLgkvoBWdOo6_3GNIM35f_CF5G-7g?e=1CwkHe)
+- [머신러닝 - 모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) 
+
 ## Website template
 - [beautiful-jekyll](https://deanattali.com/beautiful-jekyll/)  
