@@ -36,7 +36,7 @@ I am considerate for collaboration, and I try to grow.
 
 `2021.08` IC-PBL 경진대회 포토폴리오 부문 우수상
 
-## **📑 Carrer**
+## **📑 Career**
 
 `2020.07~2020.12` LG Display 영채널 소셜 크리에이터 디:플 20기
 
