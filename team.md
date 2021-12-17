@@ -23,14 +23,14 @@ subtitle: Our current team members  :)
 ### 김 대홍, Daehong Kim
 #### GaN-based light source, Undergraduate (4th-year student)
 
-### 김 유신, Yooshin Kim
-#### Optical phase shifter, Undergraduate (4th-year student)
-
 ### 안 성의, Seongui An
 #### Optical phase shifter, Undergraduate (4th-year student)
 
+### 선 신개, Xinkai Sun
+#### Electronic device, Undergraduate (4th-year student)
+
 ### 박 승민, Seoungmin Park
-#### Mid-IR Photonic platform and device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/seoungminpark)
+#### GaN-based light source, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/seoungminpark)
 
 ### 김 강석, Kangseok Kim 
 #### GaN-based light source, Undergraduate (3rd-year student)
@@ -41,11 +41,6 @@ subtitle: Our current team members  :)
 ### 노 태현, Taehyeon Noh
 #### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/NTH)  
 
-### 정 재웅, Jaeung Jeong
-#### Optical phase shifter, Undergraduate (3th-year student) 
-
 ### 주 기준, Kijun Ju
 #### GaN-based light source, Undergraduate (3rd-year student)
 
-### 선 신개, Xinkai Sun
-#### TBD, Undergraduate (4th-year student)
