@@ -4,6 +4,9 @@ title: "Link"
 subtitle:  "Useful websites"
 ---
 
+## For students
+- [Gsuite : Guidance by HY](https://gsuite.hanyang.ac.kr/
+- [Office 365: Guidance by HY](https://site.hanyang.ac.kr/web/iic/office-365)
 
 ## Si Photonics
 - [The Future of Deep Learning Is Photonic](https://spectrum-ieee-org.cdn.ampproject.org/c/s/spectrum.ieee.org/amp/the-future-of-deep-learning-is-photonic-2653906649)
