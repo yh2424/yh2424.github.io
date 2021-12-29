@@ -26,24 +26,24 @@ subtitle: Our team members !
 ---
 
 ### 김 대홍, Daehong Kim
-#### GaN-based light source, Undergraduate (4th-year student)
+#### GaN-based light source, 4th-year student, altair45[at]hanyang.ac.kr
 ---
 
 ### 안 성의, Seongui An
-#### Optical phase shifter, Undergraduate (4th-year student)
+#### Optical phase shifter, 4th-year student, asulang01[at]hanyang.ac.kr
 
 ### 선 신개, Xinkai Sun
-#### Electronic device, Undergraduate (4th-year student)
+#### Electronic device, 4th-year student, q1320472838[at]hanyang.ac.kr
 
 ### 박 승민, Seoungmin Park
-#### GaN-based light source, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/seoungminpark)
+#### GaN-based light source, 3rd-year student, psm401[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/seoungminpark)
 
 ### 김 강석, Kangseok Kim 
-#### GaN-based light source, Undergraduate (3rd-year student)
+#### GaN-based light source, 3rd-year student, ddol410[at]hanyang.ac.kr
 
 ### 노 태현, Taehyeon Noh
-#### Electronic device, Undergraduate (3rd-year student), [More about me](https://yh2424.github.io/people/NTH)  
+#### Electronic device, 3rd-year student, eddienoh[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/NTH)  
 
 ### 주 기준, Kijun Ju
-#### GaN-based light source, Undergraduate (3rd-year student)
+#### GaN-based light source, 3rd-year student, jkj1832[at]hanyang.ac.kr
 
