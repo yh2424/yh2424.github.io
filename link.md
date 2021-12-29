@@ -5,7 +5,7 @@ subtitle:  "Useful websites"
 ---
 
 ## For students
-- [Gsuite : Guidance by HY](https://gsuite.hanyang.ac.kr/
+- [Gsuite : Guidance by HY](https://gsuite.hanyang.ac.kr/)
 - [Office 365: Guidance by HY](https://site.hanyang.ac.kr/web/iic/office-365)
 
 ## Si Photonics
