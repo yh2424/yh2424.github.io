@@ -24,8 +24,10 @@ subtitle: Our team members !
 ### 배 영주, Youngjoo Bae
 #### Optical phase shifter, 4th-year student, yjbae9441[at]hanyang.ac.kr
 ---
+
 ### 김 대홍, Daehong Kim
 #### GaN-based light source, Undergraduate (4th-year student)
+---
 
 ### 안 성의, Seongui An
 #### Optical phase shifter, Undergraduate (4th-year student)
