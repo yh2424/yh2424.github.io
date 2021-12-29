@@ -7,6 +7,7 @@ subtitle: Our current team members  :)
 # Principal Invesigator
 ### 김 영현, Younghyun Kim, Ph.D.
 #### Asistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA, [More about me](https://yh2424.github.io/people/younghyunkim) 
+#### younghyunkim[at]hanyang.ac.kr
 
 <!--- 
 | ![image](https://user-images.githubusercontent.com/32427749/127579757-95fe1d97-7820-4485-acfe-42483abd727e.png) | 김영현, Younghyun Kim, Ph.D. |
@@ -16,6 +17,7 @@ subtitle: Our current team members  :)
 # Researcher
 ### 진 태원, Taewon Jin
 #### Electronic device, Undergraduate (4th-year student)
+#### xodnjs3124@hanyang.ac.kr
 
 ### 배 영주, Youngjoo Bae
 #### Optical phase shifter, Undergraduate (4th-year student)
