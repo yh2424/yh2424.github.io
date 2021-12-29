@@ -58,3 +58,17 @@ subtitle: Our team members !
 #### TBD, 4th-year student, etd93[at]hanyang.ac.kr
 ---
 
+
+# Alumni
+
+### 김 유신, Yushin Kim
+#### Optical Phase Shifter, 학부(캡스톤, 2021S, 2021F), kimyushin[at]hanyang.ac.kr
+---
+
+### 송 준수, Joonsoo Song
+#### ITZO Thin film transistor, 학부(캡스톤, 2021F), sb020578[at]hanyang.ac.kr
+---
+
+### 정 재웅, Jaewoong Jung
+#### Optical Phase Shifter, 학부(캡스톤, 2021F), greg3073[at]hanyang.ac.kr
+---
