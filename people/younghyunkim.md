@@ -20,6 +20,8 @@ subtitle: Hi, I am Younghyun :)
 - Display engineering (2020 Fall, undergraduate course)
 - Programming for engineers I (2020 Fall, undergraduate course)
 
+#### Awards
+- 2021년도 캠퍼스 특허 유니버시아드, 지도교수상(한국공학한림원회장상)[Link]() 
 
 #### Other links
 - [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/  [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)

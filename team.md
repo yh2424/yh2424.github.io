@@ -20,11 +20,13 @@ subtitle: Our team members !
 
 ### 진 태원, Taewon Jin
 #### Electronic device, 4th-year student, xodnjs3124[at]hanyang.ac.kr
-
+####   
+---
 
 ### 배 영주, Youngjoo Bae
 #### Optical phase shifter, 4th-year student, yjbae9441[at]hanyang.ac.kr
-
+####   
+---
 
 ### 김 대홍, Daehong Kim
 #### GaN-based light source, 4th-year student, altair45[at]hanyang.ac.kr
