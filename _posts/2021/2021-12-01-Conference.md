@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Photonics Conference 2021, 초청강연'
+title: '학회 초청 강연 (Photonics Conference 2021)'
 date: '2021-12-01 00:00'
 excerpt: >-
   한국광학회, Photonics Conference 2021, 김영현 교수님이 초청강연을 하였습니다.  
