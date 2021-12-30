@@ -25,14 +25,18 @@ I am considerate for collaboration, and I try to grow.
 
 ## **🎓 Education**
 
-`2017.03~` Hanyang University Undergraduate (3rd-year student)
+`2017.03~` Hanyang University Undergraduate (4th-year student)
 
 
 ## **📝 Research** 
 
-`2021.07~` Mid-IR Photonic platform and device
+`2021.07~10` Mid-IR Photonic platform and device
+
+'2021.10~'   GaN-based light source
 
 ## **🏆 Prize**
+
+'2021.07' 원페이퍼 창업경진대회 SID상
 
 `2021.08` IC-PBL 경진대회 포토폴리오 부문 우수상
 
