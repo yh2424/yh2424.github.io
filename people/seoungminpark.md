@@ -32,11 +32,11 @@ I am considerate for collaboration, and I try to grow.
 
 `2021.07~10` Mid-IR Photonic platform and device
 
-'2021.10~'   GaN-based light source
+`2021.10~`   GaN-based light source
 
 ## **🏆 Prize**
 
-'2021.07' 원페이퍼 창업경진대회 SID상
+`2021.07` 원페이퍼 창업경진대회 SID상
 
 `2021.08` IC-PBL 경진대회 포토폴리오 부문 우수상
 
