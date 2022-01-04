@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: 
 ---
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Taewon%20Jin&fontAlign=50&fontAlignY=40&color=gradient)
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Taewon%20Jin&fontAlign=50&fontAlignY=40&color=gradient">
 
 <p align="center"><img src='https://user-images.githubusercontent.com/70870983/148034243-606b0122-1f52-4222-86c9-4975d9f1e728.png'></p>
 
