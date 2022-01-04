@@ -20,7 +20,7 @@ subtitle: Our team members !
 # Researcher
 
 ### 진 태원, Taewon Jin
-#### Ferroelectric FET, Master course (M1), xodnjs3124[at]hanyang.ac.kr
+#### Ferroelectric FET, Master course (M1), xodnjs3124[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/taewonjin)
 ---
 
 ### 배 영주, Youngjoo Bae
