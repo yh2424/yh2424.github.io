@@ -9,19 +9,16 @@ title: About me
 안성의(Korean), 安星宜(Hanja)
   
 
-$\quad$
 
 ## **🎓 Education**
 B.E. in Department of Photonics and Nanoelectronics, University of Hanyang ERICA Campus (2022)
 
 
-$\quad$
 
 ## **📭 Contact** 
 #### E-mail : asulang01@hanyang.ac.kr
 
 
-$\quad$
 
 <h2> 💻 Tech Stack 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
