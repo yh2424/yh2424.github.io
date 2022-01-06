@@ -32,7 +32,7 @@ subtitle: Our team members !
 ---
 
 ### 안 성의, Seongui An
-#### Optical phase shifter, Master course (M1), asulang01@hanyang.ac.kr
+#### Optical phase shifter, Master course (M1), asulang01@hanyang.ac.kr [More about me](https://yh2424.github.io/people/seonguian)
 ---
 
 ### 선 신개, Xinkai Sun
