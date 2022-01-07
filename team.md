@@ -56,7 +56,7 @@ subtitle: Our team members !
 ---
 
 ### 엄 태동, Tae-dong Um 
-#### TBD, 4th-year student, etd93[at]hanyang.ac.kr
+#### TBD, 4th-year student, etd93[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/taedongum)
 ---
 
 
