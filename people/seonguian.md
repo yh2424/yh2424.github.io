@@ -17,7 +17,7 @@ B.E. in Department of Photonics and Nanoelectronics, University of Hanyang ERICA
 
 
 ## **📭 Contact** 
-E-mail : asulang01@hanyang.ac.kr
+E-mail : asulang01[at]hanyang.ac.kr
 
 
 <h2> 💻 Tech Stack

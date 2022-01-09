@@ -37,7 +37,7 @@ subtitle: Welcome my introduce_page :)
 ---
 
 ## **📭 Contact** 
-#### E-mail : jkj1832@hanyang.ac.kr
+#### E-mail : jkj1832[at]hanyang.ac.kr
 ---
 
 <center>

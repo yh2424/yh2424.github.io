@@ -29,7 +29,7 @@ Interested in manufacturing various devices using HZO, a ferroelectric material.
 
 ## **📭 Contact** 
 
-#### E-mail : xodnjs3124@hanyang.ac.kr
+#### E-mail : xodnjs3124[at]hanyang.ac.kr
 ---
 
 
