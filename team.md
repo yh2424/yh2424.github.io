@@ -40,7 +40,7 @@ subtitle: Our team members !
 ---
 
 ### 박 승민, Seoungmin Park
-#### GaN-based light source, 4th-year student, psm401[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/seoungminpark)
+#### Ferroelectric FET, 4th-year student, psm401[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/seoungminpark)
 ---
 
 ### 김 강석, Kangseok Kim 
@@ -56,7 +56,7 @@ subtitle: Our team members !
 ---
 
 ### 엄 태동, Tae-dong Um 
-#### TBD, 4th-year student, etd93[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/taedongum)
+#### Ferroelectric FET, 4th-year student, etd93[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/taedongum)
 ---
 
 
