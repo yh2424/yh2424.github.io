@@ -36,7 +36,7 @@ subtitle: Our team members !
 ---
 
 ### 선 신개, Xinkai Sun
-#### Ferroelectric FET, Master course (M1), q1320472838[at]hanyang.ac.kr
+#### Ferroelectric FET, Master course (M1), q1320472838[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/xinkaisun)
 ---
 
 ### 박 승민, Seoungmin Park
