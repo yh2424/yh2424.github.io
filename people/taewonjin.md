@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: 
 ---
-<p align='center''><img style='width:100%;' src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Taewon%20Jin&fontAlign=50&fontAlignY=40&color=gradient"></p>
+<p align='center'><img style='width:100%;' src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Taewon%20Jin&fontAlign=50&fontAlignY=40&color=gradient"></p>
 
 <p align="center"><img style='width:50%; ' src='https://user-images.githubusercontent.com/70870983/148035693-51fad46a-2d1f-4e38-85d0-06d7dd872756.png'></p>
 
