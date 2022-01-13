@@ -6,7 +6,6 @@ subtitle: Our team members !
 
 # Principal Invesigator
 
-
 ### 김 영현, Younghyun Kim, Ph.D.
 #### Asistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA, [More about me](https://yh2424.github.io/people/younghyunkim) 
 #### younghyunkim[at]hanyang.ac.kr
@@ -20,31 +19,31 @@ subtitle: Our team members !
 # Researcher
 
 ### 진 태원, Taewon Jin
-#### Ferroelectric FET, Master course (M1), xodnjs3124[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/taewonjin)
+#### Ferroelectric FET, Master course (M1), xodnjs3124[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/taewonjin)
 ---
 
 ### 배 영주, Youngjoo Bae
-#### Optical phase shifter, Master course (M1) yjbae9441[at]hanyang.ac.kr
+#### Optical phase shifter, Master course (M1) yjbae9441[at]hanyang.ac.kr, [More about me]()
 ---
 
 ### 김 대홍, Daehong Kim
-#### GaN-based light source, Master course (M1), altair45[at]hanyang.ac.kr
+#### GaN-based light source, Master course (M1), altair45[at]hanyang.ac.kr, [More about me]()
 ---
 
 ### 안 성의, Seongui An
-#### Optical phase shifter, Master course (M1), asulang01@hanyang.ac.kr [More about me](https://yh2424.github.io/people/seonguian)
+#### Optical phase shifter, Master course (M1), asulang01@hanyang.ac.kr, [More about me](https://yh2424.github.io/people/seonguian)
 ---
 
 ### 선 신개, Xinkai Sun
-#### Ferroelectric FET, Master course (M1), q1320472838[at]hanyang.ac.kr
+#### Ferroelectric FET, Master course (M1), q1320472838[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/taewonjin)
 ---
 
 ### 박 승민, Seoungmin Park
-#### Ferroelectric FET, 4th-year student, psm401[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/seoungminpark)
+#### Ferroelectric FET, 4th-year student, psm401[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/seoungminpark)
 ---
 
 ### 김 강석, Kangseok Kim 
-#### GaN-based light source, 4th-year student, ddol410[at]hanyang.ac.kr
+#### GaN-based light source, 4th-year student, ddol410[at]hanyang.ac.kr, [More about me]()
 ---
 
 ### 노 태현, Taehyeon Noh
