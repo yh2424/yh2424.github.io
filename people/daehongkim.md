@@ -5,31 +5,31 @@ subtitle:
 ---
 <p align='center'><img style='width:100%;' src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Daehong%20Kim&fontAlign=50&fontAlignY=40&color=gradient"></p>
 
-<p align="center"><img style='width:50%; ' src='https://user-images.githubusercontent.com/70870983/148035693-51fad46a-2d1f-4e38-85d0-06d7dd872756.png'></p>
+<p align="center"><img style='width:50%; ' src='https://user-images.githubusercontent.com/77374108/149867789-509db661-bec3-41e3-bef2-d12d6978f3c0.JPG'></p>
 
-## Taewon Jin, Undergraduate student
-#### 진 태원 (Korean), 陳太元 (Hanja)
-#### Undergraduate Student, Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
+## Daehong Kim, Undergraduate student
+#### 김 대홍 (Korean), 金大弘 (Hanja)
+#### Undergraduate student, Department of applied physics, College of Science and Convergence Technology, Hanyang University ERICA
 
 ---
 
 ## **👩 About Me**
-Interested in manufacturing various devices using HZO, a ferroelectric material.
+Learning about diode laser and semiconductor device in progress.
   
 ---
 
 ## **🎓 Education**
 
-`2017.03~` Hanyang University Undergraduate (4th-year student)
+`2019.03~` Hanyang University Undergraduate (4th-year student)
 
 
 ## **📝 Research** 
 
-`2021.03~` Ferroelectric materials & device applications
+`2021.06~` Development of measurement system for diode laser  & simulation with Lumerical
 
 ## **📭 Contact** 
 
-#### E-mail : xodnjs3124[at]hanyang.ac.kr
+#### E-mail : altair45@hanyang.ac.kr
 ---
 
 
