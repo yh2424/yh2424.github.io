@@ -27,7 +27,7 @@ subtitle: Our team members !
 ---
 
 ### 김 대홍, Daehong Kim
-#### GaN-based light source, Master course (M1), altair45[at]hanyang.ac.kr, [More about me]()
+#### GaN-based light source, Master course (M1), altair45[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/daehongkim)
 ---
 
 ### 안 성의, Seongui An
