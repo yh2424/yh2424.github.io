@@ -23,7 +23,7 @@ subtitle: Our team members !
 ---
 
 ### 배 영주, Youngjoo Bae
-#### Optical phase shifter, Master course (M1) yjbae9441[at]hanyang.ac.kr, [More about me]()
+#### Optical phase shifter, Master course (M1) yjbae9441[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/youngjoobae)
 ---
 
 ### 김 대홍, Daehong Kim
@@ -43,7 +43,7 @@ subtitle: Our team members !
 ---
 
 ### 김 강석, Kangseok Kim 
-#### GaN-based light source, 4th-year student, ddol410[at]hanyang.ac.kr, [More about me]()
+#### GaN-based light source, 4th-year student, ddol410[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/NTH)  
 ---
 
 ### 노 태현, Taehyeon Noh
