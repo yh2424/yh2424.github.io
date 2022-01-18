@@ -5,7 +5,7 @@ subtitle:
 ---
 <p align='center'><img style='width:100%;' src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Daehong%20Kim&fontAlign=50&fontAlignY=40&color=gradient"></p>
 
-<p align="center"><img style='width:50%; ' src='https://user-images.githubusercontent.com/77374108/149867789-509db661-bec3-41e3-bef2-d12d6978f3c0.JPG'></p>
+<p align="center"><img style='width:25%; ' src='https://user-images.githubusercontent.com/77374108/149867789-509db661-bec3-41e3-bef2-d12d6978f3c0.JPG'></p>
 
 ## Daehong Kim, Undergraduate student
 #### 김 대홍 (Korean), 金大弘 (Hanja)
