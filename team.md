@@ -43,7 +43,7 @@ subtitle: Our team members !
 ---
 
 ### 김 강석, Kangseok Kim 
-#### GaN-based light source, 4th-year student, ddol410[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/NTH)  
+#### GaN-based light source, 4th-year student, ddol410[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/kangseokkim)  
 ---
 
 ### 노 태현, Taehyeon Noh
