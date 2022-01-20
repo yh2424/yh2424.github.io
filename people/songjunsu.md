@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome I am Song_Jusnu :)
+subtitle: 
 ---
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Song%20Junsu&fontAlign=50&fontAlignY=40&color=gradient)

@@ -29,7 +29,7 @@ Learning about diode laser and semiconductor device in progress.
 
 ## **📭 Contact** 
 
-#### E-mail : altair45@hanyang.ac.kr
+#### E-mail : altair45[at]hanyang.ac.kr
 ---
 
 
