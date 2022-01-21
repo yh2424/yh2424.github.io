@@ -3,6 +3,8 @@ layout: page
 title: Team
 subtitle: Our team members !
 ---
+![image](https://user-images.githubusercontent.com/32427749/150480395-9e9eb3b9-28cc-4b5e-b56d-7a91ed5d0162.png)
+
 
 # Principal Invesigator
 
