@@ -8,7 +8,7 @@ subtitle: List of Journal, Conference, and Patent
 ## Journal
 
 ### 2021
-- Younghyun Kim, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021.[[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
+- Younghyun Kim, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021. [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
 
 -	Younghyun Kim* , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
 
@@ -70,7 +70,8 @@ subtitle: List of Journal, Conference, and Patent
 -	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-on-Insulator waveguide for Optical Modulator", IEEE Photonics Conference, Oct. 2011. 
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, **Kim YoungHyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : GaN MOSFET with Gate SiO2 Deposited by Silane-Based PECVD, The 37th International Symposium on Compound Semiconductors, Takamatsu, May 2010.
 
-## PATENT (Granted)
+## PATENT 
+- US20220011641A1, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 13, 2022 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20220011641A1.pdf)    
 - KR1020190137521, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR1020190137521B2.pdf)    
 - US10606121B2, Display apparatus (디스플레이 장치), March 31, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10606121B2.pdf)    
 - US10332949B2, Display apparatus (디스플레이 장치), June 25, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10332949B2.pdf)    

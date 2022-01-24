@@ -8,7 +8,7 @@ subtitle: Hi, I am Younghyun :)
 
 ## Younghyun Kim, Ph.D.
 #### 김 영현 (Korean), 金 榮現 (Hanja)
-#### Asistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
+#### Assistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
 - Ph.D. in Electrical Engineering, University of Tokyo (2015)
 - M.E. in Electrical Engineering, University of Tokyo (2012) 
 - B.E. in Electrical Engineering, University of Tokushima (2010)
@@ -20,6 +20,8 @@ subtitle: Hi, I am Younghyun :)
 - Display engineering (2020 Fall, undergraduate course)
 - Programming for engineers I (2020 Fall, undergraduate course)
 
+#### Awards
+- 2021년도 캠퍼스 특허 유니버시아드, [지도교수상(한국공학한림원회장상)](https://yh2424.github.io/2021-11-24-CPU/) 
 
 #### Other links
 - [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/  [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)

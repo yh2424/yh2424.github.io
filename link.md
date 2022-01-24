@@ -4,6 +4,9 @@ title: "Link"
 subtitle:  "Useful websites"
 ---
 
+## For students
+- [Gsuite : Guidance by HYU](https://gsuite.hanyang.ac.kr/)
+- [Office 365: Guidance by HYU](https://site.hanyang.ac.kr/web/iic/office-365)
 
 ## Si Photonics
 - [The Future of Deep Learning Is Photonic](https://spectrum-ieee-org.cdn.ampproject.org/c/s/spectrum.ieee.org/amp/the-future-of-deep-learning-is-photonic-2653906649)
@@ -23,8 +26,9 @@ subtitle:  "Useful websites"
 - [High-Speed Circuits & Systems Lab., Yonsei Univ.](http://tera.yonsei.ac.kr/index.php)
 - [3D Integrated Opto-Electronic Device Lab, KAIST](https://www.3doedl.com/)
 
-## Machine learning
-- [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) 
+## Education
+- [재직자 교육 - 웨이퍼 스케일 데이터 처리](https://hyu-my.sharepoint.com/:u:/g/personal/younghyunkim_hanyang_ac_kr/ET39iqKWkcNOqSMGzJLgkvoBWdOo6_3GNIM35f_CF5G-7g?e=tYxcJZ)
+- [머신러닝 - 모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) 
 
 ## Website template
 - [beautiful-jekyll](https://deanattali.com/beautiful-jekyll/)  
