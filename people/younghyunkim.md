@@ -15,7 +15,7 @@ subtitle: Hi, I am Younghyun :)
 - [Curriculum vitae](https://yh2424.github.io/cv)
 
 #### Teaching
-- Programming for engineers II (2021 Spring, undergraduate course, [IC-PBL 학생수상](https://yh2424.github.io/2021-08-11-Award/))
+- Programming for engineers II (2021 Spring, undergraduate course, [IC-PBL경진대회 학생수상](https://yh2424.github.io/2021-08-11-Award/))
 - Engineering Mathematics 1 (2021 Spring, undergraduate course)
 - Display engineering (2020 Fall, undergraduate course)
 - Programming for engineers I (2020 Fall, undergraduate course)
