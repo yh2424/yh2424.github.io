@@ -25,7 +25,7 @@ subtitle: Our team members !
 ---
 
 ### 배 영주, Youngjoo Bae
-#### Optical phase shifter, Master course (M1) yjbae9441[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/youngjoobae)
+#### Si Photonics, Master course (M1) yjbae9441[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/youngjoobae)
 ---
 
 ### 김 대홍, Daehong Kim
@@ -33,7 +33,7 @@ subtitle: Our team members !
 ---
 
 ### 안 성의, Seongui An
-#### Optical phase shifter, Master course (M1), asulang01@hanyang.ac.kr, [More about me](https://yh2424.github.io/people/seonguian)
+#### Si Photonics, Master course (M1), asulang01[at]]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/seonguian)
 ---
 
 ### 선 신개, Xinkai Sun
@@ -49,7 +49,7 @@ subtitle: Our team members !
 ---
 
 ### 노 태현, Taehyeon Noh
-#### Ferroelectric FET, 4th-year student, eddienoh[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/NTH)  
+#### Ferroelectric FET, 4th-year student, eddienoh[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/NTH)  
 ---
 
 ### 주 기준, Gijun Ju
@@ -57,7 +57,15 @@ subtitle: Our team members !
 ---
 
 ### 엄 태동, Tae-dong Um 
-#### Ferroelectric FET, 4th-year student, etd93[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/taedongum)
+#### Ferroelectric FET, 4th-year student, etd93[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/taedongum)
+---
+
+### 진 사민, Simin Chen 
+#### Si Photonics, 4th-year student, etd93[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/siminchen)
+---
+
+### 권 덕환, Deok Hwan Kwon 
+#### Ferroelectric FET, 4th-year student, etd93[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/deokhwankwon)
 ---
 
 
