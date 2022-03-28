@@ -9,10 +9,12 @@ Our research team aims to develope photonic and electronic semiconductor devices
 
 ![image](https://user-images.githubusercontent.com/32427749/160309730-8c00a7bd-d268-4878-a29e-19509ecbd113.png)
 
+<!--- 
 # Method 
 Design, fabrication and measurement of semiconductor electronic and photonic devices
 
 ![image](https://user-images.githubusercontent.com/32427749/160309954-5de92a80-c5ba-44e2-ab0d-0235c2489cbb.png)
+--->
 
 # Infrastructure
 Microelectronic fabrication and semiconductor device measurement setups
