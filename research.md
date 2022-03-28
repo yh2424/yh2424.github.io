@@ -23,7 +23,7 @@ Design, fabrication and measurement of semiconductor electronic and photonic dev
 
 
 # Infrastructure
-Microelectronic fabrication facility and semiconductor device measurement setups
+Microelectronic fabrication facility and semiconductor device measurement setup
     
 ![image](https://user-images.githubusercontent.com/32427749/160320702-2b384dc5-2cdc-4857-af47-d4562aed0171.png)
 
