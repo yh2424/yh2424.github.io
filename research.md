@@ -7,13 +7,18 @@ subtitle: We are interested in advanced photonic and electronic semiconductor de
 # Goal
 Our research team aims to develope photonic and electronic semiconductor devices  overcoming the conventional device limitations by exploring novel materials and device structure. We are highly motivated to solve fundamental technology problems by providing such advanced semiconductor devices in communication, computing, and sensing.
 
-![image](https://user-images.githubusercontent.com/32427749/130395125-1d09391e-bdd5-4dc9-beac-f008140a28b4.png)
+![image](https://user-images.githubusercontent.com/32427749/160309730-8c00a7bd-d268-4878-a29e-19509ecbd113.png)
+
+# Method and Infrastructure
+
+![image](https://user-images.githubusercontent.com/32427749/160309954-5de92a80-c5ba-44e2-ab0d-0235c2489cbb.png)
+
+
 
 # Specific fields of current interest
 - Si Photonics  
-- Electronics   
-- Mid IR Photonics  
-- GaN-based light sources    
+- Si Electronics (Processing-in-Memory) 
+- GaN-based light sources 
 
 # Collaborators and Sponsors 
 - Hangynag University ERICA
