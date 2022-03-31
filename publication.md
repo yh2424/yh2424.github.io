@@ -8,8 +8,8 @@ subtitle: List of Journal, Conference, and Patent
 ## Journal
 
 ### 2022
-- "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", submitted
 - "Study on memory characteristics of fin-shaped feedback field effect transistor", submitted
+- Younghyun Kim, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", Photonics Research (Accepted)
 
 ### 2021
 - Younghyun Kim, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021. [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
