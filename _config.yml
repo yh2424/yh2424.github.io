@@ -129,6 +129,16 @@ footer-link-col: "#404040"
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-XB600MT4F3"
+    anonymize_ip         : # true, false (default)
+
+
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
 
