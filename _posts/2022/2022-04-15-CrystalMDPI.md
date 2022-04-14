@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Special Issue "Semiconductor Optoelectronic Materials and Devices 2022"'
-date: '2022-03-20 00:00'
+date: '2022-04-15 00:00'
 excerpt: >-
   We kindly invite you to contribute your new and original research on “Semiconductor optoelectronic materials and devices” for sensing, communication, display, lighting, and computing.
 comments: true
@@ -16,6 +16,7 @@ Prof. Dr. Younghyun Kim
 Prof. Dr. Sanghyeon Kim
 Guest Editors
 
-Link to the ![Special Issue](https://www.mdpi.com/journal/crystals/special_issues/semiconductor_optoelectronic_materials_devices)
+Link to the [Special Issue](https://www.mdpi.com/journal/crystals/special_issues/semiconductor_optoelectronic_materials_devices)
 
-![image](https://user-images.githubusercontent.com/32427749/163492438-1252e0ff-90a1-4acf-ba2e-1354b9e51696.png)
+![image](https://user-images.githubusercontent.com/32427749/163492827-f1cb8a38-79af-4d1d-aa71-4af7cfa92bcc.png)
+
