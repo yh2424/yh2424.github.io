@@ -16,7 +16,7 @@ Prof. Dr. Younghyun Kim
 Prof. Dr. Sanghyeon Kim
 Guest Editors
 
-Link to the [Special Issue](https://www.mdpi.com/journal/crystals/special_issues/semiconductor_optoelectronic_materials_devices)
+Link to the [Official Website of Special Issue](https://www.mdpi.com/journal/crystals/special_issues/semiconductor_optoelectronic_materials_devices)
 
 ![image](https://user-images.githubusercontent.com/32427749/163492827-f1cb8a38-79af-4d1d-aa71-4af7cfa92bcc.png)
 
