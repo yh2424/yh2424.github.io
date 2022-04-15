@@ -12,9 +12,9 @@ With the revolution in information and communications technology, the field of s
 
 In this Special Issue, we kindly invite you to contribute your new and original research on “Semiconductor optoelectronic materials and devices” for sensing, communication, display, lighting, and computing.
 
-Prof. Dr. Younghyun Kim
-Prof. Dr. Sanghyeon Kim
-Guest Editors
+Prof. Dr. Younghyun Kim    
+Prof. Dr. Sanghyeon Kim    
+Guest Editors    
 
 Link to [Official Website of Special Issue](https://www.mdpi.com/journal/crystals/special_issues/semiconductor_optoelectronic_materials_devices)
 
