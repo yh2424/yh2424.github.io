@@ -6,12 +6,11 @@ subtitle:
 <p align='center'><img style='width:100%;' src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Youngjoo%20Bae&fontAlign=50&fontAlignY=40&color=gradient"></p>
 
 ## Youngjoo Bae, Undergraduate student
-#### 배 영주 (Korean), 裵映柱 (Hanja)
 
 ---
 
 ## **👩 About Me**
-Interested in manufacturing various devices using HZO, a ferroelectric material.
+#### 배 영주 (Korean), 裵映柱 (Hanja)
   
 ---
 
