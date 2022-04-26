@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Special Issue "Semiconductor Optoelectronic Materials and Devices 2022"'
+title: 'Call for paper, "Special Issue: Semiconductor Optoelectronic Materials and Devices 2022"'
 date: '2022-04-15 00:00'
 excerpt: >-
   We kindly invite you to contribute your new and original research on “Semiconductor optoelectronic materials and devices” for sensing, communication, display, lighting, and computing.
