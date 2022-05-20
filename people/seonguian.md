@@ -16,7 +16,7 @@ B.E. in Department of Photonics and Nanoelectronics, University of Hanyang ERICA
 
 ## **Awards**
 
-`2021.06` 캡스톤 경진대회 
+`2021.06` 캡스톤 경진대회 장려상 수상
 
 
 
