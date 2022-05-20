@@ -9,8 +9,7 @@ subtitle:
 안성의 (Korean), 安星宜(Hanja)
 
 Master course, Department of Photonics and Nanoelectronics,
-Office #505, Science & Tech. Building #2 Hanyang University ERICA
-
+Office #505, Science & Tech. Building #2 Hanyang University ERICA </dl>
 B.E. in Department of Photonics and Nanoelectronics, University of Hanyang ERICA Campus (2022)
 
 
@@ -37,6 +36,7 @@ E-mail : asulang01[at]hanyang.ac.kr
 <center>
 
 <h2> Tech Stack
+<h5><dl> Techs that I've used at least once</dl>
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/)
