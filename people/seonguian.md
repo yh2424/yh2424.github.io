@@ -11,7 +11,8 @@ subtitle:
 안성의 (Korean), 安星宜(Hanja)
 
 Master course, Department of Photonics and Nanoelectronics,
-Office #505, Science & Tech. Building #2 Hanyang University ERICA \n
+Office #505, Science & Tech. Building #2 Hanyang University ERICA
+
 B.E. in Department of Photonics and Nanoelectronics, University of Hanyang ERICA Campus (2022)
 
 
