@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Journal Publication - Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300 mm Si photonics platform'
+title: 'Journal Publication'
 date: '2022-05-27 10:00'
 excerpt: >-
   Title: Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300 mm Si photonics platform
