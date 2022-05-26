@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'Journal Publication - Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300 mm Si photonics platform'
+date: '2022-05-27 00:00'
+excerpt: >-
+  Title: Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300 mm Si photonics platform
+comments: true
+---
+![image](https://user-images.githubusercontent.com/32427749/120123532-51929100-c1ea-11eb-97d3-720128eaeffc.png)
+
+
+## Abstract
+We demonstrate monolithically integrated n-GaAs/p-Si depletion-type optical phase shifters fabricated on a 300 mm wafer-scale Si photonics platform. We measured the phase shifter performance using Mach–Zehnder modulators with the GaAs/Si optical phase shifters in both arms. A modulation efficiency of 𝑉𝜋𝐿 as low as 0.3 V·cm has been achieved, which is much lower compared to a carrier-depletion type Si optical phase shifter with pn junction. While propagation loss is relatively high at ∼6.5 dB/mm, the modulator length can be reduced by the factor of ∼4.2 for the same optical modulation amplitude of a Si reference Mach–Zehnder modulator, owing to the high modulation efficiency of the shifters.
+[Link](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)
+
+
+![image](https://user-images.githubusercontent.com/32427749/170589502-6d96a495-ccb0-4ada-a6ef-97d8e885b7e2.png)
+![image](https://user-images.githubusercontent.com/32427749/170589589-3f2e3af7-4587-4475-abb6-a57e6184a78f.png)
