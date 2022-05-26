@@ -6,7 +6,8 @@ excerpt: >-
   Title: Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300 mm Si photonics platform
 comments: true
 ---
-![image](https://user-images.githubusercontent.com/32427749/120123532-51929100-c1ea-11eb-97d3-720128eaeffc.png)
+![image](https://user-images.githubusercontent.com/32427749/170589502-6d96a495-ccb0-4ada-a6ef-97d8e885b7e2.png)
+![image](https://user-images.githubusercontent.com/32427749/170589589-3f2e3af7-4587-4475-abb6-a57e6184a78f.png)
 
 
 ## Abstract
@@ -14,5 +15,3 @@ We demonstrate monolithically integrated n-GaAs/p-Si depletion-type optical phas
 [Link](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)
 
 
-![image](https://user-images.githubusercontent.com/32427749/170589502-6d96a495-ccb0-4ada-a6ef-97d8e885b7e2.png)
-![image](https://user-images.githubusercontent.com/32427749/170589589-3f2e3af7-4587-4475-abb6-a57e6184a78f.png)
