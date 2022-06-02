@@ -54,19 +54,13 @@ subtitle: Our team members !
 
 ### 주 기준, Gijun Ju
 #### GaN-based light source, 4th-year student, jkj1832[at]hanyang.ac.kr [More about me](https://yh2424.github.io/people/gijunju)
----
 
-### 엄 태동, Tae-dong Um 
-#### Ferroelectric FET, 4th-year student, etd93[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/taedongum)
 ---
 
 ### 진 사민, Simin Chen 
 #### Si Photonics, 4th-year student, etd93[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/siminchen)
 ---
 
-### 권 덕환, Deok Hwan Kwon 
-#### Ferroelectric FET, 4th-year student, etd93[at]hanyang.ac.kr, [More about me](https://yh2424.github.io/people/deokhwankwon)
----
 
 
 # Alumni

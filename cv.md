@@ -98,6 +98,7 @@ Device Measurement: LCR meter, Semiconductor Parameter Analyzer, Tunable CW lase
 Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, frequency responses, eye diagrams etc.
 
 ## HONORS AND AWARD								    
+한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드, Nov. 24, 2021
 Award for Doctoral thesis in School of engineering, March 24 2015  
 Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 - March 2015  
 Japan Government Scholarship (MEXT) for M.S. student, April 2010 - Mar 2012  
@@ -109,12 +110,15 @@ Best student Award for courses in liberal arts, April 24 2008
 Korea-Japan Government Joint Scholarship, March 2006 - March 2010  
 
 ## CITATIONS										    
-[Google Scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en): 190 citations on Mar 2021   
-[ResearchGate](https://www.researchgate.net/profile/Younghyun_Kim4): 102 citations on Feb 02 2020  
+[Google Scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en): 233 citations on Jun 2022   
+[ResearchGate](https://www.researchgate.net/profile/Younghyun_Kim4): 178 citations on Jun 2022  
 
 ## PUBLICATION
 
-### Journal
+-	**Younghyun Kim***, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
+- Shinick Han, Younghyun Kim, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, "Study on memory characteristics of fin-shaped feedback field effect transistor"**, Semiconductor Science and Technology, Technol. 37 065006, 2022
+-	**Younghyun Kim**, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021
+-	**Younghyun Kim*** , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. 
 -	Sanghyeon Kim, **Younghyun Kim***, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: "Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter",  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020. [[Link]](https://ieeexplore.ieee.org/document/8984307)  
 -   Jung-Tack Yang, **Younghyun Kim**, Marzieh Pournoury, Jae-Bong Lee, Dong-Soo Bang, Tae-Kyung Kim, and Woo-Young Choi: "Influence of Emitter Width on the Performance of 975-nm (In,Ga)(As,P)/(Al,Ga)As High-power Laser Diodes",  Current Optics and Photonics, Vol. 3, No. 5, pp. 445-450, Oct. 25th, 2019. [[Link]](http://koreascience.or.kr/article/JAKO201930968645035.page)
 -	Minkyu Kim, Myungjin Shin, Min-Hyeong Kim, Byung-Min Yu, **Younghyun Kim**, Yoojin Ban, Stefan Lischke, Christian Mai, Lars Zimmermann, and Woo-Young Choi, "Large-signal SPICE model for depletion-type silicon ring modulators", Photonics Research Vol. 7, Issue 9, pp. 948-954, Aug. 7th, 2019. [[Link]](https://www.osapublishing.org/prj/abstract.cfm?uri=prj-7-9-948)
