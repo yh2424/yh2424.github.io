@@ -7,51 +7,50 @@ subtitle: Engineer interested in Photonics and Electronics
 Doctor of engineering
 
 Asistant professor
-Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
-  
-younghyunkim@hanyang.ac.kr  
-https://yh2424.github.io/  
+Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
+Email: younghyunkim@hanyang.ac.kr  
+Web: https://yh2424.github.io/  
 
 ## EDUCATION
-**The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
+####**The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
 Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators"  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
 
-**The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012**  
+####**The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012**  
 Dept. of Electrical Engineering,  
 Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Research on SiGe based Modulator for Opto-Electronic Integrated Circuit"  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi  
 
-**The University of Tokushima, Japan, B.E., Apr 2007 - Mar 2010**  
+#### **The University of Tokushima, Japan, B.E., Apr 2007 - Mar 2010**  
 Electrical Electronic Engineering,   
 Faculty and School of Engineering (GPA : 5.0/5.0),  
-Department Rank 1, First early graduation for 6 semesters in E.E. department  
+**Department Rank 1, First early graduation for 6 semesters in E.E. department**
 Thesis: "Study on C-V Characteristics of GaN MOSFETs"  
 Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao  
 
 ##  WORK EXPERIENCE									    
-**Hanyang University ERICA, Assistant professor, Sep 2020 - Present**  
+#### Hanyang University ERICA, Assistant professor, Sep 2020 - Present  
 Department of Photonics and Nanoelectronics
 Department of Applied Physics (Joint appointment)   
 
-**IMEC, R&D Engineer, Jul 2018 - Aug 2020**  
-Si Photonics group  
+#### IMEC, R&D Engineer, Jul 2018 - Aug 2020
+Si Photonics team, I/O interconnect group  
 
-**Yonsei University, Postdoctoral Researcher, Apr 2017 - May 2018**  
+#### Yonsei University, Postdoctoral Researcher, Apr 2017 - May 2018
 High Speed Circuit & System Lab., Prof. Woo-young Choi  
 Alternative military service in South Korea (3-years obligation, Apr 2015 - Apr 2018)
 
-**Seoul Semiconductor/Viosys, Senior engineer, Apr 2015 - Mar 2017**  
+#### Seoul Semiconductor/Viosys, Senior engineer, Apr 2015 - Mar 2017  
 Frontier R&D center   
 Alternative military service in South Korea (3-years obligation, Apr 2015 - Apr 2018)  
 
-**IMEC, Belgium, Internship						Aug 2014 - Sept 2014**  
-Silicon photonics team,  
+#### IMEC, Belgium, Internship, Aug 2014 - Sept 2014  
+Si photonics team,  
 Advisor: Dr. Marianna Pantouvaki and Dr. Joris Van Compenhout  
 
-**Samsung Advanced Institute of Technology, Korea, Internship		Jul 2013 - Aug 2013**  
+#### Samsung Advanced Institute of Technology, Korea, Internship		Jul 2013 - Aug 2013  
 Graphene transistor team,  
 Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
@@ -60,6 +59,7 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 - 	Demonstration of the new-generation photonic and electronic device with novel material and CMOS-compatible technology  
 -   Design, simulation, fabrication, characterization, and modeling of semiconductor devices
 
+<!--
 ## RESEARCH EXPERIENCE								    
 **Developement of Si Mach-Zehnder modulators, IMEC, July 2018 - Aug 2020**  
 
@@ -87,7 +87,9 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 **GaN Power MOSFET				Univ. of Tokushima, Sept 2009 - Mar 2010**  
 	  GaN power transistors have the potential to reduce energy comparing to the conventional Si-based power transistors due to high breakdown voltage and speed switching. In this work, we demonstrated a GaN MOSFET with a silane-based SiO2 insulator by PECVD, which enables operation of 15-V gate voltage with ignorable leakage current.
+-->
 
+<!-- 
 ## SKILLS										    
 Programing language: Python, MATLAB, TCL, Perl etc.  
 Device Layout: Cadense, Klayout etc.  
@@ -96,6 +98,7 @@ Device Fabrication: many experience of device fabrications such as optical modul
 Device Process Inspection: Raman spectroscopy, PL, SEM, AFM, XRD, SIMS etc.
 Device Measurement: LCR meter, Semiconductor Parameter Analyzer, Tunable CW laser source, Oscilloscope, InGaAs PD, Attenuator, Polarizer, Network analyzer (LCA), LabView, etc.
 Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, frequency responses, eye diagrams etc.
+-->
 
 ## HONORS AND AWARD								    
 한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드, Nov. 24, 2021
@@ -116,9 +119,9 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 ## PUBLICATION
 
 -	**Younghyun Kim***, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
-- Shinick Han, Younghyun Kim, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, "Study on memory characteristics of fin-shaped feedback field effect transistor"**, Semiconductor Science and Technology, Technol. 37 065006, 2022
--	**Younghyun Kim**, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021
--	**Younghyun Kim*** , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. 
+- Shinick Han, **Younghyun Kim**, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, "Study on memory characteristics of fin-shaped feedback field effect transistor"**, Semiconductor Science and Technology, Technol. 37 065006, 2022 [[Link]](https://iopscience.iop.org/article/10.1088/1361-6641/ac643e/meta)  
+-	**Younghyun Kim**, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021 [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
+-	**Younghyun Kim*** , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
 -	Sanghyeon Kim, **Younghyun Kim***, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: "Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter",  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020. [[Link]](https://ieeexplore.ieee.org/document/8984307)  
 -   Jung-Tack Yang, **Younghyun Kim**, Marzieh Pournoury, Jae-Bong Lee, Dong-Soo Bang, Tae-Kyung Kim, and Woo-Young Choi: "Influence of Emitter Width on the Performance of 975-nm (In,Ga)(As,P)/(Al,Ga)As High-power Laser Diodes",  Current Optics and Photonics, Vol. 3, No. 5, pp. 445-450, Oct. 25th, 2019. [[Link]](http://koreascience.or.kr/article/JAKO201930968645035.page)
 -	Minkyu Kim, Myungjin Shin, Min-Hyeong Kim, Byung-Min Yu, **Younghyun Kim**, Yoojin Ban, Stefan Lischke, Christian Mai, Lars Zimmermann, and Woo-Young Choi, "Large-signal SPICE model for depletion-type silicon ring modulators", Photonics Research Vol. 7, Issue 9, pp. 948-954, Aug. 7th, 2019. [[Link]](https://www.osapublishing.org/prj/abstract.cfm?uri=prj-7-9-948)
