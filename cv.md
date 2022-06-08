@@ -12,12 +12,12 @@ Email: younghyunkim@hanyang.ac.kr
 Web: https://yh2424.github.io/  
 
 ## EDUCATION
-####**The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
+#### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
 Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators"  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
 
-####**The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012**  
+#### **The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012**  
 Dept. of Electrical Engineering,  
 Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Research on SiGe based Modulator for Opto-Electronic Integrated Circuit"  
