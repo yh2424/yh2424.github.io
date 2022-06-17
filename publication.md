@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Publication
-subtitle: List of Journal, Conference, and Patent
+subtitle: List of Journal, Patent, and Conference
 ---
 
 
-## Journal
+# Journal
 
 ### 2022
 - Younghyun Kim*, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, **"Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform"**, Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
