@@ -117,8 +117,10 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 [ResearchGate](https://www.researchgate.net/profile/Younghyun_Kim4): 178 citations on Jun 2022  
 
 ## PUBLICATION
+#### JOURNAL 
 
 -	**Younghyun Kim***, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
+- Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, Younghyun Kim, Jaekyun Kim, and Sangwan Sim, **"Ultrafast tunable broadband optical anisotropy in two-dimensional ReS~2~"**, Physical Review Applied, Accepted 8 June 2022 [[Link]](https://journals.aps.org/prapplied/accepted/a2079A9eYe71a00523a914a53c752331041d27b6b)  
 - Shinick Han, **Younghyun Kim**, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, "Study on memory characteristics of fin-shaped feedback field effect transistor", Semiconductor Science and Technology, Technol. 37 065006, 2022. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6641/ac643e/meta)  
 -	**Younghyun Kim**, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021. [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
 -	**Younghyun Kim*** , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
@@ -142,7 +144,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, Akamatsu Shiro, **Kim Young Hyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : "GaN MOSFET with a gate SiO2 insulator deposited by silane-based plasma-enhanced chemical vapor deposition", physica status solidi (c), Vol.8, No.2, pp.457-460, Jan. 13th, 2011. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssc.201000489)  
 
 
-### PATENT (Granted)
+#### PATENT (Granted)
 - US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
 - US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
 - US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
@@ -161,7 +163,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 - US10146070B2, Optical modulator and method of manufacturing same (광학 변조기와 이의 제조 방법 ), December 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10146070B2.pdf)  
 
 
-### Conference
+#### Conference
 -	**Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout : "Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter," 2019, doi: 10.1109/group4.2019.8926128.    
 -   **Y. Kim**, J.-T Yang and W.-Y Choi: "Simulation of high-power laser diode with improved heat sinking structure using epitaxial liftoff technique", SPIE Photonics West, San Franscisco, USA roc. SPIE 10514, High-Power Diode Laser Technology XVI, 105140C (27 February 2018); doi: 10.1117/12.2288639    
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang and S. Takagi: "CMOS Photonics Based on SiGe and Ge for near and Mid-infrared Photonic Integrated Circuits (Invited)", Solid State Devices and Materials (SSDM), Tsukuba, Japan, (2016) 
