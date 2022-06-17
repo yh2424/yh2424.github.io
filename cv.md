@@ -3,13 +3,16 @@ layout: page
 title: Curriculum vitae
 subtitle: Engineer interested in Photonics and Electronics
 ---
-# YOUNGHYUN KIM
-Doctor of engineering
+<center>Curriculum vitae
+</center>
 
-Asistant professor
+# YOUNGHYUN KIM
+#### **Engineer interested in Photonics and Electronics**
+
+Asistant professor, Ph.D. 
 Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
-Email: younghyunkim@hanyang.ac.kr  
-Web: https://yh2424.github.io/  
+Email: younghyunkim@hanyang.ac.kr 
+Web: https://yh2424.github.io/
 
 ## EDUCATION
 #### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
