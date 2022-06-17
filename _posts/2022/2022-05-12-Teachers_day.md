@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teachers day, 2022'
+title: 'Teacher''s day, 2022'
 date: '2022-05-12 13:00'
 excerpt: >-
   스승의 날을 맞아 교수님께 감사의 마음을 전달하였습니다.
