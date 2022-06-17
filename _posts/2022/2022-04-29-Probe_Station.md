@@ -1,15 +1,14 @@
 ---
 layout: post
-title: '반도체 소자 특성 측정 장비'
+title: 'Probe station for semiconductor device measurement in ASDL'
 date: '2022-04-29 00:00'
 excerpt: >-
-  mstech의 Probe station이 차세대 반도체 소자 연구실(ASDL)의 실험실에 도입되었습니다.  
+  Probe station이 차세대 반도체 소자 연구실(ASDL)의 실험실에 도입되었습니다.  
 comments: true
 ---
 - MStech probe station이 차세대 반도체 소자 연구실(ASDL)의 실험실 508호에 도입되었습니다!
 - 본 장비는 I-V, C-V 등 여러 전기적 특성을 분석하는데 사용이 가능합니다.
 - 본 장비 활용으로 연구개발에 큰 도움이 될 것으로 기대됩니다.
-
 
 
 <figure class="third">
