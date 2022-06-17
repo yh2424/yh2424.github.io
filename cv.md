@@ -40,11 +40,11 @@ Si Photonics team, I/O interconnect group
 
 #### Yonsei University, Postdoctoral Researcher, Apr 2017 - May 2018
 High Speed Circuit & System Lab., Prof. Woo-young Choi  
-Alternative military service in South Korea (3-years obligation, Apr 2015 - Apr 2018)
+Alternative military service in South Korea (병역특례, 3-years obligation, Apr 2015 - Apr 2018)
 
 #### Seoul Semiconductor/Viosys, Senior engineer, Apr 2015 - Mar 2017  
 Frontier R&D center   
-Alternative military service in South Korea (3-years obligation, Apr 2015 - Apr 2018)  
+Alternative military service in South Korea (병역특례, 3-years obligation, Apr 2015 - Apr 2018)  
 
 #### IMEC, Belgium, Internship, Aug 2014 - Sept 2014  
 Si photonics team,  
@@ -119,8 +119,8 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 ## PUBLICATION
 
 -	**Younghyun Kim***, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
-- Shinick Han, **Younghyun Kim**, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, "Study on memory characteristics of fin-shaped feedback field effect transistor"**, Semiconductor Science and Technology, Technol. 37 065006, 2022 [[Link]](https://iopscience.iop.org/article/10.1088/1361-6641/ac643e/meta)  
--	**Younghyun Kim**, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021 [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
+- Shinick Han, **Younghyun Kim**, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, "Study on memory characteristics of fin-shaped feedback field effect transistor", Semiconductor Science and Technology, Technol. 37 065006, 2022. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6641/ac643e/meta)  
+-	**Younghyun Kim**, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021. [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
 -	**Younghyun Kim*** , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
 -	Sanghyeon Kim, **Younghyun Kim***, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: "Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter",  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020. [[Link]](https://ieeexplore.ieee.org/document/8984307)  
 -   Jung-Tack Yang, **Younghyun Kim**, Marzieh Pournoury, Jae-Bong Lee, Dong-Soo Bang, Tae-Kyung Kim, and Woo-Young Choi: "Influence of Emitter Width on the Performance of 975-nm (In,Ga)(As,P)/(Al,Ga)As High-power Laser Diodes",  Current Optics and Photonics, Vol. 3, No. 5, pp. 445-450, Oct. 25th, 2019. [[Link]](http://koreascience.or.kr/article/JAKO201930968645035.page)
