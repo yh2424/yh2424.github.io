@@ -6,7 +6,7 @@ subtitle: Engineer interested in Photonics and Electronics
 <center>Curriculum vitae
 </center>
 
-# YOUNGHYUN KIM
+# YOUNGHYUN KIM 
 #### **Engineer interested in Photonics and Electronics**
 
 Asistant professor, Ph.D. 
@@ -32,6 +32,8 @@ Faculty and School of Engineering (GPA : 5.0/5.0),
 **Department Rank 1, First early graduation for 6 semesters in E.E. department**
 Thesis: "Study on C-V Characteristics of GaN MOSFETs"  
 Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao  
+
+
 
 ##  WORK EXPERIENCE									    
 #### Hanyang University ERICA, Assistant professor, Sep 2020 - Present  
