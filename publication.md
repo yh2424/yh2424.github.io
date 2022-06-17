@@ -50,6 +50,25 @@ subtitle: List of Journal, Conference, and Patent
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, Akamatsu Shiro, **Kim Young Hyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : "GaN MOSFET with a gate SiO2 insulator deposited by silane-based plasma-enhanced chemical vapor deposition", physica status solidi (c), Vol.8, No.2, pp.457-460, Jan. 13th, 2011. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssc.201000489)  
 
 
+## PATENT 
+- US20220011641A1, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 13, 2022 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20220011641A1.pdf)     
+- US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
+- US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
+- US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
+- US10833057B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), Nov 10, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10833057B2.pdf)    
+- KR1020190137521, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR1020190137521B2.pdf)    
+- US10606121B2, Display apparatus (디스플레이 장치), March 31, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10606121B2.pdf)    
+- US10332949B2, Display apparatus (디스플레이 장치), June 25, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10332949B2.pdf)    
+- US10312225B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 4, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10312225B2.pdf)    
+- US9997688B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 12, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9997688B2.pdf)    
+- US9887184B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), February 6, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9887184B2.pdf)    
+- US10096647B2, Display apparatus having a plurality of reflective electrodes (다수의 반사 전극을 가지는 디스플레이 장치), October 9, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10096647B2.pdf)    
+- US10068884B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), September 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10068884B2.pdf)    
+- US10050026B2, Display apparatus (디스플레이 장치), August 14, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10050026B2.pdf)    
+- US9978727B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), May 22, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9978727B2.pdf)    
+- US10146070B2, Optical modulator and method of manufacturing same (광학 변조기와 이의 제조 방법 ), December 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10146070B2.pdf)  
+
+
 ## Conference
 -	**Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout : "Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter," 2019, doi: 10.1109/group4.2019.8926128.    
 -   **Y. Kim**, J.-T Yang and W.-Y Choi: "Simulation of high-power laser diode with improved heat sinking structure using epitaxial liftoff technique", SPIE Photonics West, San Franscisco, USA roc. SPIE 10514, High-Power Diode Laser Technology XVI, 105140C (27 February 2018); doi: 10.1117/12.2288639 [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10514/105140C/Numerical-analysis-of-high-power-broad-area-laser-diode-with/10.1117/12.2288639.short?webSyncID=a0ce46e9-e6ec-7a49-dab6-a0cbad059329&sessionGUID=ad883c9d-902b-c999-3ced-268bead49a28&SSO=1)
@@ -72,22 +91,4 @@ subtitle: List of Journal, Conference, and Patent
 -	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-On-Insulator by Ge Condensation and Regrowth Technique for Optical Modulator," ISPEC, 14th Nov 2011.
 -	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-on-Insulator waveguide for Optical Modulator", IEEE Photonics Conference, Oct. 2011. 
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, **Kim YoungHyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : GaN MOSFET with Gate SiO2 Deposited by Silane-Based PECVD, The 37th International Symposium on Compound Semiconductors, Takamatsu, May 2010.
-
-## PATENT 
-- US20220011641A1, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 13, 2022 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20220011641A1.pdf)     
-- US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
-- US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
-- US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
-- US10833057B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), Nov 10, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10833057B2.pdf)    
-- KR1020190137521, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR1020190137521B2.pdf)    
-- US10606121B2, Display apparatus (디스플레이 장치), March 31, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10606121B2.pdf)    
-- US10332949B2, Display apparatus (디스플레이 장치), June 25, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10332949B2.pdf)    
-- US10312225B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 4, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10312225B2.pdf)    
-- US9997688B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 12, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9997688B2.pdf)    
-- US9887184B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), February 6, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9887184B2.pdf)    
-- US10096647B2, Display apparatus having a plurality of reflective electrodes (다수의 반사 전극을 가지는 디스플레이 장치), October 9, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10096647B2.pdf)    
-- US10068884B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), September 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10068884B2.pdf)    
-- US10050026B2, Display apparatus (디스플레이 장치), August 14, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10050026B2.pdf)    
-- US9978727B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), May 22, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US9978727B2.pdf)    
-- US10146070B2, Optical modulator and method of manufacturing same (광학 변조기와 이의 제조 방법 ), December 4, 2018 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10146070B2.pdf)  
 
