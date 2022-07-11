@@ -8,9 +8,10 @@ subtitle: List of Journal, Patent, and Conference
 # Journal
 
 ### 2022
-- Younghyun Kim*, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, **"Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform"**, Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
+- Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, Younghyun Kim, Jaekyun Kim, and Sangwan Sim, **"Ultrafast tunable broadband optical anisotropy in two-dimensional ReS<sub>2</sub>"**, Physical Review Applied, Vol. 18,14010Accepted 8 June 2022 [[Link]](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.014010)  
 - Shinick Han, Younghyun Kim, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, **"Study on memory characteristics of fin-shaped feedback field effect transistor"**, Semiconductor Science and Technology, Technol. 37 065006, 2022  [[Link]](https://iopscience.iop.org/article/10.1088/1361-6641/ac643e/meta)  
-- Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, Younghyun Kim, Jaekyun Kim, and Sangwan Sim, **"Ultrafast tunable broadband optical anisotropy in two-dimensional ReS<sub>2</sub>"**, Physical Review Applied, Accepted 8 June 2022 [[Link]](https://journals.aps.org/prapplied/accepted/a2079A9eYe71a00523a914a53c752331041d27b6b)  
+- Younghyun Kim*, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, **"Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform"**, Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
+
 
 ### 2021
 - Younghyun Kim, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, **"Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review"**, Micromachines , vol. 12, 625, 2021. [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
