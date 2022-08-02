@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Event, Professor's b-day'
+title: 'Event - Professor''s B-day'
 date: '2022-08-01 10:00'
 excerpt: >-
   교수님 생신을 맞아 학생들이 교수님께 케이크와 꽃다발로 마음을 전달하였습니다.
