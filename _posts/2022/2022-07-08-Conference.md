@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Invited talk - Photonics Conference 2021'
+title: 'Invited talk - AWAD 2022'
 date: '2022-07-08 23:59'
 excerpt: >-
   AWAD2022 국제학회에서 김영현 교수님이 초청강연을 하였습니다.  
