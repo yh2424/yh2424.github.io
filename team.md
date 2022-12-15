@@ -24,44 +24,44 @@ subtitle: Our team members !
 # Researcher
 
 ### 진 태원, Taewon Jin
-#### Ferroelectric FET, Master course (M1), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
+#### Master course (M1), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
 ---
 
 ### 배 영주, Youngjoo Bae
-#### Si Photonics, Master course (M1) yjbae9441[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### Master course (M1) yjbae9441[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
 ---
 
 ### 김 대홍, Daehong Kim
-#### GaN-based light source, Master course (M1), altair45[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
+#### Master course (M1), altair45[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
 ---
 
 ### 안 성의, Seongui An
-#### Si Photonics, Master course (M1), asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
+#### Master course (M1), asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
 ---
 
 ### 선 신개, Xinkai Sun
-#### Ferroelectric FET, Master course (M1), q1320472838[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
+#### Master course (M1), q1320472838[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
 ---
 
 ### 박 승민, Seoungmin Park
-#### Ferroelectric FET, 4th-year student, psm401[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+#### 4th-year student, psm401[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
 ---
 
 ### 김 강석, Kangseok Kim 
-#### GaN-based light source, 4th-year student, ddol410[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
+#### 4th-year student, ddol410[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
 ---
 
 ### 노 태현, Taehyeon Noh
-#### Ferroelectric FET, 4th-year student, eddienoh[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+#### 4th-year student, eddienoh[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/NTH)  --->
 ---
 
 ### 주 기준, Gijun Ju
-#### GaN-based light source, 4th-year student, jkj1832[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### 4th-year student, jkj1832[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 
 ---
 
 ### 진 사민, Simin Chen 
-#### Si Photonics, 4th-year student, etd93[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+#### 4th-year student, etd93[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
 ---
 
 
