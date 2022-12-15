@@ -1,6 +1,9 @@
 #PyCharm
 .idea/
 /.idea/
+**/venv
+**/.idea
+**/__pycache__
 
 # project
 _site
