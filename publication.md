@@ -9,21 +9,20 @@ subtitle: List of Journal, Patent, and Conference
 
 ### In preparation
 - Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _In preparation_
-- Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, _In preparation_
-- Kangseok Kim, Gijun Ju, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, _Submitted_
 
 ### 2023
+- Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, _Submitted_
+- Kangseok Kim, Gijun Ju, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, _Submitted_
 - Taewon Jin, Sanghyeon Kim, Jae-Hoon Han, Dae-Hwan Ahn, Seong Ui An, Tae Hyeon Noh, Xinkai Sun, Cheol Jun Kim, Juhyuk Park, and Younghyun Kim*, **"Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays"**, Nanoscale Advances (2023) [[Link]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
 
 ### 2022
 - Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, Younghyun Kim, Jaekyun Kim, and Sangwan Sim, **"Ultrafast tunable broadband optical anisotropy in two-dimensional ReS<sub>2</sub>"**, Physical Review Applied, Vol.18, 14010 2022 [[Link]](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.014010)  
 - Shinick Han, Younghyun Kim, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, **"Study on memory characteristics of fin-shaped feedback field effect transistor"**, Semiconductor Science and Technology, Technol. 37 065006, 2022  [[Link]](https://iopscience.iop.org/article/10.1088/1361-6641/ac643e/meta)  
-- Younghyun Kim*, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, **"Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform"**, Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
-
+- Younghyun Kim*, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, **"Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform"**, Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)
 
 ### 2021
 - Younghyun Kim, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, **"Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review"**, Micromachines , vol. 12, 625, 2021. [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
--	Younghyun Kim* , Taewon Jin, and Youngjoo Bae. **"A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators"**, Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
+- Younghyun Kim* , Taewon Jin, and Youngjoo Bae. **"A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators"**, Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
 
 ### 2020
 -	Sanghyeon Kim, Younghyun Kim*, Yoojin Ban, Marianna Pantouvaki, and Joris Van Campenhout: **"Simulation study of a monolithic III-V/Si V-groove carrier depletion optical phase shifter"**,  IEEE Journal of Quantum Electronics 56, p. 6300208, Feb. 5th, 2020. [[Link]](https://ieeexplore.ieee.org/document/8984307)  
