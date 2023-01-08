@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - A micro-LED with a Hf-based ferroelectric ITZO TFT for display applications'
-date: '2022-05-26 23:00'
+date: '2023-01-05 10:00'
 excerpt: >-
   Title: Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays
 comments: true
