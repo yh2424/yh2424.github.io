@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Conference - 한국반도체학술대회 참가 및 발표(Korean Conference on Semiconductors 2023)'
+title: 'Conference-한국반도체학술대회 참가 및 발표(Korean Conference on Semiconductors 2023)'
 date: '2023-02-13 00:00'
 excerpt: >-
   석사 연구생인 진태원, 학부 연구생인 진사민 학생들이 반도체학술대회에서 포스터 발표를 하였습니다. 
@@ -27,7 +27,7 @@ ASDL 전자소자팀 학생들이 2023년 제30회 반도체학술대회에 참�
 
 
 - 연구실 학생들과 단체사진
-<img width="1120" alt="image" src="https://user-images.githubusercontent.com/32427749/219937068-292e7352-94b8-4813-a6b6-60a9c73f4bf5.png">
+![image](https://user-images.githubusercontent.com/32427749/219938923-472736db-5694-4e4f-a1b8-b3c9c5d23477.png)
 
 
 - 반도체 학술 대회 [[Link]](http://kcs.cosar.or.kr/2023/index.jsp)
