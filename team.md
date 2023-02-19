@@ -24,44 +24,65 @@ subtitle: Our team members !
 # Researcher
 
 ### 진 태원, Taewon Jin
-#### Master course (M1), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
+#### Master course (M2), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
 ---
 
 ### 배 영주, Youngjoo Bae
-#### Master course (M1) yjbae9441[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### Master course (M2) yjbae9441[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
 ---
 
 ### 김 대홍, Daehong Kim
-#### Master course (M1), altair45[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
+#### Master course (M2), altair45[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
 ---
 
 ### 안 성의, Seongui An
-#### Master course (M1), asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
+#### Master course (M2), asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
 ---
 
 ### 선 신개, Xinkai Sun
-#### Master course (M1), q1320472838[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
+#### Master course (M2), q1320472838[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
 ---
 
 ### 박 승민, Seoungmin Park
-#### 4th-year student, psm401[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+#### Master course (M1), psm401[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
 ---
 
 ### 김 강석, Kangseok Kim 
-#### 4th-year student, ddol410[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
+#### Master course (M1), ddol410[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
 ---
 
 ### 노 태현, Taehyeon Noh
-#### 4th-year student, eddienoh[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+#### Master course (M1), eddienoh[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
 ---
 
 ### 주 기준, Gijun Ju
-#### 4th-year student, jkj1832[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### Master course (M1), jkj1832[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 
 ---
 
 ### 진 사민, Simin Chen 
-#### 4th-year student, etd93[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+#### Master course (M1), etd93[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+
+---
+
+### 신 용진, Simin Chen 
+#### 4th-year student, djrm98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+
+---
+
+### 지 요섭, Simin Chen 
+#### 4th-year student, gowldytjq98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+
+---
+
+### 김 태인, Simin Chen 
+#### 4th-year student, tikim1201[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+
+---
+
+### 박 정현, Simin Chen 
+#### 4th-year student, gguk19[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+
 ---
 
 
