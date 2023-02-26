@@ -60,7 +60,7 @@ subtitle: List of Journal, Patent, and Conference
 
 
 ## PATENT 
-- US20220011641A1, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 13, 2022 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20220011641A1.pdf)     
+- US11556043B2, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 17, 2023 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11556043B2.pdf)     
 - US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
 - US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
 - US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
