@@ -7,7 +7,7 @@ excerpt: >-
 comments: true
 ---
 
-Simin Chen, graduate student in a master's program, presented our work at the IEEE EDTM 2023.  
+Simin Chen, a graduate student in a master's program, presented our work at the IEEE EDTM 2023.  
 (석사 연구생인 진사민 학생이 IEEE EDTM에서 포스터 발표를 하였습니다.)
 
 - Simin Chen's poster presentation 
