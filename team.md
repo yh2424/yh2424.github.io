@@ -65,23 +65,23 @@ subtitle: Our team members !
 
 ---
 
-### 신 용진, Simin Chen 
-#### 4th-year student, djrm98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+### 신 용진, Yongjin Shin
+#### 4th-year student, djrm98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
 
 ---
 
-### 지 요섭, Simin Chen 
-#### 4th-year student, gowldytjq98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+### 지 요섭, Yoseop Chi
+#### 4th-year student, gowldytjq98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/yoseopchi)--->
 
 ---
 
-### 김 태인, Simin Chen 
-#### 4th-year student, tikim1201[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+### 김 태인, Taein Kim
+#### 4th-year student, tikim1201[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/taeinkim)--->
 
 ---
 
-### 박 정현, Simin Chen 
-#### 4th-year student, gguk19[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+### 박 정현, Junghyun Park
+#### 4th-year student, gguk19[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/junghyunpark)--->
 
 ---
 
