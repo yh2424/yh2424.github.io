@@ -24,23 +24,23 @@ subtitle: Our team members !
 # Researcher
 
 ### 진 태원, Taewon Jin
-#### Master course (M2), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
+#### Master course (M3), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
 ---
 
 ### 배 영주, Youngjoo Bae
-#### Master course (M2) yjbae9441[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### Master course (M3) yjbae9441[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
 ---
 
 ### 김 대홍, Daehong Kim
-#### Master course (M2), altair45[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
+#### Master course (M3), altair45[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
 ---
 
 ### 안 성의, Seongui An
-#### Master course (M2), asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
+#### Master course (M3), asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
 ---
 
 ### 선 신개, Xinkai Sun
-#### Master course (M2), q1320472838[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
+#### Master course (M3), q1320472838[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
 ---
 
 ### 박 승민, Seoungmin Park
