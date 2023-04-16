@@ -85,6 +85,11 @@ subtitle: Our team members !
 
 ---
 
+### 윤 석현, Seokhyeon Yun
+#### 3rd-year student, dbsminan[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/taeinkim)--->
+
+---
+
 
 
 # Alumni
