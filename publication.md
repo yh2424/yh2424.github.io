@@ -101,4 +101,3 @@ subtitle: List of Journal, Patent, and Conference
 -	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-On-Insulator by Ge Condensation and Regrowth Technique for Optical Modulator," ISPEC, 14th Nov 2011.
 -	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-on-Insulator waveguide for Optical Modulator", IEEE Photonics Conference, Oct. 2011. 
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, **Kim YoungHyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : GaN MOSFET with Gate SiO2 Deposited by Silane-Based PECVD, The 37th International Symposium on Compound Semiconductors, Takamatsu, May 2010.
-
