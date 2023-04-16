@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Public Release - Micro LED with Hf-based ferroelectric ITZO TFT for display applications'
-date: '2023-03-07 00:00'
+title: '언론 보도 - Programmable Micro-LED display pixel with Hf-based ferroelectric ITZO TFT'
+date: '2023-04-07 00:00'
 excerpt: >-
-  Nanoscale advances에 등재된 "Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays" 가 뉴스로 나왔습니다.
+  지난 1월에 Nanoscale advances에 등재된 "Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays" [[Link]](https://yh2424.github.io/2023-01-05-Publication/)
+가 언론에 소개 되었습니다. 
 comments: true
 ---
 
