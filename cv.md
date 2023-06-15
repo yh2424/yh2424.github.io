@@ -9,9 +9,9 @@ subtitle: Engineer interested in Photonics and Electronics
 # YOUNGHYUN KIM 
 #### **Engineer interested in Photonics and Electronics**
 
-Asistant professor, Ph.D. 
-Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
-Email: younghyunkim@hanyang.ac.kr 
+Asistant professor, Ph.D.   
+Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA  
+Email: younghyunkim@hanyang.ac.kr   
 Web: https://yh2424.github.io/
 
 ## EDUCATION
@@ -39,6 +39,9 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 #### Hanyang University ERICA, Assistant professor, Sep 2020 - Present  
 Department of Photonics and Nanoelectronics
 Department of Applied Physics (Joint appointment)   
+
+#### Director of Neuromorphic Materials and Devices, Mar 2023 - Present
+Pebble-Square, Inc. 
 
 #### IMEC, R&D Engineer, Jul 2018 - Aug 2020
 Si Photonics team, I/O interconnect group  
