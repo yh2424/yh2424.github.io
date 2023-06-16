@@ -17,10 +17,10 @@ comments: true
 <img width="858" alt="image" src="https://github.com/yh2424/yh2424.github.io/assets/32427749/92e0c121-c8ef-45fb-8144-79c4fa979a24">
 <img width="864" alt="image" src="https://github.com/yh2424/yh2424.github.io/assets/32427749/639ba313-3d7d-441b-a3a8-16f208b2fd30">
 
-- 학회 프로그램 
+- 학회 프로그램  
 <img width="1213" alt="image" src="https://github.com/yh2424/yh2424.github.io/assets/32427749/b4a6f5c2-6e0d-4423-8008-9626215cfeed">
 
-- 학회 포스터
+- 학회 포스터  
 ![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/52bd85ed-992b-4f99-b4a2-aecd02433d7a)
 
 
