@@ -15,7 +15,7 @@ on a Silicon photonics platform"를 주제로 초대되어 2023년 6월 1일 부
 - 학회 프로그램 
 ![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/bf87b310-93b0-4d48-8692-490d09e1a022)
 
-- 학회 포스터
+- 학회 포스터  
 ![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/52bd85ed-992b-4f99-b4a2-aecd02433d7a)
 
 
