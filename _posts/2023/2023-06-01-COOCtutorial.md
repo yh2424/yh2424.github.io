@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conference-COOC2023 Tutorial'
-date: '2023-06-01 23:58'
+date: '2023-06-01 23:59'
 excerpt: >-
   제30회 광전자 및 광통신 학술대회 (COOC 2023)에서 김영현 교수님이 단기강좌를 진행하였습니다.
 comments: true
