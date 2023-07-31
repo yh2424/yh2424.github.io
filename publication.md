@@ -9,7 +9,7 @@ subtitle: List of Journal, Patent, and Conference
 
 ### In preparation
 - Xinkai Sun, ..., Younghyun Kim*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, _In preparation_
-- Daehong Kim, ..., Younghyun Kim*, **"Numerical Analysis on Double Stripe Structure for Narrow-Ribbed High-Power Laser Diodes"**, _In preparation_
+- Daehong Kim, ..., Younghyun Kim*, **"Numerical Analysis on Double Stripe Structure for Narrow-Ribbed High-Power Laser Diodes"**, _Submitted_
 - Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _Submitted_
 - Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, _Submitted_
 
