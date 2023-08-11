@@ -93,7 +93,7 @@ subtitle: Our team members !
 ---
 
 ### 윤 석현, Seokhyeon Yun
-#### 3rd-year student, dbsminan[at]hanyang.ac.kr<!---
+#### 3rd-year student, dbsminan@hanyang.ac.kr<!---
 
 ---
 
