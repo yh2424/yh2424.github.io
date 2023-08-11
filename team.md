@@ -88,7 +88,7 @@ subtitle: Our team members !
 ---
 
 ### 왕 택위, Zewei Wang 
-#### 4th-year student, wangzewei@hanyang.ac.kr<!---
+#### 4th-year student, wangzewei@hanyang.ac.kr
 
 ---
 
