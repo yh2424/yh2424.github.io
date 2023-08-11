@@ -87,12 +87,40 @@ subtitle: Our team members !
 
 ---
 
-### 윤 석현, Seokhyeon Yun
-#### 3rd-year student, dbsminan[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/taeinkim)--->
+### 왕 택위, Zewei Wang 
+#### 4th-year student, wangzewei@hanyang.ac.kr<!---
 
 ---
 
+### 윤 석현, Seokhyeon Yun
+#### 3rd-year student, dbsminan[at]hanyang.ac.kr<!---
 
+---
+
+### 신 석영, seokyoung Shin
+#### 3th-year student, ssy6225@hanyang.ac.kr<!---
+
+---
+
+### 조 경진, KyungJin Jo
+#### 3th-year student, whrudwls41@hanyang.ac.kr<!---
+
+---
+
+### 정 현지, Hyunji Jeong
+#### 3rd-year student, eu326@hanyang.ac.kr<!---
+
+---
+
+### 정 희윤, Huiyun Jeong
+#### 3rd-year student, oriole1002@hanyang.ac.kr<!---
+
+---
+
+### 노 정완, Jungwan Noh
+#### 3th-year student, npower220@hanyang.ac.kr<!---
+
+---
 
 # Alumni
 
