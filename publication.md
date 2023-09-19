@@ -8,7 +8,10 @@ subtitle: List of Journal, Patent, and Conference
 # Journal
 
 ### In preparation
-- Xinkai Sun, ..., Younghyun Kim*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, _In preparation_
+- Taehyun Noh, ... Younghyun Kim*, **"(Tentative)2T FeDRAM using HZO-based FeFETs with a ITZO channel"**, _In Preparation_
+- SengUi Ahn, ... Younghyun Kim*, **"(Tentative)2T DRAM using ITZO FETs"**, _In Preparation_
+- SengUi Ahn, ... Younghyun Kim*, **"(Tentative)Stability of ITZO TFT"**, _In Preparation_
+- Xinkai Sun, ..., Younghyun Kim*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, _Submitted_
 - Daehong Kim, ..., Younghyun Kim*, **"Numerical Analysis on Double Stripe Structure for Narrow-Ribbed High-Power Laser Diodes"**, _Submitted_
 - Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _Submitted_
 
