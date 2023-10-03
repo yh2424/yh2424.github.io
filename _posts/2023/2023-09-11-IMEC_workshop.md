@@ -38,5 +38,6 @@ Authors: Youngjoo Bae, Younghyun Kim, Minkyu Kim
 ### About IMEC [[Link]](https://www.imec-int.com/en)
 Imec is a world-leading research and innovation center in nanoelectronics and digital technologies. Imec leverages its state-of-the-art R&D infrastructure and its team of more than 5,500 employees and top researchers, for R&D in advanced semiconductor and system scaling, silicon photonics, artificial intelligence, beyond 5G communications and sensing technologies, and in application domains such as health and life sciences, mobility, industry 4.0, agrofood, smart cities, sustainable energy, education, … Imec unites world-industry leaders across the semiconductor value chain, Flanders-based and international tech, pharma, medical and ICT companies, start-ups, and academia and knowledge centers. Imec is headquartered in Leuven (Belgium), and has research sites across Belgium, in the Netherlands, and representation in 3 continents. In 2022, imec's revenue (P&L) totaled 846 million euro.
 
+
 ![3AFEA26D-8079-41B0-BEA5-8C58F1EFAB7B_1_102_o](https://github.com/yh2424/yh2424.github.io/assets/32427749/73699edf-4043-4b3c-80a1-6cca9e649c0d)
 (The Old Town Hall, one of the most famous landmarks in Leuven where IMEC is located)
