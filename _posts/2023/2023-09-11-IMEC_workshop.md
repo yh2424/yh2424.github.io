@@ -19,9 +19,9 @@ comments: true
 ### Poster persentation by intern students 
 #### Intern students from ASDL
 - Title: Simulation of Poly-Si MOSCAP Modulator
-Authors: Youngjoo Bae, Younghyun Kim, Minkyu Kim
-- Title: Simulation of Poly-Si MOSCAP Modulator
-Authors: Youngjoo Bae, Younghyun Kim, Minkyu Kim
+Authors: Youngjoo Bae, Younghyun Kim, and Minkyu Kim
+- Title: Title: polarization equalization in an array of single-mode fibers 
+- Authors: Daehong Kim, Younghyun Kim, and Jeroen de Coster
 
 ![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/d4443a95-52c7-4128-a530-8365995c89eb)
 
