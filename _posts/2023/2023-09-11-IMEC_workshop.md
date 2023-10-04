@@ -6,6 +6,7 @@ excerpt: >-
   The IMEC-HYU workshop for R&D collaboration through a student internship program was conducted at IMEC, Leuven, Belgium. Additionally, Professor Younghyun Kim presented recent research on Hf-based Ferroelectric and amorphous ITZO-based FETs for future memory applications.
 comments: true
 ---
+### Highlights
 - The IMEC-HYU workshop for R&D collaboration through a student internship program was conducted at IMEC, Leuven, Belgium. 
 - Additionally, Professor Younghyun Kim presented recent research on Hf-based Ferroelectric and amorphous ITZO-based FETs for future memory applications.
 
