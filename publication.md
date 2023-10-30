@@ -16,8 +16,8 @@ subtitle: List of Journal, Patent, and Conference
 - Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _Submitted_
 
 ### 2023
-- Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, IEEE Jour. of Quant. Elec. _Accepted_ [[Link]](https://ieeexplore.ieee.org/document/10263591)
-- Kangseok Kim, Gijun Ju, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, Curr. Opt. Photon. 2023; 7(5): 496-503 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
+- Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, IEEE Jour. of Quant. Elec. Vol. 59, Iss.6, 2023 [[Link]](https://ieeexplore.ieee.org/document/10263591)
+- Kangseok Kim, Gijun Ju, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, Curr. Opt. Photon. 7(5): 496-503, 2023 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 - Taewon Jin, Sanghyeon Kim, Jae-Hoon Han, Dae-Hwan Ahn, Seong Ui An, Tae Hyeon Noh, Xinkai Sun, Cheol Jun Kim, Juhyuk Park, and Younghyun Kim*, **"Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays"**, Nanoscale Advances (2023) [[Link]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
 
 ### 2022
