@@ -12,10 +12,11 @@ subtitle: List of Journal, Patent, and Conference
 - SengUi Ahn, ... Younghyun Kim*, **"(Tentative)2T DRAM using ITZO FETs"**, _In Preparation_
 - SengUi Ahn, ... Younghyun Kim*, **"(Tentative)Stability of ITZO TFT"**, _In Preparation_
 - Xinkai Sun, ..., Younghyun Kim*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, _Submitted_
-- Daehong Kim, ..., Younghyun Kim*, **"Numerical Analysis on Double Stripe Structure for Narrow-Ribbed High-Power Laser Diodes"**, _Submitted_
 - Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _Submitted_
 
 ### 2023
+- Daehong Kim, Jung-Tack Yang, Woo-Young Choi, and Younghyun Kim, Younghyun Kim*, **"Numerical Analysis on Double Stripe Structure for Narrow-Ribbed High-Power Laser Diodes"**, IEEE Photonics Journal _Accepted_
+- Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices  _Accepted_
 - Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, IEEE Jour. of Quant. Elec. Vol. 59, Iss.6, 2023 [[Link]](https://ieeexplore.ieee.org/document/10263591)
 - Kangseok Kim, Gijun Ju, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, Curr. Opt. Photon. 7(5): 496-503, 2023 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 - Taewon Jin, Sanghyeon Kim, Jae-Hoon Han, Dae-Hwan Ahn, Seong Ui An, Tae Hyeon Noh, Xinkai Sun, Cheol Jun Kim, Juhyuk Park, and Younghyun Kim*, **"Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays"**, Nanoscale Advances (2023) [[Link]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
