@@ -72,23 +72,14 @@ subtitle: Our team members !
 
 ---
 
-### 지 요섭, Yoseop Chi
-#### 4th-year student, gowldytjq98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/yoseopchi)--->
-
----
-
-### 김 태인, Taein Kim
-#### 4th-year student, tikim1201[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/taeinkim)--->
-
----
-
-### 박 정현, Junghyun Park
-#### 4th-year student, gguk19[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/junghyunpark)--->
-
----
 
 ### 왕 택위, Zewei Wang 
 #### 4th-year student, wangzewei[at]hanyang.ac.kr
+
+---
+
+### Kanchisa Nonthasri 
+#### Intern student, grace.kanchisa[at]gmail.com 
 
 ---
 
@@ -97,7 +88,7 @@ subtitle: Our team members !
 
 ---
 
-### 신 석영, seokyoung Shin
+### 신 석영, Seokyoung Shin
 #### 3th-year student, ssy6225[at]hanyang.ac.kr
 
 ---
@@ -122,6 +113,8 @@ subtitle: Our team members !
 
 ---
 
+
+<!--- 
 # Alumni
 
 ### 김 유신, Yushin Kim
@@ -135,3 +128,20 @@ subtitle: Our team members !
 ### 정 재웅, Jaewoong Jung
 #### SiGe Optical Phase Shifter, 학부(캡스톤, 2021F), greg3073[at]hanyang.ac.kr
 ---
+
+### 지 요섭, Yoseop Chi
+#### 4th-year student, gowldytjq98[at]hanyang.ac.kr 
+
+---
+
+### 김 태인, Taein Kim
+#### 4th-year student, tikim1201[at]hanyang.ac.kr 
+
+---
+
+### 박 정현, Junghyun Park
+#### 4th-year student, gguk19[at]hanyang.ac.kr
+
+---
+
+--->
