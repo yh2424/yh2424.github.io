@@ -1,17 +1,19 @@
 ---
 layout: post
-title: 'Journal Publication - A PAM-4 100Gbps SiGe optical lumped MZ modulator for datacom application'
-date: '2023-09-27 10:00'
+title: 'Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode'
+date: '2023-10-25 10:00'
 excerpt: >-
-  Title: A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application
+  Title: Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode
 comments: true
 ---
 ## Proposed advanced modulator and its results
-![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/fe38b6fd-17df-432e-a58e-166240ce21c5)
-![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/a8e86180-68aa-4067-9456-7559543725dc)
+![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/63139a6e-eb45-4b31-8014-5aa9fe46d553)
+![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/c0bfe3d4-f7a2-420e-b16e-5b4cd91e3fa1)
+![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/1773a0d5-e199-4484-89d4-07c4e0c04b37)
+
 
 ## Abstract
-We propose the carrier-depletion type strained SiGe optical lumped Mach-Zehnder modulators (MZMs) with L-shape PN junction (LSPN) with a highly CMOS-compatible fabrication method. The device performance is numerically investigated and optimized by technology computer-aided design (TCAD) simulation. The optimized SiGe LSPN MZ modulator exhibits a high modulation efficiency of 0.52 Vcm for VπL with reverse bias voltages of 0V to -2V at 1310 nm wavelength, which is 3.5 times smaller than the conventional PN junction device thanks to strained SiGe. Furthermore, we carried out the large-signal simulation with 1-mW input power. As a result, we found that the SiGe LSPN MZ modulator can achieve 0.54 mW (-2.7 dBm) and 0.17 mW (-7.7 dBm) eye-openings for 50-Gbps NRZ-OOK and 100-Gbps PAM-4, respectively, taking advantage of single-drive configuration and optimizing input characteristics impedance. We expect this SiGe lumped MZ modulator can be one of the promising solutions for replacing a very long Si MZ modulator with traveling-wave electrodes.
-[[Link to Journal, IEEE Journal of Quantum Electronics]](https://ieeexplore.ieee.org/document/10263591)
+We present a detailed analysis of the light extraction efficiency (LEE) of the core-shell nanorod LED using finite-difference time-domain (FDTD) simulations. We found that the LEE has a deep dependence on source positions and polarization directions based on the calculated LEE results for every x and z position inside the core-shell nanorod structure. For the upper part (Pyramid) and the lower part (Sidewall) of the core-shell nanorod, the LEEs are different for Pyramid and Sidewall owing to total internal reflection (TIR) and the generated optical modes in the structure. As a result, the LEE of Sidewall is much larger than that of Pyramid. The averaged LEE of core-shell nanorod LED is also investigated with variable p-GaN thickness, n-GaN thickness, and height for the design guideline for the optimized LEE of core-shell nanorod LEDs.
+[[Link to Journal, Current Optics and Photonics]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
-Congratulations, Youngjoo!
+Congratulations, Kangseok and Gijun!
