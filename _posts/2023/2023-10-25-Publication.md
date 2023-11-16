@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode'
+title: 'Journal Publication - Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode'
 date: '2023-10-25 10:00'
 excerpt: >-
   Title: Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode
