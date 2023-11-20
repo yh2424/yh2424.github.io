@@ -83,7 +83,7 @@ subtitle: Our team members !
 
 ---
 
-### 윤 석현, Seokhyeon Yun
+### 윤 석현, Seokhyeon Yoon
 #### 3rd-year student, dbsminan[at]hanyang.ac.kr
 
 ---
@@ -93,7 +93,7 @@ subtitle: Our team members !
 
 ---
 
-### 조 경진, KyungJin Jo
+### 조 경진, Kyungjin Jo
 #### 3th-year student, whrudwls41[at]hanyang.ac.kr
 
 ---
