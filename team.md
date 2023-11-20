@@ -112,6 +112,10 @@ subtitle: Our team members !
 #### 3th-year student, npower220[at]hanyang.ac.kr
 
 ---
+### 이 종건, Jonggeon Lee
+#### 3th-year student, neosue10[at]hanyang.ac.kr
+
+---
 
 
 <!--- 
