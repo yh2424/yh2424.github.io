@@ -26,7 +26,7 @@ Innovative play continues.
 - Excellence Award (Korea Industrial Technology Promotion Agency Award) 10 teams: KRW 2 million prize (by team)
 - Special Award (Director of R&D Organization Award) 10 teams: KRW 1 million in prize money (by company)
 
-## 2023 Industry-Academic Project Challenge 2-way advance list
+### 2023 Industry-Academic Project Challenge 2-way advance list
 ![그림1](https://github.com/yh2424/yh2424.github.io/assets/80964488/db1ec904-deba-493b-8d8d-ea15deb55ff6)
 - Devengers Team : Seoungmin Park, Taehyeon Noh, Kangseok Kim
 
