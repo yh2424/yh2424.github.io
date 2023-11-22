@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INNOVATION PLAY_2023 산학 프로젝트 챌린지'
+title: 'Student award - Industry-Academia Project Challenge'
 date: '2023-11-21 10:00'
 excerpt: >-
   Innovative human resources and industrial projects for master's and doctorate degrees
