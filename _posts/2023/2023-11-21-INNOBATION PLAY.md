@@ -6,7 +6,7 @@ excerpt: >-
   Innovative human resources and industrial projects for master's and doctorate degrees
 comments: true
 ---
-### 
+
 ### Highlights
 - In 2023, ASDL master's courses Seoungmin Park, Kangseok Kim, and Taehyeon Noh participated in an industry-academic project organized by the Ministry of Trade, Industry and Energy and won the final Korea Industrial Technology Promotion Agency Award for "Charge Trap-based Memory Device Display Pixel Integration."
 
