@@ -6,7 +6,7 @@ excerpt: >-
   Title: Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode
 comments: true
 ---
-## Proposed advanced modulator and its results
+## A target nanorod LED and its results
 ![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/63139a6e-eb45-4b31-8014-5aa9fe46d553)
 ![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/c0bfe3d4-f7a2-420e-b16e-5b4cd91e3fa1)
 ![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/1773a0d5-e199-4484-89d4-07c4e0c04b37)
