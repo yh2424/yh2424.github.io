@@ -6,13 +6,14 @@ excerpt: >-
   Innovative human resources and industrial projects for master's and doctorate degrees
 comments: true
 ---
-### In 2023, ASDL master's courses Seoungmin Park, Kangseok Kim, and Taehyeon Noh participated in an industry-academic project organized by the Ministry of Trade, Industry and Energy and won the final Korea Industrial Technology Promotion Agency Award for "Charge Trap-based Memory Device Display Pixel Integration."
+### 
+### Highlights
+- In 2023, ASDL master's courses Seoungmin Park, Kangseok Kim, and Taehyeon Noh participated in an industry-academic project organized by the Ministry of Trade, Industry and Energy and won the final Korea Industrial Technology Promotion Agency Award for "Charge Trap-based Memory Device Display Pixel Integration."
 
 ![산학프로젝트챌린지 홈페이지](https://github.com/yh2424/yh2424.github.io/assets/80964488/991c7a3b-3609-43d4-80a7-4ffa1a7a2a5e)
 [[Link]](https://co-pl.kr/)
 
-
-# Theme of the contest : 
+# About the contest : 
 - "2023 Industry-Academic Project Challenge," a link between Korean innovative talents, masters and Ph.D., and industry, has begun.
 Amid new global competition, the Korean industry is heading for new growth.
 Now that the attention of the global industry has begun, focusing on high-tech industries such as semiconductors, secondary batteries, robots, AI and eco-friendly shipbuilding, it is time for innovative talent to play an active role.
@@ -38,4 +39,4 @@ Innovative play continues.
 ![시상식3](https://github.com/yh2424/yh2424.github.io/assets/80964488/1a4e6c25-e774-4c43-a2ce-7fa2d6b4db59)
 ![시상식4](https://github.com/yh2424/yh2424.github.io/assets/80964488/8ff75354-3910-4167-8817-75a19d6dfcdd)
 
-### Once again, congratulations on winning the award. I look forward to the rest of my master's life and good research.
+Congratulations Seoungmin, Kangseok, and Taehyeon!
