@@ -6,6 +6,8 @@ excerpt: >-
   Title: Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure
 comments: true
 ---
+
+
 ## Proposed high-power laser diode structure and its results
 ![Graphical abstract](https://github.com/yh2424/yh2424.github.io/assets/77374108/a23f4bde-5ccc-44c7-9dbb-b97ac025d251)
 
