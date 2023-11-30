@@ -1,19 +1,24 @@
 ---
 layout: post
-title: 'Journal Publication - Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode'
+title: 'Journal Publication - Improved Far-Field Angle in High-Power Laser Diodes by Double Stripe Structure'
 date: '2023-11-29 10:00'
 excerpt: >-
-  Title: Numerical Analysis of Light Extraction Efficiency of a Core-shell Nanorod Light-emitting Diode
+  Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure
 comments: true
 ---
-## A target nanorod LED and its results
-![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/63139a6e-eb45-4b31-8014-5aa9fe46d553)
-![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/c0bfe3d4-f7a2-420e-b16e-5b4cd91e3fa1)
-![image](https://github.com/jordan-kim/modesolverhelper/assets/77437180/1773a0d5-e199-4484-89d4-07c4e0c04b37)
+## Proposed high-power laser diode structure and its results
+![Graphical abstract](https://github.com/yh2424/yh2424.github.io/assets/77374108/a23f4bde-5ccc-44c7-9dbb-b97ac025d251)
 
 
 ## Abstract
-We present a detailed analysis of the light extraction efficiency (LEE) of the core-shell nanorod LED using finite-difference time-domain (FDTD) simulations. We found that the LEE has a deep dependence on source positions and polarization directions based on the calculated LEE results for every x and z position inside the core-shell nanorod structure. For the upper part (Pyramid) and the lower part (Sidewall) of the core-shell nanorod, the LEEs are different for Pyramid and Sidewall owing to total internal reflection (TIR) and the generated optical modes in the structure. As a result, the LEE of Sidewall is much larger than that of Pyramid. The averaged LEE of core-shell nanorod LED is also investigated with variable p-GaN thickness, n-GaN thickness, and height for the design guideline for the optimized LEE of core-shell nanorod LEDs.
-[[Link to Journal, Current Optics and Photonics]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
+We propose a novel double stripe structure for achieving a narrow far-field angle without significant output power loss in narrow-ridge high-power broad-area laser diodes. By introducing double SiO 2 stripes on the top side of the laser diode, we effectively suppress high-order modes through mode weight engineering. Through self-consistent electro-thermal-optical simulations powered by LASTIP with the well-verified model from the reference, we comprehensively analyze and compare the characteristics of high-power broad-area laser diodes utilizing the loss tailoring technique that adopted the much simpler structure compared to prior study and our proposed structure. Our results demonstrate a significant reduction of approximately 36% in the far-field angle while maintaining slope efficiency. This approach shows promise for enhancing the performance of coupling efficiency between narrow-ridge high-power laser diodes and fibers.
+[[Link to Journal website (IEEE Photonics Journal)]](https://doi.org/10.1109/JPHOT.2023.3331194)
 
-Congratulations, Kangseok and Gijun!
+
+## 연구내용
+본 연구에서는 청색 고출력 레이저의 p-도핑 영역의 줄무늬 형태의 홈을 만들어서 Slope efficiency 감소를 줄이고 동시에 온도 상승을 억제하면서 횡방향 원시야상 각도를 줄일 수 있음을 시뮬레이션을 통하여 보임.
+
+## 기대효과
+원시야상의 횡방향 각도를 억제하기 위하여 제안된 기존의 loss tailoring 구조는 폭이 좁은 청색광 고출력 레이저 다이오드에 적용했을 때 큰 slope efficiency 감소와 thermal blooming 효과를 보였으나, 본 연구를 통해 mode weight engineering을 통하여 간단한 제조방법으로 원시야상의 횡방향 각도를 줄일 수 있음이 기대됨. 
+
+Congratulations, Daehong!
