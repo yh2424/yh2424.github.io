@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure'
-date: '2023-01-05 10:00'
+date: '2023-11-30 10:00'
 excerpt: >-
   Title: Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure
 comments: true
@@ -20,3 +20,5 @@ We propose a novel double stripe structure for achieving a narrow far-field angl
 
 ## 기대효과
 원시야상의 횡방향 각도를 억제하기 위하여 제안된 기존의 loss tailoring 구조는 폭이 좁은 청색광 고출력 레이저 다이오드에 적용했을 때 큰 slope efficiency 감소와 thermal blooming 효과를 보였으나, 본 연구를 통해 mode weight engineering을 통하여 간단한 제조방법으로 원시야상의 횡방향 각도를 줄일 수 있음이 기대됨. 
+
+Congratulations Daehong!
