@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - Improved Far-Field Angle in High-Power Laser Diodes by Double Stripe Structure'
-date: '2023-11-29 10:00'
+date: '2023-11-28 10:00'
 excerpt: >-
   Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure
 comments: true
