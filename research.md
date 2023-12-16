@@ -29,10 +29,10 @@ Microelectronic fabrication facility and semiconductor device measurement setup
 
 
 # Collaborators and Sponsors 
-- Hangynag University ERICA
 - 두뇌한국(BK, Brain Korea)21
 - 산업통상자원부
 - 한국연구재단
 - KIST 한국과학기술연구원
 - KAIST 한국과학기술원
 - IMEC (벨기에, 반도체연구소)
+- 삼성전자 
