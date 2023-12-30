@@ -25,6 +25,10 @@ subtitle: Our team members !
 
 # Researcher
 
+### 진 사민, Simin Chen 
+#### Integrated MS and Ph.D. course (M1), etd93[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+---
+
 ### 진 태원, Taewon Jin
 #### Master course (M2), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
 ---
@@ -62,16 +66,10 @@ subtitle: Our team members !
 
 ---
 
-### 진 사민, Simin Chen 
-#### Master course (M1), etd93[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
-
----
-
 ### 신 용진, Yongjin Shin
 #### 4th-year student, djrm98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
 
 ---
-
 
 ### 왕 택위, Zewei Wang 
 #### 4th-year student, wangzewei[at]hanyang.ac.kr
