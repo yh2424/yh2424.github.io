@@ -13,6 +13,7 @@ comments: true
 ![산학프로젝트챌린지 홈페이지](https://github.com/yh2424/yh2424.github.io/assets/80964488/991c7a3b-3609-43d4-80a7-4ffa1a7a2a5e)
 [[Link]](https://co-pl.kr/)
 
+
 ### About contest 
 - "2023 Industry-Academic Project Challenge," a link between Korean innovative talents, masters and Ph.D., and industry, has begun.
 Amid new global competition, the Korean industry is heading for new growth.
@@ -20,6 +21,7 @@ Now that the attention of the global industry has begun, focusing on high-tech i
 For the greater innovative growth of the Korean industry, attention and participation of innovative talents are needed.
 We ask for your participation so that projects with innovative talents and industries can be actively carried out.
 Innovative play continues.
+- New H [[Link]](https://www.newshyu.com/news/articleView.html?idxno=1012251)
 
 ![시상내역](https://github.com/yh2424/yh2424.github.io/assets/80964488/6f001678-6c9b-46c2-8d61-d31441e109ac)
 - Best award (Minister of Trade, Industry and Energy Award) 10 teams: KRW 3 million prize (by team)
