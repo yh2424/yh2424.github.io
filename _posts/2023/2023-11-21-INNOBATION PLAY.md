@@ -9,6 +9,7 @@ comments: true
 
 ### Highlights
 - In 2023, ASDL master's courses Seoungmin Park, Kangseok Kim, and Taehyeon Noh participated in an industry-academic project organized by the Ministry of Trade, Industry and Energy and won the final Korea Industrial Technology Promotion Agency Award for "Charge Trap-based Memory Device Display Pixel Integration."
+- This project is an industry-academic joint project involving Hana Optronics Senior Youngyeong Lee, Hanyang University Professor Younghyun Kim, and master's students Seoungmin Park, Kangseok Kim, and Taehyeon Noh with the help of Brain Korea 21 project and industrial conversion inorganic luminescence talent training.
 
 ![산학프로젝트챌린지 홈페이지](https://github.com/yh2424/yh2424.github.io/assets/80964488/991c7a3b-3609-43d4-80a7-4ffa1a7a2a5e)
 [[Link]](https://co-pl.kr/)
@@ -31,14 +32,12 @@ Innovative play continues.
 - Devengers Team : Seoungmin Park, Taehyeon Noh, Kangseok Kim
 
 ### Final Announcement and Awards
-![발표](https://github.com/yh2424/yh2424.github.io/assets/80964488/da848e59-486f-48c4-ac68-8bf1c63ad134)
 
-![시상식1](https://github.com/yh2424/yh2424.github.io/assets/80964488/efffbb6e-6ad9-4f40-a9c6-cf23e309d0f9)
+![시상식3](https://github.com/yh2424/yh2424.github.io/assets/80964488/bc633f1f-3dc7-4154-9f9d-a21231ee0667)
 
-![시상식2](https://github.com/yh2424/yh2424.github.io/assets/80964488/1cdc7126-22fc-47a4-8fc2-da39f4adc8f9)
+![시상식2](https://github.com/yh2424/yh2424.github.io/assets/80964488/981b3133-e47c-4084-8d9e-7a8fd346d2d8)
 
-![시상식3](https://github.com/yh2424/yh2424.github.io/assets/80964488/1a4e6c25-e774-4c43-a2ce-7fa2d6b4db59)
+![시상식3](https://github.com/yh2424/yh2424.github.io/assets/80964488/5118739b-7f47-4232-a564-7e38d370537e)
 
-![시상식4](https://github.com/yh2424/yh2424.github.io/assets/80964488/8ff75354-3910-4167-8817-75a19d6dfcdd)
 
 Congratulations Seoungmin, Kangseok, and Taehyeon!
