@@ -23,6 +23,10 @@ For the greater innovative growth of the Korean industry, attention and particip
 We ask for your participation so that projects with innovative talents and industries can be actively carried out.
 Innovative play continues.
 - New H [[Link]](https://www.newshyu.com/news/articleView.html?idxno=1012251)
+![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/15f6ca7f-3c4c-4c6f-8b0d-205e8645d42c)
+![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/846791a6-2920-4865-8984-3e3d14d60ba2)
+
+
 
 ![시상내역](https://github.com/yh2424/yh2424.github.io/assets/80964488/6f001678-6c9b-46c2-8d61-d31441e109ac)
 - Best award (Minister of Trade, Industry and Energy Award) 10 teams: KRW 3 million prize (by team)
