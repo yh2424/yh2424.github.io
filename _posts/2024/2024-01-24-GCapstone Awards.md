@@ -8,8 +8,8 @@ comments: true
 ---
 ASDL 대학원생 및 학부 학생들로 이루어진 두 팀이 한양대학교 대학원생 G-캡스톤 한양대학교 경진대회에서 최우수상 및 우수상을 수상하였습니다.
 
-**최우수상 - _ITZO 기반의 2T0C DRAM 메모리 특성 분석_**<br>안성의,노태현,진사민,지요섭,김영경
-![image](https://github.com/yh2424/yh2424.github.io/assets/101162644/c6e14dd4-ae01-48e4-81b1-9022d789a239)
+**최우수상 - _ITZO 기반의 2T0C DRAM 메모리 특성 분석_**<br>**안성의**,노태현,진사민,지요섭,김영경
+![G캡_안성의](https://github.com/New-TW/yh2424.github.io/assets/70870983/dd9149a8-1c58-4503-b9f2-70332506384e)
 
-**장려상 - _강유전체 HZO 기반의 2T-1C 디스플레이 Vth 보상회로 제작 및 성능 최적화_**<br>진태원,박승민,선신개,신용진
-![image](https://github.com/yh2424/yh2424.github.io/assets/101162644/c6e14dd4-ae01-48e4-81b1-9022d789a239)
+**장려상 - _강유전체 HZO 기반의 2T-1C 디스플레이 Vth 보상회로 제작 및 성능 최적화_**<br>**진태원**,박승민,선신개,신용진
+![G캡_진태원](https://github.com/New-TW/yh2424.github.io/assets/70870983/9dc4442d-41c7-44ae-ac88-d209e3c2fac4)
