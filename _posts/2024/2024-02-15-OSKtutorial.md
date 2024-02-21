@@ -14,6 +14,7 @@ comments: true
   
   
 - 김영현 교수 강연 
+![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/6761a2a6-f59e-4422-8414-90cbcb9e01ca)
 ![KakaoTalk_Photo_2024-02-20-17-49-14](https://github.com/yh2424/yh2424.github.io/assets/32427749/5b09de6f-aba5-4809-8839-263e2c105b49)
 
 - 학회 프로그램  
