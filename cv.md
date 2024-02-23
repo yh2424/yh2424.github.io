@@ -132,6 +132,7 @@ Award for International Communication of English Ability, July 2 2008
 Best student Award for courses in liberal arts, April 24 2008	  
 Korea-Japan Government Joint Scholarship, March 2006 - March 2010  
 
+<!--
 ## R&D PROJECT
 #### 수행중
 - 정부과제, "칩온보드 기술이 적용된 상용화 수준의 실리콘 포토닉스 기반 400Gbps QSFP-DD 광트랜시버 개발", 정보통신기획평가원, 공동연구원, 2023.04.01 ~ 2026.12.31 
@@ -154,6 +155,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 
 ## TECHNOLOGY TRANSFER
 - 권리구분: 특허, 10-202-0159364(픽셀회로, 이를 이용한 표시장치 및 김영현 이의 제조 방법)에 관한 기술이전, 2023.03.14
+-->
 
 <!-- 
 ## CITATIONS										    
