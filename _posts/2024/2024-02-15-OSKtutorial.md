@@ -6,7 +6,7 @@ excerpt: >-
   제35회 한국광학회 동계학술발표회2024 김영현 교수님이 단기강좌를 진행하였습니다.
 comments: true
 ---
-김영현 교수가 "Silicon photonics - Integration process"를 주제로 초대되어 2024년 2월 15일 수원에서 열린 제35회 한국광학회 [동계학술발표회 2024](https://www.osk.or.kr/conference/event/index.php?cfrid=101) 에서 단기강좌를 진행하였습니다. 
+김영현 교수가 "Harmonizing light and silicon: The art of integration in silicon photonics"를 주제로 초대되어 2024년 2월 15일 수원에서 열린 제35회 한국광학회 [동계학술발표회 2024](https://www.osk.or.kr/conference/event/index.php?cfrid=101) 에서 단기강좌를 진행하였습니다. 
 
 
 - 단기 강좌 
