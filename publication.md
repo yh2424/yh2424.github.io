@@ -8,15 +8,17 @@ subtitle: List of Journal, Patent, and Conference
 # Journal
 
 ### In preparation
-- Taehyun Noh, ... Younghyun Kim*, **"(Tentative)2T FeDRAM using HZO-based FeFETs with a ITZO channel"**, _In Preparation_
+- Taehyun Noh, ... Younghyun Kim*, **"First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, _VLSI2024 Submitted_
 - SengUi Ahn, ... Younghyun Kim*, **"(Tentative)2T DRAM using ITZO FETs"**, _In Preparation_
 - SengUi Ahn, ... Younghyun Kim*, **"(Tentative)Stability of ITZO TFT"**, _In Preparation_
 - Xinkai Sun, ..., Younghyun Kim*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, _Submitted_
 - Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _Submitted_
 
+### 2024
+- Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
+
 ### 2023
 - Daehong Kim, Jung-Tack Yang, Woo-Young Choi, and Younghyun Kim*, **"Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure"**, IEEE Photon. J. Vol.15, Iss.6, 2023 [[Link]](https://doi.org/10.1109/JPHOT.2023.3331194)
-- Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
 - Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, IEEE Jour. of Quant. Elec. Vol. 59, Iss.6, 2023 [[Link]](https://ieeexplore.ieee.org/document/10263591)
 - Kangseok Kim, Gijun Ju, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, Curr. Opt. Photon. 7(5): 496-503, 2023 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 - Taewon Jin, Sanghyeon Kim, Jae-Hoon Han, Dae-Hwan Ahn, Seong Ui An, Tae Hyeon Noh, Xinkai Sun, Cheol Jun Kim, Juhyuk Park, and Younghyun Kim*, **"Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays"**, Nanoscale Advances (2023) [[Link]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
