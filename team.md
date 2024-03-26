@@ -15,7 +15,10 @@ subtitle: Our team members !
 
 ### 김 영현, Younghyun Kim, Ph.D.
 #### Asistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA, [More about me](https://yh2424.github.io/people/younghyunkim) 
+#### Technical Advisor, PhotoniSol, Inc.
+#### Director of Neuromorphic Materials and Devices, Pebble-Square, Inc.
 #### younghyunkim[at]hanyang.ac.kr
+ 
 
 ---
 <!--- 
