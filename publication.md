@@ -9,7 +9,6 @@ subtitle: List of Journal, Patent, and Conference
 
 ### In preparation
 - Taehyun Noh, ... Younghyun Kim*, **"First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, _VLSI2024 Submitted_
-- SengUi Ahn, ... Younghyun Kim*, **"(Tentative)2T DRAM using ITZO FETs"**, _In Preparation_
 - SengUi Ahn, ... Younghyun Kim*, **"(Tentative)Stability of ITZO TFT"**, _In Preparation_
 - Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _Submitted_
 
