@@ -14,7 +14,7 @@ subtitle: List of Journal, Patent, and Conference
 - Daehong Kim, Jeroen De Coster, ... Younghyun Kim*. **"(Tentative)Insertion Loss Measurement Improvement for High-Density Silicon Photonics Wafers"**,  _In Preparation_
 
 ### 2024
-- Xinkai Sun‡, Jae-Hoon Han‡, Zhenyuan Xiao, Simin Chen, Taewon Jin, Taehyeon Noh, Seoungmin Park, Jaekyun Kim, Jidong Jin*, Younghyun Kim*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, ACS Applied Electronic Materials, _Accepted_
+- Xinkai Sun‡, Jae-Hoon Han‡, Zhenyuan Xiao, Simin Chen, Taewon Jin, Taehyeon Noh, Seoungmin Park, Jaekyun Kim, Jidong Jin***, Younghyun Kim***, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, ACS Applied Electronic Materials, _Accepted_
 - Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
 
 ### 2023
