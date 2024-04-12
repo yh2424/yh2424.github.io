@@ -44,9 +44,10 @@ Department of Applied Physics (Joint appointment)
 
 #### Technical Advisor, Mar 2024 - Present
 PhotoniSol, Inc. 
-
+<!--- 
 #### Director of Neuromorphic Materials and Devices, Mar 2023 - Present
 Pebble-Square, Inc. 
+--->
 
 #### IMEC, R&D Engineer, Jul 2018 - Aug 2020
 Si Photonics team, I/O interconnect group  
