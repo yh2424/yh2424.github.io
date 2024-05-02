@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(과제선정)우수신진연구 - Won Outstanding Young Resaercher Grant from NRF'
-date: '2024-02-15 23:59'
+date: '2024-04-24 23:59'
 excerpt: >-
   Prof. Younghyun Kim won Outstanding Young Resaercher Grant from NRF
 comments: true
