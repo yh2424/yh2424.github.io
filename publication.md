@@ -12,10 +12,9 @@ subtitle: List of Journal, Patent, and Conference
 - Daehong Kim, Jeroen De Coster, ... Younghyun Kim*. **"(Tentative)Insertion Loss Measurement Improvement for High-Density Silicon Photonics Wafers"**,  _In Preparation_
 - Taehyun Noh, ... Younghyun Kim*, **"(Tentative)First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, _In preparation_
 - SengUi Ahn, ... Younghyun Kim*, **"Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs"**, _Submitted_
-- Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _Submitted_
 
 ### 2024
-- Simin Chen, Dae-Hwan Ahn, Taehyeon Noh, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society, _Accepted_
+- Simin Chen, Dae-Hwan Ahn, Taehyeon Noh, and Younghyun Kim*, **"TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society, _Accepted_
 - Xinkai Sun‡, Jae-Hoon Han‡, Zhenyuan Xiao, Simin Chen, Taewon Jin, Taehyeon Noh, Seoungmin Park, Jaekyun Kim, Jidong Jin\*, Younghyun Kim\*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, ACS Applied Electronic Materials, _Accepted_ [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 - Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
 
