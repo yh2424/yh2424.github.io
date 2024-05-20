@@ -31,53 +31,49 @@ subtitle: Our team members !
 # Researcher
 
 ### 진 사민, Simin Chen 
-#### Integrated MS and Ph.D. course (M1), etd93[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/siminchen)--->
----
-
-### 진 태원, Taewon Jin
-#### Master course (M2), xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
+#### Integrated MS and Ph.D. course (M2), etd93[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
 ---
 
 ### 배 영주, Youngjoo Bae
-#### Master course (M2) yjbae9441[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### Master course (M2) yjbae9441[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
 ---
 
 ### 김 대홍, Daehong Kim
-#### Master course (M2), altair45[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
----
-
-### 안 성의, Seongui An
-#### Master course (M2), asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
+#### Graduated master course, altair45[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
 ---
 
 ### 선 신개, Xinkai Sun
-#### Master course (M2), q1320472838[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
+#### Master course (M2), q1320472838[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
 ---
 
 ### 박 승민, Seoungmin Park
-#### Master course (M1), psm401[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+#### Master course (M2), psm401[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
 ---
 
 ### 김 강석, Kangseok Kim 
-#### Master course (M1), ddol410[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
+#### Master course (M2), ddol410[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
 ---
 
 ### 노 태현, Taehyeon Noh
-#### Master course (M1), eddienoh[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+#### Master course (M2), eddienoh[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
 ---
 
 ### 주 기준, Gijun Ju
-#### Master course (M1), jkj1832[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### Master course (M2), jkj1832[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 
 ---
 
 ### 신 용진, Yongjin Shin
-#### 4th-year student, djrm98[at]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
+#### Master course (M1), djrm98[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
 
 ---
 
+### 김 영경, Youngkyoung Kim
+#### Master course (M1), yjyk1103[at]hanyang.ac.kr
+---
+
 ### 왕 택위, Zewei Wang 
-#### 4th-year student, wangzewei[at]hanyang.ac.kr
+#### Intern student, wangzewei[at]hanyang.ac.kr
 
 ---
 
@@ -87,38 +83,60 @@ subtitle: Our team members !
 ---
 
 ### 윤 석현, Seokhyeon Yoon
-#### 3rd-year student, dbsminan[at]hanyang.ac.kr
+#### 4rd-year student, dbsminan[at]hanyang.ac.kr
 
 ---
 
 ### 신 석영, Seokyoung Shin
-#### 3th-year student, ssy6225[at]hanyang.ac.kr
+#### 4th-year student, ssy6225[at]hanyang.ac.kr
 
 ---
 
 ### 조 경진, Kyungjin Jo
-#### 3th-year student, whrudwls41[at]hanyang.ac.kr
+#### 4th-year student, whrudwls41[at]hanyang.ac.kr
 
 ---
 
 ### 정 현지, Hyunji Jeong
-#### 3rd-year student, eu326[at]hanyang.ac.kr
+#### 4rd-year student, eu326[at]hanyang.ac.kr
 
 ---
 
 ### 정 희윤, Huiyun Jeong
-#### 3rd-year student, oriole1002[at]hanyang.ac.kr
+#### 4rd-year student, oriole1002[at]hanyang.ac.kr
 
 ---
 
-### 노 정완, Jungwan Noh
-#### 3th-year student, npower220[at]hanyang.ac.kr
-
----
 ### 이 종건, Jonggeon Lee
-#### 3th-year student, neosue10[at]hanyang.ac.kr
+#### 4th-year student, neosue10[at]hanyang.ac.kr
 
 ---
+
+### 김 정연, Jungyeon Kim
+#### 4th-year student, kjykjy6990[at]hanyang.ac.kr
+
+---
+
+### 나 유진, Yujin Na
+#### 3th-year student, nayoujin2002[at]hanyang.ac.kr
+
+---
+
+
+
+
+# Alumni
+
+### 진 태원, Taewon Jin
+#### Graduated master course, xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
+---
+
+### 안 성의, Seongui An
+#### Graduated master course, asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
+---
+
+
+
 
 
 <!--- 
@@ -150,5 +168,8 @@ subtitle: Our team members !
 #### 4th-year student, gguk19[at]hanyang.ac.kr
 
 ---
+### 노 정완, Jungwan Noh
+#### 3th-year student, npower220[at]hanyang.ac.kr
 
+---
 --->
