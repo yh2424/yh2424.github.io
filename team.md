@@ -118,7 +118,7 @@ subtitle: Our team members !
 ---
 
 ### 나 유진, Yujin Na
-#### 3th-year student, nayoujin2002[at]hanyang.ac.kr
+#### 4th-year student, nayoujin2002[at]hanyang.ac.kr
 
 ---
 
