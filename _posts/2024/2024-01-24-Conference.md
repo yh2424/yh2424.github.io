@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Conference-한국반도체학술대회 참가 및 발표(Korean Conference on Semiconductors 2024)'
-date: '2023-01-24 00:00'
+title: 'Conference-KCS2024'
+date: '2024-01-24 13:00'
 excerpt: >-
   석사 연구원인 박승민, 노태현, 진사민 학생들이 구두 발표를 진행하였고, 석사 연구원인 신용진 학생과 학부 연구원인 노정완, 정현지 학생들이 반도체학술대회에서 포스터 발표를 하였습니다. 
 comments: true
