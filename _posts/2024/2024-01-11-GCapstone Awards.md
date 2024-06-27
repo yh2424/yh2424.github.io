@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Graduate Students Won Two Prizes in G-Capstone Competition (Team leaders: Seong Ui An & Tae-won Jin)'
-date: '2024-01-24 13:30'
+date: '2024-01-11 13:30'
 excerpt: >-
   In the graduate student G-Capstone competition, the Kemory team (Team Leader: Seong Ui An) won the grand prize (1st prize), and the Dvengers 2 team (Team Leader: Tae-won Jin) won the encouragement prize (3rd prize).  
 comments: true
