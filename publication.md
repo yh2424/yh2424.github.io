@@ -14,7 +14,7 @@ subtitle: List of Journal, Patent, and Conference
 - SengUi Ahn, ... Younghyun Kim*, **"Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs"**, _Submitted_
 
 ### 2024
-- Simin Chen, Dae-Hwan Ahn, Taehyeon Noh, and Younghyun Kim*, **"TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society (2024) [[Link]](https://doi.org/10.1007/s40042-024-01079-7)
+- Simin Chen, Dae-Hwan Ahn, Taehyeon Noh, and Younghyun Kim*, **"TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society, Vol. 85, Iss. 1, 47-55, 2024 [[Link]](https://link.springer.com/article/10.1007/s40042-024-01079-7)
 - Xinkai Sun‡, Jae-Hoon Han‡, Zhenyuan Xiao, Simin Chen, Taewon Jin, Taehyeon Noh, Seoungmin Park, Jaekyun Kim, Jidong Jin\*, Younghyun Kim\*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, ACS Applied Electronic Materials, Vol. 6, Iss. 4, 2442-2448, 2024 [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 - Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
 
