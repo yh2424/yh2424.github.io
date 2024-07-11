@@ -120,6 +120,11 @@ subtitle: Our team members !
 ### 나 유진, Yujin Na
 #### 4th-year student, nayoujin2002[at]hanyang.ac.kr
 
+
+# Researcher assistant
+
+### 김 혜원, Hyewon Kim 
+#### bread16[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
 ---
 
 
