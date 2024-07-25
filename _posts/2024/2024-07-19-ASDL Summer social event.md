@@ -6,7 +6,7 @@ excerpt: >-
   In the first half of 2024, we had a time to leave MT together for Daebu Island to unite ASDL students.
 comments: true
 ---
-To foster unity within ASDL in early 2024, graduates and undergraduates gathered for a foot volleyball match and barbecue with their professors.
+To foster unity within ASDL members, graduates and undergraduates gathered for a foot volleyball match and barbecue with P.I. Prof. Younghyun Kim.
 This event aimed to strengthen our bonds and enhance our dedication to research.
 We sincerely thank the professor for organizing this event.
 
