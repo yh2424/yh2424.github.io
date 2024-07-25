@@ -6,13 +6,9 @@ excerpt: >-
   In the first half of 2024, we had a time to leave MT together for Daebu Island to unite ASDL students.
 comments: true
 ---
-To foster unity within the ASDL community in the first half of 2024, graduates and undergraduate students came together for a foot volleyball match and a barbecue with Prof. Younghyun Kim.
-
-We aim to utilize this event to strengthen our bonds and to continue our dedication to research.
-
-Let’s continue to strive for excellence in ASDL!
-
-We extend our heartfelt gratitude to the professor for organizing this wonderful event.
+To foster unity within ASDL in early 2024, graduates and undergraduates gathered for a foot volleyball match and barbecue with their professors.
+This event aimed to strengthen our bonds and enhance our dedication to research.
+We sincerely thank the professor for organizing this event.
 
 
 ![족구](https://github.com/user-attachments/assets/ce3962cf-17d8-4b56-b055-f18dedf70cd9)
