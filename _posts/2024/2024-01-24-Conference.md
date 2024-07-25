@@ -3,7 +3,7 @@ layout: post
 title: 'Conference-KCS2024'
 date: '2024-01-24 13:00'
 excerpt: >-
-  The master's researchers Seoungmin Park, Taehyun Roh, and Samin Jin gave oral presentations, while master's researcher Yongjin Shin and undergraduate researchers Jeongwan Roh and Hyunji Jeong presented posters at the semiconductor academic conference. 
+  The master's researchers Seoungmin Park, Taehyun Noh, and Simin Chen gave oral presentations, while master's researcher Yongjin Shin and undergraduate researchers Jeongwan Noh and Hyunji Jeong presented posters at the semiconductor academic conference. 
 comments: true
 ---
 
