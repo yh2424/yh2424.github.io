@@ -125,6 +125,15 @@ subtitle: Our team members !
 ### 나 유진, Yujin Na
 #### 4th-year student, nayoujin2002[at]hanyang.ac.kr
 
+---
+
+### 배 성혁, Seonghyeok Bae
+#### 4th-year student, brian0073[at]hanyang.ac.kr
+
+---
+
+### 송 창수, Changsoo Song
+#### 4th-year student, ckdtn546[at]hanyang.ac.kr
 
 # Administrative staff
 
