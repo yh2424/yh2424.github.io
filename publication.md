@@ -13,6 +13,7 @@ subtitle: List of Journal, Patent, and Conference
 - Taehyun Noh, ... Younghyun Kim*, **"(Tentative)First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, _Submitted_
 
 ### 2024
+- Taehyun Noh, ... Younghyun Kim*, **"(Tentative)First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, _Nanoscale Accepted_
 - SengUi Ahn, ... Younghyun Kim*, **"Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs"**, IEEE TED _Accepted_
 - Simin Chen, Dae-Hwan Ahn, Taehyeon Noh, and Younghyun Kim*, **"TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society, Vol. 85, Iss. 1, 47-55, 2024 [[Link]](https://link.springer.com/article/10.1007/s40042-024-01079-7)
 - Xinkai Sun‡, Jae-Hoon Han‡, Zhenyuan Xiao, Simin Chen, Taewon Jin, Taehyeon Noh, Seoungmin Park, Jaekyun Kim, Jidong Jin\*, Younghyun Kim\*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, ACS Applied Electronic Materials, Vol. 6, Iss. 4, 2442-2448, 2024 [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
