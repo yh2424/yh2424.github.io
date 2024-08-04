@@ -19,12 +19,14 @@ subtitle:  "Useful websites"
 - [College of Science and Convergence Technology](http://scitech.fineyes.com/)
 - [Hanyang University](https://www.hanyang.ac.kr/web/eng)
 
+<!---
 ## Research Group
 - [Semiconductor Photonics Lab](http://spl.hanyang.ac.kr/)
 - [Advanced Nanoelectronics Research Lab](http://anrlab.hanyang.ac.kr/)
 - [Takagi-Takenaka Group, The Univ. of Tokyo](http://www.mosfet.k.u-tokyo.ac.jp/index-e.html)
 - [High-Speed Circuits & Systems Lab., Yonsei Univ.](http://tera.yonsei.ac.kr/index.php)
 - [3D Integrated Opto-Electronic Device Lab, KAIST](https://www.3doedl.com/)
+--->
 
 ## Education
 - [재직자 교육 - 웨이퍼 스케일 데이터 처리](https://hyu-my.sharepoint.com/:u:/g/personal/younghyunkim_hanyang_ac_kr/ET39iqKWkcNOqSMGzJLgkvoBWdOo6_3GNIM35f_CF5G-7g?e=tYxcJZ)

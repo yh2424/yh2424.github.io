@@ -30,20 +30,29 @@ subtitle: Our team members !
 
 # Researcher
 
+### 진 태원, Taewon Jin
+#### Ph.D. course, xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
+---
+
 ### 진 사민, Simin Chen 
-#### Integrated MS and Ph.D. course (M2), etd93[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+#### Integrated MS and Ph.D. course, etd93[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+#### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [Nanoscale, Accepted]
 ---
 
 ### 배 영주, Youngjoo Bae
 #### Master course (M2) yjbae9441[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591)
 ---
 
 ### 김 대홍, Daehong Kim
 #### Graduated master course, altair45[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
+#### 1st-authored SCIE: [[1]](https://doi.org/10.1109/JPHOT.2023.3331194)
 ---
 
 ### 선 신개, Xinkai Sun
 #### Master course (M2), q1320472838[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
+#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 ---
 
 ### 박 승민, Seoungmin Park
@@ -52,15 +61,17 @@ subtitle: Our team members !
 
 ### 김 강석, Kangseok Kim 
 #### Master course (M2), ddol410[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
+#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 ---
 
 ### 노 태현, Taehyeon Noh
 #### Master course (M2), eddienoh[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+#### 1st-authored SCIE: [Nanoscale, Accepted]
 ---
 
 ### 주 기준, Gijun Ju
 #### Master course (M2), jkj1832[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
-
+#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 ---
 
 ### 신 용진, Yongjin Shin
@@ -112,14 +123,23 @@ subtitle: Our team members !
 
 ---
 
-### 김 정연, Jungyeon Kim
-#### 4th-year student, kjykjy6990[at]hanyang.ac.kr
-
----
-
 ### 나 유진, Yujin Na
 #### 4th-year student, nayoujin2002[at]hanyang.ac.kr
 
+---
+
+### 배 성혁, Seonghyeok Bae
+#### 4th-year student, brian0073[at]hanyang.ac.kr
+
+---
+
+### 송 창수, Changsoo Song
+#### 4th-year student, ckdtn546[at]hanyang.ac.kr
+
+# Administrative staff
+
+### 김 혜원, Hyewon Kim 
+#### bread16[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
 ---
 
 
@@ -127,12 +147,10 @@ subtitle: Our team members !
 
 # Alumni
 
-### 진 태원, Taewon Jin
-#### Graduated master course, xodnjs3124[at]hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
----
 
 ### 안 성의, Seongui An
 #### Graduated master course, asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
+#### 1st-authored SCIE: [IEEE TED, Accepted]
 ---
 
 
