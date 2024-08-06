@@ -21,5 +21,3 @@ The gate-bias stability of amorphous indium-tin-zinc-oxide (a-ITZO) field-effect
 [[Link to Journal, IEEE Transactions on Electron Devices]](https://ieeexplore.ieee.org/document/10620402)
 
 Congratulations, Seong Ui!
-
-![img.png](img.png)

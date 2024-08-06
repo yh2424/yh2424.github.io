@@ -21,5 +21,3 @@ In this work, the fabrication and characterization of high-performance indium-ti
 [[Link]](https://pubs.acs.org/doi/10.1021/acsaelm.4c00100)
 
 Congratulations, Xinkai!
-
-![img.png](img.png)

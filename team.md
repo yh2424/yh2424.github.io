@@ -150,7 +150,8 @@ subtitle: Our team members !
 
 ### 안 성의, Seongui An
 #### Graduated master course, asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
-#### 1st-authored SCIE: [IEEE TED, Accepted]
+#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
+
 ---
 
 

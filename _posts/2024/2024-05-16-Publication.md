@@ -22,5 +22,3 @@ In this study, we propose a ferroelectric FET (FeFET) structure termed dual ferr
 
 
 Congratulations, Simin!
-
-![img.png](img.png)
