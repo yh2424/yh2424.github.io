@@ -154,8 +154,6 @@ subtitle: Our team members !
 
 ---
 
-
-
 <!--- 
 # Alumni
 
