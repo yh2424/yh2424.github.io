@@ -37,7 +37,7 @@ subtitle: Our team members !
 
 ### 진 사민, Simin Chen 
 #### Integrated MS and Ph.D. course, etd93[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
-#### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [Nanoscale, Accepted]
+#### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [[2]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 ---
 
 ### 배 영주, Youngjoo Bae
@@ -66,7 +66,7 @@ subtitle: Our team members !
 
 ### 노 태현, Taehyeon Noh
 #### Master course (M2), eddienoh[at]hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
-#### 1st-authored SCIE: [Nanoscale, Accepted]
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 ---
 
 ### 주 기준, Gijun Ju
