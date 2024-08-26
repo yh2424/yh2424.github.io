@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Journal Publication - (Selected as 2024 Nanoscale Hot Article) First demonstration of 2T0C-FeDRAM'
+title: 'Journal Publication - First demonstration of 2T0C-FeDRAM, selected as 2024 Nanoscale Hot Article'
 date: '2024-08-19 18:00'
 excerpt: >-
   Title: First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with a record-long multibit retention time of >4-bit and >2000 s
