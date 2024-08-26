@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Journal Publication - First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with a record-long multibit retention time of >4-bit and >2000 s'
+title: 'Journal Publication - (Selected as 2024 Nanoscale Hot Article) First demonstration of 2T0C-FeDRAM'
 date: '2024-08-19 18:00'
 excerpt: >-
   Title: First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with a record-long multibit retention time of >4-bit and >2000 s
@@ -10,9 +10,7 @@ comments: true
 
 - In this work, we proposed a concept of CAA 3D 2T0C-FeDRAM using AOS and ALD-deposited HZO ferroelectrics with stable ferroelectric properties and excellent performance.
 
-- Our optimized hetero a-ITZO/a-IGZO structure marks a pivotal advancement in achieving superior stress stability. 
-
-- Our double gate a-ITZO/a-IGZO FeFET showed an enlarged MW of 1.5 V and reliable multi-level states.
+- The optimized hetero a-ITZO/a-IGZO structure marks a pivotal advancement in achieving superior stress stability, and the double gate a-ITZO/a-IGZO FeFET showed an enlarged MW of 1.5 V and reliable multi-level states.
 
 - We achieved a record-long multibit retention time of over 2000 s and 4-bit storage, highlighting the potential for low-power, high-density 3D DRAM applications.
  
