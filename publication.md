@@ -6,10 +6,11 @@ subtitle: List of Journal, Patent, and Conference
 
 
 # Journal
-
+<!---
 ### In preparation
 - Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
 - Daehong Kim, Jeroen De Coster, ... Younghyun Kim*. **"(Tentative)Insertion Loss Measurement Improvement for High-Density Silicon Photonics Wafers"**,  _In Preparation_
+--->
 
 ### 2024
 - Tae Hyeon Noh, Simin Chen, Hyo-Bae Kim, Taewon Jin, Seoung min Park, Seong Ui An, Xinkai Sun, Jaekyun Kim, Jae-Hoon Han, Ji-Hoon Ahn, Dae-Hwan Ahn, and Younghyun Kim*, **"First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, Nanoscale, 2040-3364, 2024 **<span style="color:blue;">[2024 Nanoscale Hot Article]</span>** [[Link]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e)
