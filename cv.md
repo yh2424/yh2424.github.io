@@ -10,7 +10,7 @@ Curriculum vitae
 # YOUNGHYUN KIM 
 #### **Engineer passionate about Photonics and Electronics for our better life**
 
-Asistant professor, Ph.D.   
+Associate professor, Ph.D.   
 Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA  
 [Email](younghyunkim@hanyang.ac.kr): younghyunkim@hanyang.ac.kr   
 [Web](https://yh2424.github.io/): https://yh2424.github.io/   
@@ -38,7 +38,8 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 
 
 ##  WORK EXPERIENCE									    
-#### Hanyang University ERICA, Assistant professor, Sep 2020 - Present  
+#### Hanyang University ERICA, Associate professor, Sep 2024 - Present
+#### Hanyang University ERICA, Assistant professor, Sep 2020 - Aug 2024  
 Department of Photonics and Nanoelectronics
 Department of Applied Physics (Joint appointment)   
 
