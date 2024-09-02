@@ -11,7 +11,14 @@ comments: true
 - In this work, we proposed a concept of CAA 3D 2T0C-FeDRAM using AOS and ALD-deposited HZO ferroelectrics with stable ferroelectric properties and excellent performance.  
 - The optimized hetero a-ITZO/a-IGZO structure marks a pivotal advancement in achieving superior stress stability, and the double gate a-ITZO/a-IGZO FeFET showed an enlarged MW of 1.5 V and reliable multi-level states.  
 - We achieved a record-long multibit retention time of over 2000 s and 4-bit storage, highlighting the potential for low-power, high-density 3D DRAM applications.  
- 
+
+## Press release
+- 
+- [뉴시스, "한양대 ERICA 김영현 교수팀, 차세대 D램 기술 개발"](https://www.newsis.com/view/NISX20240820_0002856090)
+- [신아일보, "한양대 ERICA 김영현 교수팀, 차세대 D램 기술 개발"](https://www.shinailbo.co.kr/news/articleView.html?idxno=1920673)
+- [NEWSH, "한양대 ERICA 김영현 교수팀, 초장보유시간 및 다중레벨셀 구현 가능한 차세대 D램 기술 개발"](https://www.newshyu.com/news/articleView.html?idxno=1015585)
+- [매일일보, "김영현 한양대 ERICA 교수팀, 차세대 D램 기술 개발"](https://www.m-i.kr/news/articleView.html?idxno=1151488)
+- [뉴데일리경제, "한양대 ERICA 김영현 교수팀, 초장보유시간·다중레벨셀 구현 가능한 차세대 D램 기술 개발"](https://biz.newdaily.co.kr/site/data/html/2024/08/20/2024082000326.html)
 
 ## Schematic image of 2T0C-FeDRAM with a record-long multibit retention time
 
