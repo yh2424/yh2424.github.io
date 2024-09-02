@@ -13,7 +13,7 @@ comments: true
 - We achieved a record-long multibit retention time of over 2000 s and 4-bit storage, highlighting the potential for low-power, high-density 3D DRAM applications.  
 
 ## Press release
-- 
+
 - [뉴시스, "한양대 ERICA 김영현 교수팀, 차세대 D램 기술 개발"](https://www.newsis.com/view/NISX20240820_0002856090)
 - [신아일보, "한양대 ERICA 김영현 교수팀, 차세대 D램 기술 개발"](https://www.shinailbo.co.kr/news/articleView.html?idxno=1920673)
 - [NEWSH, "한양대 ERICA 김영현 교수팀, 초장보유시간 및 다중레벨셀 구현 가능한 차세대 D램 기술 개발"](https://www.newshyu.com/news/articleView.html?idxno=1015585)
