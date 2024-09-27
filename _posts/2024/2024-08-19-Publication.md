@@ -11,6 +11,7 @@ comments: true
 - In this work, we proposed a concept of CAA 3D 2T0C-FeDRAM using AOS and ALD-deposited HZO ferroelectrics with stable ferroelectric properties and excellent performance.  
 - The optimized hetero a-ITZO/a-IGZO structure marks a pivotal advancement in achieving superior stress stability, and the double gate a-ITZO/a-IGZO FeFET showed an enlarged MW of 1.5 V and reliable multi-level states.  
 - We achieved a record-long multibit retention time of over 2000 s and 4-bit storage, highlighting the potential for low-power, high-density 3D DRAM applications.  
+![image](https://github.com/user-attachments/assets/3e6f763e-0b4b-49c6-a63e-0f3ff3870eeb)
 
 ## Press release
 
