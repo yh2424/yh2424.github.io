@@ -6,13 +6,23 @@ subtitle: List of Journal, Patent, and Conference
 
 
 # Journal
-
+<!---
 ### In preparation
-- Simin Chen, Dae-Hwan Ahn, Seong Ui An, and Younghyun Kim*, **"Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, _In preparation_
+- Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
+- Daehong Kim, Jeroen De Coster, ... Younghyun Kim*. **"(Tentative)Insertion Loss Measurement Improvement for High-Density Silicon Photonics Wafers"**,  _In Preparation_
+--->
+
+### 2024
+- Tae Hyeon Noh‡, Simin Chen‡, Hyo-Bae Kim, Taewon Jin, Seoung min Park, Seong Ui An, Xinkai Sun, Jaekyun Kim, Jae-Hoon Han, Ji-Hoon Ahn\*, Dae-Hwan Ahn\*, and Younghyun Kim\*, **"First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, Nanoscale, 2040-3364, 2024 **<span style="color:blue;">[2024 Nanoscale Hot Article]</span>** [[Link]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e)
+- Seong Ui An‡, Dae-Hwan Ahn‡, Gijun Ju, Simin Chen, Yo Seop Ji, Jae-Hoon Han, Jaekyun Kim, Younghyun Kim*, **"Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs"**, IEEE Transactions on Electron Devices, Iss.1557-9646, p1-6,2024 [[Link]](https://ieeexplore.ieee.org/document/10620402)
+- Simin Chen‡, Dae-Hwan Ahn‡, Taehyeon Noh, and Younghyun Kim*, **"TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society, Vol. 85, Iss. 1, 47-55, 2024 [[Link]](https://link.springer.com/article/10.1007/s40042-024-01079-7)
+- Xinkai Sun‡, Jae-Hoon Han‡, Zhenyuan Xiao, Simin Chen, Taewon Jin, Taehyeon Noh, Seoungmin Park, Jaekyun Kim, Jidong Jin\*, Younghyun Kim\*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, ACS Applied Electronic Materials, Vol. 6, Iss. 4, 2442-2448, 2024 [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
+- Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
 
 ### 2023
-- Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, _Submitted_
-- Kangseok Kim, Gijun Ju, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, _Submitted_
+- Daehong Kim, Jung-Tack Yang, Woo-Young Choi, and Younghyun Kim*, **"Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure"**, IEEE Photon. J. Vol.15, Iss.6, 2023 [[Link]](https://doi.org/10.1109/JPHOT.2023.3331194)
+- Youngjoo Bae, Seong Ui An, Taewon Jin, and Younghyun Kim*, **"A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application"**, IEEE Jour. of Quant. Elec. Vol. 59, Iss.6, 2023 [[Link]](https://ieeexplore.ieee.org/document/10263591)
+- Kangseok Kim‡, Gijun Ju‡, and Younghyun Kim*, **"Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode"**, Curr. Opt. Photon. 7(5): 496-503, 2023 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 - Taewon Jin, Sanghyeon Kim, Jae-Hoon Han, Dae-Hwan Ahn, Seong Ui An, Tae Hyeon Noh, Xinkai Sun, Cheol Jun Kim, Juhyuk Park, and Younghyun Kim*, **"Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays"**, Nanoscale Advances (2023) [[Link]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
 
 ### 2022
@@ -80,7 +90,10 @@ subtitle: List of Journal, Patent, and Conference
 
 
 ## Conference
--	**Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout : "Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter," 2019, doi: 10.1109/group4.2019.8926128.    
+-	Simin Chen, Dae-Hwan Ahn, Seong Ui An, and **Younghyun Kim***, "Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", EDTM2023, Seoul [[Link]](https://ieeexplore.ieee.org/document/10103116)
+-   Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Joon Pyo Kim, Jaeyoung Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park , Dae-Myoung Geum, **Younghyun Kim**, Yongku Baek, Byung Jin Cho, and Sang Hyeon Kim, "Heterogeneous 3D Sequential CFET with Ge (110) Nanosheet p-FET on Si (100) bulk n-FET by Direct Wafer Bonding", IEDM2023, San Francisco [[Link]](https://ieeexplore.ieee.org/document/10019551/authors#authors)
+-   Artemisia Tsiara, **Younghyun Kim**, Didit Yudistira, Bernadette Kunert, Marina Baryshnikova, Marianna Pantouvaki, Joris Van Campenhout, Kristof Croes, "Impact of Seed Annealing on the Reliability of Monolithic III-V/Si Optical Phase Shitters", ECOC2022, Basel 2022 [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9979220)
+-   **Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout, "Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter", GFP2019, Singapole [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8926128) 
 -   **Y. Kim**, J.-T Yang and W.-Y Choi: "Simulation of high-power laser diode with improved heat sinking structure using epitaxial liftoff technique", SPIE Photonics West, San Franscisco, USA roc. SPIE 10514, High-Power Diode Laser Technology XVI, 105140C (27 February 2018); doi: 10.1117/12.2288639 [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10514/105140C/Numerical-analysis-of-high-power-broad-area-laser-diode-with/10.1117/12.2288639.short?webSyncID=a0ce46e9-e6ec-7a49-dab6-a0cbad059329&sessionGUID=ad883c9d-902b-c999-3ced-268bead49a28&SSO=1)
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang and S. Takagi: "CMOS Photonics Based on SiGe and Ge for near and Mid-infrared Photonic Integrated Circuits (Invited)", Solid State Devices and Materials (SSDM), Tsukuba, Japan, (2016) 
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang, Y. Ikku, Y. Cheng, J. Park, S. Kim and S. Takagi: "Heterogeneous integration of SiGe/Ge and III-V for Si photonics (Invited)", SPIE Photonics Europe 2016, Brussels, (2016) 

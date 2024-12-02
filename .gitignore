@@ -1,5 +1,7 @@
 #PyCharm
 .idea/
+.backup/
+**/.backup
 /.idea/
 **/venv
 **/.idea

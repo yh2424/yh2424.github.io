@@ -3,16 +3,18 @@ layout: page
 title: Curriculum vitae
 subtitle: Engineer interested in Photonics and Electronics
 ---
-<center>Curriculum vitae
+<center>
+Curriculum vitae
 </center>
 
 # YOUNGHYUN KIM 
-#### **Engineer interested in Photonics and Electronics**
+#### **Engineer passionate about Photonics and Electronics for our better life**
 
-Asistant professor, Ph.D. 
-Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
-Email: younghyunkim@hanyang.ac.kr 
-Web: https://yh2424.github.io/
+Associate professor, Ph.D.   
+Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA  
+[Email](younghyunkim@hanyang.ac.kr): younghyunkim@hanyang.ac.kr   
+[Web](https://yh2424.github.io/): https://yh2424.github.io/   
+Mobile: +82-10-4997-2729
 
 ## EDUCATION
 #### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
@@ -36,9 +38,18 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 
 
 ##  WORK EXPERIENCE									    
-#### Hanyang University ERICA, Assistant professor, Sep 2020 - Present  
+#### Hanyang University ERICA, Associate professor, Sep 2024 - Present
+#### Hanyang University ERICA, Assistant professor, Sep 2020 - Aug 2024  
 Department of Photonics and Nanoelectronics
 Department of Applied Physics (Joint appointment)   
+
+#### Technical Advisor, Mar 2024 - Present
+PhotoniSol, Inc. 
+
+<!--- 
+#### Director of Neuromorphic Materials and Devices, Mar 2023 - Present
+Pebble-Square, Inc. 
+--->
 
 #### IMEC, R&D Engineer, Jul 2018 - Aug 2020
 Si Photonics team, I/O interconnect group  
@@ -61,8 +72,9 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 ## RESEARCH INTERESTS								    
 **Semiconductor Device Physics and Engineering**
-- 	Demonstration of the new-generation photonic and electronic device with novel material and CMOS-compatible technology  
--   Design, simulation, fabrication, characterization, and modeling of semiconductor devices
+- Silicon Photonics : Optical modulator, Optical coupling, Optical I/O, Co-packaged optics
+- Semiconductor memory : 2T-DRAM, Ferroelectric FET   
+- Memory in pixel: Ferroelectric FET, Charge-trapping FET
 
 <!--
 ## RESEARCH EXPERIENCE								    
@@ -105,8 +117,17 @@ Device Measurement: LCR meter, Semiconductor Parameter Analyzer, Tunable CW lase
 Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, frequency responses, eye diagrams etc.
 -->
 
+## TEACHING
+#### Confererence 
+- (Tutorial) 한국광학회 동계학술발표회2024, Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics, 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
+- (Tutorial) 한국광학회 광전자 및 광통신 학술대회 COOC2023, 실리콘 포토닉스 - 집적공정, 2023.06.01 [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
+
+#### Lecture 
+- (Undergraduate) 광전자소자, 광통신공학, 반도체소자 물리, 반도체소자 공정, 공학프로그래밍, 전자기학, 디스플레이공학
+- (Graduate) 집적광학, 첨단CMOS기술, TCAD소자 시뮬레이션, 파이썬 활용 인공지능 및 SPICE 모델링(ICPBL)
+
 ## HONORS AND AWARD								    
-한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드, Nov. 24, 2021
+한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드, Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
 Award for Doctoral thesis in School of engineering, March 24 2015  
 Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 - March 2015  
 Japan Government Scholarship (MEXT) for M.S. student, April 2010 - Mar 2012  
@@ -117,15 +138,47 @@ Award for International Communication of English Ability, July 2 2008
 Best student Award for courses in liberal arts, April 24 2008	  
 Korea-Japan Government Joint Scholarship, March 2006 - March 2010  
 
+<!--
+## R&D PROJECT
+#### 수행중
+- 정부과제, "칩온보드 기술이 적용된 상용화 수준의 실리콘 포토닉스 기반 400Gbps QSFP-DD 광트랜시버 개발", 정보통신기획평가원, 공동연구원, 2023.04.01 ~ 2026.12.31 
+- 정부과제, "차세대 디스플레이용 마이크로 광/전자소자 열분석 및 성능 향상 구조 연구", 한국기초과학지원연구원, 과제책임자(집단연구), 2023.04.01 ~ 2026.02.28 
+- 정부과제, "150W급 가공용 레이저 다이오드 array 제조기술 개발", 한국산업기술기획평가원, 공동연구원, 2021.04.01 ~ 2024.12.31  
+- 용역과제, "SiN 포토닉스 기반 광소자 시뮬레이션 및 설계", 한국전자통신연구원, 과제책임자, 2024.02.01 ~ 2024.07.31
+- 산학과제, "광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발", 삼성전자(기술개발과제), 과제책임자, 2023.11.01 ~ 2026.10.31
+
+#### 신청중
+- 정부과제, "3D 집적 2T(FET, FeFET)-DRAM 기술 개발 및 어레이 성능 평가", 과제책임자(집단연구), 3년(2024년도 차세대지능형반도체기술개발(소자)사업(신개념기초기술))
+- 정부과제, "차세대 HBM-PIM용 2T0C-FeDRAM기반 PIM 기술개발", 과제책임자, 3년(2024년도 PIM인공지능반도체핵심기술개발(소자)사업(신개념PIM기초))
+- 정부과제, "6G 파장당 테라급 광트랜시버용 코히어런트 반도체 소자×부품 기술 개발", 공동연구원, 5년(2024년 제1차 정보통신방송 기술개발사업)
+- 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 국제공동연구", 과제책임자, 3년(우수신진, IMEC 국제공동연구)
+- 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구 수행을 위한 파장가변 레이저 시스템 구축", 과제책임자, 1년(신진인프라)
+
+#### 수행완료
+- 정부과제, "이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발", (재)한국연구재단, 2022.10.01 ~ 2023.09.30 (IMEC 국제공동연구)
+- 정부과제, "임계전압 보상가능 강유전성 박막트랜지스터를 이용한 마이크로 LED 픽셀 능동 회로 개발", (재)한국연구재단, 과제책임자, 2022.07.01 ~ 2023.01.31
+- 정부과제, "Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화", (재)한국연구재단, 과제책임자 2021.09.01 ~ 2022.08.31
+
+## TECHNOLOGY TRANSFER
+- 권리구분: 특허, 10-202-0159364(픽셀회로, 이를 이용한 표시장치 및 김영현 이의 제조 방법)에 관한 기술이전, 2023.03.14
+-->
+
+<!-- 
 ## CITATIONS										    
 [Google Scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en): 233 citations on Jun 2022   
 [ResearchGate](https://www.researchgate.net/profile/Younghyun_Kim4): 178 citations on Jun 2022  
+-->
 
 ## PUBLICATION
-#### JOURNAL 
-
+#### JOURNAL
+- Daehong Kim, Jung-Tack Yang, Woo-Young Choi, and **Younghyun Kim***, "Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure", IEEE Photon. J. Vol.15, Iss.6, 2023 [[Link]](https://doi.org/10.1109/JPHOT.2023.3331194)
+- Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, **Younghyun Kim**, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, "Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs", IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
+- Youngjoo Bae, Seong Ui An, Taewon Jin, and **Younghyun Kim***, "A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application", IEEE Jour. of Quant. Elec. Vol. 59, Iss.6, 2023 [[Link]](https://ieeexplore.ieee.org/document/10263591)
+- Kangseok Kim, Gijun Ju, and **Younghyun Kim***, "Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode", Curr. Opt. Photon. 7(5): 496-503, 2023 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
+- Taewon Jin, Sanghyeon Kim, Jae-Hoon Han, Dae-Hwan Ahn, Seong Ui An, Tae Hyeon Noh, Xinkai Sun, Cheol Jun Kim, Juhyuk Park, and **Younghyun Kim***, "Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays", Nanoscale Advances (2023) [[Link]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
+- Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, **Younghyun Kim**, Jaekyun Kim, and Sangwan Sim, "Ultrafast tunable broadband optical anisotropy in two-dimensional ReS<sub>2</sub>", Physical Review Applied, Vol.18, 14010 2022 [[Link]](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.014010)  
 -	**Younghyun Kim***, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
-- Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, Younghyun Kim, Jaekyun Kim, and Sangwan Sim, **"Ultrafast tunable broadband optical anisotropy in two-dimensional ReS<sub>2</sub>"**, Physical Review Applied, Accepted 8 June 2022 [[Link]](https://journals.aps.org/prapplied/accepted/a2079A9eYe71a00523a914a53c752331041d27b6b)  
+- Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, Younghyun Kim, Jaekyun Kim, and Sangwan Sim, "Ultrafast tunable broadband optical anisotropy in two-dimensional ReS<sub>2</sub>", Physical Review Applied, Accepted 8 June 2022 [[Link]](https://journals.aps.org/prapplied/accepted/a2079A9eYe71a00523a914a53c752331041d27b6b)  
 - Shinick Han, **Younghyun Kim**, Donghee Son, Hyoung Won Baac, Sang Min Won, and Changhwan Shin, "Study on memory characteristics of fin-shaped feedback field effect transistor", Semiconductor Science and Technology, Technol. 37 065006, 2022. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6641/ac643e/meta)  
 -	**Younghyun Kim**, Jae-Hoon Han*, Daehwan Ahn and Sanghyeon Kim, "Heterogeneously-integrated optical phase shifters for next-generation modulators and switches on a Silicon photonics platform: A review", Micromachines , vol. 12, 625, 2021. [[Link]](https://www.mdpi.com/2072-666X/12/6/625/htm)  
 -	**Younghyun Kim*** , Taewon Jin, and Youngjoo Bae. "A comparative simulation study on lateral and L shape pn-junction phase shifters for single-drive 50 Gbps lumped Mach-Zehnder modulators", Japanese Journal of Applied Physics, vol. 60, 052002, 2021. [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/abeedd/)  
@@ -169,24 +222,28 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 
 
 #### Conference
--	**Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout : "Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter," 2019, doi: 10.1109/group4.2019.8926128.    
--   **Y. Kim**, J.-T Yang and W.-Y Choi: "Simulation of high-power laser diode with improved heat sinking structure using epitaxial liftoff technique", SPIE Photonics West, San Franscisco, USA roc. SPIE 10514, High-Power Diode Laser Technology XVI, 105140C (27 February 2018); doi: 10.1117/12.2288639    
+-	Simin Chen, Dae-Hwan Ahn, Seong Ui An, and **Younghyun Kim***, "Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", EDTM2023, Seoul [[Link]](https://ieeexplore.ieee.org/document/10103116)
+-   Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Joon Pyo Kim, Jaeyoung Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park , Dae-Myoung Geum, **Younghyun Kim**, Yongku Baek, Byung Jin Cho, and Sang Hyeon Kim, "Heterogeneous 3D Sequential CFET with Ge (110) Nanosheet p-FET on Si (100) bulk n-FET by Direct Wafer Bonding", IEDM2023, San Francisco [[Link]](https://ieeexplore.ieee.org/document/10019551/authors#authors)
+-   Artemisia Tsiara, **Younghyun Kim**, Didit Yudistira, Bernadette Kunert, Marina Baryshnikova, Marianna Pantouvaki, Joris Van Campenhout, Kristof Croes, "Impact of Seed Annealing on the Reliability of Monolithic III-V/Si Optical Phase Shitters", ECOC2022, Basel 2022 [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9979220)	
+- **Younghyun Kim***, Sanghyeon Kim, Yoojin Ban, Sebastien Lardenois, Didit Yudistira, Marianna Pantouvaki, and Joris Van Campenhout, "Proposal and Simulation of a Low Loss, Highly Efficient Monolithic III-V/Si Optical Phase Shifter", GFP2019, Singapole [[Link]](https://ieeexplore.ieee.org/document/8926128)    
+-   **Y. Kim**, J.-T Yang and W.-Y Choi: "Simulation of high-power laser diode with improved heat sinking structure using epitaxial liftoff technique", SPIE Photonics West, San Franscisco, USA roc. SPIE 10514, High-Power Diode Laser Technology XVI, 105140C (27 February 2018) [[Link]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjZtc7wtLuEAxWcdvUHHaLUBQAQFnoECA8QAQ&url=https%3A%2F%2Fwww.spiedigitallibrary.org%2Fconference-proceedings-of-spie%2F10514%2F105140C%2FNumerical-analysis-of-high-power-broad-area-laser-diode-with%2F10.1117%2F12.2288639.short%3FwebSyncID%3Da0ce46e9-e6ec-7a49-dab6-a0cbad059329%26sessionGUID%3Dad883c9d-902b-c999-3ced-268bead49a28%26SSO%3D1&usg=AOvVaw0M3eEk9TydxKyKnA_DIfA1&opi=89978449)
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang and S. Takagi: "CMOS Photonics Based on SiGe and Ge for near and Mid-infrared Photonic Integrated Circuits (Invited)", Solid State Devices and Materials (SSDM), Tsukuba, Japan, (2016) 
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang, Y. Ikku, Y. Cheng, J. Park, S. Kim and S. Takagi: "Heterogeneous integration of SiGe/Ge and III-V for Si photonics (Invited)", SPIE Photonics Europe 2016, Brussels, (2016) 
 -	M. Takenaka, **Y. Kim**, J. Han, J. Kang, Y. Ikku, Y. Cheng, J. Park, S. Kim and S. Takagi: "CMOS Photonics Technologies Based on Heterogeneous Integration of SiGe/Ge and III-V on Si (Invited)", International Electron Devices Meeting (IEDM), Washington, DC, USA, (2015) 
 -	Junichi Fujikata, Masataka Noguchi, **Younghyun Kim**, Shigeki Takahashi, Takahiro Nakamura, and Mitsuru Takenaka: "High speed and highly efficient Si optical modulator with strained SiGe layer", Proc. GFP, Vancouver, BC (2015).
--	**Younghyun Kim**, Junichi Fujikata, Shigeki Takahashi, Mitsuru Takenaka, and Shinichi Takagi: "SiGe-based carrier-injection Mach-Zehnder modulator with enhanced plasma dispersion effect in strained SiGe", OFC2015, Tu2A.7, Los Angeles, 24th Mar. 2015.
+-	**Younghyun Kim**, Junichi Fujikata, Shigeki Takahashi, Mitsuru Takenaka, and Shinichi Takagi: "SiGe-based carrier-injection Mach-Zehnder modulator with enhanced plasma dispersion effect in strained SiGe", OFC2015, Tu2A.7, Los Angeles, 24th Mar. 2015 [[Link]](https://ieeexplore.ieee.org/document/7121791)
 -	**Younghyun Kim**, Junichi Fujikata, Shigeki Takahashi, Mitsuru Takenaka, and Shinichi Takagi: "Low Injection-current Variable Optical Attenuator by using strained SiGe with Optimized Lateral PIN junction", ISPEC, Tokyo, Nov. 2014.
--	**Younghyun Kim**, Junichi Fujikata, Shigeki Takahashi, Mitsuru Takenaka, and Shinichi Takagi: "Record-low Injection-current Strained SiGe Variable Optical Attenuator with Optimized Lateral PIN junction", Proc. ECOC, P.2.6, Cannes (2014).
+-	**Younghyun Kim**, Junichi Fujikata, Shigeki Takahashi, Mitsuru Takenaka, and Shinichi Takagi: "Record-low Injection-current Strained SiGe Variable Optical Attenuator with Optimized Lateral PIN junction", Proc. ECOC, P.2.6, Cannes (2014) [[Link]](https://ieeexplore.ieee.org/document/6963927)
 -	**Younghyun Kim**, Mitsuru Takenaka, and Shinichi Takagi: "Simulation of carrier-depletion strained SiGe optical modulators with vertical p-n junction", Proc. GFP, ThP.5, Paris (2014).
--	**Younghyun Kim**, Mitsuru Takenaka, Takenori Osada, Masahiko Hata, and Shinichi Takagi: "Strain-induced enhancement of free-carrier effects in SiGe for optical modulator and VOA applications", OFC2014 at San Francisco, Th1C.4. 13th Mar 2014.
+-	**Younghyun Kim**, Mitsuru Takenaka, Takenori Osada, Masahiko Hata, and Shinichi Takagi: "Strain-induced enhancement of free-carrier effects in SiGe for optical modulator and VOA applications", OFC2014 at San Francisco, Th1C.4. 13th Mar 2014 [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6886647)
 -	**Younghyun Kim**, Jaehoon Han, Mitsuru Takenaka, Shinichi Takagi, "Low temperature Al2O3 surface passivation for carrier injection type Si/strained SiGe/Si waveguide modulator", ISPEC, Tokyo, Nov. 2013.
 -	WuKang Kim, Yufei Kin, **Younghyun Kim**, SangHyeon Kim, Takenori Osada, Masahiko Hata, Mitsuru Takenka, and Shinichi Takagi, "Sb-diffused Source/Drain Ultra-thin Body Ge-On Insulator nMOSFETs Fabricated by Ge Condensation," D-6-5L, SSDM, Fukuoka, 2013.
--	**Younghyun Kim**, Jaehoon Han, Mitsuru Takenaka, Shinichi Takagi, "Low temperature surface passivation for carrier injection type SiGe optical modulator," 10th International Conf. of Group IV Photonics at Seoul, 29th Aug 2013.
+-	**Younghyun Kim**, Jaehoon Han, Mitsuru Takenaka, Shinichi Takagi, "Low temperature surface passivation for carrier injection type SiGe optical modulator," 10th International Conf. of Group IV Photonics at Seoul, 29th Aug 2013 [[Link]](https://ieeexplore.ieee.org/document/6644445)
 -	**Younghyun Kim**, Takenori Osada, Masahiko Hata, Mitsuru Takenaka, Shinichi Takagi, "Evaluation of propagation loss of Si/SiGe/Si photonic-wire waveguides for Si based optical modulator," ICSI-8, Fukuoka, 4th Jun 2013. 
 -	Minsoo Kim, **Younghyun Kim**, Masafumi Yokoyama, Ryosho Nakane, SangHyeon Kim, Mitsuru Takenaka and Shinichi Takagi, "Tunnel Field-Effect Transistors with Germanium/Strained-Silicon Hetero-junctions for Low Power Applications," ICSI-8, Fukuoka, 4th Jun 2013. 
 -	**Younghyun Kim**, Mitsuru Takenaka, Shinichi Takagi, "Simulation of Si/SiGe/Si double heterostructure based carrier-injection modulator", ISPEC, Nov. 2012.
--	**Younghyun Kim**, Mitsuru Takenaka, Shinichi Takagi, "Numerical analysis of strained SiGe-based carrier-injection optical modulators," 9th International Conf. of Group IV Photonics at San Diego, WP18, Aug. 2012.
+-	**Younghyun Kim**, Mitsuru Takenaka, Shinichi Takagi, "Numerical analysis of strained SiGe-based carrier-injection optical modulators," 9th International Conf. of Group IV Photonics at San Diego, WP18, Aug. 2012 [[Link]](https://ieeexplore.ieee.org/document/6324108)
 -	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-On-Insulator by Ge Condensation and Regrowth Technique for Optical Modulator," ISPEC, 14th Nov 2011.
--	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-on-Insulator waveguide for Optical Modulator", IEEE Photonics Conference, Oct. 2011. 
+-	**Younghyun Kim**, Masafumi Yokoyama, Noriyuki Taoka, Mitsuru Takenaka, Shinichi Takagi, "Fabrication of Ge-rich SiGe-on-Insulator waveguide for Optical Modulator", IEEE Photonics Conference, Oct. 2011 [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6110628)
 -	Jin-Ping Ao, Nakatani Katsutoshi, Sogawa Yuji, **Kim YoungHyun**, Miyashita Takahiro, Motoyama Shin-ichi and Yasuo Ohno : GaN MOSFET with Gate SiO2 Deposited by Silane-Based PECVD, The 37th International Symposium on Compound Semiconductors, Takamatsu, May 2010.
+

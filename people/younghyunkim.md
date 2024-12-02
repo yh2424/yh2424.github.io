@@ -8,7 +8,12 @@ subtitle: Hi, I am Younghyun :)
 
 ## Younghyun Kim, Ph.D.
 #### 김 영현 (Korean), 金 榮現 (Hanja)
-#### Assistant professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
+#### Associate professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA
+#### Technical Advisor, PhotoniSol, Inc.
+<!--- 
+#### Director of Neuromorphic Materials and Devices, Pebble-Square, Inc.
+--->
+
 - Ph.D. in Electrical Engineering, University of Tokyo (2015)
 - M.E. in Electrical Engineering, University of Tokyo (2012) 
 - B.E. in Electrical Engineering, University of Tokushima (2010)

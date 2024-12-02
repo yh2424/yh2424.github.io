@@ -5,12 +5,12 @@ subtitle: Please feel free to contact me.
 ---
 
 ## Younghyun Kim, Ph.D.
-#### Assistant professor, Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
+#### Associate professor, Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
 
 - Tel.: 031-400-5474 
 - E-mail: younghyunkim[at]hanyang.ac.kr
 - Address : (15588) No.502-1, Science & Tech. Building 2, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, Korea     
-- 주소: 우편번호 15588, 경기도 안산시 상록구 한양대학로 55 제2과학기술관 5층 502-1호, 김영현 교수실
+- 주소: 우편번호 15588, 경기도 안산시 상록구 한양대학로 55 제2과학기술관 5층 502-1호, 김영현 교수연구실 
 
 <!-- [image](https://user-images.githubusercontent.com/32427749/105430800-b9165e00-5c97-11eb-9cf9-3915b577932f.png)   -->
 ![image](https://user-images.githubusercontent.com/32427749/184265391-24da124a-caab-4862-a8df-131572715556.png)
