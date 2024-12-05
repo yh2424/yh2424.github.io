@@ -48,12 +48,6 @@ subtitle: Our team members !
 
 ---
 
-### 김 대홍, Daehong Kim
-#### Post-master course, altair45@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
-#### 1st-authored SCIE: [[1]](https://doi.org/10.1109/JPHOT.2023.3331194)
-
----
-
 ### 선 신개, Xinkai Sun
 #### Master course (M3), q1320472838@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
@@ -160,6 +154,12 @@ subtitle: Our team members !
 ### 안 성의, Seongui An
 #### Graduated master course, asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
+
+---
+
+### 김 대홍, Daehong Kim
+#### Graduated master course, altair45@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/daehongkim)--->
+#### 1st-authored SCIE: [[1]](https://doi.org/10.1109/JPHOT.2023.3331194),[[2]]([htt](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Ftracking%2Farticle%2Fdetails.do%3Faid=108742%26jid=OLEN%26surname=Kim/1/010201938366434e-fbe6dd09-2e1b-4644-badf-3bda1536f68e-000000/JP6AkKGIZn_DCPdNDLb0KbwSbp0=402))
 
 ---
 
