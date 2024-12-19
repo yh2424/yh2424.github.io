@@ -48,52 +48,46 @@ subtitle: Our team members !
 
 ---
 
-### 선 신개, Xinkai Sun
-#### Master course (M3), q1320472838@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
-#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
-
----
-
 ### 박 승민, Seoungmin Park
-#### Master course (M2), psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+#### Master course (M4), psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
 
 ---
 
 ### 김 강석, Kangseok Kim 
-#### Master course (M2), ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
+#### Master course (M4), ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---
 
 ### 노 태현, Taehyeon Noh
-#### Master course (M2), eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+#### Master course (M4), eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
 #### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
 ---
 
 ### 주 기준, Gijun Ju
-#### Master course (M2), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### Master course (M4), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---
 
 ### 신 용진, Yongjin Shin
-#### Master course (M1), djrm98@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
+#### Master course (M3), djrm98@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
 
 ---
 
 ### 김 영경, Youngkyoung Kim
-#### Master course (M1), yjyk1103@hanyang.ac.kr
+#### Master course (M2), yjyk1103@hanyang.ac.kr
 
 ---
 
 ### 왕 택위, Zewei Wang 
-#### Master course, wangzewei@hanyang.ac.kr
+#### Master course (M2), wangzewei@hanyang.ac.kr
 
 ---
 
 ### Kanchisa Nonthasri 
-#### Master course, graceid@m365.hanyang.ac.kr
+#### Master course (M2), graceid@m365.hanyang.ac.kr
 
 ---
 
@@ -132,11 +126,60 @@ subtitle: Our team members !
 
 ---
 
+### 조 배훈, Baehun Jo
+#### 3th-year student, jbh12132@hanyang.ac.kr
+
+---
+
+### 김 우재, WooJae Kim
+#### 3th-year student, dnwo0825@hanyang.ac.kr 
+
+---
+
+### 이 현석, Hyeonseok Lee
+#### 3th-year student, hs7681@hanyang.ac.kr
+
+---
+
+### 박 승우, Seungwoo Park
+#### 3th-year student, seungwo7@hanyang.ac.kr
+
+---
+
+### 김 리나, Rina Kim
+#### 3th-year student, flfsks4242@hanyang.ac.kr
+
+---
+
+### 박 소연, Soyeon Park
+#### 3th-year student, psy030412@hanyang.ac.kr
+
+---
+
+### 손 은지, Eunji Son
+#### 3th-year student, looej@hanyang.ac.kr
+
+---
+
 ### 이 초연, Choyeon Lee
 #### Lab Intern, dlchdus13@hanyang.ac.kr
 
 ---
 
+### 서 연우, Yeonwoo Seo
+#### 3th-year student, syw040300@hanyang.ac.kr
+
+---
+
+### 이 지현, Jihyun Lee
+#### Lab Intern, leejhn06@hanyang.ac.kr
+
+---
+
+### 신 동현, donghyun shin
+#### 3th-year student, donghyun3966@hanyang.ac.kr
+
+---
 
 # Administrative staff
 
@@ -158,9 +201,17 @@ subtitle: Our team members !
 ---
 
 ### 김 대홍, Daehong Kim
+#### Graduated master course,altair45@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://doi.org/10.1109/JPHOT.2023.3331194), [[2]](https://doi.org/10.1016/j.optlaseng.2024.108742)
 
 ---
+
+### 선 신개, Xinkai Sun
+#### Graduated master course, q1320472838@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
+#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
+
+---
+
 
 <!--- 
 # Alumni
