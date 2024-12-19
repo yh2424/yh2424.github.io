@@ -14,3 +14,4 @@ comments: true
   
 ![G캡_상장](https://github.com/user-attachments/assets/dbb118da-4758-47e6-9f92-c3991ccb3bf4)
   
+[대학원생 창의력이 빛난 날, ERICA G-캡스톤디자인 성과 공유](https://m.blog.naver.com/PostView.naver?blogId=hyerica4473&logNo=223698634868&proxyReferer=&noTrackingCode=true)
