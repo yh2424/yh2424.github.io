@@ -146,7 +146,7 @@ subtitle: Our team members !
 
 ---
 
-### 김 리나, Rina Kim
+### 김 리나, Lina Kim
 #### 3th-year student, flfsks4242@hanyang.ac.kr
 
 ---
