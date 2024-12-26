@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASDL winter social event 2024'
+title: 'ASDL Winter Social Event 2024'
 date: '2024-12-20 10:00'
 author: Seoungmin Park
 excerpt: >-
