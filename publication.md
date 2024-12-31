@@ -70,13 +70,15 @@ subtitle: List of Journal, Patent, and Conference
 
 
 ## PATENT 
+- KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
+- KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
 - US11556043B2, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 17, 2023 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11556043B2.pdf)     
 - US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
 - US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
 - US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
 - US10833057B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), Nov 10, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10833057B2.pdf)    
 - US10775667B2, Display apparatus (디스플레이 장치), Sept 15, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10775667B2.pdf)    
-- KR1020190137521, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR1020190137521B2.pdf)    
+- KR102103515, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102103515.pdf)    
 - US10606121B2, Display apparatus (디스플레이 장치), March 31, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10606121B2.pdf)    
 - US10332949B2, Display apparatus (디스플레이 장치), June 25, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10332949B2.pdf)    
 - US10312225B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 4, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10312225B2.pdf)    
