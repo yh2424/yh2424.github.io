@@ -1,19 +1,38 @@
-{% if site.post_search %}
+---
+layout: default
+page_title: Search
+permalink: /search/
+---
 
-<div id="beautifuljekyll-search-overlay">
+Tags : project software mechanics life
+<br>
 
-  <div id="nav-search-exit" title="Exit search">✕</div>
-  <input type="text" id="nav-search-input" placeholder="Search">
-  <ul id="search-results-container"></ul>
-  
-  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-  <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('nav-search-input'),
-      resultsContainer: document.getElementById('search-results-container'),
-      json: '{{ site.baseurl }}/assets/data/searchcorpus.json' 
-    });
-  </script>
+<div id="results">
+  <h1><!-- `key` listing for `value` --></h1>
+
+  <ul class="results">
+    <!-- results lists -->
+  </ul>
 </div>
 
-{% endif %}
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="{{site.baseurl}}/dest/jekyll-search.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search2.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+</script>
