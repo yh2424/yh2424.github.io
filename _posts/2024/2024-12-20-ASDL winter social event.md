@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASDL Winter social event 2024'
-thumbnail-img: (https://github.com/user-attachments/assets/0b0b3826-4ba1-448d-97b5-963b5316517f)
+thumbnail-img: /assets/img/Thumbnail/241220_Bowling.jpg
 date: '2024-12-20 10:00'
 by: By
 author: Seoungmin Park
