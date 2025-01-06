@@ -7,6 +7,7 @@ author: Seoungmin Park
 excerpt: >-
   In the second half of 2024, professors and ASDL students gathered together for a year-end party to wrap up the year.
 comments: true
+by: By
 author: Seoungmin Park
 ---
 ## Highlight
