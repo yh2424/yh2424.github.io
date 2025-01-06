@@ -63,7 +63,9 @@ cover-img:
         {{ post.subtitle }}
         </h3>
       {% endif %}
+      <h3 class="post-author">"By" <strong>{{post.author}}</strong></h3>
     </a>
+
 
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
