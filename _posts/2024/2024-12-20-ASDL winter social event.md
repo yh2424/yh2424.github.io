@@ -1,14 +1,13 @@
 ---
 layout: post
 title: 'ASDL Winter social event 2024'
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: (https://github.com/user-attachments/assets/0b0b3826-4ba1-448d-97b5-963b5316517f)
 date: '2024-12-20 10:00'
+by: By
 author: Seoungmin Park
 excerpt: >-
   In the second half of 2024, professors and ASDL students gathered together for a year-end party to wrap up the year.
 comments: true
-by: By
-author: Seoungmin Park
 ---
 ## Highlight
 - To foster unity among ASDL members, we organized a bowling event that brought together alumni, master’s students, and undergraduates.
