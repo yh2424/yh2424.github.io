@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Graduate Students Won Prizes in G-Capstone Competition (Team leaders: Seoungmin Park)'
+title: 'Graduate Students Won Prizes in G-Capstone Competition'
 date: '2024-12-18 13:30'
 excerpt: >-
   In the graduate student G-Capstone competition, the Kemory team (Team Leader: Seoungmin Park) won the grand prize (2st prize).  
