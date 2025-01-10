@@ -504,6 +504,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
+  width: 400px;
 }
 @media (max-width: 767px) {
   .post-preview .post-image {
