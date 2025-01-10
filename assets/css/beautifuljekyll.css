@@ -499,8 +499,8 @@ footer .footer-custom-content {
   filter: grayscale(0%);
 }
 .post-preview .post-image img {
-  max-height: 150%;
-  max-width: 150%;
+  max-height: 100%;
+  max-width: 100%;
 }
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
