@@ -49,13 +49,9 @@ cover-img:
     {% if thumbnail != "" %}
     <div class="post-image post-image-normal">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img 
-          src="{{ thumbnail | absolute_url }}" 
-          alt="Post thumbnail" 
-          style="width: 384px; height: auto;"
-        >
+        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail" class="thumbnail-img">
       </a>
-    </div>    
+    </div>
     {% endif %}
     {% endif %}
 
