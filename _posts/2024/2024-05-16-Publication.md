@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - Dual ferroelectric gate field-effect transistors for non-volatile memory applications'
+thumbnail-img: /assets/img/Thumbnail/240516_publication.png
 date: '2024-05-16'
 by: By
 author: Simin Chen
