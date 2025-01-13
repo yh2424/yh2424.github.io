@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - First demonstration of 2T0C-FeDRAM, selected as 2024 Nanoscale Hot Article'
+thumbnail-img: /assets/img/Thumbnail/240819_publication.png
 date: '2024-08-19 18:00'
 by: By
 author: TaeHyeon Noh

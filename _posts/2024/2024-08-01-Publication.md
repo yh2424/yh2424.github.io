@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - Effect of S/D Electrode Materials on the Electronic Performance and Stability of a-ITZO FETs'
+thumbnail-img: /assets/img/Thumbnail/240801_publication.png
 date: '2024-08-01 10:00'
 by: By
 author: Seong Ui An
