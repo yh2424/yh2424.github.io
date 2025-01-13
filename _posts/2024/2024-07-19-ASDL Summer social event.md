@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASDL Summer social event 2024'
-thumbnail-img: /assets/img/Thumbnail/240719_summer_evnet.jpg
+thumbnail-img: /assets/img/Thumbnail/240719_summer_evnet.jpeg
 date: '2024-07-19 10:00'
 by: By
 author: Seoungmin Park
