@@ -1,7 +1,10 @@
 ---
 layout: post
-title: 'Graduate Students Won Prizes in G-Capstone Competition'
+title: 'Graduate Students Won Prizes in G-Capstone Competition (Team leaders: Seoungmin Park)'
+thumbnail-img: /assets/img/Thumbnail/241218G-capstone.jpg
 date: '2024-12-18 13:30'
+by: By
+author: Seoungmin Park
 excerpt: >-
   In the graduate student G-Capstone competition, the Mips team (Team Leader: Seoungmin Park) won the grand prize (2st prize).  
 comments: true
