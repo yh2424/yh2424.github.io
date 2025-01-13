@@ -2,6 +2,8 @@
 layout: post
 title: 'Journal Publication - Effect of S/D Electrode Materials on the Electronic Performance and Stability of a-ITZO FETs'
 date: '2024-08-01 10:00'
+by: By
+author: Seong Ui An
 excerpt: >-
   Title: Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs
 comments: true
