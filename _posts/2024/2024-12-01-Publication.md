@@ -2,6 +2,8 @@
 layout: post
 title: 'Journal Publication - Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing'
 date: '2024-12-01 10:00'
+by: By
+author: Daehong Kim
 excerpt: >-
   Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing
 comments: true

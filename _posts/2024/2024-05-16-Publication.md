@@ -2,6 +2,8 @@
 layout: post
 title: 'Journal Publication - Dual ferroelectric gate field-effect transistors for non-volatile memory applications'
 date: '2024-05-16'
+by: By
+author: Simin Chen
 excerpt: >-
   TCAD simulation study of dual ferroelectric gate field-effect transistors with a recessed channel geometry for non-volatile memory applications
 comments: true
