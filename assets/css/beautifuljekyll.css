@@ -485,8 +485,6 @@ footer .footer-custom-content {
 }
 .post-preview .post-entry {
   width: 100%;
-  display: grid;
-  place-items: center; /* 가로 및 세로 중앙 정렬 */
 }
 .post-preview .post-image {
   float: right;
@@ -503,6 +501,8 @@ footer .footer-custom-content {
 .post-preview .post-image img {
   max-height: 100%;
   max-width: 100%;
+  display: grid;
+  place-items: center; /* 가로 및 세로 중앙 정렬 */
 }
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
