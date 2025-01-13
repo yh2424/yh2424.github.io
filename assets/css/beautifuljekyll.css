@@ -485,6 +485,8 @@ footer .footer-custom-content {
 }
 .post-preview .post-entry {
   width: 100%;
+  display: grid;
+  place-items: center; /* 가로 및 세로 중앙 정렬 */
 }
 .post-preview .post-image {
   float: right;
