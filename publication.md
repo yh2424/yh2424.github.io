@@ -10,6 +10,8 @@ subtitle: List of Journal, Patent, and Conference
 ### In preparation
 - Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
 --->
+### 2025
+-  Taewon Jin, Kyungjin Jo, Seokhyeon Yoon, Heeyun Jung, Seokyoung Shin, Hyunji Jeong, Kangseok Kim, and Younghyun Kim\*. **"Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics"**,  _"Journal of the Microelectronics and Packaging Society, 31, no.4 (2024) : 29-36._ [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
 
 ### 2024
 - Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, Younghyun Kim\*. **"Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing"**,  _Optics and Lasers in Engineering Accepted_
