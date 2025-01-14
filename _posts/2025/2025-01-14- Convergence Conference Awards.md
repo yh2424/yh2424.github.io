@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Graduate student, 2025 ERICA Convergence Conference Award (Seoungmin Park, Master's Program)'
+title: 'Student Award, 2025 ERICA Convergence Conference Award'
 thumbnail-img: /assets/img/Thumbnail/250114_conference award.jpg
 date: '2025-01-14 13:30'
 by: By
 author: Seoungmin Park
 excerpt: >-
-  Master's student Seoungmin Park received an encouragement award at the ERICA Convergence Conference.
+  Master student Seoungmin Park received an encouragement award at the ERICA Convergence Conference.
 comments: true
 ---
 - ASDL Master's student Seoungmin Park received an encouragement award for his outstanding performance at the 2025 ERICA Convergence Conference.
