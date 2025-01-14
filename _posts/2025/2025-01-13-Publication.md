@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Journal Publication - Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics'
+title: 'Journal Publication - Status of Co-Packaged Optics based on Silicon Photonics'
 thumbnail-img: /assets/img/Thumbnail/250113_publication.png
 date: '2025-01-13 10:00'
 by: By
-author: Taewon Jin
+author: Younghyun Kim
 excerpt: >-
   Next-Generation Semiconductor Packaging: Current Status of Research and Development on Co-packaged Optics Based on Silicon Photonics
 comments: true
