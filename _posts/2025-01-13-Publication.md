@@ -22,6 +22,4 @@ To address these challenges, Co-packaged Optics (CPO) has emerged as a promising
 
 [[Link to Journal website (Korea Citation Index)]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
 
-
-
 Congratulations, Taewon!
