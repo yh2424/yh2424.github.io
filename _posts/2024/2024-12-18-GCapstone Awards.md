@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Graduate Students Won Prizes in G-Capstone Competition (Team leaders: Seoungmin Park)'
+title: 'Graduate Students Won Prizes in G-Capstone Competition'
 thumbnail-img: /assets/img/Thumbnail/241218G-capstone.jpg
 date: '2024-12-18 13:30'
 by: By
