@@ -9,10 +9,10 @@ excerpt: >-
   Master student Seoungmin Park received an encouragement award at the ERICA Convergence Conference.
 comments: true
 ---
-- ASDL Master's student Seoungmin Park received an encouragement award for his outstanding performance at the 2025 ERICA Convergence Conference.
-  
 
-- **Grand prize - Demonstration of Memory-In-Pixel Application:Monolithic Integration of QD-LED and Charge Trap TFT Arrays**
+## Highlight
+- ASDL Master's student Seoungmin Park received an encouragement award for his outstanding performance at the 2025 ERICA Convergence Conference.
+- Grand prize - Demonstration of Memory-In-Pixel Application:Monolithic Integration of QD-LED and Charge Trap TFT Arrays**
 
 ![발표자료료](https://github.com/user-attachments/assets/f5fdb53e-560b-45d1-ab5e-fc15f6b2080f)
 

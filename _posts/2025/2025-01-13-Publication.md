@@ -9,6 +9,8 @@ excerpt: >-
   Next-Generation Semiconductor Packaging: Current Status of Research and Development on Co-packaged Optics Based on Silicon Photonics
 comments: true
 ---
+
+
 ## Changes in transmission bandwidth density and energy efficiency over distance. The limitations of conventional interconnect technology (Interconnect Wall)
 ![스크린샷 2025-01-13 155654](https://github.com/user-attachments/assets/10f11535-590f-46e8-ae80-0962ba2ecc08)
 
