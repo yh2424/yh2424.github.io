@@ -196,17 +196,17 @@ subtitle: Our team members !
 
 
 ---
-### 노 태현, Taehyeon Noh, M.S.
+### 노 태현, Taehyeon Noh, M.E.
 #### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
 #### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
 ---
-### 선 신개, Xinkai Sun, M.S. 
+### 선 신개, Xinkai Sun, M.E. 
 #### Graduated in Feb. 2025, Now with ACM Research (Shanghai), q1320472838@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 
 ---
-### 안 성의, Seongui An, M.S.
+### 안 성의, Seongui An, M.E.
 #### Graduated in Feb. 2024, Now with DB HiTek, asulang01@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
 ---
