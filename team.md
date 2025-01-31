@@ -190,11 +190,7 @@ subtitle: Our team members !
 ---
 
 
-
-
 # Alumni
-
-
 ---
 ### 노 태현, Taehyeon Noh, M.E.
 #### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
