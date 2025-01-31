@@ -196,8 +196,8 @@ subtitle: Our team members !
 
 
 ---
-### 노 태현, Taehyeon Noh, M.S. degree of Eng., Now with ASML 
-#### Graduated in Feb. 2025, eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+### 노 태현, Taehyeon Noh, M.S. degree of Eng. 
+#### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
 #### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
 ---
@@ -206,8 +206,8 @@ subtitle: Our team members !
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 
 ---
-### 안 성의, Seongui An, MS degree of Eng., Now with DB HiTek
-#### Graduated in Feb. 2024, asulang01@hanyang.ac.kr 
+### 안 성의, Seongui An, MS degree of Eng.
+#### Graduated in Feb. 2024, Now with DB HiTek, asulang01@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
 ---
 
