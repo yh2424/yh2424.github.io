@@ -43,7 +43,7 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 Department of Photonics and Nanoelectronics
 Department of Applied Physics (Joint appointment)   
 
-#### Technical Advisor, Mar 2024 - Present
+#### Technical Advisor, Mar 2024 - Presentd
 PhotoniSol, Inc. 
 
 <!--- 

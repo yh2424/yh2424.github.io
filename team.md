@@ -33,6 +33,12 @@ subtitle: Our team members !
 ### 진 태원, Taewon Jin
 #### Ph.D. course, xodnjs3124@hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
 #### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
+#### 1st-authored KCI: [[2]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
+
+---
+### 김 대홍, Daehong Kim
+#### Ph.D. course, altair45@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](https://doi.org/10.1109/JPHOT.2023.3331194), [[2]](https://doi.org/10.1016/j.optlaseng.2024.108742)
 
 ---
 
@@ -42,16 +48,16 @@ subtitle: Our team members !
 
 ---
 
-### 배 영주, Youngjoo Bae
-#### Post-master course yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
-#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591)
-
----
-
 ### 박 승민, Seoungmin Park
 #### Master course (M4), psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
 
 ---
+
+### 배 영주, Youngjoo Bae
+#### Post-master course yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591)
+---
+
 
 ### 김 강석, Kangseok Kim 
 #### Master course (M4), ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
@@ -59,11 +65,6 @@ subtitle: Our team members !
 
 ---
 
-### 노 태현, Taehyeon Noh
-#### Master course (M4), eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
-
----
 
 ### 주 기준, Gijun Ju
 #### Master course (M4), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
@@ -194,22 +195,20 @@ subtitle: Our team members !
 # Alumni
 
 
-### 안 성의, Seongui An
-#### Graduated master course, asulang01[at]]hanyang.ac.kr<!---, [More about me](https://yh2424.github.io/people/seonguian)--->
-#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
+---
+### 노 태현, Taehyeon Noh, M.S. degree of Eng., Now with ASML 
+#### Graduated in Feb. 2025, eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
 ---
-
-### 김 대홍, Daehong Kim
-#### Graduated master course,altair45@hanyang.ac.kr
-#### 1st-authored SCIE: [[1]](https://doi.org/10.1109/JPHOT.2023.3331194), [[2]](https://doi.org/10.1016/j.optlaseng.2024.108742)
-
----
-
-### 선 신개, Xinkai Sun
-#### Graduated master course, q1320472838@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/xinkaisun)--->
+### 선 신개, Xinkai Sun, MS of Eng.
+#### Graduated in Feb. 2025, q1320472838@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 
+---
+### 안 성의, Seongui An, MS degree of Eng., Now with DB HiTek
+#### Graduated in Feb. 2024, asulang01@hanyang.ac.kr 
+#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
 ---
 
 
