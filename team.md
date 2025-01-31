@@ -201,7 +201,7 @@ subtitle: Our team members !
 #### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
 ---
-### 선 신개, Xinkai Sun, MS of Eng.
+### 선 신개, Xinkai Sun, M.S. degree of Eng.
 #### Graduated in Feb. 2025, q1320472838@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 
