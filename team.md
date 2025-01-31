@@ -202,7 +202,7 @@ subtitle: Our team members !
 
 ---
 ### 선 신개, Xinkai Sun, M.S. degree of Eng.
-#### Graduated in Feb. 2025, q1320472838@hanyang.ac.kr 
+#### Graduated in Feb. 2025, Now with ACM Research (Shanghai), q1320472838@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 
 ---
