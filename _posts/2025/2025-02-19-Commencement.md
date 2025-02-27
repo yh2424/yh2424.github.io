@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2025년 학부생 졸업식'
+title: '2025년 학부 및 대학원 졸업식'
 date: '2025-02-19 15:00'
 by: By
 author: Seokhyeon Yoon
