@@ -49,7 +49,7 @@ cover-img:
     {% if thumbnail != "" %}
     <div class="post-image post-image-normal">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail" class="thumbnail-img">
       </a>
     </div>
     {% endif %}
@@ -63,7 +63,9 @@ cover-img:
         {{ post.subtitle }}
         </h3>
       {% endif %}
+      <span class="post-author">{{post.by}} <strong>{{post.author}}</strong></span>
     </a>
+
 
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
@@ -80,7 +82,7 @@ cover-img:
 
     {% unless site.feed_show_excerpt == false %}
     {% if thumbnail != "" %}
-    <div class="post-image post-image-short">
+    <div class="post-image post-image-short" width="400 px" height="400 px">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
         <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
       </a>

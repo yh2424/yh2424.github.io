@@ -6,15 +6,18 @@ subtitle: List of Journal, Patent, and Conference
 
 
 # Journal
-
+<!---
 ### In preparation
 - Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
-- Daehong Kim, Jeroen De Coster, ... Younghyun Kim*. **"(Tentative)Insertion Loss Measurement Improvement for High-Density Silicon Photonics Wafers"**,  _In Preparation_
+--->
+### 2025
+- Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, Younghyun Kim\*. **"Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing"**,  Optics and Lasers in Engineering, Vol. 186 (2025) [[Link]](https://doi.org/10.1016/j.optlaseng.2024.108742)
 
 ### 2024
-- Taehyun Noh, ... Younghyun Kim*, **"First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, _Nanoscale Accepted_
-- Seong Ui An, Dae-Hwan Ahn, Gijun Ju, Simin Chen, Yo Seop Ji, Jae-Hoon Han, Jaekyun Kim, Younghyun Kim*, **"Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs"**, IEEE Transactions on Electron Devices, Iss.1557-9646, p1-6,2024 [[Link]](https://ieeexplore.ieee.org/document/10620402)
-- Simin Chen, Dae-Hwan Ahn, Taehyeon Noh, and Younghyun Kim*, **"TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society, Vol. 85, Iss. 1, 47-55, 2024 [[Link]](https://link.springer.com/article/10.1007/s40042-024-01079-7)
+-  Taewon Jin, Kyungjin Jo, Seokhyeon Yoon, Heeyun Jung, Seokyoung Shin, Hyunji Jeong, Kangseok Kim, and Younghyun Kim\*. **"Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics"**, Journal of the Microelectronics and Packaging Society, 31, no.4 (2024) [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
+- Tae Hyeon Noh‡, Simin Chen‡, Hyo-Bae Kim, Taewon Jin, Seoung min Park, Seong Ui An, Xinkai Sun, Jaekyun Kim, Jae-Hoon Han, Ji-Hoon Ahn\*, Dae-Hwan Ahn\*, and Younghyun Kim\*, **"First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec"**, Nanoscale, 2040-3364, 2024 **<span style="color:blue;">[2024 Nanoscale Hot Article]</span>** [[Link]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e)
+- Seong Ui An‡, Dae-Hwan Ahn‡, Gijun Ju, Simin Chen, Yo Seop Ji, Jae-Hoon Han, Jaekyun Kim, Younghyun Kim*, **"Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs"**, IEEE Transactions on Electron Devices, Iss.1557-9646, p1-6,2024 [[Link]](https://ieeexplore.ieee.org/document/10620402)
+- Simin Chen‡, Dae-Hwan Ahn‡, Taehyeon Noh, and Younghyun Kim*, **"TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application"**, Journal of the Korean Physical Society, Vol. 85, Iss. 1, 47-55, 2024 [[Link]](https://link.springer.com/article/10.1007/s40042-024-01079-7)
 - Xinkai Sun‡, Jae-Hoon Han‡, Zhenyuan Xiao, Simin Chen, Taewon Jin, Taehyeon Noh, Seoungmin Park, Jaekyun Kim, Jidong Jin\*, Younghyun Kim\*, **"High Performance Indium-Tin-Zinc-Oxide Thin Film Transistors with Hexamethyldisilazane Passivation"**, ACS Applied Electronic Materials, Vol. 6, Iss. 4, 2442-2448, 2024 [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
 - Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, Younghyun Kim, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, **"Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs"**, IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
 
@@ -70,13 +73,15 @@ subtitle: List of Journal, Patent, and Conference
 
 ## PATENT 
 - US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
+- KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
+- KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
 - US11556043B2, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 17, 2023 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11556043B2.pdf)     
 - US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
 - US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
 - US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
 - US10833057B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), Nov 10, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10833057B2.pdf)    
 - US10775667B2, Display apparatus (디스플레이 장치), Sept 15, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10775667B2.pdf)    
-- KR1020190137521, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR1020190137521B2.pdf)    
+- KR102103515, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102103515.pdf)    
 - US10606121B2, Display apparatus (디스플레이 장치), March 31, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10606121B2.pdf)    
 - US10332949B2, Display apparatus (디스플레이 장치), June 25, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10332949B2.pdf)    
 - US10312225B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 4, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10312225B2.pdf)    

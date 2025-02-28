@@ -2,6 +2,8 @@
 layout: post
 title: 'Journal Publication - A high Performance ITZO TFT with HMDS Passivation'
 date: '2024-04-10'
+by: By
+author: Xinkai Sun
 excerpt: >-
   High Performance Indium-Tin-Zinc-Oxide Thin-Film Transistor with Hexamethyldisilazane Passivation
 comments: true
@@ -21,5 +23,3 @@ In this work, the fabrication and characterization of high-performance indium-ti
 [[Link]](https://pubs.acs.org/doi/10.1021/acsaelm.4c00100)
 
 Congratulations, Xinkai!
-
-![img.png](img.png)

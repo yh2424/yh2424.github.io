@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 'Journal Publication - Dual ferroelectric gate field-effect transistors for non-volatile memory applications'
+thumbnail-img: /assets/img/Thumbnail/240516_publication.png
 date: '2024-05-16'
+by: By
+author: Simin Chen
 excerpt: >-
   TCAD simulation study of dual ferroelectric gate field-effect transistors with a recessed channel geometry for non-volatile memory applications
 comments: true
@@ -22,5 +25,3 @@ In this study, we propose a ferroelectric FET (FeFET) structure termed dual ferr
 
 
 Congratulations, Simin!
-
-![img.png](img.png)
