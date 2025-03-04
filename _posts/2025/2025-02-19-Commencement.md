@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '2025년 학부 및 대학원 졸업식'
+thumbnail-img: /assets/img/Thumbnail/250219_Commencement.jpg
 date: '2025-02-19 15:00'
 by: By
 author: Seokhyeon Yoon
