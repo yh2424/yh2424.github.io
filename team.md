@@ -48,26 +48,8 @@ subtitle: Our team members !
 
 ---
 
-### 박 승민, Seoungmin Park
-#### Master course (M4), psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
-
----
-
-### 배 영주, Youngjoo Bae
-#### Post-master course yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
-#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591)
----
-
-
 ### 김 강석, Kangseok Kim 
 #### Master course (M4), ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
-#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
-
----
-
-
-### 주 기준, Gijun Ju
-#### Master course (M4), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---
@@ -88,97 +70,97 @@ subtitle: Our team members !
 ---
 
 ### Kanchisa Nonthasri 
-#### Master course (M2), graceid@m365.hanyang.ac.kr
+#### Master course (M1), graceid@m365.hanyang.ac.kr
 
 ---
 
 ### 윤 석현, Seokhyeon Yoon
-#### 4rd-year student, dbsminan@hanyang.ac.kr
+#### Master course (M1), dbsminan@hanyang.ac.kr
 
 ---
 
 ### 신 석영, Seokyoung Shin
-#### 4th-year student, ssy6225@hanyang.ac.kr
+#### Master course (M1), ssy6225@hanyang.ac.kr
 
 ---
 
 ### 조 경진, Kyungjin Jo
-#### 4th-year student, whrudwls41@hanyang.ac.kr
+#### Master course (M1), whrudwls41@hanyang.ac.kr
 
 ---
 
 ### 정 현지, Hyunji Jeong
-#### 4rd-year student, eu326@hanyang.ac.kr
+#### Master course (M1), eu326@hanyang.ac.kr
 
 ---
 
 ### 정 희윤, Huiyun Jeong
-#### 4rd-year student, oriole1002@hanyang.ac.kr
+#### Master course (M1), oriole1002@hanyang.ac.kr
 
 ---
 
 ### 이 종건, Jonggeon Lee
-#### 4th-year student, neosue10@hanyang.ac.kr
+#### Master course (M1), neosue10@hanyang.ac.kr
 
 ---
 
 ### 배 성혁, Seonghyeok Bae
-#### 4th-year student, brian0073@hanyang.ac.kr
-
----
-
-### 조 배훈, Baehun Jo
-#### 3th-year student, jbh12132@hanyang.ac.kr
-
----
-
-### 김 우재, WooJae Kim
-#### 3th-year student, dnwo0825@hanyang.ac.kr 
-
----
-
-### 이 현석, Hyeonseok Lee
-#### 3th-year student, hs7681@hanyang.ac.kr
-
----
-
-### 박 승우, Seungwoo Park
-#### 3th-year student, seungwo7@hanyang.ac.kr
-
----
-
-### 김 리나, Lina Kim
-#### 3th-year student, flfsks4242@hanyang.ac.kr
-
----
-
-### 박 소연, Soyeon Park
-#### 3th-year student, psy030412@hanyang.ac.kr
-
----
-
-### 손 은지, Eunji Son
-#### 3th-year student, looej@hanyang.ac.kr
+#### Master course (M1), brian0073@hanyang.ac.kr
 
 ---
 
 ### 이 초연, Choyeon Lee
-#### Lab Intern, dlchdus13@hanyang.ac.kr
-
----
-
-### 서 연우, Yeonwoo Seo
-#### 3th-year student, syw040300@hanyang.ac.kr
+#### Master course (M1), dlchdus13@hanyang.ac.kr
 
 ---
 
 ### 이 지현, Jihyun Lee
-#### Lab Intern, leejhn06@hanyang.ac.kr
+#### Master course (M1), leejhn06@hanyang.ac.kr
+
+---
+
+### 조 배훈, Baehun Jo
+#### 4th-year student, jbh12132@hanyang.ac.kr
+
+---
+
+### 김 우재, WooJae Kim
+#### 4th-year student, dnwo0825@hanyang.ac.kr 
+
+---
+
+### 이 현석, Hyeonseok Lee
+#### 4th-year student, hs7681@hanyang.ac.kr
+
+---
+
+### 박 승우, Seungwoo Park
+#### 4th-year student, seungwo7@hanyang.ac.kr
+
+---
+
+### 김 리나, Lina Kim
+#### 4th-year student, flfsks4242@hanyang.ac.kr
+
+---
+
+### 박 소연, Soyeon Park
+#### 4th-year student, psy030412@hanyang.ac.kr
+
+---
+
+### 손 은지, Eunji Son
+#### 4th-year student, looej@hanyang.ac.kr
+
+---
+
+### 서 연우, Yeonwoo Seo
+#### 4th-year student, syw040300@hanyang.ac.kr
 
 ---
 
 ### 신 동현, donghyun shin
-#### 3th-year student, donghyun3966@hanyang.ac.kr
+#### 4th-year student, donghyun3966@hanyang.ac.kr
 
 ---
 
@@ -192,9 +174,9 @@ subtitle: Our team members !
 
 # Alumni
 ---
-### 노 태현, Taehyeon Noh, M.E.
-#### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
+### 배 영주, Youngjoo Bae
+#### Post-master course yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591)
 
 ---
 ### 선 신개, Xinkai Sun, M.E. 
@@ -205,7 +187,21 @@ subtitle: Our team members !
 ### 안 성의, Seongui An, M.E.
 #### Graduated in Feb. 2024, Now with DB HiTek, asulang01@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
+
 ---
+### 박 승민, Seoungmin Park
+#### Master course (M4), psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+
+---
+### 노 태현, Taehyeon Noh, M.E.
+#### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/NTH)  --->
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
+
+
+---
+### 주 기준, Gijun Ju
+#### Master course (M4), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 
 <!--- 
