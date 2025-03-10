@@ -164,6 +164,11 @@ subtitle: Our team members !
 
 ---
 
+### 홍 찬호, Chanho Hong
+#### 4th-year student, cokr7894@hanyang.ac.kr
+
+---
+
 ### 박 건수, Geonsu Park
 #### Lab Intern, pzs109@naver.com
 
