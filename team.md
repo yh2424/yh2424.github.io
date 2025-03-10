@@ -159,8 +159,13 @@ subtitle: Our team members !
 
 ---
 
-### 신 동현, donghyun shin
+### 신 동현, Donghyun Shin
 #### 4th-year student, donghyun3966@hanyang.ac.kr
+
+---
+
+### 박 건수, Geonsu Park
+#### Lab Intern, pzs109@naver.com
 
 ---
 
