@@ -129,11 +129,6 @@ subtitle: Our team members !
 
 ---
 
-### 이 현석, Hyeonseok Lee
-#### 4th-year student, hs7681@hanyang.ac.kr
-
----
-
 ### 박 승우, Seungwoo Park
 #### 4th-year student, seungwo7@hanyang.ac.kr
 
@@ -159,17 +154,12 @@ subtitle: Our team members !
 
 ---
 
-### 신 동현, Donghyun Shin
-#### 4th-year student, donghyun3966@hanyang.ac.kr
-
----
-
 ### 홍 찬호, Chanho Hong
 #### 4th-year student, cokr7894@hanyang.ac.kr
 
 ---
 
-### 박 건수, Geonsu Park
+### 박 건수, Geonsoo Park
 #### Lab Intern, pzs109@naver.com
 
 ---
