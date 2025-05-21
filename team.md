@@ -27,6 +27,10 @@ subtitle: Our team members !
 | ![image](https://user-images.githubusercontent.com/32427749/127579757-95fe1d97-7820-4485-acfe-42483abd727e.png) | 김영현, Younghyun Kim, Ph.D. |
 --->
 
+<!--- 
+
+--->
+
 
 # Researcher
 
@@ -67,10 +71,14 @@ subtitle: Our team members !
 ### 왕 택위, Zewei Wang 
 #### Master course (M2), wangzewei@hanyang.ac.kr
 
+<!--- 
 ---
 
 ### Kanchisa Nonthasri 
 #### Master course (M1), graceid@m365.hanyang.ac.kr
+
+--->
+
 
 ---
 
