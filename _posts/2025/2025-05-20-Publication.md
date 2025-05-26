@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - Visible Light Wavelength-Dependent Erasing in AOS-Based Charge Trap TFTs for Enhanced Neuromorphic Display Performance '
-thumbnail-img: /assets/img/Thumbnail/250520-Publication.jpg
+thumbnail-img: /assets/img/Thumbnail/Mistake_from_hyunji.jpg
 date: '2025-05-20 10:00'
 by: By
 author: Hyunji Jeong
