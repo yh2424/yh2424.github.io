@@ -95,6 +95,7 @@ subtitle: List of Journal, Patent, and Conference
 
 
 ## Conference
+-	Kang Seok Kim, Young Joo Bae, Min Kyu Kim, and **Younghyun Kim***, "Proposal and Simulation of a Compact SIS-type MZ Modulator with CROW Structure for Optical I/O Applications", OECC2024, Melbourne Australia [[Link]](https://ieeexplore.ieee.org/abstract/document/10975692)
 -	Simin Chen, Dae-Hwan Ahn, Seong Ui An, and **Younghyun Kim***, "Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", EDTM2023, Seoul [[Link]](https://ieeexplore.ieee.org/document/10103116)
 -   Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Joon Pyo Kim, Jaeyoung Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park , Dae-Myoung Geum, **Younghyun Kim**, Yongku Baek, Byung Jin Cho, and Sang Hyeon Kim, "Heterogeneous 3D Sequential CFET with Ge (110) Nanosheet p-FET on Si (100) bulk n-FET by Direct Wafer Bonding", IEDM2023, San Francisco [[Link]](https://ieeexplore.ieee.org/document/10019551/authors#authors)
 -   Artemisia Tsiara, **Younghyun Kim**, Didit Yudistira, Bernadette Kunert, Marina Baryshnikova, Marianna Pantouvaki, Joris Van Campenhout, Kristof Croes, "Impact of Seed Annealing on the Reliability of Monolithic III-V/Si Optical Phase Shitters", ECOC2022, Basel 2022 [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9979220)
