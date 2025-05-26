@@ -12,7 +12,7 @@ subtitle: List of Journal, Patent, and Conference
 --->
 ### 2025
 - Hyunji Jeong‡, Dae-Hwan Ahn‡, Seoungmin Park, Gijun Ju, Jae-Hoon Han, and Younghyun Kim\*. **"Visible Light Wavelength-Dependent Erasing in AOS-Based Charge Trap TFTs for Enhanced Neuromorphic Display Performance"**, ACS Applied Electronic Materials, *Accept* (2025)
-- Hyeongrak Lim,Seong Kwang Kim,Seung Woo Lee,Youngkeun Park,Jaejoong Jeong,Hojin Jeong,Jinha Lim,Dae-Myeong Geum,Jaehoon Han,Younghyun Kim,Jaeyong Jeong,Byung Jin Cho,Sanghyeon Kim. **"Heterogeneous 3D Sequential CFET with Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET"**, IEEE Transactions on Electron Devices, *Accept* (2025)
+- Hyeongrak Lim, Seong Kwang Kim, Seung Woo Lee, Youngkeun Park, Jaejoong Jeong, Hojin Jeong, Jinha Lim, Dae-Myeong Geum, Jaehoon Han, Younghyun Kim, Jaeyong Jeong, Byung Jin Cho, Sanghyeon Kim. **"Heterogeneous 3D Sequential CFET with Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET"**, IEEE Transactions on Electron Devices, *Accept* (2025)
 - Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, Younghyun Kim\*. **"Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing"**,  Optics and Lasers in Engineering, Vol. 186 (2025) [[Link]](https://doi.org/10.1016/j.optlaseng.2024.108742)
 
 ### 2024
