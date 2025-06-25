@@ -32,7 +32,7 @@ demonstrating a high pattern recognition accuracy of 93.44% in simulations using
 dataset. These results highlight the significant potential of a-ITZO/a-IGZO CTTFTs for 
 integrating low-power neuromorphic systems with display technologies by leveraging various 
 light sources in the visible wavelengths.  
-
+[[Link to Journal website (ACS Applied Electronic Materials)]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 
 
 
