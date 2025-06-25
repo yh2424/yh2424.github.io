@@ -99,6 +99,7 @@ subtitle: Our team members !
 
 ### 정 현지, Hyunji Jeong
 #### Master course (M1), eu326@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 
 ---
 
