@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASDL Summer Social Event 2025 - Summer Party'
-thumbnail-img: /assets/img/Thumbnail/250709_OPC2025_Prof.jpg
+thumbnail-img: /assets/img/Thumbnail/250814_Summer Party.jpg
 date: '2025-08-14 14:00'
 by: By
 author: Seokhyeon Yoon
