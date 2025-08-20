@@ -52,24 +52,18 @@ subtitle: Our team members !
 
 ---
 
-### 김 강석, Kangseok Kim 
-#### Master course (M4), ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
-#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
-
----
-
 ### 신 용진, Yongjin Shin
-#### Master course (M3), djrm98@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
+#### Master course (M4), djrm98@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/yongjinshin)--->
 
 ---
 
 ### 김 영경, Youngkyoung Kim
-#### Master course (M2), yjyk1103@hanyang.ac.kr
+#### Master course (M3), yjyk1103@hanyang.ac.kr
 
 ---
 
 ### 왕 택위, Zewei Wang 
-#### Master course (M2), wangzewei@hanyang.ac.kr
+#### Master course (M3), wangzewei@hanyang.ac.kr
 
 <!--- 
 ---
@@ -83,48 +77,43 @@ subtitle: Our team members !
 ---
 
 ### 윤 석현, Seokhyeon Yoon
-#### Master course (M1), dbsminan@hanyang.ac.kr
+#### Master course (M2), dbsminan@hanyang.ac.kr
 
 ---
 
 ### 신 석영, Seokyoung Shin
-#### Master course (M1), ssy6225@hanyang.ac.kr
+#### Master course (M2), ssy6225@hanyang.ac.kr
 
 ---
 
 ### 조 경진, Kyungjin Jo
-#### Master course (M1), whrudwls41@hanyang.ac.kr
+#### Master course (M2), whrudwls41@hanyang.ac.kr
 
 ---
 
 ### 정 현지, Hyunji Jeong
-#### Master course (M1), eu326@hanyang.ac.kr
+#### Master course (M2), eu326@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 
 ---
 
 ### 정 희윤, Huiyun Jeong
-#### Master course (M1), oriole1002@hanyang.ac.kr
+#### Master course (M2), oriole1002@hanyang.ac.kr
 
 ---
 
 ### 이 종건, Jonggeon Lee
-#### Master course (M1), neosue10@hanyang.ac.kr
+#### Master course (M2), neosue10@hanyang.ac.kr
 
 ---
 
 ### 배 성혁, Seonghyeok Bae
-#### Master course (M1), brian0073@hanyang.ac.kr
-
----
-
-### 이 초연, Choyeon Lee
-#### Master course (M1), dlchdus13@hanyang.ac.kr
+#### Master course (M2), brian0073@hanyang.ac.kr
 
 ---
 
 ### 이 지현, Jihyun Lee
-#### Master course (M1), leejhn06@hanyang.ac.kr
+#### Master course (M2), leejhn06@hanyang.ac.kr
 
 ---
 
@@ -133,7 +122,7 @@ subtitle: Our team members !
 
 ---
 
-### 김 우재, WooJae Kim
+### 김 우재, Woojae Kim
 #### 4th-year student, dnwo0825@hanyang.ac.kr 
 
 ---
@@ -153,23 +142,13 @@ subtitle: Our team members !
 
 ---
 
-### 손 은지, Eunji Son
-#### 4th-year student, looej@hanyang.ac.kr
+### 박 찬웅, Chanwoong Park
+#### 3th-year student, cwpark0923@hanyang.ac.kr
 
 ---
 
-### 서 연우, Yeonwoo Seo
-#### 4th-year student, syw040300@hanyang.ac.kr
-
----
-
-### 홍 찬호, Chanho Hong
-#### 4th-year student, cokr7894@hanyang.ac.kr
-
----
-
-### 박 건수, Geonsoo Park
-#### Lab Intern, pzs109@naver.com
+### 주 호영, Hoyeong Joo
+#### 3th-year student, donbosco11@hanyang.ac.kr
 
 ---
 
@@ -183,8 +162,8 @@ subtitle: Our team members !
 
 # Alumni
 ---
-### 배 영주, Youngjoo Bae
-#### Post-master course yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+### 배 영주, Youngjoo Bae, M.E
+#### Graduated in Feb. 2025, yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591)
 
 ---
@@ -198,8 +177,8 @@ subtitle: Our team members !
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
 
 ---
-### 박 승민, Seoungmin Park
-#### Master course (M4), psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+### 박 승민, Seoungmin Park, M.E
+#### Graduated in Feb. 2025, psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
 
 ---
 ### 노 태현, Taehyeon Noh, M.E.
@@ -208,8 +187,14 @@ subtitle: Our team members !
 
 
 ---
-### 주 기준, Gijun Ju
-#### Master course (M4), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+### 주 기준, Gijun Ju, M.E
+#### Graduated in Feb. 2025, jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
+
+---
+
+### 김 강석, Kangseok Kim, M.E
+#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (in Singapore) ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 
