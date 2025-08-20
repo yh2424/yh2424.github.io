@@ -77,43 +77,43 @@ subtitle: Our team members !
 ---
 
 ### 윤 석현, Seokhyeon Yoon
-#### Master course (M2), dbsminan@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), dbsminan@hanyang.ac.kr
 
 ---
 
 ### 신 석영, Seokyoung Shin
-#### Master course (M2), ssy6225@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), ssy6225@hanyang.ac.kr
 
 ---
 
 ### 조 경진, Kyungjin Jo
-#### Master course (M2), whrudwls41@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), whrudwls41@hanyang.ac.kr
 
 ---
 
 ### 정 현지, Hyunji Jeong
-#### Master course (M2), eu326@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), eu326@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 
 ---
 
 ### 정 희윤, Huiyun Jeong
-#### Master course (M2), oriole1002@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), oriole1002@hanyang.ac.kr
 
 ---
 
 ### 이 종건, Jonggeon Lee
-#### Master course (M2), neosue10@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), neosue10@hanyang.ac.kr
 
 ---
 
 ### 배 성혁, Seonghyeok Bae
-#### Master course (M2), brian0073@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), brian0073@hanyang.ac.kr
 
 ---
 
 ### 이 지현, Jihyun Lee
-#### Master course (M2), leejhn06@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), leejhn06@hanyang.ac.kr
 
 ---
 
