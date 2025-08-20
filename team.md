@@ -188,13 +188,13 @@ subtitle: Our team members !
 
 ---
 ### 주 기준, Gijun Ju, M.E
-#### Graduated in Feb. 2025, jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### Graduated in Feb. 2025, Now with KIST (Seoul), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---
 
 ### 김 강석, Kangseok Kim, M.E
-#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (in Singapore) ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
+#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 
