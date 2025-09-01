@@ -119,6 +119,8 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 
 ## TEACHING
 #### Confererence 
+- (기술세미나 개최) 2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능현반도체사업단 후원) 2025.08.18 [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
+- (Tutorial) 한국광학회 하계학술발표회2025, From wafer to Co-packaged optics: A tutorial on silicon photonics integration, 2025.07.09 [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
 - (Tutorial) 한국광학회 동계학술발표회2024, Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics, 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
 - (Tutorial) 한국광학회 광전자 및 광통신 학술대회 COOC2023, 실리콘 포토닉스 - 집적공정, 2023.06.01 [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
 
@@ -172,6 +174,10 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 ## PUBLICATION
 #### JOURNAL
 
+-  Heeyun Jung, Myung-Joon Kwack, and **Younghyun Kim**\*. "Simulation study of a highly efficient dual-apodized a-Si/SiN grating coupler using a metal bottom reflector on a glass substrate for co-packaged optics", Japanese Journal of Applied Physics (2025) [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/adf9ad/meta)
+- Hyunji Jeong‡, Dae-Hwan Ahn‡, Seoungmin Park, Gijun Ju, Jae-Hoon Han, and **Younghyun Kim**\*. "Visible Light Wavelength-Dependent Erasing in AOS-Based Charge Trap TFTs for Enhanced Neuromorphic Display Performance", ACS Applied Electronic Materials, Vol. 7, Iss. 12, 5463-5472 (2025) [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
+- Hyeongrak Lim, Seong Kwang Kim, Seung Woo Lee, Youngkeun Park, Jaejoong Jeong, Hojin Jeong, Jinha Lim, Dae-Myeong Geum, Jaehoon Han, **Younghyun Kim**, Jaeyong Jeong, Byung Jin Cho, Sanghyeon Kim. "Heterogeneous 3D Sequential CFET with Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET", IEEE Transactions on Electron Devices, Vol. 72, Iss. 7, 3422-3428 (2025) [[Link]](https://ieeexplore.ieee.org/document/11023020)
+- Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, **Younghyun Kim**\*. "Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing",  Optics and Lasers in Engineering, Vol. 186 (2025) [[Link]](https://doi.org/10.1016/j.optlaseng.2024.108742)
 -  Taewon Jin, Kyungjin Jo, Seokhyeon Yoon, Heeyun Jung, Seokyoung Shin, Hyunji Jeong, Kangseok Kim, and **Younghyun Kim**\*. "Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics",  _"Journal of the Microelectronics and Packaging Society, 31, no.4 (2024) : 29-36._ [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
 - Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, **Younghyun Kim**\*. "Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing",  _Optics and Lasers in Engineering Accepted_
 - Tae Hyeon Noh‡, Simin Chen‡, Hyo-Bae Kim, Taewon Jin, Seoung min Park, Seong Ui An, Xinkai Sun, Jaekyun Kim, Jae-Hoon Han, Ji-Hoon Ahn\*, Dae-Hwan Ahn\*, and **Younghyun Kim**\*, "First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec", Nanoscale, 2040-3364, 2024 [[Link]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e)
