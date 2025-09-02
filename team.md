@@ -14,9 +14,12 @@ subtitle: Our team members !
 # Principal Invesigator
 
 ### 김 영현, Younghyun Kim, Ph.D.
-#### Associate professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA, [More about me](https://yh2424.github.io/people/younghyunkim) 
-#### Technical Advisor, PhotoniSol, Inc.
+#### Associate professor, School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA [More about me](https://yh2424.github.io/people/younghyunkim) 
+
+#### CEO (Founder), YKPhotonics Co., Ltd.
+
 <!--- 
+#### Technical Advisor, PhotoniSol, Inc.
 #### Director of Neuromorphic Materials and Devices, Pebble-Square, Inc.
 --->
 #### younghyunkim@hanyang.ac.kr

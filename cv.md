@@ -8,10 +8,10 @@ Curriculum vitae
 </center>
 
 # YOUNGHYUN KIM 
-#### **Engineer passionate about Photonics and Electronics for our better life**
+#### **An Engineer Passionate about Photonics and Electronics for Our Better Life**
 
 Associate professor, Ph.D.   
-Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA  
+School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  
 [Email](younghyunkim@hanyang.ac.kr): younghyunkim@hanyang.ac.kr   
 [Web](https://yh2424.github.io/): https://yh2424.github.io/   
 Mobile: +82-10-4997-2729
