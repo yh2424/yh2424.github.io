@@ -43,7 +43,7 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 Department of Photonics and Nanoelectronics
 Department of Applied Physics (Joint appointment)   
 
-#### Technical Advisor, Mar 2024 - Presentd
+#### Technical Advisor, Mar 2024 - Present
 PhotoniSol, Inc. 
 
 <!--- 
@@ -118,7 +118,7 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 -->
 
 ## TEACHING
-#### Confererence 
+#### Conference 
 - (기술세미나 개최) 2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능현반도체사업단 후원) 2025.08.18 [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
 - (Tutorial) 한국광학회 하계학술발표회2025, From wafer to Co-packaged optics: A tutorial on silicon photonics integration, 2025.07.09 [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
 - (Tutorial) 한국광학회 동계학술발표회2024, Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics, 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
@@ -188,7 +188,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 - Daehong Kim, Jung-Tack Yang, Woo-Young Choi, and **Younghyun Kim***, "Improved Far-Field Angle in Narrow-Ridge High-Power Laser Diodes Using a Double Stripe Structure", IEEE Photon. J. Vol.15, Iss.6, 2023 [[Link]](https://doi.org/10.1109/JPHOT.2023.3331194)
 - Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Juhyuk Park, Joon Pyo Kim, Jaeyong Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park, Dae-Myoung Geum, **Younghyun Kim**, Yongku Baek, Byung Jin Cho, and Sanghyeon Kim*, "Heterogeneous 3D Sequential CFETs with Ge (110) Nanosheet p-FETs on Si (100) bulk n-FETs", IEEE Transactions on Electron Devices, Vol. 71, Iss. 1, p392-399, 2024 [[Link]](https://ieeexplore.ieee.org/document/10325439)
 - Youngjoo Bae, Seong Ui An, Taewon Jin, and **Younghyun Kim***, "A PAM-4 100Gbps single-drive strained SiGe optical lumped Mach-Zehnder modulator for O-band application", IEEE Jour. of Quant. Elec. Vol. 59, Iss.6, 2023 [[Link]](https://ieeexplore.ieee.org/document/10263591)
-- Kangseok Kim, Gijun Ju, and **Younghyun Kim***, "Numerical analisys on light extraction efficiency of a core-shell nanorod light-emitting diode", Curr. Opt. Photon. 7(5): 496-503, 2023 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
+- Kangseok Kim, Gijun Ju, and **Younghyun Kim***, "Numerical analysis on light extraction efficiency of a core-shell nanorod light-emitting diode", Curr. Opt. Photon. 7(5): 496-503, 2023 [[Link]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 - Taewon Jin, Sanghyeon Kim, Jae-Hoon Han, Dae-Hwan Ahn, Seong Ui An, Tae Hyeon Noh, Xinkai Sun, Cheol Jun Kim, Juhyuk Park, and **Younghyun Kim***, "Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays", Nanoscale Advances (2023) [[Link]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
 - Sung Bok Seo, Sanghee Nah, Muhammad Sajjad, Nirpendra Singh, Youngwook Shin, **Younghyun Kim**, Jaekyun Kim, and Sangwan Sim, "Ultrafast tunable broadband optical anisotropy in two-dimensional ReS<sub>2</sub>", Physical Review Applied, Vol.18, 14010 2022 [[Link]](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.014010)  
 -	**Younghyun Kim***, Didit Yudistra, Bernadette Kunert, Marina Baryshinikova, Reynald Alcotte, Cenk Ibrahim Ozdemir, Sanghyeon Kim, Sebastien Lardenois, Peter Verheyen, Joris Van Campenhout, and Marinna Pantouvaki, "Monolithic GaAs/Si V-groove depletion-type optical phase shifters integrated in a 300mm Si photonics platform", Photonics Research, Vol. 10, Issue 6, pp. 1509-1516, 2022. [[Link]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)  
