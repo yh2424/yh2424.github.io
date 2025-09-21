@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Journal Publication - Simulation study of a highly efficient dual-apodized a-Si/SiN grating coupler using a metal bottom reflector on a glass substrate for co-packaged optics '
+title: 'Journal Publication - Highly efficient dual-apodized a-Si/SiN grating coupler on a glass substrate for co-packaged optics '
 thumbnail-img: assets/img/Thumbnail/250908_publication.png
 date: '2025-09-08 10:00'
 by: By
