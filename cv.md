@@ -72,7 +72,7 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 ## RESEARCH INTERESTS								    
 **Semiconductor Device Physics and Engineering**
-- Silicon Photonics : Optical modulator, Optical coupling, Optical I/O, Co-packaged optics
+- Silicon Photonics : Optical modulator, Laser diodes, Optical coupling, Optical I/O, Co-packaged optics
 - Semiconductor memory : 2T-DRAM, Ferroelectric FET   
 - Memory in pixel: Ferroelectric FET, Charge-trapping FET
 
@@ -119,17 +119,30 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 
 ## TEACHING
 #### Conference 
+
+<!--
 - (기술세미나 개최) 2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능현반도체사업단 후원) 2025.08.18 [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
 - (Tutorial) 한국광학회 하계학술발표회2025, From wafer to Co-packaged optics: A tutorial on silicon photonics integration, 2025.07.09 [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
 - (Tutorial) 한국광학회 동계학술발표회2024, Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics, 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
 - (Tutorial) 한국광학회 광전자 및 광통신 학술대회 COOC2023, 실리콘 포토닉스 - 집적공정, 2023.06.01 [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
+--> 
+
+
+- (Technical Seminar) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA (sponsored by the Next-Generation Intelligent Semiconductor Program), Aug. 18 2025. [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
+- (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 — “From Wafer to Co-Packaged Optics: A Tutorial on Silicon Photonics Integration,” Jul. 9 2025. [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
+- (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 — “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” Feb. 15 2024. [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
+- (Tutorial) Conference on Optoelectronics and Optical Communications (COOC 2023) — “Silicon Photonics: Fabrication and Integration Process,” Jun. 1 2023. [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
+
+⸻
+
+
 
 #### Lecture 
-- (Undergraduate) 광전자소자, 광통신공학, 반도체소자 물리, 반도체소자 공정, 공학프로그래밍, 전자기학, 디스플레이공학
-- (Graduate) 집적광학, 첨단CMOS기술, TCAD소자 시뮬레이션, 파이썬 활용 인공지능 및 SPICE 모델링(ICPBL)
+- (Undergraduate) Optoelectronic Devices, Optical Communication Engineering, Semiconductor Device Physics, Semiconductor Device Processing, Engineering Programming, Electromagnetics, Display Engineering
+- (Graduate) Integrated Optics, Advanced CMOS Technology, TCAD Device Simulation, Artificial Intelligence and SPICE Modeling Using Python (ICPBL)
 
 ## HONORS AND AWARD								    
-한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드, Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
+President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
 Award for Doctoral thesis in School of engineering, March 24 2015  
 Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 - March 2015  
 Japan Government Scholarship (MEXT) for M.S. student, April 2010 - Mar 2012  
