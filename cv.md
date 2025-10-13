@@ -150,7 +150,7 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 
 #### Lecture 
 - (Undergraduate) Optoelectronic Devices, Optical Communication Engineering, Semiconductor Device Physics, Semiconductor Device Processing, Engineering Programming, Electromagnetics, Display Engineering
-- (Graduate) Integrated Optics, Advanced CMOS Technology, TCAD Device Simulation, Artificial Intelligence and SPICE Modeling Using Python (ICPBL)
+- (Graduate) Integrated Optics, Advanced CMOS Technology, Semiconductor Advanced Packaging
 
 ## HONORS AND AWARD								    
 President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
