@@ -118,14 +118,15 @@ Device Measurement: LCR meter, Semiconductor Parameter Analyzer, Tunable CW lase
 Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, frequency responses, eye diagrams etc.
 -->
 
-<!--
 ## RESEARCH GRANTS 
-- June 1, 2025 – December 31, 2029, 2.5D Optical Interposer Technology for Co-Packaged Opto-Chiplet Integration based on Advanced Photonic Packaging, Ministry of Science and ICT (MSIT), Republic of Korea
-, National Research Foundation of Korea (NRF)
-- October 1, 2024 – September 30, 2028, Development of an AI-Based Intelligent Optical Sensing System for Real-Time 6G Communication Event Detection, Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute of Startup & Entrepreneurship Development (KISED)
-- April 1, 2024 – March 31, 2027, International Collaborative Research on Ultra-High-Speed/Low-Latency Tbps-Class Optical I/O Devices based on Silicon Photonics and Optical Transceiver Technologies, Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF)
-- April 1, 2023 – December 31, 2026, Development of a 400 Gbps QSFP-DD Optical Transceiver Based on Silicon Photonics with Chip-on-Board Packaging Technology, Ministry of Science and ICT (MSIT), Republic of Korea, Institute for Information & Communications Technology Planning & Evaluation (IITP)
--->
+#### RECENT THREE YEARS & ON-GOING PROJECTS
+- Co-PI, June 1 2025 – December 31 2029 – 2.5D Optical Interposer Technology for Co-Packaged Opto-Chiplet Integration based on Advanced Photonic Packaging – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF).
+- Co-PI, October 1 2024 – September 30 2028 – Development of an AI-Based Intelligent Optical Sensing System for Real-Time 6G Communication Event Detection – funded by the Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute of Startup & Entrepreneurship Development (KISED).
+- PI, April 1 2024 – March 31 2027 – International Collaborative Research on Ultra-High-Speed/Low-Latency Tbps-Class Optical I/O Devices based on Silicon Photonics and Optical Transceiver Technologies – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF).
+- Co-PI, April 1 2023 – December 31 2026 – Development of a 400 Gbps QSFP-DD Optical Transceiver Based on Silicon Photonics with Chip-on-Board Packaging Technology – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, Institute for Information & Communications Technology Planning & Evaluation (IITP).
+- PI, July 1 2024 – June 30 2026 – Development of a Multi-Channel Optical Modulator and Interconnect Module with Integrated Optical Routing – funded by the Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute for Advancement of Technology (KIAT).
+- Co-PI, April 1 2023 – February 28 2026 – Micro- and Optoelectronic Structure Analysis and Performance Enhancement for Next-Generation Display Materials – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, Korea Basic Science Institute (KBSI).
+- PI, November 1 2023 – October 31 2026 – Low-Loss Optical Interconnect Technology for Future Chiplet-Based Photonic Packaging Modules – funded by Samsung Electronics Co., Ltd., Republic of Korea (Industry-University Collaboration Research).
 
 
 ## TEACHING
