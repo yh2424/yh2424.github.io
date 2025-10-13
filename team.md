@@ -15,8 +15,8 @@ subtitle: Our team members !
 
 ### 김 영현, Younghyun Kim, Ph.D.
 #### Associate professor 
-#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA   
-#### CEO (Founder), YKPhotonics Co., Ltd. [More about me](https://yh2424.github.io/people/younghyunkim)   
+#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  [More about me](https://yh2424.github.io/people/younghyunkim)   
+#### CEO (Founder), YKPhotonics Co., Ltd.  
 #### younghyunkim@hanyang.ac.kr
 
 <!--- 
