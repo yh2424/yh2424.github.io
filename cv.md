@@ -16,7 +16,7 @@ School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, Col
 [Web](https://yh2424.github.io/): https://yh2424.github.io/   
 [ORCID](https://orcid.org/0000-0001-8072-1251): https://orcid.org/0000-0001-8072-1251   
 Mobile: +82-10-4997-2729
-
+      
 ## EDUCATION
 #### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
 Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
@@ -32,7 +32,7 @@ Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
 #### **The University of Tokushima, Japan, B.E., Apr 2007 - Mar 2010**  
 Electrical Electronic Engineering,   
 Faculty and School of Engineering (GPA : 5.0/5.0),  
-**Department Rank 1, First early graduation for 6 semesters in E.E. department**
+**Department Rank 1, First early graduation for 6 semesters in E.E. department**  
 Thesis: "Study on C-V Characteristics of GaN MOSFETs"  
 Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao  
 
@@ -40,20 +40,25 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 
 ##  WORK EXPERIENCE									    
 #### Hanyang University ERICA, Associate professor, Sep 2024 - Present
+School of Semiconductor Convergence Engineering
 #### Hanyang University ERICA, Assistant professor, Sep 2020 - Aug 2024  
 Department of Photonics and Nanoelectronics
 Department of Applied Physics (Joint appointment)   
 
+<!-- 
+#### CEO (Founder), Aug 2025 - Present
+YKPhotonics, Inc. 
 #### Technical Advisor, Mar 2024 - Present
 PhotoniSol, Inc. 
+-->
 
-<!--- 
+<!-- 
 #### Director of Neuromorphic Materials and Devices, Mar 2023 - Present
 Pebble-Square, Inc. 
 --->
 
 #### IMEC, R&D Engineer, Jul 2018 - Aug 2020
-Si Photonics team, I/O interconnect group  
+Si Photonics team, 3D I/O group  
 
 #### Yonsei University, Postdoctoral Researcher, Apr 2017 - May 2018
 High Speed Circuit & System Lab., Prof. Woo-young Choi  
@@ -119,7 +124,7 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 -->
 
 ## RESEARCH GRANTS 
-#### RECENT THREE YEARS & ON-GOING PROJECTS
+#### Recent three years & on-gonig projects
 - Co-PI, June 1 2025 – December 31 2029 – 2.5D Optical Interposer Technology for Co-Packaged Opto-Chiplet Integration based on Advanced Photonic Packaging – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF).
 - Co-PI, October 1 2024 – September 30 2028 – Development of an AI-Based Intelligent Optical Sensing System for Real-Time 6G Communication Event Detection – funded by the Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute of Startup & Entrepreneurship Development (KISED).
 - PI, April 1 2024 – March 31 2027 – International Collaborative Research on Ultra-High-Speed/Low-Latency Tbps-Class Optical I/O Devices based on Silicon Photonics and Optical Transceiver Technologies – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF).
@@ -144,8 +149,6 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 - (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 — “From Wafer to Co-Packaged Optics: A Tutorial on Silicon Photonics Integration,” Jul. 9 2025. [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
 - (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 — “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” Feb. 15 2024. [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
 - (Tutorial) Conference on Optoelectronics and Optical Communications (COOC 2023) — “Silicon Photonics: Fabrication and Integration Process,” Jun. 1 2023. [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
-
-⸻
 
 
 
@@ -205,7 +208,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 - Hyunji Jeong‡, Dae-Hwan Ahn‡, Seoungmin Park, Gijun Ju, Jae-Hoon Han, and **Younghyun Kim**\*. "Visible Light Wavelength-Dependent Erasing in AOS-Based Charge Trap TFTs for Enhanced Neuromorphic Display Performance", ACS Applied Electronic Materials, Vol. 7, Iss. 12, 5463-5472 (2025) [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 - Hyeongrak Lim, Seong Kwang Kim, Seung Woo Lee, Youngkeun Park, Jaejoong Jeong, Hojin Jeong, Jinha Lim, Dae-Myeong Geum, Jaehoon Han, **Younghyun Kim**, Jaeyong Jeong, Byung Jin Cho, Sanghyeon Kim. "Heterogeneous 3D Sequential CFET with Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET", IEEE Transactions on Electron Devices, Vol. 72, Iss. 7, 3422-3428 (2025) [[Link]](https://ieeexplore.ieee.org/document/11023020)
 - Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, **Younghyun Kim**\*. "Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing",  Optics and Lasers in Engineering, Vol. 186 (2025) [[Link]](https://doi.org/10.1016/j.optlaseng.2024.108742)
--  Taewon Jin, Kyungjin Jo, Seokhyeon Yoon, Heeyun Jung, Seokyoung Shin, Hyunji Jeong, Kangseok Kim, and **Younghyun Kim**\*. "Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics",  _"Journal of the Microelectronics and Packaging Society, 31, no.4 (2024) : 29-36._ [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART0031
+-  Taewon Jin, Kyungjin Jo, Seokhyeon Yoon, Heeyun Jung, Seokyoung Shin, Hyunji Jeong, Kangseok Kim, and **Younghyun Kim**\*. "Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics",  _"Journal of the Microelectronics and Packaging Society, 31, no.4 (2024) : 29-36._ [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART0031)
 - Tae Hyeon Noh‡, Simin Chen‡, Hyo-Bae Kim, Taewon Jin, Seoung min Park, Seong Ui An, Xinkai Sun, Jaekyun Kim, Jae-Hoon Han, Ji-Hoon Ahn\*, Dae-Hwan Ahn\*, and **Younghyun Kim**\*, "First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec", Nanoscale, 2040-3364, 2024 [[Link]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e)
 - Seong Ui An‡, Dae-Hwan Ahn‡, Gijun Ju, Simin Chen, Yo Seop Ji, Jae-Hoon Han, Jaekyun Kim, **Younghyun Kim**\*, "Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs", IEEE Transactions on Electron Devices, Iss.1557-9646, p1-6,2024 [[Link]](https://ieeexplore.ieee.org/document/10620402)
 - Simin Chen‡, Dae-Hwan Ahn‡, Taehyeon Noh, and **Younghyun Kim**\*, "TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", Journal of the Korean Physical Society, Vol. 85, Iss. 1, 47-55, 2024 [[Link]](https://link.springer.com/article/10.1007/s40042-024-01079-7)
@@ -243,6 +246,12 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 
 
 #### PATENT (Granted)
+- US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
+- KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
+- KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
+- CN 113917714 B, Monolithic III-V-on-silicon opto-electronic phase modulator with a ridge waveguide,  September 30, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/CN113917714B.pdf)
+- US12411368B2, Optical phase shifter using KTN (KTaNbO3) and manufacturing method thereof (KTN (KTaNbO3)를 이용하는 광위상 변환기와 그 제작 방법), September 4, 2025 [[Link]]
+- US11556043B2, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 17, 2023 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11556043B2.pdf)     
 - US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
 - US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
 - US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
