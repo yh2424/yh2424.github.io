@@ -8,12 +8,13 @@ Curriculum vitae
 </center>
 
 # YOUNGHYUN KIM 
-#### **An Engineer Passionate about Photonics and Electronics for Our Better Life**
+#### **Dr. Younghyun Kim is an Associate Professor at Hanyang University ERICA, specializing in silicon photonics, semiconductor device integration, and advanced photonic packaging for AI semiconductor applications. His research focuses on electronic–photonic co-integration and the design of active and passive photonic devices, optical interposers, and glass-based photonic substrates for next-generation co-packaged optics systems**
 
 Associate professor, Ph.D.   
 School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  
 [Email](younghyunkim@hanyang.ac.kr): younghyunkim@hanyang.ac.kr   
 [Web](https://yh2424.github.io/): https://yh2424.github.io/   
+[ORCID](https://orcid.org/0000-0001-8072-1251): https://orcid.org/0000-0001-8072-1251   
 Mobile: +82-10-4997-2729
 
 ## EDUCATION
@@ -117,6 +118,16 @@ Device Measurement: LCR meter, Semiconductor Parameter Analyzer, Tunable CW lase
 Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, frequency responses, eye diagrams etc.
 -->
 
+<!--
+## RESEARCH GRANTS 
+- June 1, 2025 – December 31, 2029, 2.5D Optical Interposer Technology for Co-Packaged Opto-Chiplet Integration based on Advanced Photonic Packaging, Ministry of Science and ICT (MSIT), Republic of Korea
+, National Research Foundation of Korea (NRF)
+- October 1, 2024 – September 30, 2028, Development of an AI-Based Intelligent Optical Sensing System for Real-Time 6G Communication Event Detection, Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute of Startup & Entrepreneurship Development (KISED)
+- April 1, 2024 – March 31, 2027, International Collaborative Research on Ultra-High-Speed/Low-Latency Tbps-Class Optical I/O Devices based on Silicon Photonics and Optical Transceiver Technologies, Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF)
+- April 1, 2023 – December 31, 2026, Development of a 400 Gbps QSFP-DD Optical Transceiver Based on Silicon Photonics with Chip-on-Board Packaging Technology, Ministry of Science and ICT (MSIT), Republic of Korea, Institute for Information & Communications Technology Planning & Evaluation (IITP)
+-->
+
+
 ## TEACHING
 #### Conference 
 
@@ -152,6 +163,8 @@ Best student Awards of Nichia Co. for outstanding academic records, July 3 2008
 Award for International Communication of English Ability, July 2 2008  
 Best student Award for courses in liberal arts, April 24 2008	  
 Korea-Japan Government Joint Scholarship, March 2006 - March 2010  
+
+
 
 <!--
 ## R&D PROJECT
@@ -191,8 +204,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 - Hyunji Jeong‡, Dae-Hwan Ahn‡, Seoungmin Park, Gijun Ju, Jae-Hoon Han, and **Younghyun Kim**\*. "Visible Light Wavelength-Dependent Erasing in AOS-Based Charge Trap TFTs for Enhanced Neuromorphic Display Performance", ACS Applied Electronic Materials, Vol. 7, Iss. 12, 5463-5472 (2025) [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 - Hyeongrak Lim, Seong Kwang Kim, Seung Woo Lee, Youngkeun Park, Jaejoong Jeong, Hojin Jeong, Jinha Lim, Dae-Myeong Geum, Jaehoon Han, **Younghyun Kim**, Jaeyong Jeong, Byung Jin Cho, Sanghyeon Kim. "Heterogeneous 3D Sequential CFET with Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET", IEEE Transactions on Electron Devices, Vol. 72, Iss. 7, 3422-3428 (2025) [[Link]](https://ieeexplore.ieee.org/document/11023020)
 - Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, **Younghyun Kim**\*. "Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing",  Optics and Lasers in Engineering, Vol. 186 (2025) [[Link]](https://doi.org/10.1016/j.optlaseng.2024.108742)
--  Taewon Jin, Kyungjin Jo, Seokhyeon Yoon, Heeyun Jung, Seokyoung Shin, Hyunji Jeong, Kangseok Kim, and **Younghyun Kim**\*. "Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics",  _"Journal of the Microelectronics and Packaging Society, 31, no.4 (2024) : 29-36._ [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
-- Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, **Younghyun Kim**\*. "Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing",  _Optics and Lasers in Engineering Accepted_
+-  Taewon Jin, Kyungjin Jo, Seokhyeon Yoon, Heeyun Jung, Seokyoung Shin, Hyunji Jeong, Kangseok Kim, and **Younghyun Kim**\*. "Next-Generation Semiconductor Packaging: Status of Co-Packaged Optics based on Silicon Photonics",  _"Journal of the Microelectronics and Packaging Society, 31, no.4 (2024) : 29-36._ [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART0031
 - Tae Hyeon Noh‡, Simin Chen‡, Hyo-Bae Kim, Taewon Jin, Seoung min Park, Seong Ui An, Xinkai Sun, Jaekyun Kim, Jae-Hoon Han, Ji-Hoon Ahn\*, Dae-Hwan Ahn\*, and **Younghyun Kim**\*, "First demonstration of 2T0C-FeDRAM: a-ITZO FET and double gate a-ITZO/a-IGZO FeFET with record-long multibit retention time of > 4 bits and > 2000 sec", Nanoscale, 2040-3364, 2024 [[Link]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e)
 - Seong Ui An‡, Dae-Hwan Ahn‡, Gijun Ju, Simin Chen, Yo Seop Ji, Jae-Hoon Han, Jaekyun Kim, **Younghyun Kim**\*, "Effect of Source/Drain Electrode Materials on the Electrical Performance and Stability of Amorphous Indium-Tin-Zinc-Oxide FETs", IEEE Transactions on Electron Devices, Iss.1557-9646, p1-6,2024 [[Link]](https://ieeexplore.ieee.org/document/10620402)
 - Simin Chen‡, Dae-Hwan Ahn‡, Taehyeon Noh, and **Younghyun Kim**\*, "TCAD Simulation Study of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", Journal of the Korean Physical Society, Vol. 85, Iss. 1, 47-55, 2024 [[Link]](https://link.springer.com/article/10.1007/s40042-024-01079-7)
@@ -249,6 +261,8 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 
 
 #### Conference
+-	Heeyun Jung, Myung-Joon Kwack, and **Younghyun Kim***, "High-Performance SiN Grating Coupler with a Metal Bottom Reflector on Glass for Co-Packaged Optical Systems", OECC2025, Sapporo Japan
+-	Kang Seok Kim, Young Joo Bae, Min Kyu Kim, and **Younghyun Kim***, "Proposal and Simulation of a Compact SIS-type MZ Modulator with CROW Structure for Optical I/O Applications", OECC2024, Melbourne Australia [[Link]](https://ieeexplore.ieee.org/abstract/document/10975692)
 -	Simin Chen, Dae-Hwan Ahn, Seong Ui An, and **Younghyun Kim***, "Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", EDTM2023, Seoul [[Link]](https://ieeexplore.ieee.org/document/10103116)
 -   Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Joon Pyo Kim, Jaeyoung Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park , Dae-Myoung Geum, **Younghyun Kim**, Yongku Baek, Byung Jin Cho, and Sang Hyeon Kim, "Heterogeneous 3D Sequential CFET with Ge (110) Nanosheet p-FET on Si (100) bulk n-FET by Direct Wafer Bonding", IEDM2023, San Francisco [[Link]](https://ieeexplore.ieee.org/document/10019551/authors#authors)
 -   Artemisia Tsiara, **Younghyun Kim**, Didit Yudistira, Bernadette Kunert, Marina Baryshnikova, Marianna Pantouvaki, Joris Van Campenhout, Kristof Croes, "Impact of Seed Annealing on the Reliability of Monolithic III-V/Si Optical Phase Shitters", ECOC2022, Basel 2022 [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9979220)	
