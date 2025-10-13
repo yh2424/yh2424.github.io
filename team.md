@@ -157,8 +157,8 @@ subtitle: Our team members !
 
 # Administrative staff
 
-### 김 혜원, Hyewon Kim 
-#### bread16@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+### 황 혜진, Hwang Hyejin 
+#### hhjin89@hanyang.ac.kr 
 
 ---
 
