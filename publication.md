@@ -11,6 +11,7 @@ subtitle: List of Journal, Patent, and Conference
 - Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
 --->
 ### 2025
+-  Heeyun Jung, Myung-Joon Kwack, and Younghyun Kim\*. **"Simulation study of a highly efficient dual-apodized a-Si/SiN grating coupler using a metal bottom reflector on a glass substrate for co-packaged optics"**, Japanese Journal of Applied Physics (2025) [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/adf9ad/meta)
 - Hyunji Jeong‡, Dae-Hwan Ahn‡, Seoungmin Park, Gijun Ju, Jae-Hoon Han, and Younghyun Kim\*. **"Visible Light Wavelength-Dependent Erasing in AOS-Based Charge Trap TFTs for Enhanced Neuromorphic Display Performance"**, ACS Applied Electronic Materials, Vol. 7, Iss. 12, 5463-5472 (2025) [[Link]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 - Hyeongrak Lim, Seong Kwang Kim, Seung Woo Lee, Youngkeun Park, Jaejoong Jeong, Hojin Jeong, Jinha Lim, Dae-Myeong Geum, Jaehoon Han, Younghyun Kim, Jaeyong Jeong, Byung Jin Cho, Sanghyeon Kim. **"Heterogeneous 3D Sequential CFET with Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET"**, IEEE Transactions on Electron Devices, Vol. 72, Iss. 7, 3422-3428 (2025) [[Link]](https://ieeexplore.ieee.org/document/11023020)
 - Daehong Kim, Jeroen De Coster, Joris Van Campenhout, Yoojin Ban, Dimitrios Velenis, Huseyin Sar, Hakim Kobbi, Rafal Magdziak, Younghyun Kim\*. **"Insertion loss and polarization-dependent loss measurement improvement to enable parallel silicon photonics wafer-level testing"**,  Optics and Lasers in Engineering, Vol. 186 (2025) [[Link]](https://doi.org/10.1016/j.optlaseng.2024.108742)
@@ -77,6 +78,8 @@ subtitle: List of Journal, Patent, and Conference
 - US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
 - KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
 - KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
+- CN 113917714 B, Monolithic III-V-on-silicon opto-electronic phase modulator with a ridge waveguide,  September 30, 2025 [[Link]]
+- US12411368B2, Optical phase shifter using KTN (KTaNbO3) and manufacturing method thereof (KTN (KTaNbO3)를 이용하는 광위상 변환기와 그 제작 방법), September 4, 2025 [[Link]]
 - US11556043B2, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 17, 2023 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11556043B2.pdf)     
 - US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
 - US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    

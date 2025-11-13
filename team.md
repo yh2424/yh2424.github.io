@@ -14,12 +14,15 @@ subtitle: Our team members !
 # Principal Invesigator
 
 ### 김 영현, Younghyun Kim, Ph.D.
-#### Associate professor, Department of Photonics and Nanoelectronics, BK21 FOUR ERICA-ACE Center, College of Science and Convergence Technology, Hanyang University ERICA, [More about me](https://yh2424.github.io/people/younghyunkim) 
-#### Technical Advisor, PhotoniSol, Inc.
+#### Associate professor 
+#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  [More about me](https://yh2424.github.io/people/younghyunkim)   
+#### CEO (Founder), YKPhotonics Co., Ltd.  
+#### younghyunkim@hanyang.ac.kr
+
 <!--- 
+#### Technical Advisor, PhotoniSol, Inc.
 #### Director of Neuromorphic Materials and Devices, Pebble-Square, Inc.
 --->
-#### younghyunkim@hanyang.ac.kr
  
 
 ---
@@ -77,43 +80,43 @@ subtitle: Our team members !
 ---
 
 ### 윤 석현, Seokhyeon Yoon
-#### Master course (M2), dbsminan@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), dbsminan@hanyang.ac.kr
 
 ---
 
 ### 신 석영, Seokyoung Shin
-#### Master course (M2), ssy6225@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), ssy6225@hanyang.ac.kr
 
 ---
 
 ### 조 경진, Kyungjin Jo
-#### Master course (M2), whrudwls41@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), whrudwls41@hanyang.ac.kr
 
 ---
 
 ### 정 현지, Hyunji Jeong
-#### Master course (M2), eu326@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), eu326@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 
 ---
 
 ### 정 희윤, Huiyun Jeong
-#### Master course (M2), oriole1002@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), oriole1002@hanyang.ac.kr
 
 ---
 
 ### 이 종건, Jonggeon Lee
-#### Master course (M2), neosue10@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), neosue10@hanyang.ac.kr
 
 ---
 
 ### 배 성혁, Seonghyeok Bae
-#### Master course (M2), brian0073@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), brian0073@hanyang.ac.kr
 
 ---
 
 ### 이 지현, Jihyun Lee
-#### Master course (M2), leejhn06@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M2), leejhn06@hanyang.ac.kr
 
 ---
 
@@ -154,8 +157,8 @@ subtitle: Our team members !
 
 # Administrative staff
 
-### 김 혜원, Hyewon Kim 
-#### bread16@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+### 황 혜진, Hwang Hyejin 
+#### hhjin89@hanyang.ac.kr 
 
 ---
 
@@ -188,13 +191,13 @@ subtitle: Our team members !
 
 ---
 ### 주 기준, Gijun Ju, M.E
-#### Graduated in Feb. 2025, jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### Graduated in Feb. 2025, Now with KIST (Seoul), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---
 
 ### 김 강석, Kangseok Kim, M.E
-#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (in Singapore) ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
+#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 
