@@ -75,6 +75,7 @@ subtitle: List of Journal, Patent, and Conference
 
 
 ## PATENT 
+- KR102885028, 고출력 레이저 다이오드 및 이에 의한 반도체 레이저를 구성하는 방법, Nov 7, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102885028.pdf)
 - US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
 - KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
 - KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
