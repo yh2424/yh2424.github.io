@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Run together, grown together – 2025 한강의 기적 마라톤'
-thumbnail-img: /assets/img/Thumbnail/20251116_marathon.png
+thumbnail-img: /assets/img/Thumbnail/251116_marathon.png
 date: '2025-11-16 09:00'
 by: By
 author: baehun Jo
