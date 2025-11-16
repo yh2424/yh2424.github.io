@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Run together, grown together – 2025 한강의 기적 마라톤'
+title: 'Fall Social Event 2025 - Marathon, Run together, grow together'
 thumbnail-img: /assets/img/Thumbnail/251116_marathon.png
 date: '2025-11-16 09:00'
 by: By
 author: Baehun Jo
 excerpt: >-
-  연구실을 뛰쳐나와 함께 달린 한강, 건강과 팀워크를 다시 채운 하루!
+  연구실을 뛰쳐나와 함께 달린 한강, 건강과 팀워크를 다시 채운 하루!  
 comments: true
 ---
 
@@ -19,7 +19,7 @@ comments: true
 앞으로도 우리 연구실은 건강한 몸과 마음, 그리고 끈끈한 팀워크를 위해
 연구실 밖에서의 다양한 활동을 꾸준히 이어가고자 합니다.
 
-**Run together, grown together!**
+**Run together, grow together!**
 
 ![출발전 사진](https://github.com/user-attachments/assets/70ff01cd-145f-4cb7-92e0-585aa7df3586)
 ![완주후 사진_2](https://github.com/user-attachments/assets/0294440e-c04c-42db-9c72-7497a89f604a)
