@@ -4,7 +4,7 @@ title: 'Run together, grown together – 2025 한강의 기적 마라톤'
 thumbnail-img: /assets/img/Thumbnail/251116_marathon.png
 date: '2025-11-16 09:00'
 by: By
-author: baehun Jo
+author: Baehun Jo
 excerpt: >-
   2025 한강의 기적 마라톤에서 교수님과 연구실 구성원들이 함께 달리며
   팀워크와 건강의 소중함을 다시 느낀 하루였습니다.
