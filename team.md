@@ -182,6 +182,7 @@ subtitle: Our team members !
 ---
 ### 박 승민, Seoungmin Park, M.E
 #### Graduated in Feb. 2025, psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/10.1021/acsami.5c13831)
 
 ---
 ### 노 태현, Taehyeon Noh, M.E.
