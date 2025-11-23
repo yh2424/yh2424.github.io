@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Journal Publication - Silicon nitride photonic platform on glass substrate for next gen. co-pacakged optics'
-thumbnail-img: https://github-production-user-asset-6210df.s3.amazonaws.com/32427749/517776821-9b342c9b-3765-4b9f-8487-c5946e5ee4ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251123T004920Z&X-Amz-Expires=300&X-Amz-Signature=89efbdb1fa65df14fac2937f55439839e7edd75c2eb4d673239eb4f709300093&X-Amz-SignedHeaders=host 
+thumbnail-img: assets/img/Thumbnail/251120_publication2.png
 date: '2025-11-20 13:00'
 by: By
 author: Taewon Jin
@@ -13,7 +13,10 @@ comments: true
 
 <!-- 
 assets/img/Thumbnail/251120_publication.png 
+![img](/assets/img/Thumbnail/251120_publication2.png)
+![img](/assets/img/Thumbnail/251120_QDLED_CTTFT.jpg)
 -->
+
 
 ![논문사진](https://github-production-user-asset-6210df.s3.amazonaws.com/32427749/517776821-9b342c9b-3765-4b9f-8487-c5946e5ee4ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251123T004920Z&X-Amz-Expires=300&X-Amz-Signature=89efbdb1fa65df14fac2937f55439839e7edd75c2eb4d673239eb4f709300093&X-Amz-SignedHeaders=host)
 
