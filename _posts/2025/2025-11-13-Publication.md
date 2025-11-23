@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Journal Publication - Integration of Quantum Dot Light-Emitting Diodes and Charge Trap Thin-Film Transistor Arrays for Memory-In-Pixel Applications'
+title: 'Journal Publication - Integration of QDLEDs and Charge TFT Arrays for Memory-In-Pixel Applications'
 thumbnail-img: assets/img/Thumbnail/251120_QDLED_CTTFT.jpg
 date: '2025-11-13 14:00'
 by: By
