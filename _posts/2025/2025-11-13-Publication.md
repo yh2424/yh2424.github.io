@@ -15,10 +15,12 @@ comments: true
 
 <img width="1010" height="527" alt="Image" src="https://github.com/user-attachments/assets/57a0c3f7-072a-49e2-89ea-f8a98bdc7138" />
 -->
-<!-->![논문사진](/assets/img/Thumbnail/251120_QDLED_CTTFT.jpg)
+
+<!--
+![논문사진](/assets/img/Thumbnail/251120_QDLED_CTTFT.jpg)
 -->
 
-![논문사진](https://github-production-user-asset-6210df.s3.amazonaws.com/32427749/517776252-57a0c3f7-072a-49e2-89ea-f8a98bdc7138.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251123T003824Z&X-Amz-Expires=300&X-Amz-Signature=7bc51ade22cfd19ea426db805a20d0f32269d92dde2bd5fa4950b23bf2ff456a&X-Amz-SignedHeaders=host)
+![논문사진](/assets/img/Thumbnail/251120_QDLED_CTTFT.jpg)
 
 
 ## Abstract
