@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'Fall Social Event 2025 - Marathon, Run together, grow together'
+thumbnail-img: /assets/img/Thumbnail/251116_marathon.png
+date: '2025-11-16 09:00'
+by: By
+author: Baehun Jo
+excerpt: >-
+  연구실을 뛰쳐나와 함께 달린 한강, 건강과 팀워크를 다시 채운 하루!  
+comments: true
+---
+
+2025년 **한강의 기적 마라톤**에 우리 연구실이 함께 참가했습니다.
+
+연구에 몰두하던 일상에서 잠시 벗어나, 같은 목표를 향해 함께 달리며
+서로를 응원하고 격려하는 색다른 팀워크를 느낄 수 있었고,
+함께 달릴 때 더 멀리 성장할 수 있다는 것을 몸소 경험한 소중한 시간이었습니다.
+
+앞으로도 우리 연구실은 건강한 몸과 마음, 그리고 끈끈한 팀워크를 위해
+연구실 밖에서의 다양한 활동을 꾸준히 이어가고자 합니다.
+
+**Run together, grow together!**
+
+![출발전 사진](https://github.com/user-attachments/assets/70ff01cd-145f-4cb7-92e0-585aa7df3586)
+![완주후 사진_2](https://github.com/user-attachments/assets/0294440e-c04c-42db-9c72-7497a89f604a)
+![완주후 사진_1](https://github.com/user-attachments/assets/906b9fd5-16ba-4639-9d38-1100f8f0f663)
+![점심식사 사진](https://github.com/user-attachments/assets/0b53ac9c-5edb-4d18-9182-483c54e1b948)
+
