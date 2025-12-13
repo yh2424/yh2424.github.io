@@ -14,10 +14,9 @@ subtitle: Please feel free to contact me.
 
 <!-- [image](https://user-images.githubusercontent.com/32427749/105430800-b9165e00-5c97-11eb-9cf9-3915b577932f.png)   -->
 
-![ERICA map](https://github-production-user-asset-6210df.s3.amazonaws.com/32427749/526124581-6701e79b-71a5-4b2e-a617-2d1bfdb88abc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251213T003900Z&X-Amz-Expires=300&X-Amz-Signature=897f400a4b0e1840a8760d5e8b76f1b07fb966f0cf33591dfab9d64e66e57f87&X-Amz-SignedHeaders=host)
+![maptolab](/assets/img/maptolab_pptbased.png)
 
-
-- [Directions to ERICA campus ](../assets/img/maptolab_pptbased.png)
+- [Directions to ERICA campus ](https://www.hanyang.ac.kr/web/www/map_erica)
 
 
 
