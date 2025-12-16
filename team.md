@@ -192,7 +192,7 @@ subtitle: Our team members !
 
 ---
 ### 주 기준, Gijun Ju, M.E
-#### Graduated in Feb. 2025, Now with KIST (Seoul), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### Graduated in Feb. 2025, Now with SK Hynix, jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---
