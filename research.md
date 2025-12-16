@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: We are interested in advanced photonic and electronic semiconductor device engineering.
+subtitle: We are interested in advanced photonic and electronic semiconductor device and packaging engineering.
 ---
 
 # Goal
