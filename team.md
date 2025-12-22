@@ -15,8 +15,8 @@ subtitle: Our team members !
 
 ### 김 영현, Younghyun Kim, Ph.D.
 #### Associate professor 
-#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA   
-#### CEO (Founder), YKPhotonics Co., Ltd. [More about me](https://yh2424.github.io/people/younghyunkim)   
+#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  [More about me](https://yh2424.github.io/people/younghyunkim)   
+#### CEO (Founder), YKPhotonics Co., Ltd.  
 #### younghyunkim@hanyang.ac.kr
 
 <!--- 
@@ -39,7 +39,7 @@ subtitle: Our team members !
 
 ### 진 태원, Taewon Jin
 #### Ph.D. course, xodnjs3124@hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D).[[2]](https://yh2424.github.io/2025-11-20-Publication/)
 #### 1st-authored KCI: [[2]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
 
 ---
@@ -102,6 +102,7 @@ subtitle: Our team members !
 
 ### 정 희윤, Huiyun Jeong
 #### Integrated MS and Ph.D. course (M2), oriole1002@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
 
 ---
 
@@ -157,8 +158,8 @@ subtitle: Our team members !
 
 # Administrative staff
 
-### 김 혜원, Hyewon Kim 
-#### bread16@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+### 황 혜진, Hwang Hyejin 
+#### hhjin89@hanyang.ac.kr 
 
 ---
 
@@ -181,7 +182,8 @@ subtitle: Our team members !
 
 ---
 ### 박 승민, Seoungmin Park, M.E
-#### Graduated in Feb. 2025, psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+#### Graduated in Feb. 2025, Now with SK Hynix, psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
+#### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-11-13-Publication/)
 
 ---
 ### 노 태현, Taehyeon Noh, M.E.
@@ -191,7 +193,7 @@ subtitle: Our team members !
 
 ---
 ### 주 기준, Gijun Ju, M.E
-#### Graduated in Feb. 2025, Now with KIST (Seoul), jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
+#### Graduated in Feb. 2025, Now with SK Hynix, jkj1832@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/gijunju)--->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---
