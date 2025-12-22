@@ -39,7 +39,7 @@ subtitle: Our team members !
 
 ### 진 태원, Taewon Jin
 #### Ph.D. course, xodnjs3124@hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D)
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D).[[2]](https://yh2424.github.io/2025-11-20-Publication/)
 #### 1st-authored KCI: [[2]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
 
 ---
@@ -102,6 +102,7 @@ subtitle: Our team members !
 
 ### 정 희윤, Huiyun Jeong
 #### Integrated MS and Ph.D. course (M2), oriole1002@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
 
 ---
 
@@ -182,7 +183,7 @@ subtitle: Our team members !
 ---
 ### 박 승민, Seoungmin Park, M.E
 #### Graduated in Feb. 2025, Now with SK Hynix, psm401@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/seoungminpark)--->
-#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/10.1021/acsami.5c13831)
+#### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-11-13-Publication/)
 
 ---
 ### 노 태현, Taehyeon Noh, M.E.
