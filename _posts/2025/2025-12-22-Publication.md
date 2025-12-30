@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Demonstration of a SiN Grating Coupler with a Metal Reflector on a Glass Substrate '
+title: 'Journal Publication - Demonstration of a SiN Grating Coupler with a Metal Reflector on a Glass Substrate '
 thumbnail-img: assets/img/Thumbnail/251222_publication.png
 date: '2025-12-12 12:00'
 by: By
