@@ -39,7 +39,7 @@ subtitle: Our team members !
 
 ### 진 태원, Taewon Jin
 #### Ph.D. course, xodnjs3124@hanyang.ac.kr<!---,  [More about me](https://yh2424.github.io/people/taewonjin)--->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D).[[2]](https://yh2424.github.io/2025-11-20-Publication/)
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D), [[2]](https://yh2424.github.io/2025-11-20-Publication/)
 #### 1st-authored KCI: [[2]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
 
 ---
