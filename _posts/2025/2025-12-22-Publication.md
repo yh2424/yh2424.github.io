@@ -4,7 +4,7 @@ title: 'Demonstration of a SiN Grating Coupler with a Metal Reflector on a Glass
 thumbnail-img: assets/img/Thumbnail/251222_publication.png
 date: '2025-12-12 12:00'
 by: By
-author: Heeyun Jung
+author: Younghyun Kim
 comments: true
 ---
 

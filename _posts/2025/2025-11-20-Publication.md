@@ -4,7 +4,7 @@ title: 'Journal Publication - Silicon nitride photonic platform on glass substra
 thumbnail-img: assets/img/Thumbnail/251120_publication2.png
 date: '2025-11-20 13:00'
 by: By
-author: Taewon Jin
+author: Younghyun Kim
 comments: true
 ---
 

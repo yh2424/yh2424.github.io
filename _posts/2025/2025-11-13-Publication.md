@@ -4,7 +4,7 @@ title: 'Journal Publication - Integration of QDLEDs and Charge Trap TFT Arrays f
 thumbnail-img: assets/img/Thumbnail/251120_QDLED_CTTFT.jpg
 date: '2025-11-13 14:00'
 by: By
-author: Seoungmin Park
+author: Younghyun Kim
 comments: true
 ---
 
