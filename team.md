@@ -60,11 +60,6 @@ subtitle: Our team members !
 
 ---
 
-### 김 영경, Youngkyoung Kim
-#### Master course (M3), yjyk1103@hanyang.ac.kr
-
----
-
 ### 왕 택위, Zewei Wang 
 #### Master course (M3), wangzewei@hanyang.ac.kr
 
@@ -234,6 +229,13 @@ subtitle: Our team members !
 ---
 ### 노 정완, Jungwan Noh
 #### 3th-year student, npower220[at]hanyang.ac.kr
+
+---
+
+### 김 영경, Youngkyoung Kim
+#### Master course (M3), yjyk1103@hanyang.ac.kr
+
+---
 
 ---
 --->
