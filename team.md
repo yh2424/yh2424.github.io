@@ -63,15 +63,6 @@ subtitle: Our team members !
 ### 왕 택위, Zewei Wang 
 #### Master course (M3), wangzewei@hanyang.ac.kr
 
-<!--- 
----
-
-### Kanchisa Nonthasri 
-#### Master course (M1), graceid@m365.hanyang.ac.kr
-
---->
-
-
 ---
 
 ### 윤 석현, Seokhyeon Yoon
@@ -136,10 +127,6 @@ subtitle: Our team members !
 
 ---
 
-### 박 소연, Soyeon Park
-#### 4th-year student, psy030412@hanyang.ac.kr
-
----
 
 ### 박 찬웅, Chanwoong Park
 #### 3th-year student, cwpark0923@hanyang.ac.kr
@@ -148,6 +135,11 @@ subtitle: Our team members !
 
 ### 주 호영, Hoyeong Joo
 #### 3th-year student, donbosco11@hanyang.ac.kr
+
+---
+
+### 박 정민, Jungmin Park
+#### 3th-year student, als010321@hanyang.ac.kr
 
 ---
 
@@ -235,7 +227,11 @@ subtitle: Our team members !
 ### 김 영경, Youngkyoung Kim
 #### Master course (M3), yjyk1103@hanyang.ac.kr
 
----
+
+### Kanchisa Nonthasri 
+#### Master course (M1), graceid@m365.hanyang.ac.kr
+
+--->
 
 ---
 --->
