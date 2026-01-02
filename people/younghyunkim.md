@@ -32,7 +32,8 @@ subtitle: Hi, I am Younghyun :)
 - Programming for engineers I (2020 Fall, Undergraduate course)
 
 #### Awards
-- 2021년도 캠퍼스 특허 유니버시아드, [지도교수상(한국공학한림원회장상)](https://yh2424.github.io/2021-11-24-CPU/) 
+- 2025년도 Photonics Conference, 한국광학회, [기여상](https://yh2424.github.io/2025-12-03-PC2025-award/) 
+- 2024년도 Photonics Conference, 한국광학회, [기여상](https://yh2424.github.io/2024-11-27-PC/) 
 
 #### Other links
 - [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/  [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)
