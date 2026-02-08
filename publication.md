@@ -11,8 +11,8 @@ subtitle: List of Journal, Patent, and Conference
 - Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
 --->
 ### 2026
-- K. Kim, J. Lee, etal. "Optical MZ mopdulator", Sci. rep. (Accepted)
-- Y. Bae, J.L ee, etal. "Optical MR mopdulator", Opt. comm. (Accepted)
+- K. Kim, J. Lee, etal. "Optical MZ modulator", Sci. rep. (Accepted)
+- Y. Bae, J.L ee, etal. "Optical MR modulator", Opt. comm. (Accepted)
 -  Heeyun Jung, Taewon Jin, Seokhyeon Yoon, Kyungjin Jo, Seokyoung Shin, Seungwoo Park, and Younghyun Kim\*. **Demonstration of a SiN Grating Coupler with a Metal Reflector on a Glass Substrate**, IEEE Photonics Technology Letters, Vol. 38, Iss. 5, 341-344 (2026) [[Link]](https://ieeexplore.ieee.org/document/11268451)
 -  Yongwoo Jeon, Hong Gu Kang, Seohee Park, Younghyun Kim, Seong-Yong Cho, Dennis Lee, Younghoon Kim, Sung Nam Lim, Byeong Guk Jeong, Sohee Jeong, Jung Hoon Song, Ju Young Woo\*. **Enhanced Carrier Mobility-Driven Performance Improvement in Colloidal Quantum Dot Solar Cells**, Inorganic Chemistry Frontiers (2026), Accepted. 
 
