@@ -86,7 +86,7 @@ subtitle: Our team members !
 
 ---
 
-### 정 희윤, Huiyun Jeong
+### 정 희윤, Heeyun Jung
 #### Integrated MS and Ph.D. course (M2), oriole1002@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
 
