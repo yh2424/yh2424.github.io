@@ -11,6 +11,7 @@ subtitle: List of Journal, Patent, and Conference
 - Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
 --->
 ### 2026
+- S. Yun, etal **"Stitching-loss-tolerant silicon nitride waveguides on glass for panel-level optical interconnects"**, Opt. Lett. (Accepted)
 - Kangseok Kim, Jonggeon Lee, and Younghyun Kim*. **"Performance Comparison of Coupled-Resonator Optical Waveguide Mach–Zehnder Modulators with III–V SIS Structures"**, Scientific Reports, In Press (2026) [[Link]](TBD)
 - Jonggeon Lee, Youngjoo Bae, Minkyu Kim, and Younghyun Kim\*. **"A Comparative Study of High-efficiency III-V/Si SIS Ring Modulators for O-band Co-packaged Optics”**, Optics Communications, In Press, Article 133106, Available online 6 March 2026 (2026) [[Link]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd)
 -  Heeyun Jung, Taewon Jin, Seokhyeon Yoon, Kyungjin Jo, Seokyoung Shin, Seungwoo Park, and Younghyun Kim\*. **"Demonstration of a SiN Grating Coupler with a Metal Reflector on a Glass Substrate"**, IEEE Photonics Technology Letters, Vol. 38, Iss. 5, 341-344 (2026) [[Link]](https://ieeexplore.ieee.org/document/11268451)
