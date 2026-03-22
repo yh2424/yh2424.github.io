@@ -9,9 +9,11 @@ comments: true
 ---
 
 
-## A uniform SiN grating coupler with an Al bottom reflector on a glass substrate for co-packaged optics, achieving a peak coupling efficiency of −5.1 dB with a 47 nm 1-dB bandwidth.
+## A III-V/Si semiconductorinsulator-semiconductor (SIS) ring modulator optimized for O-band optical interconnects.
 
-![Image](https://github.com/user-attachments/assets/39f8b34e-5054-4d25-b78e-6e9839d2a4bd)
+![20260322_pub](https://github.com/user-attachments/assets/744c415e-9cbb-4e28-9aec-8559547e0982)
+
+
 
 
 
