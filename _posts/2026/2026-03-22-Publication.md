@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-## A III-V/Si semiconductorinsulator-semiconductor (SIS) ring modulator optimized for O-band optical interconnects.
+## III-V/Si semiconductorinsulator-semiconductor (SIS) ring modulators optimized for O-band optical interconnects.
 
 ![20260322_pub](https://github.com/user-attachments/assets/744c415e-9cbb-4e28-9aec-8559547e0982)
 
