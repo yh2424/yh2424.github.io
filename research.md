@@ -7,7 +7,20 @@ subtitle: We are interested in advanced photonic and electronic semiconductor de
 # Goal
 Our research team aims to develope photonic and electronic semiconductor devices and packagings  overcoming the conventional AI semiconductor technology limitations by exploring novel materials and device structures, and pacakging architectures. We are highly motivated to solve fundamental technology problems by providing such advanced semiconductor devices and packagings in communication, computing, and sensing.
 
+- Our vision
 ![img](/assets/img/Thumbnail/251120_publication2.png)
+
+- With SING wafers
+![img](/assets/img/big-imgs/014A2753son.jpg)
+
+# Enviroment
+Our research team has established a state-of-the-art fabrication and measurement infrastructure for advanced co-packaged optics (CPO), silicon photonics, and electronic devices. This integrated environment enables researchers to efficiently prototype, validate, and demonstrate high-impact research outcomes.
+
+- Measurement 
+![img](/assets/img/big-imgs/014A2802son.jpg)
+
+- Fabrication 
+![img](/assets/img/big-imgs/014A2835son.jpg)
 
 
 <!--- 
@@ -37,8 +50,7 @@ Microelectronic fabrication facility and semiconductor device measurement setup
 - 두뇌한국(BK, Brain Korea)21
 - 산업통상자원부
 - 한국연구재단
-- ETRI OPAC
+- ETRI 한국전자통신연구원
 - KIST 한국과학기술연구원
-- KAIST 한국과학기술원
 - IMEC (벨기에, 반도체연구소)
 - 삼성전자 
