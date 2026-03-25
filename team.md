@@ -8,23 +8,24 @@ subtitle: Our team members !
 ![image](https://user-images.githubusercontent.com/80964488/187574283-b1d4ce28-f398-4d0d-be57-c3e99ea4232e.jpg)
 ![image](https://user-images.githubusercontent.com/32427749/234727826-d155cf17-c6e4-4196-b1c9-6e7d200471e1.png)
 ![image](https://user-images.githubusercontent.com/32427749/234727890-465225ea-94b3-4f07-933d-9b3c0d16b25a.png)
--->
 ![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/ce6cbbf0-5998-4b80-acd3-e16f076e5200)
+
+-->
+![Lab members (Jan 2026)](/assets/img/big-imgs/014A2601son.jpg)
 
 # Principal Invesigator
 
 ### 김 영현, Younghyun Kim, Ph.D.
 #### Associate professor 
 #### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  [More about me](https://yh2424.github.io/people/younghyunkim)   
-#### CEO (Founder), YKPhotonics Co., Ltd.  
 #### younghyunkim@hanyang.ac.kr
 
 <!--- 
+#### CEO (Founder), YKPhotonics Co., Ltd.  
+#### Technical Advisor (CTO), Fotolynx, Inc.
 #### Technical Advisor, PhotoniSol, Inc.
-#### Director of Neuromorphic Materials and Devices, Pebble-Square, Inc.
 --->
  
-
 ---
 <!--- 
 | ![image](https://user-images.githubusercontent.com/32427749/127579757-95fe1d97-7820-4485-acfe-42483abd727e.png) | 김영현, Younghyun Kim, Ph.D. |
@@ -86,7 +87,7 @@ subtitle: Our team members !
 
 ---
 
-### 정 희윤, Huiyun Jeong
+### 정 희윤, Heeyun Jung
 #### Integrated MS and Ph.D. course (M2), oriole1002@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
 
@@ -94,6 +95,7 @@ subtitle: Our team members !
 
 ### 이 종건, Jonggeon Lee
 #### Integrated MS and Ph.D. course (M2), neosue10@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd), [[2]](TBD)
 
 ---
 
@@ -119,11 +121,6 @@ subtitle: Our team members !
 
 ### 박 승우, Seungwoo Park
 #### 4th-year student, seungwo7@hanyang.ac.kr
-
----
-
-### 김 리나, Lina Kim
-#### 4th-year student, flfsks4242@hanyang.ac.kr
 
 ---
 
@@ -154,8 +151,8 @@ subtitle: Our team members !
 # Alumni
 ---
 ### 배 영주, Youngjoo Bae, M.E
-#### Graduated in Feb. 2025, yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
-#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591)
+#### Graduated in Feb. 2025, Now with Fotolynx, yjbae9441@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/youngjoobae)--->
+#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591), [[2]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd)
 
 ---
 ### 선 신개, Xinkai Sun, M.E. 
@@ -187,7 +184,7 @@ subtitle: Our team members !
 
 ### 김 강석, Kangseok Kim, M.E
 #### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/kangseokkim)  --->
-#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
+#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue), [[2]](TBD)
 
 
 <!--- 

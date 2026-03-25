@@ -3,8 +3,11 @@ layout: page
 title: About me
 subtitle: Hi, I am Younghyun :)
 ---
-
+<!---
 <p align="center"><img src="https://user-images.githubusercontent.com/32427749/130535244-3c8956f4-23e3-4b1b-92f9-a2343ab566b3.png"></p>
+--->
+
+![HY-ERICA(Jan 2026)](/assets/img/big-imgs/014A2638son.jpg)
 
 ## Younghyun Kim, Ph.D.
 #### 김 영현 (Korean), 金 榮現 (Hanja)
