@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spring Social Event 2026 - Marathon, Run together, grow together'
-thumbnail-img: /assets/img/Thumbnail/25322_marathon.jpg
+thumbnail-img: /assets/img/Thumbnail/260322_marathon.jpg
 date: '2026-03-22 07:00'
 by: By
 author: Kyungjin Jo
