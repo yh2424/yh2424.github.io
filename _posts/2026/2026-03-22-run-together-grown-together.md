@@ -1,15 +1,14 @@
 ---
 layout: post
-title: 'testSpring Social Event 2026 - Marathon, Run together, grow together'
+title: 'Spring Social Event 2026 - Marathon, Run together, grow together'
 thumbnail-img: /assets/img/Thumbnail/25322_marathon.jpg
-date: '2026-03-22 8:00'
+date: '2026-03-22 07:00'
 by: By
 author: Kyungjin Jo
 excerpt: >-
   한강을 함께 달리며 도전과 성장을 나눈 하루, 첫 하프 완주라는 값진 성과까지! 
 comments: true
 ---
-
 
 새학기를 맞아 진행된 이번 마라톤은 각자의 체력을 점검하고 새로운 목표를 세우는 의미 있는 출발점이었습니다.  
 연구실 구성원들은 꾸준히 훈련을 이어왔고, 그 노력의 결과로 이번 마라톤에서는 연구실 처음으로 하프 코스를
@@ -27,3 +26,4 @@ comments: true
 ![완주 후 사진 학생들끼리](https://github.com/user-attachments/assets/214755ba-1513-4e16-9797-f2287317468a)
 
 ![식사 사진](https://github.com/user-attachments/assets/2bb437f8-4337-410d-9355-51f91e28f151)
+
