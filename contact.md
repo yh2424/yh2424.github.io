@@ -10,7 +10,7 @@ subtitle: Please feel free to contact me.
 - Tel.: 031-400-5474 
 - E-mail: younghyunkim[at]hanyang.ac.kr
 - Address : (15588) No.603, Science & Tech. Building 2, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, Korea     
-- 주소: 우편번호 15588, 경기도 안산시 상록구 한양대학로 55 제2과학기술관 5층 502-1호, 김영현 교수연구실 
+- 주소: 우편번호 15588, 경기도 안산시 상록구 한양대학로 55 제2과학기술관 5층 603호, 김영현 교수연구실 
 
 <!-- [image](https://user-images.githubusercontent.com/32427749/105430800-b9165e00-5c97-11eb-9cf9-3915b577932f.png)   -->
 
