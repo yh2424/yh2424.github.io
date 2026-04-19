@@ -52,10 +52,6 @@ YKPhotonics, Inc.
 PhotoniSol, Inc. 
 -->
 
-<!-- 
-#### Director of Neuromorphic Materials and Devices, Mar 2023 - Present
-Pebble-Square, Inc. 
---->
 
 #### IMEC, R&D Engineer, Jul 2018 - Aug 2020
 Si Photonics team, 3D I/O group  
