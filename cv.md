@@ -48,6 +48,8 @@ Department of Applied Physics (Joint appointment)
 <!-- 
 #### CEO (Founder), Aug 2025 - Present
 YKPhotonics, Inc. 
+#### CSO, Feb 2026 - Present
+Fotolynx, Inc. 
 #### Technical Advisor, Mar 2024 - Present
 PhotoniSol, Inc. 
 -->
