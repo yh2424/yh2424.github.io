@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Conference Publication - EDTM 2026
+title: Conference Publication - EDTM 2026
 thumbnail-img: assets/img/Thumbnail/260325_publication.png
 date: '2026-05-08 17:00'
 by: By
