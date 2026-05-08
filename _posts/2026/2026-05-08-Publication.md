@@ -11,7 +11,7 @@ comments: true
 
 ## Electro-Thermal Analysis of Quantum Dot Light-Emitting Diode as Pixel Areas Using Thermoreflectance Microscopy
 
-![Image](https://github.com/user-attachments/assets/d90f6374-f7e7-46e9-9cc5-4a789f729d9f)
+![Image](https://github.com/djrm98/yh2424.github.io/issues/2#issue-4404958204)
 
 
 
@@ -24,7 +24,7 @@ Quantum dot light-emitting diodes (QD-LEDs) have emerged as a promising device f
 
 ## Impact of Post-Annealing on Electrical Characteristics of Vertical CAA FETs
 
-![Image](https://github.com/user-attachments/assets/d90f6374-f7e7-46e9-9cc5-4a789f729d9f)
+![Image](https://github.com/djrm98/yh2424.github.io/issues/3#issue-4404961623)
 
 
 
@@ -37,7 +37,7 @@ In this study, we systematically investigated the stability of amorphous indium 
 
 ## First Demonstration of Computing-in-Memory cell based on 1T-1MFMIS FeFET Featuring 2.3 V Large MW and Multi-bit Retention > 10 years
 
-![Image](https://github.com/user-attachments/assets/d90f6374-f7e7-46e9-9cc5-4a789f729d9f)
+![Image](https://github.com/djrm98/yh2424.github.io/issues/4#issue-4404962845)
 
 
 
