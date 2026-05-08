@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conference Publication - EDTM 2026
-thumbnail-img: assets/img/Thumbnail/260325_publication.png
+thumbnail-img: assets/img/Thumbnail/EDTM2026.PNG
 date: '2026-05-08 17:00'
 by: By
 author: Yongjin Shin
