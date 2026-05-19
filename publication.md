@@ -11,6 +11,7 @@ subtitle: List of Journal, Patent, and Conference
 - Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
 --->
 ### 2026
+- Simin Chen, Taewon Jin, Xinkai Sun, Gijun Ju, Zewei Wang, Jaehoon Han, and Younghyun Kim\*. **"Unveiling Time-Dependent Dynamics in MFMIS FeFETs"**, IEEE Journal of the Electron Devices Society (2026), Accepted. 
 - Seokhyeon. Yoon, Taewon Jin, Heeyun Jung, and Younghyun Kim\*. **"Stitching-loss-tolerant silicon nitride waveguides on glass for panel-level optical interconnects"**, Optics Letters, Vol. 51, Iss. 7, 1903-1906 (2026) [[Link]](https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-7-1903)
 - Kangseok Kim, Jonggeon Lee, and Younghyun Kim*. **"Performance Comparison of Coupled-Resonator Optical Waveguide Mach–Zehnder Modulators with III–V SIS Structures"**, Scientific Reports, In Press (2026) [[Link]](TBD)
 - Jonggeon Lee, Youngjoo Bae, Minkyu Kim, and Younghyun Kim\*. **"A Comparative Study of High-efficiency III-V/Si SIS Ring Modulators for O-band Co-packaged Optics”**, Optics Communications, Vol. 609, 133106 (2026) [[Link]](https://www.sciencedirect.com/science/article/pii/S0030401826002452)
