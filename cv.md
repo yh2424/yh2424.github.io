@@ -150,9 +150,17 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 
 #### Lecture 
 - (Undergraduate) Optoelectronic Devices, Optical Communication Engineering, Semiconductor Device Physics, Semiconductor Device Processing, Engineering Programming, Electromagnetics, Display Engineering
-- (Graduate) Integrated Optics, Advanced CMOS Technology, Semiconductor Advanced Packaging
+- (Graduate) Integrated Photonics, Semiconductor Advanced Packaging
+
+## ACADEMIC SERVICE
+- Technical Program Committee Member, Optoelectronics and Communications Conference (OECC)
+- Secretary General, Photonics Division, The Optical Society of Korea (OSK, 한국광학회) — 포토닉스 분과, 총무간사
+- Secretary, Optical Science Division, The Optical Society of Korea (OSK, 한국광학회) — 광과학 분과, 간사
+- Technical Director (기술이사), Korean Microelectronics and Packaging Society (KMEPS, 한국마이크로전자 및 패키징학회)
 
 ## HONORS AND AWARD								    
+Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2025, Dec. 3, 2025 [[Link]](https://yh2424.github.io/2025-12-03-PC2025-award/)  
+Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2024, Nov. 27, 2024 [[Link]](https://yh2424.github.io/2024-11-27-PC/)  
 President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
 Award for Doctoral thesis in School of engineering, March 24 2015  
 Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 - March 2015  
