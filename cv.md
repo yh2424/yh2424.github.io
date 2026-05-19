@@ -8,7 +8,7 @@ Curriculum vitae
 </center>
 
 # YOUNGHYUN KIM 
-#### **Dr. Younghyun Kim is an Associate Professor at Hanyang University ERICA, specializing in silicon photonics, semiconductor device integration, and advanced photonic packaging for AI semiconductor applications. His research focuses on electronic–photonic co-integration and the design of active and passive photonic devices, optical interposers, and glass-based photonic substrates for next-generation co-packaged optics systems**
+#### **Dr. Younghyun Kim is an Associate Professor at Hanyang University ERICA, specializing in optical communications and optical computing. His research spans silicon photonics, electronic–photonic co-integration, and photonic packaging, with a focus on co-packaged optics and photonic interconnects for next-generation AI and data-center applications.**
 
 Associate professor, Ph.D.   
 School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  
@@ -75,10 +75,8 @@ Graphene transistor team,
 Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 ## RESEARCH INTERESTS								    
-**Semiconductor Device Physics and Engineering**
-- Silicon Photonics : Optical modulator, Laser diodes, Optical coupling, Optical I/O, Co-packaged optics
-- Semiconductor memory : 2T-DRAM, Ferroelectric FET   
-- Memory in pixel: Ferroelectric FET, Charge-trapping FET
+Photonics solutions from device to system 
+- Silicon Photonics and Co-pacakged Optics
 
 <!--
 ## RESEARCH EXPERIENCE								    
