@@ -75,49 +75,10 @@ Graphene transistor team,
 Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 ## RESEARCH INTERESTS								    
-Photonics solutions from device to system 
-- Silicon Photonics and Co-pacakged Optics
+Optoelectronic Innovations: From Device to System  
+- **Silicon Photonics and Co-packaged Optics**: Design, fabrication, and characterization of silicon photonic devices — including Mach-Zehnder modulators, ring modulators, grating couplers, and waveguides — toward co-packaged optics and panel-level optical interconnects for next-generation AI and data-center applications. [[Optics Express 2025]](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.576420) [[Optics Letters 2026]](https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-7-1903) [[Photonics Research 2022]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)
+- **Oxide Semiconductor and its Memory Applications**: Exploration of amorphous oxide semiconductor (AOS) thin-film transistors (TFTs) — including a-IGZO and a-ITZO — for ferroelectric memory (FeFET, FeDRAM) and neuromorphic display applications. [[Nanoscale 2024]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e) [[ACS AEM 2025]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447) [[IEEE TED 2024]](https://ieeexplore.ieee.org/document/10620402)
 
-<!--
-## RESEARCH EXPERIENCE								    
-**Developement of Si Mach-Zehnder modulators, IMEC, July 2018 - Aug 2020**  
-
-**Reaserch of advanced III-V/Si Mach-Zehnder modulator, IMEC, July 2018 - present**  
-
-**Systematic design guide for high-speed Si micro ring modulator, Yonsei Univ.	Apr 2017 - May 2018**     
-	  The Si micro-ring modulator is expected to play an important role in optical interconnect systems thanks to the large modulation bandwidth and small device footprints.  There are many reports for analysis and experimental demonstrations. However, a systematic device design guide for determining optimal doping concentrations, ring radius, and coupling strength between ring and bus waveguides for a target data rate is not available.  In this work, we study on realizing such a design guide.  
-
-**Numerical analysis on high-power laser diode		Yonsei Univ., Apr 2017 - May 2018**   
-	  High-power laser diodes are highly attractive for material processing and military applications.  However, the performance of a laser diode is easily deteriorated by thermal effect due to high-power operation; e.g. thermal lens effect which induces low beam quality.  In this work, we numerically analyze the mechanism of the deterioration of laser diodes, and suggest the improved device structures.   
-
-**Micro LED display			Seoul Semiconductor/Viosys, Apr 2015 - Mar 2017**   
-	  Micro LED is considered to be a key enabling technology for the next-generation display technology. Micro LED is based on inorganic materials, mainly GaN or GaAs, which is much more efficient than organic LEDs. However, it is difficult to package millions of micro LEDs for millions of sub-pixels of a display. In this project, we have demonstrated the packaging methods, micro-LED structures, and display structures.
-
-**Strained SiGe optical modulator		Univ. of Tokyo, Apr 2010 - Mar 2015**  
-	Silicon photonics is one of the most promising technologies for electronic-photonic integrated circuit.  The Si optical modulator is a key component to encode electrical signals into light.  However, the bottleneck of a Si optical modulator is low modulation efficiency due to weak electrooptical effects in Si. In this work, we introduced strained SiGe technology to boost the performance of a Si optical modulator, and successfully demonstrated as follows:  
--	First demonstration of strain-induced enhancement of free-carrier effects in strained SiGe 
--	Record-low injection-current strained SiGe Mach-Zehnder optical modulator.
-
-**BTO-on-Si optical modulator			IMEC, Aug 2014 - Sept 2014**  
-	  The objective of this work is to improve the modulation efficiency of a Si-based optical modulator, in conjunction with Barium titanate (BTO).  We numerically analyzed the device performance and optimized the device structure.
-	  
-**Graphene transistor				SAIT (SAMSUNG), Jul 2013 - Aug 2013**  
-	  Graphene has attracted a lot of attention in recent years for the extremely outstanding physical properties.  The main aim of this project is to investigate ozone cleaning effect on graphene for removal of PMMA residue. 
-
-**GaN Power MOSFET				Univ. of Tokushima, Sept 2009 - Mar 2010**  
-	  GaN power transistors have the potential to reduce energy comparing to the conventional Si-based power transistors due to high breakdown voltage and speed switching. In this work, we demonstrated a GaN MOSFET with a silane-based SiO2 insulator by PECVD, which enables operation of 15-V gate voltage with ignorable leakage current.
--->
-
-<!-- 
-## SKILLS										    
-Programing language: Python, MATLAB, TCL, Perl etc.  
-Device Layout: Cadense, Klayout etc.  
-Device Simulation: Sentaurus, Lumerical, SPICE, etc.  
-Device Fabrication: many experience of device fabrications such as optical modulators, waveguides, gratings, interferometers, pn-diodes, MOSFETs, and LEDs using CMOS-compatible process such as MBE, E-beam litho., RIE, ICP, PECVD, ALD, Sputter, thermal evaporator, wet station, etc.
-Device Process Inspection: Raman spectroscopy, PL, SEM, AFM, XRD, SIMS etc.
-Device Measurement: LCR meter, Semiconductor Parameter Analyzer, Tunable CW laser source, Oscilloscope, InGaAs PD, Attenuator, Polarizer, Network analyzer (LCA), LabView, etc.
-Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, frequency responses, eye diagrams etc.
--->
 
 ## RESEARCH GRANTS 
 #### Recent three years & on-gonig projects
@@ -133,19 +94,19 @@ Device Analysis Electrical and optical characterization: I-V, C-V, L-I curves, f
 ## TEACHING
 #### Conference 
 
-<!--
+
 - (기술세미나 개최) 2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능현반도체사업단 후원) 2025.08.18 [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
 - (Tutorial) 한국광학회 하계학술발표회2025, From wafer to Co-packaged optics: A tutorial on silicon photonics integration, 2025.07.09 [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
 - (Tutorial) 한국광학회 동계학술발표회2024, Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics, 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
 - (Tutorial) 한국광학회 광전자 및 광통신 학술대회 COOC2023, 실리콘 포토닉스 - 집적공정, 2023.06.01 [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
---> 
 
 
+<!-- 
 - (Technical Seminar) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA (sponsored by the Next-Generation Intelligent Semiconductor Program), Aug. 18 2025. [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
 - (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 — “From Wafer to Co-Packaged Optics: A Tutorial on Silicon Photonics Integration,” Jul. 9 2025. [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
 - (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 — “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” Feb. 15 2024. [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
 - (Tutorial) Conference on Optoelectronics and Optical Communications (COOC 2023) — “Silicon Photonics: Fabrication and Integration Process,” Jun. 1 2023. [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
-
+-->
 
 
 #### Lecture 
