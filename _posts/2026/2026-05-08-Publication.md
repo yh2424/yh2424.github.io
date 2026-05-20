@@ -17,6 +17,14 @@ Quantum dot light-emitting diodes (QD-LEDs) have emerged as a promising device f
 [[Link to Journal website (IEEE)]](https://ieeexplore.ieee.org/document/11497845)
 
 
+<img width="4591" height="1633" alt="Image" src="https://github.com/user-attachments/assets/c5711db7-79e0-4991-b259-bed0ba1903ec" />
+
+
+<img width="2778" height="1733" alt="Image" src="https://github.com/user-attachments/assets/62adc07b-0a6d-41e4-9c3d-b7a848fe045a" />
+
+
+
+
 ## Impact of Post-Annealing on Electrical Characteristics of Vertical CAA FETs
 
 
@@ -25,12 +33,27 @@ In this study, we systematically investigated the stability of amorphous indium 
 [[Link to Journal website (IEEE)]](https://ieeexplore.ieee.org/document/11497920)
 
 
+<img width="4175" height="2222" alt="Image" src="https://github.com/user-attachments/assets/0883a271-91f9-4ef7-82a4-edd6cf41d11a" />
+
+
+<img width="2778" height="1733" alt="Image" src="https://github.com/user-attachments/assets/fa5bf29d-bbc0-4621-893f-8c3fc5b0a574" />
+
+
+
+
 ## First Demonstration of Computing-in-Memory cell based on 1T-1MFMIS FeFET Featuring 2.3 V Large MW and Multi-bit Retention > 10 years
 
 
 ## Abstract
 Computing-in-Memory (CiM) is a promising solution to the von Neumann "memory wall," yet its realization has been limited by the narrow memory windows (MWs) of conventional devices, restricting reliable multi-level operation. In this work, we present the first demonstration of a CiM cell based on a 1T–1MFMIS FeFET structure, where an AOS FET is employed as the write transistor and an MFMIS FeFET serves as the read transistor. By engineering the area ratio between the a-IGZO channel and ferroelectric capacitor, we achieve a wide MW of 2.3 V, enabling robust multi-level program/erase operation. The device further exhibits endurance beyond 10⁸ cycles, extrapolated retention over 10 years, and stable multi-bit states for over 1000 seconds. These results overcome longstanding erase and MW challenges in oxide-semiconductor FeFETs and highlight the potential of 1T–1MFMIS FeFETs for next-generation CiM applications.
 [[Link to Journal website (IEEE)]](https://ieeexplore.ieee.org/document/11497328)
+
+
+<img width="4120" height="2027" alt="Image" src="https://github.com/user-attachments/assets/3e3bd856-d67c-4a13-abe0-2a38c143429d" />
+
+
+<img width="2778" height="1733" alt="Image" src="https://github.com/user-attachments/assets/58eeea64-502a-4b39-a8d1-245431a41d66" />
+
 
 
 
