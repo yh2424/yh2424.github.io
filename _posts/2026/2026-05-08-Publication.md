@@ -17,10 +17,10 @@ Quantum dot light-emitting diodes (QD-LEDs) have emerged as a promising device f
 [[Link to Journal website (IEEE)]](https://ieeexplore.ieee.org/document/11497845)
 
 
-<img width="4591" height="1633" alt="Image" src="https://github.com/user-attachments/assets/c5711db7-79e0-4991-b259-bed0ba1903ec" />
+<img alt="Image" src="https://github.com/user-attachments/assets/c5711db7-79e0-4991-b259-bed0ba1903ec" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
 
 
-<img width="2778" height="1733" alt="Image" src="https://github.com/user-attachments/assets/62adc07b-0a6d-41e4-9c3d-b7a848fe045a" />
+<img alt="Image" src="https://github.com/user-attachments/assets/62adc07b-0a6d-41e4-9c3d-b7a848fe045a" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
 
 
 
@@ -33,10 +33,10 @@ In this study, we systematically investigated the stability of amorphous indium 
 [[Link to Journal website (IEEE)]](https://ieeexplore.ieee.org/document/11497920)
 
 
-<img width="4175" height="2222" alt="Image" src="https://github.com/user-attachments/assets/0883a271-91f9-4ef7-82a4-edd6cf41d11a" />
+<img alt="Image" src="https://github.com/user-attachments/assets/0883a271-91f9-4ef7-82a4-edd6cf41d11a" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
 
 
-<img width="2778" height="1733" alt="Image" src="https://github.com/user-attachments/assets/fa5bf29d-bbc0-4621-893f-8c3fc5b0a574" />
+<img alt="Image" src="https://github.com/user-attachments/assets/fa5bf29d-bbc0-4621-893f-8c3fc5b0a574" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
 
 
 
@@ -49,10 +49,10 @@ Computing-in-Memory (CiM) is a promising solution to the von Neumann "memory wal
 [[Link to Journal website (IEEE)]](https://ieeexplore.ieee.org/document/11497328)
 
 
-<img width="4120" height="2027" alt="Image" src="https://github.com/user-attachments/assets/3e3bd856-d67c-4a13-abe0-2a38c143429d" />
+<img alt="Image" src="https://github.com/user-attachments/assets/3e3bd856-d67c-4a13-abe0-2a38c143429d" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
 
 
-<img width="2778" height="1733" alt="Image" src="https://github.com/user-attachments/assets/58eeea64-502a-4b39-a8d1-245431a41d66" />
+<img alt="Image" src="https://github.com/user-attachments/assets/58eeea64-502a-4b39-a8d1-245431a41d66" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
 
 
 
