@@ -79,6 +79,7 @@ Optoelectronic Innovations: From Device to System
 - **Silicon Photonics and Co-packaged Optics**: Design, fabrication, and characterization of silicon photonic devices — including Mach-Zehnder modulators, ring modulators, grating couplers, and waveguides — toward co-packaged optics and panel-level optical interconnects for next-generation AI and data-center applications. [[Optics Express 2025]](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.576420) [[Optics Letters 2026]](https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-7-1903) [[Photonics Research 2022]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)
 - **Oxide Semiconductor and its Memory Applications**: Exploration of amorphous oxide semiconductor (AOS) thin-film transistors (TFTs) — including a-IGZO and a-ITZO — for ferroelectric memory (FeFET, FeDRAM) and neuromorphic display applications. [[Nanoscale 2024]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e) [[ACS AEM 2025]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447) [[IEEE TED 2024]](https://ieeexplore.ieee.org/document/10620402)
 
+<!-- 
 
 ## RESEARCH GRANTS 
 #### Recent three years & on-gonig projects
@@ -89,6 +90,33 @@ Optoelectronic Innovations: From Device to System
 - PI, July 1 2024 – June 30 2026 – Development of a Multi-Channel Optical Modulator and Interconnect Module with Integrated Optical Routing – funded by the Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute for Advancement of Technology (KIAT).
 - Co-PI, April 1 2023 – February 28 2026 – Micro- and Optoelectronic Structure Analysis and Performance Enhancement for Next-Generation Display Materials – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, Korea Basic Science Institute (KBSI).
 - PI, November 1 2023 – October 31 2026 – Low-Loss Optical Interconnect Technology for Future Chiplet-Based Photonic Packaging Modules – funded by Samsung Electronics Co., Ltd., Republic of Korea (Industry-University Collaboration Research).
+
+-->
+
+## RESEARCH GRANTS 
+#### 수행중
+- 정부과제, "칩온보드 기술이 적용된 상용화 수준의 실리콘 포토닉스 기반 400Gbps QSFP-DD 광트랜시버 개발", 정보통신기획평가원, 공동연구원, 2023.04.01 ~ 2026.12.31 
+- 정부과제, "차세대 디스플레이용 마이크로 광/전자소자 열분석 및 성능 향상 구조 연구", 한국기초과학지원연구원, 과제책임자(집단연구), 2023.04.01 ~ 2026.02.28 
+- 정부과제, "150W급 가공용 레이저 다이오드 array 제조기술 개발", 한국산업기술기획평가원, 공동연구원, 2021.04.01 ~ 2024.12.31  
+- 용역과제, "SiN 포토닉스 기반 광소자 시뮬레이션 및 설계", 한국전자통신연구원, 과제책임자, 2024.02.01 ~ 2024.07.31
+- 산학과제, "광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발", 삼성전자(기술개발과제), 과제책임자, 2023.11.01 ~ 2026.10.31
+
+#### 신청중
+- 정부과제, "3D 집적 2T(FET, FeFET)-DRAM 기술 개발 및 어레이 성능 평가", 과제책임자(집단연구), 3년(2024년도 차세대지능형반도체기술개발(소자)사업(신개념기초기술))
+- 정부과제, "차세대 HBM-PIM용 2T0C-FeDRAM기반 PIM 기술개발", 과제책임자, 3년(2024년도 PIM인공지능반도체핵심기술개발(소자)사업(신개념PIM기초))
+- 정부과제, "6G 파장당 테라급 광트랜시버용 코히어런트 반도체 소자×부품 기술 개발", 공동연구원, 5년(2024년 제1차 정보통신방송 기술개발사업)
+- 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 국제공동연구", 과제책임자, 3년(우수신진, IMEC 국제공동연구)
+- 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구 수행을 위한 파장가변 레이저 시스템 구축", 과제책임자, 1년(신진인프라)
+
+#### 수행완료
+- 정부과제, "이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발", (재)한국연구재단, 2022.10.01 ~ 2023.09.30 (IMEC 국제공동연구)
+- 정부과제, "임계전압 보상가능 강유전성 박막트랜지스터를 이용한 마이크로 LED 픽셀 능동 회로 개발", (재)한국연구재단, 과제책임자, 2022.07.01 ~ 2023.01.31
+- 정부과제, "Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화", (재)한국연구재단, 과제책임자 2021.09.01 ~ 2022.08.31
+
+## TECHNOLOGY TRANSFER
+- 기술명칭: 집적 광도파로와 광섬유를 결합하는 방법 (10-2024-0122931) 외 1건, 계약기술료: 5억원, 기업: (주)포스텍, 한양대에리카 산학협력단, 연구개발자: 김영현 교수, 계약일: 2025.09.01
+- 기술명칭: 픽셀 회로, 이를 이용한 표시장치 및 이의 제조방법 (10-2022-0159364), 계약기술료: 500만원, 기업: (주)어드밴스트뷰테크널러지, 한양대에리카 산학협력단, 연구개발자: 김영현 교수, 계약일: 2023.01.27
+
 
 
 ## TEACHING
@@ -132,6 +160,7 @@ Best student Awards of Nichia Co. for outstanding academic records, July 3 2008
 Award for International Communication of English Ability, July 2 2008  
 Best student Award for courses in liberal arts, April 24 2008	  
 Korea-Japan Government Joint Scholarship, March 2006 - March 2010  
+
 
 
 
@@ -217,7 +246,11 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 
 
 #### PATENT (Granted)
-- US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
+- KR102915845, 광 연결 탑재 반도체 패키지의 글래스 베이스 구조체 및 광 신호 전송 장치의 결합 구조 및 이를 포함하는 광 연결 탑재 반도체 패키지,
+  Jan 16, 2026 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102915845.pdf)
+- KR102885028, 고출력 레이저 다이오드 및 이에 의한 반도체 레이저를 구성하는 방법, Nov 7, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102885028.pdf)
+- US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 
+[[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
 - KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
 - KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
 - CN 113917714 B, Monolithic III-V-on-silicon opto-electronic phase modulator with a ridge waveguide,  September 30, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/CN113917714B.pdf)
