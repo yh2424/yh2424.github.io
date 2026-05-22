@@ -113,6 +113,9 @@ subtitle: List of Journal, Patent, and Conference
 
 
 ## Conference
+-	Yongjin Shin, Min Seok Kim, Daehong Kim, Jaekyun Kim, Seong-Yong Cho, SangHoon Shin, and **Younghyun Kim***, "Electro-Thermal Analysis of Quantum Dot Light-Emitting Diode as Pixel Areas Using Thermoreflectance Microscopy", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497845)
+-	Zewei Wang, Simin Chen, Gijun Ju, Jaehoon Han, and **Younghyun Kim***, "Effect of Post-Annealing on the Electrical Properties of Vertical CAA FETs", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497920)
+-	Simin Chen, Zewei Wang, Gijun Ju, Jaehoon Han, and **Younghyun Kim***, "First Demonstration of Computing-in-Memory cell based on 1T-1MFMIS FeFET Featuring 2.3 V Large MW and Multi-bit Retention > 10 years", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497328)
 -	Heeyun Jung, Myung-Joon Kwack, and **Younghyun Kim***, "High-Performance SiN Grating Coupler with a Metal Bottom Reflector on Glass for Co-Packaged Optical Systems", OECC2025, Sapporo Japan [[Link]](https://ieeexplore.ieee.org/document/11109990)
 -	Kang Seok Kim, Young Joo Bae, Min Kyu Kim, and **Younghyun Kim***, "Proposal and Simulation of a Compact SIS-type MZ Modulator with CROW Structure for Optical I/O Applications", OECC2024, Melbourne Australia [[Link]](https://ieeexplore.ieee.org/abstract/document/10975692)
 -	Simin Chen, Dae-Hwan Ahn, Seong Ui An, and **Younghyun Kim***, "Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", EDTM2023, Seoul [[Link]](https://ieeexplore.ieee.org/document/10103116)
