@@ -8,6 +8,7 @@ Curriculum vitae
 </center>
 
 # YOUNGHYUN KIM 
+
 #### **Dr. Younghyun Kim is an Associate Professor at Hanyang University ERICA, specializing in optical communications and optical computing. His research spans silicon photonics, electronic–photonic co-integration, and photonic packaging, with a focus on co-packaged optics and photonic interconnects for next-generation AI and data-center applications.**
 
 Associate professor, Ph.D.   
@@ -76,8 +77,10 @@ Graphene transistor team,
 Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 ## RESEARCH INTERESTS								    
-Optoelectronic Innovations: From Device to System  
+
 - **Silicon Photonics and Co-packaged Optics**: Design, fabrication, and characterization of silicon photonic devices — including Mach-Zehnder modulators, ring modulators, grating couplers, and waveguides — toward co-packaged optics and panel-level optical interconnects for next-generation AI and data-center applications. [[Optics Express 2025]](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.576420) [[Optics Letters 2026]](https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-7-1903) [[Photonics Research 2022]](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-6-1509&id=473215)
+
+
 - **Oxide Semiconductor and its Memory Applications**: Exploration of amorphous oxide semiconductor (AOS) thin-film transistors (TFTs) — including a-IGZO and a-ITZO — for ferroelectric memory (FeFET, FeDRAM) and neuromorphic display applications. [[Nanoscale 2024]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e) [[ACS AEM 2025]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447) [[IEEE TED 2024]](https://ieeexplore.ieee.org/document/10620402)
 
 <!-- 

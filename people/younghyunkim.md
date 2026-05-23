@@ -23,7 +23,6 @@ subtitle: Hi, I am Younghyun :)
 - B.E. in Electrical Engineering, University of Tokushima (2010)
 - [Curriculum vitae](https://yh2424.github.io/cv)
 
-#### Teaching
 
 
 ## TEACHING
@@ -52,7 +51,6 @@ subtitle: Hi, I am Younghyun :)
 - Korea-Japan Government Joint Scholarship, March 2006 - March 2010  
 
 
-#### Awards
 
 #### Other links
 - [Linkedin](https://www.linkedin.com/in/younghyun-kim-6806b5119)/  [Researchgate](https://www.researchgate.net/profile/Younghyun_Kim4)/ [Google scholar](https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en)
