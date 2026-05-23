@@ -98,8 +98,8 @@ Optoelectronic Innovations: From Device to System
 - 정부과제, "200 Gb/s/λ급 Tx-Rx 고집적 Co-Packaged Optics·초미세 인터커넥트 고신뢰 통합 설계·검증 플랫폼 구축", 한국산업기술기획평가원, 민관공동투자반도체고급인력양성, 과제책임자(세부), 2026.04.01 ~ 2030.12.31
 - 정부과제, "2.5D 광패키징 기반 CPO를 위한 Opto-chiplet이 집적된 인터포저 기술", (재)한국연구재단, 미래유망원천기술개발사업(차세대광패키징기술개발), 과제책임자(세부), 2025.06.01 ~ 2029.12.31
 - 정부과제, "광 변조기 집적 다채널 광 배선 모듈 칩 개발", 중소기업기술정보진흥원, 창업성장기술개발사업(TIPS), 과제책임자(세부), 2024.07.01 ~ 2026.12.31
-- 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구", (재)한국연구재단, 이공분야기초연구사업(우수연구-신진연구), 과제책임자, 2024.04.01 ~ 2027.03.31
-- 산학과제, "광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발", 삼성전자(미래기술산학), 과제책임자, 2023.11.01 ~ 2026.10.31
+- 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구", (재)한국연구재단, 이공분야기초연구사업(우수연구-신진연구), 과제책임자(총괄), 2024.04.01 ~ 2027.03.31
+- 산학과제, "광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발", 삼성전자(미래기술산학), 과제책임자(총괄), 2023.11.01 ~ 2026.10.31
 
 #### 신청중
 - 정부과제, "분산형 하이브리드 양자 컴퓨팅을 위한 중성원자와 광집적회로 시스템 간의 얽힘 구현", (재)한국연구재단, 기초연구실지원사업, 과제책임자, 2026.07.01 ~ 2029.06.30
@@ -143,23 +143,23 @@ Optoelectronic Innovations: From Device to System
 - (Graduate) Integrated Photonics, Semiconductor Advanced Packaging
 
 ## ACADEMIC SERVICE
-- Technical Program Committee Member, Optoelectronics and Communications Conference (OECC)
-- Secretary General, Photonics Division, The Optical Society of Korea (OSK, 한국광학회) — 포토닉스 분과, 총무간사
-- Secretary, Optical Science Division, The Optical Society of Korea (OSK, 한국광학회) — 광과학 분과, 간사
-- Technical Director (기술이사), Korean Microelectronics and Packaging Society (KMEPS, 한국마이크로전자 및 패키징학회)
+- Technical Program Committee Member (Optical Passive Devices and Modules), Optoelectronics and Communications Conference (OECC) [[Link]](https://oecc2026.org/committees.php)
+- Secretary General, Photonics Division, The Optical Society of Korea (OSK, 한국광학회) — 포토닉스 분과, 총무간사 [[Link]](https://www.osk.or.kr/content/intro/branch.php)
+- Secretary, Optical Science Division, The Optical Society of Korea (OSK, 한국광학회) — 광과학 분과, 간사 [[Link]](https://www.osk.or.kr/content/intro/branch.php)
+- Technical Director (기술이사), Korean Microelectronics and Packaging Society (KMEPS, 한국마이크로전자 및 패키징학회) [[Link]](https://www.kmeps.or.kr/html/?pmode=executive)
 
 ## HONORS AND AWARD								    
 Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2025, Dec. 3, 2025 [[Link]](https://yh2424.github.io/2025-12-03-PC2025-award/)  
 Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2024, Nov. 27, 2024 [[Link]](https://yh2424.github.io/2024-11-27-PC/)  
 President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
-Award for Doctoral thesis in School of engineering, March 24 2015  
+Award for Doctoral thesis in School of engineering, EE Dept., Univ. of Tokyo, March 24 2015  
 Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 - March 2015  
 Japan Government Scholarship (MEXT) for M.S. student, April 2010 - Mar 2012  
-Early Graduation in 3 years (Department Rank 1), March 23, 2010  
-Best student Awards of Nichia Co. for outstanding academic records, June 25 2009  
-Best student Awards of Nichia Co. for outstanding academic records, July 3 2008  
-Award for International Communication of English Ability, July 2 2008  
-Best student Award for courses in liberal arts, April 24 2008	  
+Early Graduation in 3 years (Department Rank 1), Tokushima Univ., March 23, 2010  
+Best student Awards of Nichia Co. for outstanding academic records, Tokushima Univ., June 25 2009  
+Best student Awards of Nichia Co. for outstanding academic records, Tokushima Univ., July 3 2008  
+Award for International Communication of English Ability, Tokushima Univ., July 2 2008  
+Best student Award for courses in liberal arts, Tokushima Univ., April 24 2008	  
 Korea-Japan Government Joint Scholarship, March 2006 - March 2010  
 
 

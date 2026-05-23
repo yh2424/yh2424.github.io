@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conference Publication - EDTM 2026
+title: Conference - EDTM 2026 in Penang, Malaysia
 thumbnail-img: assets/img/Thumbnail/EDTM2026.PNG
 date: '2026-05-08 17:00'
 by: By
