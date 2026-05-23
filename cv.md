@@ -18,18 +18,18 @@ School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, Col
 Mobile: +82-10-4997-2729
       
 ## EDUCATION
-#### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015**  
+#### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015 (일본문부성장학생)**  
 Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators"  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
 
-#### **The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012**  
+#### **The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012 (일본문부성장학생)**  
 Dept. of Electrical Engineering,  
 Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Research on SiGe based Modulator for Opto-Electronic Integrated Circuit"  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi  
 
-#### **The University of Tokushima, Japan, B.E., Apr 2007 - Mar 2010**  
+#### **The University of Tokushima, Japan, B.E., Apr 2007 - Mar 2010 (한일공동국비유학생)**  
 Electrical Electronic Engineering,   
 Faculty and School of Engineering (GPA : 5.0/5.0),  
 **Department Rank 1, First early graduation for 6 semesters in E.E. department**  
@@ -40,9 +40,10 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 
 ##  WORK EXPERIENCE									    
 #### Hanyang University ERICA, Associate professor, Sep 2024 - Present
-School of Semiconductor Convergence Engineering
+School of Semiconductor Convergence Engineering, College of Advanced Technology and Convergence (첨단융합대학, 차세대반도체융합공학부)
+
 #### Hanyang University ERICA, Assistant professor, Sep 2020 - Aug 2024  
-Department of Photonics and Nanoelectronics
+Department of Photonics and Nanoelectronics  
 Department of Applied Physics (Joint appointment)   
 
 <!-- 
@@ -110,9 +111,9 @@ Optoelectronic Innovations: From Device to System
 - 용역과제, "SiN 포토닉스 기반 광소자 시뮬레이션 및 설계", 한국전자통신연구원, 과제책임자, 2024.02.01 ~ 2024.07.31
 - 정부과제, "150W급 가공용 레이저 다이오드 array 제조기술 개발", 한국산업기술기획평가원, 공동연구원, 2021.04.01 ~ 2024.12.31  
 - 정부과제, "칩온보드 기술이 적용된 상용화 수준의 실리콘 포토닉스 기반 400Gbps QSFP-DD 광트랜시버 개발", 정보통신기획평가원, 공동연구원, 2023.04.01 ~ 2026.12.31 
-- 정부과제, "이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발", (재)한국연구재단, 2022.10.01 ~ 2023.09.30 (IMEC 국제공동연구)
+- 정부과제, "이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발", (재)한국연구재단, 과제책임자, 2022.10.01 ~ 2023.09.30 (IMEC 국제공동연구)
 - 정부과제, "임계전압 보상가능 강유전성 박막트랜지스터를 이용한 마이크로 LED 픽셀 능동 회로 개발", (재)한국연구재단, 과제책임자, 2022.07.01 ~ 2023.01.31
-- 정부과제, "Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화", (재)한국연구재단, 과제책임자 2021.09.01 ~ 2022.08.31
+- 정부과제, "Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화", (재)한국연구재단, 과제책임자, 2021.09.01 ~ 2022.08.31
 
 ## TECHNOLOGY TRANSFER
 - 기술명칭: 집적 광도파로와 광섬유를 결합하는 방법 (10-2024-0122931) 외 1건, 계약기술료: 5억원, 기업: (주)포스텍, 한양대에리카 산학협력단, 연구개발자: 김영현 교수, 계약일: 2025.09.01
@@ -184,7 +185,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 #### 수행완료
 - 정부과제, "이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발", (재)한국연구재단, 2022.10.01 ~ 2023.09.30 (IMEC 국제공동연구)
 - 정부과제, "임계전압 보상가능 강유전성 박막트랜지스터를 이용한 마이크로 LED 픽셀 능동 회로 개발", (재)한국연구재단, 과제책임자, 2022.07.01 ~ 2023.01.31
-- 정부과제, "Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화", (재)한국연구재단, 과제책임자 2021.09.01 ~ 2022.08.31
+- 정부과제, "Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화", (재)한국연구재단, 과제책임자, 2021.09.01 ~ 2022.08.31
 
 ## TECHNOLOGY TRANSFER
 - 권리구분: 특허, 10-202-0159364(픽셀회로, 이를 이용한 표시장치 및 김영현 이의 제조 방법)에 관한 기술이전, 2023.03.14
@@ -204,7 +205,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 - Kangseok Kim, Jonggeon Lee, and **Younghyun Kim**\*, "Performance Comparison of Coupled-Resonator Optical Waveguide Mach–Zehnder Modulators with III–V SIS Structures", Scientific Reports (2026), In Press
 - Jonggeon Lee, Youngjoo Bae, Minkyu Kim, and **Younghyun Kim**\*, "A Comparative Study of High-efficiency III-V/Si SIS Ring Modulators for O-band Co-packaged Optics", Optics Communications, Vol. 609, 133106 (2026) [[Link]](https://www.sciencedirect.com/science/article/pii/S0030401826002452)
 - Heeyun Jung, Taewon Jin, Seokhyeon Yoon, Kyungjin Jo, Seokyoung Shin, Seungwoo Park, and **Younghyun Kim**\*, "Demonstration of a SiN Grating Coupler with a Metal Reflector on a Glass Substrate", IEEE Photonics Technology Letters, Vol. 38, Iss. 5, 341-344 (2026) [[Link]](https://ieeexplore.ieee.org/document/11268451)
-- Yongwoo Jeon, Hong Gu Kang, Seohee Park, **Younghyun Kim**, Seong-Yong Cho, Dennis Lee, Younghoon Kim, Sung Nam Lim, Byeong Guk Jeong, Sohee Jeong, Jung Hoon Song, and Ju Young Woo, "Enhanced Carrier Mobility-Driven Performance Improvement in Colloidal Quantum Dot Solar Cells", Inorganic Chemistry Frontiers, Vol. 13, 1885-1894 (2026) [[Link]](https://pubs.rsc.org/en/content/articlelanding/2026/qi/d5qi02004b)
+- Yongwoo Jeon, Hong Gu Kang, Seohee Park, **Younghyun Kim**, Seong-Yong Cho, Dennis Lee, Younghoon Kim, Sung Nam Lim, Byeong Guk Jeong, Sohee Jeong, Jung Hoon Song, and Ju Young Woo, "Enhanced Carrier Mobility-Driven Performance Improvement in Colloidal Quantum Dot Solar Cells", Inorganic Chemistry Frontiers, Vol. 13, Iss. 5, 1885-1894 (2026) [[Link]](https://pubs.rsc.org/en/content/articlelanding/2026/qi/d5qi02004b)
 - Taewon Jin, Seokhyeon Yoon, Kyungjin Jo, Heeyun Jung, Seokyoung Shin, Jonggeon Lee, Seungwoo Park, Byungou Lee, Wonmyoung Choi, Minchul Jang, Soo-Yong Jung, Myunghwan Kim, Jong Jin Lee, and **Younghyun Kim**\*, "Silicon Nitride Photonic Platform on Glass for Scalable, High-Density Optical Redistribution Layers in Panel-Level Packaging", Optics Express, Vol. 33, Iss. 24, pp. 50422-50431 (2025) [[Link]](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.576420)
 - Seoungmin Park, Eun A Kim, Gijun Ju, Sinwon Choi, Hyunji Jeong, Jae-Hoon Han, Dae-Hwan Ahn, Jaekyun Kim, Moonsub Shim, Heesun Yang, Seong-Yong Cho, and **Younghyun Kim**\*, "Integration of Quantum Dot Light-Emitting Diodes and Charge Trap Thin-Film Transistor Arrays for Memory-in-Pixel Applications", ACS Applied Materials & Interfaces (2025) [[Link]](https://pubs.acs.org/doi/10.1021/acsami.5c13831)
 - Heeyun Jung, Myung-Joon Kwack, and **Younghyun Kim**\*, "Simulation study of a highly efficient dual-apodized a-Si/SiN grating coupler using a metal bottom reflector on a glass substrate for co-packaged optics", Japanese Journal of Applied Physics, Vol. 64 (2025) [[Link]](https://iopscience.iop.org/article/10.35848/1347-4065/adf9ad/meta)
@@ -250,12 +251,11 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 - KR102915845, 광 연결 탑재 반도체 패키지의 글래스 베이스 구조체 및 광 신호 전송 장치의 결합 구조 및 이를 포함하는 광 연결 탑재 반도체 패키지,
   Jan 16, 2026 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102915845.pdf)
 - KR102885028, 고출력 레이저 다이오드 및 이에 의한 반도체 레이저를 구성하는 방법, Nov 7, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102885028.pdf)
-- US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 
-[[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
+- US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
 - KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
 - KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
 - CN 113917714 B, Monolithic III-V-on-silicon opto-electronic phase modulator with a ridge waveguide,  September 30, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/CN113917714B.pdf)
-- US12411368B2, Optical phase shifter using KTN (KTaNbO3) and manufacturing method thereof (KTN (KTaNbO3)를 이용하는 광위상 변환기와 그 제작 방법), September 4, 2025 [[Link]]
+- US12411368B2, Optical phase shifter using KTN (KTaNbO3) and manufacturing method thereof (KTN (KTaNbO3)를 이용하는 광위상 변환기와 그 제작 방법), September 4, 2025 [[Link]](https://patents.google.com/patent/US12411368B2)
 - US11556043B2, Monolithic III-V-On-Silicon opto-electronic phase modulator with a ridge waveguide, Jan 17, 2023 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11556043B2.pdf)     
 - US11024784B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024784B2.pdf)    
 - US11024786B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), June 1, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11024786B2.pdf)    
@@ -276,7 +276,10 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 
 
 #### Conference
--	Heeyun Jung, Myung-Joon Kwack, and **Younghyun Kim***, "High-Performance SiN Grating Coupler with a Metal Bottom Reflector on Glass for Co-Packaged Optical Systems", OECC2025, Sapporo Japan
+-	Yongjin Shin, Min Seok Kim, Daehong Kim, Jaekyun Kim, Seong-Yong Cho, SangHoon Shin, and **Younghyun Kim***, "Electro-Thermal Analysis of Quantum Dot Light-Emitting Diode as Pixel Areas Using Thermoreflectance Microscopy", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497845)
+-	Zewei Wang, Simin Chen, Gijun Ju, Jaehoon Han, and **Younghyun Kim***, "Effect of Post-Annealing on the Electrical Properties of Vertical CAA FETs", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497920)
+-	Simin Chen, Zewei Wang, Gijun Ju, Jaehoon Han, and **Younghyun Kim***, "First Demonstration of Computing-in-Memory cell based on 1T-1MFMIS FeFET Featuring 2.3 V Large MW and Multi-bit Retention > 10 years", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497328)
+-	Heeyun Jung, Myung-Joon Kwack, and **Younghyun Kim***, "High-Performance SiN Grating Coupler with a Metal Bottom Reflector on Glass for Co-Packaged Optical Systems", OECC2025, Sapporo Japan [[Link]](https://ieeexplore.ieee.org/document/11109990)
 -	Kang Seok Kim, Young Joo Bae, Min Kyu Kim, and **Younghyun Kim***, "Proposal and Simulation of a Compact SIS-type MZ Modulator with CROW Structure for Optical I/O Applications", OECC2024, Melbourne Australia [[Link]](https://ieeexplore.ieee.org/abstract/document/10975692)
 -	Simin Chen, Dae-Hwan Ahn, Seong Ui An, and **Younghyun Kim***, "Simulation of a Recessed Channel Ferroelectric-Gate Field-Effect Transistor with a Dual Ferroelectric Gate Stack for Memory Application", EDTM2023, Seoul [[Link]](https://ieeexplore.ieee.org/document/10103116)
 -   Seong Kwang Kim, Hyeong-Rak Lim, Jaejoong Jeong, Seung Woo Lee, Joon Pyo Kim, Jaeyoung Jeong, Bong Ho Kim, Seung-Yeop Ahn, Youngkeun Park , Dae-Myoung Geum, **Younghyun Kim**, Yongku Baek, Byung Jin Cho, and Sang Hyeon Kim, "Heterogeneous 3D Sequential CFET with Ge (110) Nanosheet p-FET on Si (100) bulk n-FET by Direct Wafer Bonding", IEDM2023, San Francisco [[Link]](https://ieeexplore.ieee.org/document/10019551/authors#authors)
