@@ -6,10 +6,7 @@ subtitle: List of Journal, Patent, and Conference
 
 
 # Journal
-<!---
-### In preparation
-- Youngjoo Bae, ..., Younghyun Kim*, **"(Tentative) Comparative analysis on ... micro ring modulators"**, _In Preparation_
---->
+
 ### 2026
 - Hyeongrak Lim, Seong Kwang Kim, Jinha Lim, Daewon Ha, Jaehoon Han, Younghyun Kim, Jaeyong Jeong, and Sanghyeon Kim\*. **"Uniaxially Compressively Strained Ge (100)-OI p-MOSFET for High-Performance CFET"**, IEEE Transactions on Electron Devices (2026), Accepted.
 - Simin Chen, Taewon Jin, Xinkai Sun, Gijun Ju, Zewei Wang, Jaehoon Han, and Younghyun Kim\*. **"Unveiling Time-Dependent Dynamics in MFMIS FeFETs"**, IEEE Journal of the Electron Devices Society (2026), Accepted. 
