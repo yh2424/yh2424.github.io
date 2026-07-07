@@ -125,19 +125,33 @@ subtitle: Our team members !
 
 ---
 
-
-### 박 찬웅, Chanwoong Park
-#### 4th-year student, cwpark0923@hanyang.ac.kr
-
----
-
 ### 주 호영, Hoyeong Joo
 #### 4th-year student, donbosco11@hanyang.ac.kr
 
 ---
 
-### 박 정민, Jungmin Park
-#### 4th-year student, als010321@hanyang.ac.kr
+### 김 재원, Jaewon Kim
+#### 3rd-year student, lampre123@hanyang.ac.kr
+
+---
+
+### 김 지혜, Jihye Kim
+#### 3rd-year student, kjh192806@hanyang.ac.kr
+
+---
+
+### 이 다겸, Dakyeom Lee
+#### 3rd-year student, cooldk@hanyang.ac.kr
+
+---
+
+### 이 효성, Hyoseong Lee
+#### 3rd-year student, lhs012100@hanyang.ac.kr
+
+---
+
+### 주 동천, Dongcheon Joo
+#### 3rd-year student, wnehdcjs118@hanyang.ac.kr
 
 ---
 
