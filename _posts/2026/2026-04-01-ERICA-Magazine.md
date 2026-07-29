@@ -22,6 +22,8 @@ comments: true
 ![HY ERICA Vol.113 pp.30-31](/assets/img/Article/260401_ERICA_p3031.jpg)
 
 <div style="margin-top: 20px;">
+  <a href="http://hy-erica.com/vol113/post21.html" target="_blank" style="padding: 10px 15px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: #333; margin-right: 10px;">Read Online (HY ERICA)</a>
+
   <a href="/assets/Article/260401_ERICA_vol113.pdf" target="_blank" style="padding: 10px 15px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: #333; margin-right: 10px;">View Full Magazine (PDF)</a>
 
   <a href="/assets/Article/260401_ERICA_vol113.pdf" download="ERICA_vol_113.pdf" style="padding: 10px 15px; background-color: #007bff; border-radius: 5px; text-decoration: none; color: white; font-weight: bold;">PDF Download</a>
