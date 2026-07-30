@@ -40,12 +40,18 @@ Advisor: Prof. Yasuo Ohno and Prof. Jin-Ping Ao
 
 
 ##  WORK EXPERIENCE									    
+
 #### Hanyang University ERICA, Associate professor, Sep 2024 - Present
 School of Semiconductor Convergence Engineering, College of Advanced Technology and Convergence (첨단융합대학, 차세대반도체융합공학부)
+
+#### Massachusetts Institute of Technology (MIT), Visiting Scientist, Jul 2026 - Present
+Research Laboratory of Electronics (RLE)
 
 #### Hanyang University ERICA, Assistant professor, Sep 2020 - Aug 2024  
 Department of Photonics and Nanoelectronics  
 Department of Applied Physics (Joint appointment)   
+
+
 
 <!-- 
 #### CEO (Founder), Aug 2025 - Present
