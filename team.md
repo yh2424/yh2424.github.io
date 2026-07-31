@@ -51,7 +51,7 @@ subtitle: Our team members !
 ---
 
 ### 진 사민, Simin Chen 
-#### Integrated MS and Ph.D. course, etd93@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
+#### Integrated MS and Ph.D. course, sami51@hanyang.ac.kr <!---, [More about me](https://yh2424.github.io/people/siminchen)--->
 #### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [[2]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
 ---
@@ -62,7 +62,7 @@ subtitle: Our team members !
 ---
 
 ### 왕 택위, Zewei Wang 
-#### Master course (M4), wangzewei@hanyang.ac.kr
+#### Master course (M4), w2024143073@hanyang.ac.kr
 
 ---
 
@@ -135,11 +135,6 @@ subtitle: Our team members !
 
 ---
 
-### 김 지혜, Jihye Kim
-#### 3rd-year student, kjh192806@hanyang.ac.kr
-
----
-
 ### 이 다겸, Dakyeom Lee
 #### 3rd-year student, cooldk@hanyang.ac.kr
 
@@ -155,9 +150,24 @@ subtitle: Our team members !
 
 ---
 
+### 강 지훈, Jihun Kang
+#### 3rd-year student, san0316@hanyang.ac.kr
+
+---
+
+### 김 한서, Hanseo Kim
+#### 3rd-year student, lincoln1111@hanyang.ac.kr
+
+---
+
+### 김 범서, Beomseo Kim
+#### 3rd-year student, kbs03@hanyang.ac.kr
+
+---
+
 # Administrative staff
 
-### 황 혜진, Hwang Hyejin 
+### 황 혜진, Hyejin Hwang 
 #### hhjin89@hanyang.ac.kr 
 
 ---
