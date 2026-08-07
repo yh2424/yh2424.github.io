@@ -67,61 +67,61 @@ subtitle: Our team members !
 ---
 
 ### 윤 석현, Seokhyeon Yoon
-#### Integrated MS and Ph.D. course (M3), dbsminan@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), dbsminan@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-7-1903)
 
 ---
 
 ### 신 석영, Seokyoung Shin
-#### Integrated MS and Ph.D. course (M3), ssy6225@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), ssy6225@hanyang.ac.kr
 
 ---
 
 ### 조 경진, Kyungjin Jo
-#### Integrated MS and Ph.D. course (M3), whrudwls41@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), whrudwls41@hanyang.ac.kr
 
 ---
 
 ### 정 현지, Hyunji Jeong
-#### Integrated MS and Ph.D. course (M3), eu326@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), eu326@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
 
 ---
 
 ### 정 희윤, Heeyun Jung
-#### Integrated MS and Ph.D. course (M3), oriole1002@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), oriole1002@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
 
 ---
 
 ### 이 종건, Jonggeon Lee
-#### Integrated MS and Ph.D. course (M3), neosue10@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), neosue10@hanyang.ac.kr
 #### 1st-authored SCIE: [[1]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd), [[2]](TBD)
 
 ---
 
 ### 배 성혁, Seonghyeok Bae
-#### Integrated MS and Ph.D. course (M3), brian0073@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), brian0073@hanyang.ac.kr
 
 ---
 
 ### 이 지현, Jihyun Lee
-#### Integrated MS and Ph.D. course (M3), leejhn06@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M4), leejhn06@hanyang.ac.kr
 
 ---
 
 ### 조 배훈, Baehun Jo
-#### Integrated MS and Ph.D. course (M1), jbh12132@hanyang.ac.kr
-
----
-
-### 김 우재, Woojae Kim
-#### 4th-year student, dnwo0825@hanyang.ac.kr 
+#### Integrated MS and Ph.D. course (M2), jbh12132@hanyang.ac.kr
 
 ---
 
 ### 박 승우, Seungwoo Park
-#### 4th-year student, seungwo7@hanyang.ac.kr
+#### Integrated MS and Ph.D. course (M1), seungwo7@hanyang.ac.kr
+
+---
+
+### 김 우재, Woojae Kim
+#### 4th-year student, dnwo0825@hanyang.ac.kr
 
 ---
 
@@ -137,16 +137,6 @@ subtitle: Our team members !
 
 ### 이 다겸, Dakyeom Lee
 #### 3rd-year student, cooldk@hanyang.ac.kr
-
----
-
-### 이 효성, Hyoseong Lee
-#### 3rd-year student, lhs012100@hanyang.ac.kr
-
----
-
-### 주 동천, Dongcheon Joo
-#### 3rd-year student, wnehdcjs118@hanyang.ac.kr
 
 ---
 
