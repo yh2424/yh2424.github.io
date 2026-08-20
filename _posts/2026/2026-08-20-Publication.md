@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Journal Publication - Unveiling Time-Dependent Dynamics in MFMIS FeFETs'
-thumbnail-img: assets/img/Thumbnail/260626_publication.png
-date: '2026-06-26 10:00'
+title: 'Journal Publication - Geometry-Dependent Self-Heating and Wall-Plug Efficiency Degradation in RGB Quantum-Dot LEDs Probed by Thermoreflectance Microscopy'
+thumbnail-img: assets/img/Thumbnail/2026_APL_Paper.png
+date: '2026-08-20 21:00'
 by: By
-author: Younghyun Kim
+author: Yongjin Shin
 comments: true
 ---
 
 
-## Unveiling Time-Dependent Dynamics in MFMIS FeFETs
+## Geometry-Dependent Self-Heating and Wall-Plug Efficiency Degradation in RGB Quantum-Dot LEDs Probed by Thermoreflectance Microscopy
 
 
-<img alt="Unveiling Time-Dependent Dynamics in MFMIS FeFETs" src="/assets/img/Publication/2026-06-26-MFMIS-FeFETs.png" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
+<img alt="Geometry-Dependent Self-Heating and Wall-Plug Efficiency Degradation in RGB Quantum-Dot LEDs Probed by Thermoreflectance Microscopy" src="/assets/img/Publication/2026_APL_Paper.png" style="display:block; width:100%; max-width:900px; height:auto; margin:24px auto;" />
 
 
 
 ## Abstract
-Metal-ferroelectric-metal-insulator-semiconductor (MFMIS) ferroelectric field-effect transistors (FeFETs) using an amorphous indium-tin-zinc-oxide (a-ITZO) channel and Hf0.5Zr0.5O2 (HZO) ferroelectric layer are fabricated. By engineering the area ratio (AR = A<sub>I</sub>/A<sub>F</sub>) between the MIS transistor region and the MFM ferroelectric-capacitor region, the memory window (MW) can be continuously tuned while maintaining robust erase operation. To probe time-dependent behavior, single-sweep readouts are performed after program/erase pulses with a controlled delay time (T<sub>delay</sub>). We found that, as T<sub>delay</sub> increases, the threshold voltage (V<sub>th</sub>) shift of the program becomes larger than that of the erase under pulsed conditions, producing a progressive reduction-and at low AR, a possible inversion-of the MW. This asymmetric delay dependence has not been reported previously for oxide-semiconductor MFMIS FeFETs. Guided by the experimental trends, we propose a band-diagram-based mechanism that explicitly incorporates oxygen-vacancy-related traps at the HZO/floating-gate interfaces. The model attributes the observed evolution to the interplay among ferroelectric polarization relaxation, charge trapping/de-trapping in the floating gate. These findings establish AR engineering and delay-aware operation as effective levers to optimize MW, retention, and erase behavior in AOS-based MFMIS FeFETs, paving the way for compensation-free display drivers and embedded non-volatile memory.
-[[Link to Journal website (IEEE)]](https://ieeexplore.ieee.org/document/11533180)
+Quantum dot light-emitting diodes (QD-LEDs) have emerged as promising candidates for next-generation display applications. However, their electrical, optical and thermal characteristics depend on intrinsic properties of quantum dots and device geometry. In this study, we investigate self-heating effect (SHE) of QD-LEDs with different pixel areas (100×100, 150×150 and 200×200 μm2). We utilize thermoreflectance microscopy (TRM) to analyze temperature characteristics under pulsed voltage electrical operation. This facilitates evaluation of geometry-dependent heat generation and dissipation. We explain how pixel area variation affects temperature change (ΔT), thermal non-uniformity and wall-plug efficiency (WPE) by correlating thermal responses derived from TRM measurement with electrical and optical characteristics. ΔT of approximately 1.4-13 °C was measured depending on device pixel areas and this Joule heating was correlated with WPE degradation. WPE decreased by approximately 78-99%, with larger-pixel devices exhibiting stronger heat accumulation, more pronounced thermal non-uniformity, and greater efficiency loss than smaller pixel devices. These findings indicate that SHE is a pivotal factor in governing electro-thermal reliability and optical characteristics of QD-LEDs. This work provides insight into thermal related reliability issues in QD-LEDs for next-generation display applications.
+[[Link to Journal website (APL)]]()
 
 
 
-Congratulations, Simin!
+Congratulations, Yongjin!
