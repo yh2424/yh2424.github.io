@@ -4,7 +4,7 @@ title: 'Journal Publication - Geometry-Dependent Self-Heating and Wall-Plug Effi
 thumbnail-img: assets/img/Thumbnail/2026_APL_Paper.png
 date: '2026-08-20 21:00'
 by: By
-author: Yongjin Shin
+author: Younghyun Kim
 comments: true
 ---
 
