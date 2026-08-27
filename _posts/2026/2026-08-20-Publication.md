@@ -18,7 +18,7 @@ comments: true
 
 ## Abstract
 Quantum dot light-emitting diodes (QD-LEDs) have emerged as promising candidates for next-generation display applications. However, their electrical, optical and thermal characteristics depend on intrinsic properties of quantum dots and device geometry. In this study, we investigate self-heating effect (SHE) of QD-LEDs with different pixel areas (100×100, 150×150 and 200×200 μm2). We utilize thermoreflectance microscopy (TRM) to analyze temperature characteristics under pulsed voltage electrical operation. This facilitates evaluation of geometry-dependent heat generation and dissipation. We explain how pixel area variation affects temperature change (ΔT), thermal non-uniformity and wall-plug efficiency (WPE) by correlating thermal responses derived from TRM measurement with electrical and optical characteristics. ΔT of approximately 1.4-13 °C was measured depending on device pixel areas and this Joule heating was correlated with WPE degradation. WPE decreased by approximately 78-99%, with larger-pixel devices exhibiting stronger heat accumulation, more pronounced thermal non-uniformity, and greater efficiency loss than smaller pixel devices. These findings indicate that SHE is a pivotal factor in governing electro-thermal reliability and optical characteristics of QD-LEDs. This work provides insight into thermal related reliability issues in QD-LEDs for next-generation display applications.
-[[Link to Journal website (APL)]]()
+[[Link to Journal website (APL)]](https://doi.org/10.1063/5.0346181)
 
 
 
