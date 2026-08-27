@@ -58,7 +58,7 @@ subtitle: Our team members !
 
 ### 신 용진, Yongjin Shin
 #### Master course (M4), djrm98@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/yongjinshin)-->
-#### 1st-authored SCIE: [[1]](TBD)
+#### 1st-authored SCIE: [[1]](https://doi.org/10.1063/5.0346181)
 
 ---
 

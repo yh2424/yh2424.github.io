@@ -109,11 +109,10 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 - 정부과제, "2.5D 광패키징 기반 CPO를 위한 Opto-chiplet이 집적된 인터포저 기술", (재)한국연구재단, 미래유망원천기술개발사업(차세대광패키징기술개발), 과제책임자(세부), 2025.06.01 ~ 2029.12.31
 - 정부과제, "광 변조기 집적 다채널 광 배선 모듈 칩 개발", 중소기업기술정보진흥원, 창업성장기술개발사업(TIPS), 과제책임자(세부), 2024.07.01 ~ 2026.12.31
 - 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구", (재)한국연구재단, 이공분야기초연구사업(우수연구-신진연구), 과제책임자(개인), 2024.04.01 ~ 2027.03.31
+- 정부과제, "광학 인공신경망 고속 연산 구현을 위한 대규모 병렬연산 자유공간 광학 프로세서 개발", (재)한국연구재단, 차세대광기반연산반도체핵심기술개발사업, 과제책임자(세부), 2026.06.01 ~ 2030.12.31
 - 산학과제, "광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발", 삼성전자(미래기술산학), 과제책임자(총괄), 2023.11.01 ~ 2026.10.31
 
 #### 신청중
-- 정부과제, "분산형 하이브리드 양자 컴퓨팅을 위한 중성원자와 광집적회로 시스템 간의 얽힘 구현", (재)한국연구재단, 기초연구실지원사업, 과제책임자, 2026.07.01 ~ 2029.06.30
-- 정부과제, "광학 인공신경망 고속 연산 구현을 위한 대규모 병렬연산 자유공간 광학 프로세서 개발", (재)한국연구재단, 차세대광기반연산반도체핵심기술개발사업, 과제책임자(세부), 2026.06.01 ~ 2030.12.31
 
 #### 수행완료
 - 정부과제, "차세대 디스플레이용 마이크로 광/전자소자 열분석 및 성능 향상 구조 연구", 한국기초과학지원연구원, 과제책임자(총괄), 2023.04.01 ~ 2026.02.28 
@@ -208,10 +207,11 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 ## PUBLICATION
 #### JOURNAL
 
+- Yongjin Shin, Min Seok Kim, JaeMin Lee, Daehong Kim, Jaekyun Kim, Seong-Yong Cho, SangHoon Shin, and **Younghyun Kim**\*, "Geometry-Dependent Self-Heating and Wall-Plug Efficiency Degradation in RGB Quantum-Dot LEDs Probed by Thermoreflectance Microscopy", Applied Physics Letters, Vol. 129, Iss. 8, 083505 (2026) [[Link]](https://doi.org/10.1063/5.0346181)
 - Hyeongrak Lim, Seong Kwang Kim, Jinha Lim, Daewon Ha, Jaehoon Han, **Younghyun Kim**, Jaeyong Jeong, and Sanghyeon Kim\*, "Uniaxially Compressively Strained Ge (100)-OI p-MOSFET for High-Performance CFET", IEEE Transactions on Electron Devices, Vol. 73, Iss. 7, 4250-4256 (2026) [[Link]](https://ieeexplore.ieee.org/document/11559577)
 - Simin Chen, Taewon Jin, Xinkai Sun, Gijun Ju, Zewei Wang, Jae-Hoon Han, and **Younghyun Kim**\*, "Unveiling Time-Dependent Dynamics in MFMIS FeFETs", IEEE Journal of the Electron Devices Society, Vol. 14, 332-338 (2026) [[Link]](https://ieeexplore.ieee.org/document/11533180)
 - Seokhyeon Yoon, Taewon Jin, Heeyun Jung, and **Younghyun Kim**\*, "Stitching-loss-tolerant silicon nitride waveguides on glass for panel-level optical interconnects", Optics Letters, Vol. 51, Iss. 7, 1903-1906 (2026) [[Link]](https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-7-1903)
-- Kangseok Kim, Jonggeon Lee, and **Younghyun Kim**\*, "Performance Comparison of Coupled-Resonator Optical Waveguide Mach–Zehnder Modulators with III–V SIS Structures", Scientific Reports, Vol. 16, 43882 (2026)
+- Kangseok Kim, Jonggeon Lee, and **Younghyun Kim**\*, "Performance Comparison of Coupled-Resonator Optical Waveguide Mach–Zehnder Modulators with III–V SIS Structures", Scientific Reports, Vol. 16, 43882 (2026) [[Link]](https://www.nature.com/articles/s41598-026-43882-1)
 - Jonggeon Lee, Youngjoo Bae, Minkyu Kim, and **Younghyun Kim**\*, "A Comparative Study of High-efficiency III-V/Si SIS Ring Modulators for O-band Co-packaged Optics", Optics Communications, Vol. 609, 133106 (2026) [[Link]](https://www.sciencedirect.com/science/article/pii/S0030401826002452)
 - Heeyun Jung, Taewon Jin, Seokhyeon Yoon, Kyungjin Jo, Seokyoung Shin, Seungwoo Park, and **Younghyun Kim**\*, "Demonstration of a SiN Grating Coupler with a Metal Reflector on a Glass Substrate", IEEE Photonics Technology Letters, Vol. 38, Iss. 5, 341-344 (2026) [[Link]](https://ieeexplore.ieee.org/document/11268451)
 - Yongwoo Jeon, Hong Gu Kang, Seohee Park, **Younghyun Kim**, Seong-Yong Cho, Dennis Lee, Younghoon Kim, Sung Nam Lim, Byeong Guk Jeong, Sohee Jeong, Jung Hoon Song, and Ju Young Woo, "Enhanced Carrier Mobility-Driven Performance Improvement in Colloidal Quantum Dot Solar Cells", Inorganic Chemistry Frontiers, Vol. 13, Iss. 5, 1885-1894 (2026) [[Link]](https://pubs.rsc.org/en/content/articlelanding/2026/qi/d5qi02004b)
@@ -271,7 +271,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 - US11018285B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), May 25, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US11018285B2.pdf)    
 - US10833057B2, Display apparatus and manufacturing method thereof(디스플레이 장치와 그 제작 방법), Nov 10, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10833057B2.pdf)    
 - US10775667B2, Display apparatus (디스플레이 장치), Sept 15, 2021 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10775667B2.pdf)    
-- KR1020190137521, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR1020190137521B2.pdf)    
+- KR102103515, 레이저 다이오드 구조 및 제조 방법(Laser diode structure and manufacturing method), April 16, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102103515.pdf)    
 - US10606121B2, Display apparatus (디스플레이 장치), March 31, 2020 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10606121B2.pdf)    
 - US10332949B2, Display apparatus (디스플레이 장치), June 25, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10332949B2.pdf)    
 - US10312225B2, Display apparatus and manufacturing method thereof (디스플레이 장치와 그 제작 방법), June 4, 2019 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US10312225B2.pdf)    
