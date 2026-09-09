@@ -112,7 +112,14 @@ subtitle: List of Journal, Patent, and Conference
 
 
 ## Conference
--	Yongjin Shin, Min Seok Kim, Daehong Kim, Jaekyun Kim, Seong-Yong Cho, SangHoon Shin, and **Younghyun Kim***, "Electro-Thermal Analysis of Quantum Dot Light-Emitting Diode as Pixel Areas Using Thermoreflectance Microscopy", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497845)
+- Daehong Kim, Honghyuk Kim, Jinkwan Kwoen, and Younghyun Kim\*, “Design and Optimization of an a-Si:H Intermediary Layer for O-band SOA Integration on a Photonic Platform”, OECC2026, Busan Korea
+- Taewon Jin, Seokhyeon Yoon, and Younghyun Kim\*, “Ultra-Low Stitching Loss Waveguide Interfaces for Wafer-Scale Photonic Routing Using Angled and Inverse Tapers”, OECC2026, Busan Korea
+- Seokhyeon Yoon, Taewon Jin, Seokyoung Shin, and Younghyun Kim\*, “Taper-based Low-Loss Stitching in Silicon Nitride Waveguide on Glass for Wafer-Level Optical Interconnect”, OECC2026, Busan Korea
+- Seokyoung Shin and Younghyun Kim\*, “Compact and Low-Loss Evanescent Coupler Between SiN-on-Glass and SiN-on-SOI Platforms for Co-Packaged Optics”, OECC2026, Busan Korea
+- Jihyun Lee, Seokyoung Shin, Kyungjin Jo, and Younghyun Kim\*, “Low-Loss and High-Uniformity 4×4 Silicon Nitride Multi-Mode Interference Coupler on a Glass-Based Photonic Platform”, OECC2026, Busan Korea
+- Kyungjin Jo, Taewon Jin, Heeyun Jung, and Younghyun Kim\*, “High-Efficiency SiN Triple-Tip Edge Coupler with a Bottom Metal Reflector on Glass for Co-Packaged Optical Systems”, OECC2026, Busan Korea
+- SeongHyeok Bae, Taewon Jin, Simin Chen, and Younghyun Kim\*, “Non-Volatile Micro-Ring Optical Switch on SiN-on-Glass for Panel-Level Interconnects”, OECC2026, Busan Korea	
+- Yongjin Shin, Min Seok Kim, Daehong Kim, Jaekyun Kim, Seong-Yong Cho, SangHoon Shin, and **Younghyun Kim***, "Electro-Thermal Analysis of Quantum Dot Light-Emitting Diode as Pixel Areas Using Thermoreflectance Microscopy", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497845)
 -	Zewei Wang, Simin Chen, Gijun Ju, Jaehoon Han, and **Younghyun Kim***, "Effect of Post-Annealing on the Electrical Properties of Vertical CAA FETs", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497920)
 -	Simin Chen, Zewei Wang, Gijun Ju, Jaehoon Han, and **Younghyun Kim***, "First Demonstration of Computing-in-Memory cell based on 1T-1MFMIS FeFET Featuring 2.3 V Large MW and Multi-bit Retention > 10 years", EDTM2026, Penang Malaysia [[Link]](https://ieeexplore.ieee.org/document/11497328)
 -	Heeyun Jung, Myung-Joon Kwack, and **Younghyun Kim***, "High-Performance SiN Grating Coupler with a Metal Bottom Reflector on Glass for Co-Packaged Optical Systems", OECC2025, Sapporo Japan [[Link]](https://ieeexplore.ieee.org/document/11109990)
