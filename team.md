@@ -22,7 +22,7 @@ subtitle: Our team members !
 
 <!-- 
 #### CEO (Founder), YKPhotonics Co., Ltd.  
-#### Technical Advisor (CTO), Fotolynx, Inc.
+#### Technical Advisor (CSO), Fotolynx, Inc.
 #### Technical Advisor, PhotoniSol, Inc.
 -->
  
@@ -53,17 +53,6 @@ subtitle: Our team members !
 ### 진 사민, Simin Chen 
 #### Integrated MS and Ph.D. course, sami51@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/siminchen)-->
 #### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [[2]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract), [[3]](https://ieeexplore.ieee.org/document/11533180)
-
----
-
-### 신 용진, Yongjin Shin
-#### Master course (M4), djrm98@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/yongjinshin)-->
-#### 1st-authored SCIE: [[1]](https://doi.org/10.1063/5.0346181)
-
----
-
-### 왕 택위, Zewei Wang 
-#### Master course (M4), w2024143073@hanyang.ac.kr
 
 ---
 
@@ -121,6 +110,11 @@ subtitle: Our team members !
 
 ---
 
+### 이 신우, Xinyu Li
+#### Master course (M1), lxy2025@hanyang.ac.kr
+
+---
+
 ### 김 우재, Woojae Kim
 #### 4th-year student, dnwo0825@hanyang.ac.kr
 
@@ -157,6 +151,16 @@ subtitle: Our team members !
 
 ---
 
+### 김 건형, GunHyeong Kim
+#### 3rd-year student, ghkk7788@hanyang.ac.kr
+
+---
+
+### 송 윤호, Yunho Song
+#### 3rd-year student, dr3817@hanyang.ac.kr
+
+---
+
 # Administrative staff
 
 ### 황 혜진, Hyejin Hwang 
@@ -166,6 +170,15 @@ subtitle: Our team members !
 
 
 # Alumni
+---
+### 신 용진, Yongjin Shin, M.E.
+#### Graduated in Aug. 2026, djrm98@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/yongjinshin)-->
+#### 1st-authored SCIE: [[1]](https://doi.org/10.1063/5.0346181)
+
+---
+### 왕 택위, Zewei Wang, M.E.
+#### Graduated in Aug. 2026, Now with Shokz, w2024143073@hanyang.ac.kr
+
 ---
 ### 배 영주, Youngjoo Bae, M.E
 #### Graduated in Feb. 2025, Now with Fotolynx, yjbae9441@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/youngjoobae)-->
