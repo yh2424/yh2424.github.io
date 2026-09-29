@@ -19,18 +19,18 @@ School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, Col
 Mobile: +82-10-4997-2729
       
 ## EDUCATION
-#### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015 (일본문부성장학생)**  
+#### **The University of Tokyo, Japan, Ph.D., Apr 2012 - Mar 2015 (Japan Government (MEXT) Scholarship Student, 일본문부성장학생)**  
 Dept. of Electrical Engineering,Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Study on strain-induced enhancement of plasma dispersion effect and free-carrier absorption for SiGe optical modulators/attenuators"  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi
 
-#### **The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012 (일본문부성장학생)**  
+#### **The University of Tokyo, Japan, M.E., Apr 2010 - Mar 2012 (Japan Government (MEXT) Scholarship Student, 일본문부성장학생)**  
 Dept. of Electrical Engineering,  
 Graduate School of Engineering (GPA : 3.9/4.0)  
 Thesis: "Research on SiGe based Modulator for Opto-Electronic Integrated Circuit"  
 Advisor: Prof. Mitsuru Takenaka and Prof. Shinichi Takagi  
 
-#### **The University of Tokushima, Japan, B.E., Apr 2007 - Mar 2010 (한일공동국비유학생)**  
+#### **The University of Tokushima, Japan, B.E., Apr 2007 - Mar 2010 (Korea-Japan Joint Government-Sponsored Overseas Student, 한일공동국비유학생)**  
 Electrical Electronic Engineering,   
 Faculty and School of Engineering (GPA : 5.0/5.0),  
 **Department Rank 1, First early graduation for 6 semesters in E.E. department**  
@@ -89,61 +89,34 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 
 - **Oxide Semiconductor and its Memory Applications**: Exploration of amorphous oxide semiconductor (AOS) thin-film transistors (TFTs) — including a-IGZO and a-ITZO — for ferroelectric memory (FeFET, FeDRAM) and neuromorphic display applications. [[Nanoscale 2024]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e) [[ACS AEM 2025]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447) [[IEEE TED 2024]](https://ieeexplore.ieee.org/document/10620402)
 
-<!-- 
 
 ## RESEARCH GRANTS 
-#### Recent three years & on-gonig projects
-- Co-PI, June 1 2025 – December 31 2029 – 2.5D Optical Interposer Technology for Co-Packaged Opto-Chiplet Integration based on Advanced Photonic Packaging – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF).
-- Co-PI, October 1 2024 – September 30 2028 – Development of an AI-Based Intelligent Optical Sensing System for Real-Time 6G Communication Event Detection – funded by the Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute of Startup & Entrepreneurship Development (KISED).
-- PI, April 1 2024 – March 31 2027 – International Collaborative Research on Ultra-High-Speed/Low-Latency Tbps-Class Optical I/O Devices based on Silicon Photonics and Optical Transceiver Technologies – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, National Research Foundation of Korea (NRF).
-- Co-PI, April 1 2023 – December 31 2026 – Development of a 400 Gbps QSFP-DD Optical Transceiver Based on Silicon Photonics with Chip-on-Board Packaging Technology – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, Institute for Information & Communications Technology Planning & Evaluation (IITP).
-- PI, July 1 2024 – June 30 2026 – Development of a Multi-Channel Optical Modulator and Interconnect Module with Integrated Optical Routing – funded by the Ministry of SMEs and Startups (MSS), Republic of Korea, Korea Institute for Advancement of Technology (KIAT).
-- Co-PI, April 1 2023 – February 28 2026 – Micro- and Optoelectronic Structure Analysis and Performance Enhancement for Next-Generation Display Materials – funded by the Ministry of Science and ICT (MSIT), Republic of Korea, Korea Basic Science Institute (KBSI).
-- PI, November 1 2023 – October 31 2026 – Low-Loss Optical Interconnect Technology for Future Chiplet-Based Photonic Packaging Modules – funded by Samsung Electronics Co., Ltd., Republic of Korea (Industry-University Collaboration Research).
-
--->
-
-## RESEARCH GRANTS 
-#### 수행중
-- 정부과제, "200 Gb/s/λ급 Tx-Rx 고집적 Co-Packaged Optics·초미세 인터커넥트 고신뢰 통합 설계·검증 플랫폼 구축", 한국산업기술기획평가원, 민관공동투자반도체고급인력양성, 과제책임자(세부), 2026.04.01 ~ 2030.12.31
-- 정부과제, "2.5D 광패키징 기반 CPO를 위한 Opto-chiplet이 집적된 인터포저 기술", (재)한국연구재단, 미래유망원천기술개발사업(차세대광패키징기술개발), 과제책임자(세부), 2025.06.01 ~ 2029.12.31
-- 정부과제, "광 변조기 집적 다채널 광 배선 모듈 칩 개발", 중소기업기술정보진흥원, 창업성장기술개발사업(TIPS), 과제책임자(세부), 2024.07.01 ~ 2026.12.31
-- 정부과제, "초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구", (재)한국연구재단, 이공분야기초연구사업(우수연구-신진연구), 과제책임자(개인), 2024.04.01 ~ 2027.03.31
-- 정부과제, "광학 인공신경망 고속 연산 구현을 위한 대규모 병렬연산 자유공간 광학 프로세서 개발", (재)한국연구재단, 차세대광기반연산반도체핵심기술개발사업, 과제책임자(세부), 2026.06.01 ~ 2030.12.31
-- 산학과제, "광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발", 삼성전자(미래기술산학), 과제책임자(총괄), 2023.11.01 ~ 2026.10.31
-
-#### 신청중
-
-#### 수행완료
-- 정부과제, "차세대 디스플레이용 마이크로 광/전자소자 열분석 및 성능 향상 구조 연구", 한국기초과학지원연구원, 과제책임자(총괄), 2023.04.01 ~ 2026.02.28 
-- 용역과제, "SiN 포토닉스 기반 광소자 시뮬레이션 및 설계", 한국전자통신연구원, 과제책임자, 2024.02.01 ~ 2024.07.31
-- 정부과제, "150W급 가공용 레이저 다이오드 array 제조기술 개발", 한국산업기술기획평가원, 공동연구원, 2021.04.01 ~ 2024.12.31  
-- 정부과제, "칩온보드 기술이 적용된 상용화 수준의 실리콘 포토닉스 기반 400Gbps QSFP-DD 광트랜시버 개발", 정보통신기획평가원, 과제책임자(세부), 2023.04.01 ~ 2026.12.31 
-- 정부과제, "이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발", (재)한국연구재단, 과제책임자(개인), 2022.10.01 ~ 2023.09.30 (IMEC 국제공동연구)
-- 정부과제, "Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화", (재)한국연구재단, 생애 첫 연구사업, 과제책임자, 2021.09.01 ~ 2022.08.31
-
-## TECHNOLOGY TRANSFER
-- 기술명칭: 집적 광도파로와 광섬유를 결합하는 방법 (10-2024-0122931) 외 1건, 계약기술료: 5억원, 기업: (주)포스텍, 한양대에리카 산학협력단, 연구개발자: 김영현 교수, 계약일: 2025.09.01
-- 기술명칭: 픽셀 회로, 이를 이용한 표시장치 및 이의 제조방법 (10-2022-0159364), 계약기술료: 500만원, 기업: (주)어드밴스트뷰테크널러지, 한양대에리카 산학협력단, 연구개발자: 김영현 교수, 계약일: 2023.01.27
+#### Ongoing (수행중)
+- Government Project — "Development of a High-Reliability Integrated Design/Verification Platform for 200 Gb/s/λ Tx-Rx Highly-Integrated Co-Packaged Optics and Ultra-Fine Interconnects" (200 Gb/s/λ급 Tx-Rx 고집적 Co-Packaged Optics·초미세 인터커넥트 고신뢰 통합 설계·검증 플랫폼 구축), Korea Institute for Advancement of Technology (KIAT, 한국산업기술기획평가원), Public-Private Joint Investment Semiconductor Advanced Workforce Program (민관공동투자반도체고급인력양성), Project Leader (Sub-project), Apr 1 2026 – Dec 31 2030
+- Government Project — "Opto-Chiplet-Integrated Interposer Technology for 2.5D Optical-Packaging-Based CPO" (2.5D 광패키징 기반 CPO를 위한 Opto-chiplet이 집적된 인터포저 기술), National Research Foundation of Korea (NRF, 한국연구재단), Future-Promising Original Technology Development Program — Next-Generation Photonic Packaging Technology (미래유망원천기술개발사업(차세대광패키징기술개발)), Project Leader (Sub-project), Jun 1 2025 – Dec 31 2029
+- Government Project — "Development of a Multi-Channel Optical Interconnect Module Chip with Integrated Optical Modulators" (광 변조기 집적 다채널 광 배선 모듈 칩 개발), Korea Technology and Information Promotion Agency for SMEs (TIPA, 중소기업기술정보진흥원), Startup Growth Technology Development Program — TIPS (창업성장기술개발사업(TIPS)), Project Leader (Sub-project), Jul 1 2024 – Dec 31 2026
+- Government Project — "Research on Resonator-Based Silicon Photonic Optical Modulators for Ultra-High-Speed/Low-Latency Tbps-Class Optical I/O" (초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구), National Research Foundation of Korea (NRF, 한국연구재단), Basic Science Research Program — Excellent New Researcher (이공분야기초연구사업(우수연구-신진연구)), Project Leader (Individual), Apr 1 2024 – Mar 31 2027
+- Government Project — "Development of a Massively Parallel Free-Space Optical Processor for High-Speed Optical Neural Network Computation" (광학 인공신경망 고속 연산 구현을 위한 대규모 병렬연산 자유공간 광학 프로세서 개발), National Research Foundation of Korea (NRF, 한국연구재단), Next-Generation Photonics-Based Computing Semiconductor Core Technology Development Program (차세대광기반연산반도체핵심기술개발사업), Project Leader (Sub-project), Jun 1 2026 – Dec 31 2030
+- Industry-Academia Project — "Development of Low-Loss Optical Interconnect Technology for Future Semiconductors with Optical Packaging" (광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발), Samsung Electronics — Future Technology Industry-Academia Program (삼성전자(미래기술산학)), Project Leader (Overall), Nov 1 2023 – Oct 31 2026
 
 
+#### Completed (수행완료)
+- Government Project — "Thermal Analysis and Performance-Enhancing Structure Research on Micro Opto-/Electronic Devices for Next-Generation Displays" (차세대 디스플레이용 마이크로 광/전자소자 열분석 및 성능 향상 구조 연구), Korea Basic Science Institute (KBSI, 한국기초과학지원연구원), Project Leader (Overall), Apr 1 2023 – Feb 28 2026
+- Contract Research — "Simulation and Design of SiN-Photonics-Based Optical Devices" (SiN 포토닉스 기반 광소자 시뮬레이션 및 설계), Electronics and Telecommunications Research Institute (ETRI, 한국전자통신연구원), Project Leader, Feb 1 2024 – Jul 31 2024
+- Government Project — "Development of Manufacturing Technology for 150 W-Class Laser Diode Arrays for Material Processing" (150W급 가공용 레이저 다이오드 array 제조기술 개발), Korea Institute for Advancement of Technology (KIAT, 한국산업기술기획평가원), Co-Investigator, Apr 1 2021 – Dec 31 2024
+- Government Project — "Development of a Commercial-Grade 400 Gbps QSFP-DD Optical Transceiver Based on Silicon Photonics with Chip-on-Board Packaging Technology" (칩온보드 기술이 적용된 상용화 수준의 실리콘 포토닉스 기반 400Gbps QSFP-DD 광트랜시버 개발), Institute for Information & Communications Technology Planning & Evaluation (IITP, 정보통신기획평가원), Project Leader (Sub-project), Apr 1 2023 – Dec 31 2026
+- Government Project — "Development of III-V Optical Phase Shifter Technology Based on Heterogeneously Integrated Silicon Photonics" (이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발), National Research Foundation of Korea (NRF, 한국연구재단), Project Leader (Individual), Oct 1 2022 – Sep 30 2023 (International Joint Research with IMEC, IMEC 국제공동연구)
+- Government Project — "Numerical Calculation and Performance Optimization of a High-Performance KTN Optical Phase Shifter Based on Si Integrated Optics" (Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화), National Research Foundation of Korea (NRF, 한국연구재단), First-Career Research Program (생애 첫 연구사업), Project Leader, Sep 1 2021 – Aug 31 2022
 
 ## TEACHING
 #### Conference 
 
 
-- (기술세미나 개최) 2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능현반도체사업단 후원) 2025.08.18 [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
-- (Tutorial) 한국광학회 하계학술발표회2025, From wafer to Co-packaged optics: A tutorial on silicon photonics integration, 2025.07.09 [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
-- (Tutorial) 한국광학회 동계학술발표회2024, Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics, 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
-- (Tutorial) 한국광학회 광전자 및 광통신 학술대회 COOC2023, 실리콘 포토닉스 - 집적공정, 2023.06.01 [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
+- (Technical Seminar, 기술세미나 개최) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA, sponsored by the Next-Generation Intelligent Semiconductor Program (2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능형반도체사업단 후원)), Aug 18 2025 [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
+- (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 (한국광학회 하계학술발표회2025), “From wafer to Co-packaged optics: A tutorial on silicon photonics integration,” 2025.07.09 [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
+- (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 (한국광학회 동계학술발표회2024), “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
+- (Tutorial) Conference on Optoelectronics and Optical Communications, COOC2023 (한국광학회 광전자 및 광통신 학술대회 COOC2023), “Silicon Photonics – Fabrication and Integration Process” (실리콘 포토닉스 - 집적공정), 2023.06.01 [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
 
-
-<!-- 
-- (Technical Seminar) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA (sponsored by the Next-Generation Intelligent Semiconductor Program), Aug. 18 2025. [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
-- (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 — “From Wafer to Co-Packaged Optics: A Tutorial on Silicon Photonics Integration,” Jul. 9 2025. [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
-- (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 — “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” Feb. 15 2024. [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
-- (Tutorial) Conference on Optoelectronics and Optical Communications (COOC 2023) — “Silicon Photonics: Fabrication and Integration Process,” Jun. 1 2023. [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
--->
 
 
 #### Lecture 
@@ -257,9 +230,9 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 
 
 #### PATENT (Granted)
-- KR102915845, 광 연결 탑재 반도체 패키지의 글래스 베이스 구조체 및 광 신호 전송 장치의 결합 구조 및 이를 포함하는 광 연결 탑재 반도체 패키지,
+- KR102915845, Glass-Based Structure and Coupling Structure Between an Optical-Connection-Mounted Semiconductor Package and an Optical Signal Transmission Device, and an Optical-Connection-Mounted Semiconductor Package Including the Same (광 연결 탑재 반도체 패키지의 글래스 베이스 구조체 및 광 신호 전송 장치의 결합 구조 및 이를 포함하는 광 연결 탑재 반도체 패키지),
   Jan 16, 2026 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102915845.pdf)
-- KR102885028, 고출력 레이저 다이오드 및 이에 의한 반도체 레이저를 구성하는 방법, Nov 7, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102885028.pdf)
+- KR102885028, High-Power Laser Diode and Method of Configuring a Semiconductor Laser Therewith (고출력 레이저 다이오드 및 이에 의한 반도체 레이저를 구성하는 방법), Nov 7, 2025 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102885028.pdf)
 - US20240206187A1, Non-volatile memory device and its operating method, Jun 20, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/US20240206187A1.pdf)
 - KR102749088, L형 PN 접합을 갖는 광 위상 이동기 및 그 제조 방법 (Optical modulator and method of manufacturing same), Dec 27, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102749088.pdf)
 - KR102740950, KTN(KTaNbO3)이 사용된 광 위상 이동기 및 그 제조 방법 (Optical Phase shifter using KTN and manufacturing method thereof), Dec 5, 2024 [[Link]](https://github.com/yh2424/yh2424.github.io/raw/master/_mydata/Patent/pdf/KR102740950.pdf)
