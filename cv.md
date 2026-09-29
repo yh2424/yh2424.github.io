@@ -90,24 +90,6 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 - **Oxide Semiconductor and its Memory Applications**: Exploration of amorphous oxide semiconductor (AOS) thin-film transistors (TFTs) — including a-IGZO and a-ITZO — for ferroelectric memory (FeFET, FeDRAM) and neuromorphic display applications. [[Nanoscale 2024]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e) [[ACS AEM 2025]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447) [[IEEE TED 2024]](https://ieeexplore.ieee.org/document/10620402)
 
 
-## RESEARCH GRANTS 
-#### Ongoing (수행중)
-- Government Project — "Development of a High-Reliability Integrated Design/Verification Platform for 200 Gb/s/λ Tx-Rx Highly-Integrated Co-Packaged Optics and Ultra-Fine Interconnects" (200 Gb/s/λ급 Tx-Rx 고집적 Co-Packaged Optics·초미세 인터커넥트 고신뢰 통합 설계·검증 플랫폼 구축), Korea Institute for Advancement of Technology (KIAT, 한국산업기술기획평가원), Public-Private Joint Investment Semiconductor Advanced Workforce Program (민관공동투자반도체고급인력양성), Project Leader (Sub-project), Apr 1 2026 – Dec 31 2030
-- Government Project — "Opto-Chiplet-Integrated Interposer Technology for 2.5D Optical-Packaging-Based CPO" (2.5D 광패키징 기반 CPO를 위한 Opto-chiplet이 집적된 인터포저 기술), National Research Foundation of Korea (NRF, 한국연구재단), Future-Promising Original Technology Development Program — Next-Generation Photonic Packaging Technology (미래유망원천기술개발사업(차세대광패키징기술개발)), Project Leader (Sub-project), Jun 1 2025 – Dec 31 2029
-- Government Project — "Development of a Multi-Channel Optical Interconnect Module Chip with Integrated Optical Modulators" (광 변조기 집적 다채널 광 배선 모듈 칩 개발), Korea Technology and Information Promotion Agency for SMEs (TIPA, 중소기업기술정보진흥원), Startup Growth Technology Development Program — TIPS (창업성장기술개발사업(TIPS)), Project Leader (Sub-project), Jul 1 2024 – Dec 31 2026
-- Government Project — "Research on Resonator-Based Silicon Photonic Optical Modulators for Ultra-High-Speed/Low-Latency Tbps-Class Optical I/O" (초고속/저지연 Tbps급 Optical I/O향 공진기 기반 실리콘 포토닉스 광변조기 연구), National Research Foundation of Korea (NRF, 한국연구재단), Basic Science Research Program — Excellent New Researcher (이공분야기초연구사업(우수연구-신진연구)), Project Leader (Individual), Apr 1 2024 – Mar 31 2027
-- Government Project — "Development of a Massively Parallel Free-Space Optical Processor for High-Speed Optical Neural Network Computation" (광학 인공신경망 고속 연산 구현을 위한 대규모 병렬연산 자유공간 광학 프로세서 개발), National Research Foundation of Korea (NRF, 한국연구재단), Next-Generation Photonics-Based Computing Semiconductor Core Technology Development Program (차세대광기반연산반도체핵심기술개발사업), Project Leader (Sub-project), Jun 1 2026 – Dec 31 2030
-- Industry-Academia Project — "Development of Low-Loss Optical Interconnect Technology for Future Semiconductors with Optical Packaging" (광패키지 탑재 미래 반도체향 저손실 광배선 기술 개발), Samsung Electronics — Future Technology Industry-Academia Program (삼성전자(미래기술산학)), Project Leader (Overall), Nov 1 2023 – Oct 31 2026
-
-
-#### Completed (수행완료)
-- Government Project — "Thermal Analysis and Performance-Enhancing Structure Research on Micro Opto-/Electronic Devices for Next-Generation Displays" (차세대 디스플레이용 마이크로 광/전자소자 열분석 및 성능 향상 구조 연구), Korea Basic Science Institute (KBSI, 한국기초과학지원연구원), Project Leader (Overall), Apr 1 2023 – Feb 28 2026
-- Contract Research — "Simulation and Design of SiN-Photonics-Based Optical Devices" (SiN 포토닉스 기반 광소자 시뮬레이션 및 설계), Electronics and Telecommunications Research Institute (ETRI, 한국전자통신연구원), Project Leader, Feb 1 2024 – Jul 31 2024
-- Government Project — "Development of Manufacturing Technology for 150 W-Class Laser Diode Arrays for Material Processing" (150W급 가공용 레이저 다이오드 array 제조기술 개발), Korea Institute for Advancement of Technology (KIAT, 한국산업기술기획평가원), Co-Investigator, Apr 1 2021 – Dec 31 2024
-- Government Project — "Development of a Commercial-Grade 400 Gbps QSFP-DD Optical Transceiver Based on Silicon Photonics with Chip-on-Board Packaging Technology" (칩온보드 기술이 적용된 상용화 수준의 실리콘 포토닉스 기반 400Gbps QSFP-DD 광트랜시버 개발), Institute for Information & Communications Technology Planning & Evaluation (IITP, 정보통신기획평가원), Project Leader (Sub-project), Apr 1 2023 – Dec 31 2026
-- Government Project — "Development of III-V Optical Phase Shifter Technology Based on Heterogeneously Integrated Silicon Photonics" (이종집적 실리콘 집적광학 기반 III-V 광위상이동기 기술 개발), National Research Foundation of Korea (NRF, 한국연구재단), Project Leader (Individual), Oct 1 2022 – Sep 30 2023 (International Joint Research with IMEC, IMEC 국제공동연구)
-- Government Project — "Numerical Calculation and Performance Optimization of a High-Performance KTN Optical Phase Shifter Based on Si Integrated Optics" (Si집적광학기반의 고성능 KTN 광위상이동기의 수치계산 및 성능 최적화), National Research Foundation of Korea (NRF, 한국연구재단), First-Career Research Program (생애 첫 연구사업), Project Leader, Sep 1 2021 – Aug 31 2022
-
 ## TEACHING
 #### Conference 
 
