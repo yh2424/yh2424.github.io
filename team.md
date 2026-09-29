@@ -180,6 +180,12 @@ subtitle: Our team members !
 #### Graduated in Aug. 2026, Now with Shokz, w2024143073@hanyang.ac.kr
 
 ---
+
+### 김 강석, Kangseok Kim, M.E
+#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/kangseokkim)  -->
+#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue), [[2]](https://doi.org/10.1038/s41598-026-43882-1)
+
+---
 ### 배 영주, Youngjoo Bae, M.E
 #### Graduated in Feb. 2025, Now with Fotolynx, yjbae9441@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/youngjoobae)-->
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591), [[2]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd)
@@ -188,11 +194,6 @@ subtitle: Our team members !
 ### 선 신개, Xinkai Sun, M.E. 
 #### Graduated in Feb. 2025, Now with ACM Research (Shanghai), q1320472838@hanyang.ac.kr 
 #### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
-
----
-### 안 성의, Seongui An, M.E.
-#### Graduated in Feb. 2024, Now with DB HiTek, asulang01@hanyang.ac.kr 
-#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
 
 ---
 ### 박 승민, Seoungmin Park, M.E
@@ -204,7 +205,6 @@ subtitle: Our team members !
 #### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/NTH)  -->
 #### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
-
 ---
 ### 주 기준, Gijun Ju, M.E
 #### Graduated in Feb. 2025, Now with SK Hynix, jkj1832@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/gijunju)-->
@@ -212,9 +212,9 @@ subtitle: Our team members !
 
 ---
 
-### 김 강석, Kangseok Kim, M.E
-#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/kangseokkim)  -->
-#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue), [[2]](https://doi.org/10.1038/s41598-026-43882-1)
+### 안 성의, Seongui An, M.E.
+#### Graduated in Feb. 2024, Now with DB HiTek, asulang01@hanyang.ac.kr 
+#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
 
 
 <!-- 
