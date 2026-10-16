@@ -133,6 +133,26 @@
     wstart();
   }
 
+  // PAM-4 eye: the live sweep draws a new random symbol sequence on every pass
+  var eyeLive = document.querySelector("[data-eye-live]");
+  if (eyeLive) {
+    var LEVELS = [84, 60, 36, 12.5];
+    var jit = function (a) { return (Math.random() - 0.5) * 2 * a; };
+    var reshape = function () {
+      var d = "", x = -25, prev;
+      for (var k = 0; k < 4; k++) {
+        var y = (LEVELS[Math.floor(Math.random() * 4)] + jit(1.8)).toFixed(1);
+        if (k === 0) d = "M" + x + " " + y;
+        else d += "C" + (x - 110 + 57 + jit(2)).toFixed(1) + " " + prev + " " + (x - 57 + jit(2)).toFixed(1) + " " + y + " " + x + " " + y;
+        prev = y;
+        x += 110;
+      }
+      eyeLive.setAttribute("d", d);
+    };
+    reshape();
+    eyeLive.addEventListener("animationiteration", reshape);
+  }
+
   // Team page: turn the markdown (# section, ### name, #### details, ---) into member cards
   var team = document.querySelector(".prose.team");
   if (team) {

@@ -476,27 +476,26 @@ a.sr-only:focus { position: fixed; left: 16px; top: 12px; width: auto; height: a
 @media (prefers-reduced-motion: reduce) { .ore-art .px.on rect { animation: none; } }
 @media (max-width: 560px) { .ore-art { display: none; } .ore-mem h3, .ore-disp h3, .ore-mem > .mono, .ore-disp > .mono { padding-right: 0; } }
 
-/* Si PIC card: ring-modulator art, light flowing in the bus, PAM-4 output */
+/* Si PIC card: PAM-4 eye diagram (persistence traces + one live sweep) */
 .ore-pic { padding-top: 28px; background: radial-gradient(90% 90% at 100% 0%, rgba(57,198,230,.12), transparent 55%), radial-gradient(70% 80% at 0% 100%, rgba(217,165,74,.07), transparent 60%), var(--dev-bg); }
 .ore-pic::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 3px; background: linear-gradient(90deg, var(--metal), #7f8cff 45%, var(--accent)); }
-.ore-art.pic-art { width: 240px; height: 80px; }
-.ore-pic h3, .ore-pic > .mono, .ore-pic .ore-lead { padding-right: 250px; }
+.ore-art.pic-art { width: 320px; height: 128px; }
+.ore-pic h3, .ore-pic > .mono, .ore-pic .ore-lead { padding-right: 340px; }
 .ore-pic .ore-lead { max-width: none; }
-.pic-art .wg { fill: none; stroke: var(--glass); stroke-width: 5; stroke-linecap: round; }
-.pic-art .light { fill: none; stroke: var(--accent-hi); stroke-width: 2; stroke-dasharray: 6 10; animation: pic-flow 1.2s linear infinite; }
-.pic-art .ring { fill: none; stroke: var(--glass); stroke-width: 5; }
-.pic-art .ring-hot { fill: none; stroke: var(--accent); stroke-width: 1.6; animation: pic-ring 1.6s ease-in-out infinite; }
-.pic-art .pn { fill: none; stroke: var(--metal); stroke-width: 2.5; stroke-linecap: round; }
-.pic-art .lvl { stroke: var(--fg-2); stroke-opacity: .2; stroke-dasharray: 2 3; }
-.pic-art .trace { fill: none; stroke: var(--accent-hi); stroke-width: 1.8; stroke-linejoin: round; stroke-dasharray: 300; animation: pic-trace 3.2s linear infinite; }
-.pic-art text { fill: var(--fg-2); font: 9px var(--mono); letter-spacing: .08em; }
-@keyframes pic-flow { to { stroke-dashoffset: -16; } }
-@keyframes pic-ring { 50% { stroke-opacity: .15; } }
-@keyframes pic-trace { from { stroke-dashoffset: 300; } 70%, to { stroke-dashoffset: 0; } }
+.pic-art .scope { fill: #07111c; stroke: var(--line); }
+.pic-art .grid path { stroke: var(--fg-2); stroke-opacity: .12; stroke-dasharray: 1 3; }
+.pic-art .eye path { fill: none; stroke: url(#eye-tint); stroke-width: .9; stroke-opacity: .32; }
+.pic-art .eye-glow { opacity: .55; }
+.pic-art .eye-live { fill: none; stroke: #e6fbff; stroke-width: 1.4; stroke-dasharray: 100; stroke-dashoffset: 100; animation: eye-sweep 2.6s cubic-bezier(.4,0,.2,1) infinite; filter: drop-shadow(0 0 3px #5fd6f0); }
+.pic-art .eye-h path { stroke: var(--metal); stroke-width: 1.2; stroke-opacity: .75; }
+.pic-art .lv text { fill: var(--fg-2); font: 8px var(--mono); text-anchor: middle; opacity: .7; }
+.pic-art .tag { fill: var(--accent-hi); font: 600 7.5px var(--mono); letter-spacing: .14em; }
+.pic-art .tag.r { fill: var(--fg-2); text-anchor: end; letter-spacing: .06em; }
+@keyframes eye-sweep { 0% { stroke-dashoffset: 100; opacity: 0; } 12% { opacity: 1; } 70% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
 .ore-pic .ore-cols > div { border-left: 2px solid var(--g, var(--accent)); padding-left: 14px; }
 .ore-pic .g-iii { --g: var(--metal); } .ore-pic .g-sige { --g: var(--accent-2); } .ore-pic .g-si { --g: var(--accent); }
 .ore-pic .ore-cols h4 { color: var(--g); }
-.motion-paused .pic-art .light, .motion-paused .pic-art .ring-hot, .motion-paused .pic-art .trace { animation-play-state: paused; }
-@media (prefers-reduced-motion: reduce) { .pic-art .light, .pic-art .ring-hot, .pic-art .trace { animation: none; } }
+.motion-paused .pic-art .eye-live { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) { .pic-art .eye-live { animation: none; stroke-dashoffset: 0; opacity: .8; } }
 @media (max-width: 900px) { .ore-art.pic-art { position: static; width: 100%; max-width: 320px; height: auto; } .ore-pic h3, .ore-pic > .mono, .ore-pic .ore-lead { padding-right: 0; } }
 @media (max-width: 560px) { .ore-art.pic-art { display: block; } }
