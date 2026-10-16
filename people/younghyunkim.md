@@ -5,7 +5,7 @@ eyebrow: Principal Investigator
 name-local: 김영현 · 金榮現
 position: Associate Professor
 affiliation: School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA
-portrait: /assets/img/hero/asdl-2638.jpg
+portrait: /assets/img/hero/asdl-2638-portrait.jpg
 email: younghyunkim@hanyang.ac.kr
 links:
   - label: Curriculum vitae
@@ -31,19 +31,19 @@ links:
 
 ## TEACHING
 #### Conference 
-- (Technical Seminar) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA (sponsored by the Next-Generation Intelligent Semiconductor Program), Aug. 18 2025. [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
-- (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 — “From Wafer to Co-Packaged Optics: A Tutorial on Silicon Photonics Integration,” Jul. 9 2025. [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
-- (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 — “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” Feb. 15 2024. [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
-- (Tutorial) Conference on Optoelectronics and Optical Communications (COOC 2023) — “Silicon Photonics: Fabrication and Integration Process,” Jun. 1 2023. [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
+- (Technical Seminar) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA (sponsored by the Next-Generation Intelligent Semiconductor Program), Aug. 18 2025. [[Link]](/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
+- (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 — “From Wafer to Co-Packaged Optics: A Tutorial on Silicon Photonics Integration,” Jul. 9 2025. [[Link]](/2025-07-09-OPC2025Prof/)
+- (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 — “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” Feb. 15 2024. [[Link]](/2024-02-15-OSKtutorial/)
+- (Tutorial) Conference on Optoelectronics and Optical Communications (COOC 2023) — “Silicon Photonics: Fabrication and Integration Process,” Jun. 1 2023. [[Link]](/2023-06-01-COOCtutorial/)
 
 #### Lecture 
 - (Undergraduate) Optoelectronic Devices, Optical Communication Engineering, Semiconductor Device Physics, Semiconductor Device Processing, Engineering Programming, Electromagnetics, Display Engineering
 - (Graduate) Integrated Optics, Advanced CMOS Technology, Semiconductor Advanced Packaging
 
 ## HONORS AND AWARD								    
-- 2025년도 Photonics Conference, 한국광학회 기여상 수상 [[Link]](https://yh2424.github.io/2025-12-03-PC2025-award/) 
-- 2024년도 Photonics Conference, 한국광학회 기여상 수상 [[Link]](https://yh2424.github.io/2024-11-27-PC/) 
-- President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
+- 2025년도 Photonics Conference, 한국광학회 기여상 수상 [[Link]](/2025-12-03-PC2025-award/) 
+- 2024년도 Photonics Conference, 한국광학회 기여상 수상 [[Link]](/2024-11-27-PC/) 
+- President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](/2021-11-24-CPU/)  
 - Award for Doctoral thesis in School of engineering, March 24 2015  
 - Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 - March 2015  
 - Japan Government Scholarship (MEXT) for M.S. student, April 2010 - Mar 2012  
