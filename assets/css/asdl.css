@@ -479,8 +479,6 @@ a.sr-only:focus { position: fixed; left: 16px; top: 12px; width: auto; height: a
 .sing .s-xpu { transition: stroke .3s; }
 .sing .s-xpu.rx { stroke-width: 2.5; }
 .sing-big .layers-wrap { display: grid; gap: 10px; min-width: 0; }
-.sing-big .layers-head { margin: 6px 0 0; color: var(--accent); letter-spacing: 0.14em; text-transform: uppercase; }
-.sing-big .layers-head.pk { color: var(--badge-p); margin-top: 14px; }
 
 /* Memory and display cards: accent bar and small illustration */
 .ore-card { position: relative; overflow: hidden; }
