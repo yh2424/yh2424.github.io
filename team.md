@@ -4,6 +4,7 @@ title: Team
 eyebrow: People
 subtitle: Researchers, students and alumni of ASDL.
 cover-img: "/assets/img/hero/asdl-2601.jpg"
+cover-position: center 28%
 prose-class: team
 ---
 <!-- 

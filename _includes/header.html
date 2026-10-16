@@ -11,7 +11,7 @@
 {%- endif -%}
 <header class="page-hero{% if hero_img != '' %} has-img{% endif %}">
   {%- if hero_img != '' %}
-  <img class="bg" src="{{ hero_img | relative_url }}" alt="">
+  <img class="bg" src="{{ hero_img | relative_url }}" alt=""{% if page.cover-position %} style="object-position: {{ page.cover-position }}"{% endif %}>
   {%- endif %}
   <div class="wrap">
     <span class="eyebrow">{{ eyebrow | strip }}</span>
