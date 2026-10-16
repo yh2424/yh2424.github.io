@@ -22,3 +22,8 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
+.codex-handoffs/
+vendor/
+.bundle/
+_site/

@@ -4,25 +4,24 @@ layout: base
 
 {% include header.html type="page" %}
 
-<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
-  <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+<div class="page-body{% if page.toc %} with-toc{% endif %}">
+  <div class="wrap">
+    {%- if page.toc %}
+    <nav class="toc" data-for=".prose" aria-label="On this page"><span class="eyebrow">On this page</span></nav>
+    {%- endif %}
+    <div class="prose{% if page.prose-class %} {{ page.prose-class }}{% endif %}{% if page.full-width %} wide{% endif %}">
       {% if page.before-content %}
-        <div class="before-content">
-          {% for file in page.before-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
+        {% for file in page.before-content %}
+          {% include {{ file }} %}
+        {% endfor %}
       {% endif %}
 
       {{ content }}
 
       {% if page.after-content %}
-        <div class="after-content">
-          {% for file in page.after-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
+        {% for file in page.after-content %}
+          {% include {{ file }} %}
+        {% endfor %}
       {% endif %}
 
       {% include comments.html %}

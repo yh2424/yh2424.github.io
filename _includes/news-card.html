@@ -1,0 +1,17 @@
+{%- assign p = include.post -%}
+{%- assign parts = p.title | split: ' - ' -%}
+{%- if parts.size > 1 -%}{%- assign kind = parts[0] -%}{%- assign rest = p.title | remove_first: parts[0] | remove_first: ' - ' -%}{%- else -%}{%- assign kind = 'News' -%}{%- assign rest = p.title -%}{%- endif -%}
+{%- capture thumb -%}{%- if p.thumbnail-img -%}{{ p.thumbnail-img }}{%- elsif p.cover-img -%}{%- if p.cover-img.first -%}{{ p.cover-img[0].first.first }}{%- else -%}{{ p.cover-img }}{%- endif -%}{%- endif -%}{%- endcapture -%}
+{%- assign thumb = thumb | strip -%}
+<a class="news-card" href="{{ p.url | relative_url }}">
+  {%- if thumb != "" %}
+  <img class="thumb" src="{{ thumb | relative_url }}" alt="" loading="lazy">
+  {%- else %}
+  <span class="thumb none" aria-hidden="true">ASDL</span>
+  {%- endif %}
+  <span class="mono kind">{{ kind | strip }} · {{ p.date | date: "%b %Y" }}</span>
+  <span class="t">{{ rest | strip }}</span>
+  {%- if include.excerpt %}
+  <span class="x">{{ p.excerpt | strip_html | strip_newlines | truncatewords: 28 }}</span>
+  {%- endif %}
+</a>

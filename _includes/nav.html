@@ -1,52 +1,22 @@
-<nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
-
-  {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
-  {%- elsif site.title -%}
-    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
-  {%- endif -%}
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="main-navbar">
-    <ul class="navbar-nav ml-auto">
-      {%- for link in site.navbar-links -%}
-        {%- if link[1].first %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                {%- endfor -%}
-              {%- endfor %}
-            </div>
-          </li>
-        {% else %}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
-          </li>
-        {%- endif -%}
-      {%- endfor -%}
-    </ul>
+<header class="site-nav">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      {%- if site.avatar %}<img src="{{ site.avatar | relative_url }}" alt="" width="34" height="34">{% endif -%}
+      <b>ASDL</b><span>{{ site.title-long | default: site.title }}<br>Hanyang University ERICA</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links"><i class="fas fa-bars" aria-hidden="true"></i> Menu</button>
+    <nav aria-label="Main">
+      <ul class="nav-links" id="nav-links">
+        {%- for link in site.navbar-links -%}
+          {%- assign href = link[1] | relative_url -%}
+          {%- assign key = link[1] | remove: '/' -%}
+          {%- assign here = false -%}
+          {%- assign pkey = page.url | remove_first: '/' | split: '/' | first -%}
+          {%- if pkey == key -%}{%- assign here = true -%}{%- endif -%}
+          {%- if key == 'news' and page.layout == 'post' -%}{%- assign here = true -%}{%- endif -%}
+          <li><a href="{{ href }}"{% if here %} aria-current="page"{% endif %}>{{ link[0] }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </nav>
   </div>
-
-  {% if site.navbar-extra %}
-    {% for file in site.navbar-extra %}
-      {% include {{ file }} %}
-    {% endfor %}
-  {% endif %}
-
-  {% if site.avatar and page.show-avatar != false %}
-    <div class="avatar-container">
-      <div class="avatar-img-border">
-        <a href="{{ '' | absolute_url }}">
-          <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
-        </a>
-      </div>
-    </div>
-  {% endif %}
-
-</nav>
+</header>
