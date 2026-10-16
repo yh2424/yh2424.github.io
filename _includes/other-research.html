@@ -1,11 +1,27 @@
 {%- comment -%} Other research: Si PIC modulators, next-generation memory, displays. Each item links to its news post or paper. {%- endcomment -%}
 <div class="ore">
-  <article class="ore-card wide" id="si-pic">
+  <article class="ore-card wide ore-pic" id="si-pic">
+    <svg class="ore-art pic-art" viewBox="0 0 240 80" aria-hidden="true">
+      <path d="M4 58 H150" class="wg"/>
+      <path d="M4 58 H150" class="light"/>
+      <circle cx="78" cy="34" r="18" class="ring"/>
+      <circle cx="78" cy="34" r="18" class="ring-hot"/>
+      <path d="M66 20 A18 18 0 0 1 90 20" class="pn"/>
+      <text x="70" y="8">MRM</text>
+      <path d="M150 58 C160 58 160 40 172 40" class="wg"/>
+      <g class="pam">
+        <line x1="172" y1="12" x2="236" y2="12" class="lvl"/><line x1="172" y1="28" x2="236" y2="28" class="lvl"/>
+        <line x1="172" y1="44" x2="236" y2="44" class="lvl"/><line x1="172" y1="60" x2="236" y2="60" class="lvl"/>
+        <path d="M172 44 H180 V12 H188 V60 H196 V28 H204 V28 H212 V44 H220 V12 H228 V60 H236" class="trace"/>
+        <text x="194" y="76">PAM-4</text>
+      </g>
+    </svg>
     <span class="mono muted">Photonics · Si PIC</span>
     <h3>High-speed optical modulators for Si photonic chips</h3>
+    <p class="ore-lead">Ring and Mach–Zehnder modulators that turn electrical bits into O-band light, built on Si, SiGe and III-V/Si phase shifters for co-packaged optics.</p>
     <div class="kw-chips"><span>III-V/Si</span><span>SiGe</span><span>MRM</span><span>MZM</span><span>O-band</span><span>PAM-4</span></div>
     <div class="ore-cols">
-      <div>
+      <div class="g-iii">
         <h4>III-V/Si</h4>
         <ul>
           <li><a href="{{ '/2026-03-22-Publication/' | relative_url }}">High-efficiency III-V/Si SIS ring modulators for O-band CPO</a><span class="mono">Opt. Commun. 2026</span></li>
@@ -14,7 +30,7 @@
           <li><a href="{{ '/2020-02-11-Publication/' | relative_url }}">Monolithic III-V/Si modulators</a><span class="mono">2020</span></li>
         </ul>
       </div>
-      <div>
+      <div class="g-sige">
         <h4>SiGe</h4>
         <ul>
           <li><a href="{{ '/2023-09-27-Publication/' | relative_url }}">PAM-4 100 Gbps single-drive SiGe lumped MZM</a><span class="mono">IEEE JQE 2023</span></li>
@@ -22,7 +38,7 @@
           <li><a href="https://www.nature.com/articles/srep04683">Strain-enhanced plasma dispersion in SiGe modulators</a><span class="mono">Sci. Rep. 2014</span></li>
         </ul>
       </div>
-      <div>
+      <div class="g-si">
         <h4>MRM · Si</h4>
         <ul>
           <li><a href="{{ '/2019-07-28-Publication/' | relative_url }}">Parametric optimization of high-speed Si micro-ring modulators</a><span class="mono">JJAP 2019</span></li>
