@@ -1,11 +1,16 @@
 ---
 layout: page
 title: Curriculum vitae
-subtitle: Engineer interested in Photonics and Electronics
+eyebrow: Younghyun Kim, Ph.D.
+subtitle: Photonic devices and advanced packaging for AI semiconductors
+prose-class: cv
+toc: true
+links:
+  - label: Download PDF
+    url: https://raw.githubusercontent.com/yh2424/yh2424.github.io/master/_mydata/CV/cv_younghyunkim.pdf
+  - label: Profile
+    url: /people/younghyunkim/
 ---
-<center>
-Curriculum vitae
-</center>
 
 # YOUNGHYUN KIM 
 
@@ -13,7 +18,7 @@ Curriculum vitae
 
 Associate professor, Ph.D.   
 School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  
-[Email](younghyunkim@hanyang.ac.kr): younghyunkim@hanyang.ac.kr   
+[Email](mailto:younghyunkim@hanyang.ac.kr): younghyunkim@hanyang.ac.kr   
 [Web](https://yh2424.github.io/): https://yh2424.github.io/   
 [ORCID](https://orcid.org/0000-0001-8072-1251): https://orcid.org/0000-0001-8072-1251   
 Mobile: +82-10-4997-2729

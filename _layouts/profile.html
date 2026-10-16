@@ -1,0 +1,34 @@
+---
+layout: base
+---
+{%- comment -%} Personal profile: portrait, name, position and quick links from front matter; markdown body below. {%- endcomment -%}
+<header class="page-hero profile-hero">
+  <div class="wrap">
+    {%- if page.portrait %}
+    <img class="portrait" src="{{ page.portrait | relative_url }}" alt="Portrait of {{ page.title }}">
+    {%- endif %}
+    <div class="who">
+      <span class="eyebrow">{{ page.eyebrow | default: 'People' }}</span>
+      <h1>{{ page.title }}</h1>
+      {%- if page.name-local %}<p class="local">{{ page.name-local }}</p>{% endif %}
+      {%- if page.position %}<p class="position">{{ page.position }}</p>{% endif %}
+      {%- if page.affiliation %}<p class="subtitle">{{ page.affiliation }}</p>{% endif %}
+      {%- if page.email %}<p class="addr">{{ page.email }}</p>{% endif %}
+      {%- if page.links %}
+      <div class="cta">
+        {%- for l in page.links %}
+        <a class="btn-a {% if forloop.first %}primary{% else %}ghost{% endif %}" href="{{ l.url | relative_url }}">{{ l.label }}</a>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+    </div>
+  </div>
+</header>
+
+<div class="page-body">
+  <div class="wrap">
+    <div class="prose profile">
+      {{ content }}
+    </div>
+  </div>
+</div>

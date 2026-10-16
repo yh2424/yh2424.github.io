@@ -24,48 +24,10 @@ full-width: true
   {% include sing-path.html %}
 </section>
 
-<section id="iii-v-si" class="r-sec">
-  <span class="eyebrow">Photonics</span>
-  <h2>III-V/Si optical modulators</h2>
-  <div class="tscroll"><table class="mda">
-    <thead><tr><th>Materials</th><th>Devices</th><th>Evidence</th><th>Applications / targets</th></tr></thead>
-    <tbody>
-      <tr><td>III-V/Si (SIS)</td><td>High-efficiency SIS ring modulators</td><td><span class="badge b-j">Journal</span> Opt. Commun. 2026</td><td>O-band co-packaged optics</td></tr>
-      <tr><td>III-V/Si (SIS)</td><td>CROW Mach–Zehnder modulators</td><td><span class="badge b-j">Journal</span> Sci. Rep. 2026</td><td>Compact high-speed modulators</td></tr>
-      <tr><td>GaAs/Si on 300 mm Si photonics</td><td>Monolithic GaAs/Si V-groove depletion-type phase shifter</td><td><span class="badge b-j">Journal</span> Photonics Res. 2022</td><td>Si photonics transceivers</td></tr>
-      <tr><td>III-V-on-Si</td><td>Monolithic opto-electronic phase modulator with ridge waveguide</td><td><span class="badge b-p">Patent</span> US11556043B2, CN113917714B</td><td>Optical modulators</td></tr>
-    </tbody>
-  </table></div>
-</section>
-
-<section id="sige" class="r-sec">
-  <span class="eyebrow">Photonics</span>
-  <h2>SiGe / Si high-speed modulators and phase shifters</h2>
-  <div class="tscroll"><table class="mda">
-    <thead><tr><th>Materials</th><th>Devices</th><th>Evidence</th><th>Applications / targets</th></tr></thead>
-    <tbody>
-      <tr><td>Strained SiGe</td><td>PAM-4 100 Gbps single-drive lumped Mach–Zehnder modulator</td><td><span class="badge b-j">Journal</span> IEEE JQE 2023</td><td>O-band data-center transceivers</td></tr>
-      <tr><td>Si</td><td>Lateral and L-shape PN-junction phase shifters</td><td><span class="badge b-j">Journal</span> <span class="badge b-s">Simulation</span> JJAP 2021 · <span class="badge b-p">Patent</span> KR102749088</td><td>50 Gbps lumped MZM</td></tr>
-      <tr><td>KTN (KTaNbO₃)</td><td>Optical phase shifter</td><td><span class="badge b-p">Patent</span> US12411368B2, KR102740950</td><td>Modulation and switching (target)</td></tr>
-    </tbody>
-  </table></div>
-  <h3>Measurement and test</h3>
-  <p>Insertion-loss and polarization-dependent-loss measurement improvement for parallel silicon photonics wafer-level testing <span class="badge b-j">Journal</span> <span class="mono muted">Opt. Lasers Eng. 2025</span></p>
-</section>
-
-<section id="electronics" class="r-sec">
-  <span class="eyebrow">Electronics</span>
-  <h2>Oxide and ferroelectric devices for memory and displays</h2>
-  <div class="tscroll"><table class="mda">
-    <thead><tr><th>Materials</th><th>Devices</th><th>Evidence</th><th>Applications</th></tr></thead>
-    <tbody>
-      <tr><td>Oxide semiconductor channel + ferroelectric gate stack</td><td>a-ITZO FET + a-ITZO/a-IGZO FeFET</td><td><span class="badge b-j">Journal</span> Nanoscale 2024</td><td>2T0C-FeDRAM</td></tr>
-      <tr><td>Ferroelectric MFMIS stack</td><td>MFMIS FeFET</td><td><span class="badge b-j">Journal</span> IEEE JEDS 2026</td><td>Non-volatile memory</td></tr>
-      <tr><td>QD + oxide semiconductor</td><td>QD-LED + charge-trap TFT array</td><td><span class="badge b-j">Journal</span> ACS AMI 2025</td><td>Memory-in-pixel displays</td></tr>
-      <tr><td>Hf-based ferroelectric + ITZO</td><td>Ferroelectric TFT driving a micro-LED</td><td><span class="badge b-j">Journal</span> Nanoscale Adv. 2023</td><td>Mura-free displays</td></tr>
-      <tr><td>Ge / Si (collaboration)</td><td>Strained Ge p-MOSFET in 3D sequential CFET</td><td><span class="badge b-j">Journal</span> IEEE TED 2024–2026</td><td>3D integrated logic</td></tr>
-    </tbody>
-  </table></div>
+<section id="other" class="r-sec">
+  <span class="eyebrow">More research</span>
+  <h2>Si PIC modulators, next-generation memory and displays</h2>
+  {% include other-research.html %}
 </section>
 
 <section id="facilities" class="r-sec">

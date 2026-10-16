@@ -19,6 +19,13 @@
     {%- if page.subtitle %}
     <p class="subtitle">{{ page.subtitle }}</p>
     {%- endif %}
+    {%- if page.links and include.type != "post" %}
+    <div class="cta">
+      {%- for l in page.links %}
+      <a class="btn-a {% if forloop.first %}primary{% else %}ghost{% endif %}" href="{{ l.url | relative_url }}">{{ l.label }}</a>
+      {%- endfor %}
+    </div>
+    {%- endif %}
     {%- if include.type == "post" %}
     <div class="post-meta mono">
       <span>{{ page.date | date: date_format }}</span>
