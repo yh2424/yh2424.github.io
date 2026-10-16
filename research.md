@@ -20,7 +20,6 @@ full-width: true
   <h2>SiN-on-Glass: photonic devices and packaging</h2>
   <p>유리 기판 위 실리콘 나이트라이드(SiN) 플랫폼에서 저손실 도파로와 MMI, 스위치 같은 광소자를 만들고, 스티칭 도파로와 광섬유·칩 결합 구조로 레티클 하나보다 큰 패널 위에 광 재배선층을 구현합니다.</p>
   {% include sing-platform.html %}
-  {% include sing-diagram.html %}
   {% include sing-path.html %}
 </section>
 

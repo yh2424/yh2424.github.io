@@ -175,10 +175,9 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .side-list li { border-top: 1px solid var(--line); padding-top: 10px; }
 .side-list .mono { color: var(--fg-2); display: block; margin-top: 2px; }
 .dev-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
-.dev-list li { background: var(--bg); border: 1px solid var(--line); border-radius: 3px; padding: 14px; display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 8px 12px; align-content: start; }
-.dev-list .no { font-family: var(--mono); font-size: 0.8rem; color: #05070c; background: var(--accent); width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; font-weight: 500; }
+.dev-list li { background: var(--bg); border: 1px solid var(--line); border-radius: 3px; padding: 14px; display: grid; gap: 8px; align-content: start; }
 .dev-list .name { font-weight: 600; line-height: 1.35; }
-.dev-list .meta { grid-column: 2; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; color: var(--fg-2); }
+.dev-list .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; color: var(--fg-2); }
 .dev-list a { color: inherit; text-decoration: none; }
 .dev-list a:hover .name { color: var(--accent-hi); }
 @media (max-width: 900px) {
@@ -425,7 +424,11 @@ a.sr-only:focus { position: fixed; left: 16px; top: 12px; width: auto; height: a
 .path.four .dev-list { grid-template-columns: minmax(0, 1fr); }
 .path .pkg { background: rgba(242,180,90,.06); border: 1px solid var(--badge-p); border-radius: 4px; padding: 26px; }
 .path .pkg h3 { color: var(--badge-p); font-size: 0.86rem; }
-.path .pkg .no { background: var(--badge-p); }
+/* Research page wraps this list in .prose; undo prose heading/list spacing so it matches the home page */
+.prose .path h3 { margin: 0; font-size: 0.78rem; font-weight: 500; }
+.prose .path .dev h3, .prose .path .pkg h3 { font-size: 0.86rem; }
+.prose .path ul, .prose .path ol { margin: 0; padding: 0; }
+.prose .path li { margin: 0; }
 @media (max-width: 1100px) { .path.four { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px; } .path.four .arrow { display: none; } .path.four .dev, .path.four .pkg { order: -1; } }
 @media (max-width: 640px) { .path.four { grid-template-columns: minmax(0, 1fr); } }
 
