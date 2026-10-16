@@ -109,6 +109,43 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .sec-head p { margin: 0; color: var(--fg-2); }
 .sec-foot { margin-top: 28px; }
 
+/* ---------- SING heading art (home): AI chiplets linked by light on glass ---------- */
+.sing-head-row { display: grid; gap: 24px; align-items: center; margin-bottom: 36px; }
+.sing-head-row > .sec-head { min-width: 0; margin-bottom: 0; }
+.sing-hero { display: block; width: 100%; max-width: 420px; height: auto; justify-self: center; }
+@media (min-width: 980px) { .sing-head-row { grid-template-columns: minmax(0, 1fr) minmax(360px, 420px); gap: 32px; } }
+.sing-hero .sh-edge { stroke: var(--line); stroke-width: 1.5; }
+.sing-hero .sh-tgv { fill: var(--accent); opacity: .12; }
+.sing-hero .sh-sheen { animation: sh-sheen 7s ease-in-out infinite; }
+.sing-hero .sh-label { fill: var(--fg-2); font: 9px var(--mono); letter-spacing: .08em; }
+.sing-hero .sh-chip { fill: #0b1726; stroke: var(--accent-2); stroke-width: 1.5; }
+.sing-hero .sh-ai { fill: var(--accent-hi); font: 600 19px var(--mono); text-anchor: middle; }
+.sing-hero .sh-pic { fill: #0b1726; stroke: var(--metal); stroke-width: 1.5; }
+.sing-hero .sh-wire { fill: none; stroke: var(--metal); stroke-width: 1.5; stroke-opacity: .8; }
+.sing-hero .sh-lane { fill: none; stroke: var(--accent); stroke-width: 2; stroke-opacity: .45; stroke-linecap: round; }
+.sing-hero .sh-violet { stroke: var(--accent-2); }
+.sing-hero .sh-pulse { fill: none; stroke-width: 6; stroke-linecap: round; stroke-dasharray: 12 120; stroke-dashoffset: 18; }
+.sing-hero .sh-pulse.core { stroke-width: 2.4; stroke: #e6fbff; }
+.sing-hero .sh-pulse .p-a { stroke: var(--accent-2); }
+.sing-hero .sh-pulse .p-b, .sing-hero .sh-pulse .p-c { stroke: var(--accent); }
+.sing-hero .sh-pulse.core use { stroke: #e6fbff; }
+/* 3.6 s cycle: lane b runs left→right (arrives ~73%), lane c the same half a cycle later (~23%), lane a right→left (~33%); halos peak on arrival */
+.sing-hero .p-b { animation: sh-run 3.6s linear infinite; }
+.sing-hero .p-c { animation: sh-run 3.6s linear -1.8s infinite; }
+.sing-hero .p-a { animation: sh-run 3.6s linear -1.8s infinite reverse; }
+.sing-hero .sh-halo { fill: var(--accent); opacity: 0; }
+.sing-hero .h-r { animation: sh-rx-r 3.6s linear infinite; }
+.sing-hero .h-l { fill: var(--accent-2); animation: sh-rx-l 3.6s linear infinite; }
+@keyframes sh-run { 0%, 10% { stroke-dashoffset: 18; } 80%, 100% { stroke-dashoffset: -106; } }
+@keyframes sh-rx-r { 0%, 17%, 33%, 67%, 83%, 100% { opacity: 0; } 23%, 73% { opacity: .6; } }
+@keyframes sh-rx-l { 0%, 27%, 45%, 100% { opacity: 0; } 33% { opacity: .6; } }
+@keyframes sh-sheen { 0%, 15% { transform: skewX(-20deg) translateX(0); } 75%, 100% { transform: skewX(-20deg) translateX(560px); } }
+.motion-paused .sing-hero .sh-pulse use, .motion-paused .sing-hero .sh-halo, .motion-paused .sing-hero .sh-sheen { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) {
+  .sing-hero .sh-pulse use, .sing-hero .sh-sheen, .sing-hero .sh-halo { animation: none; }
+  .sing-hero .sh-pulse { stroke-dasharray: none; opacity: .35; }
+}
+
 /* ---------- SING concept diagram ---------- */
 .sing { margin: 0 0 28px; border: 1px solid var(--line); background: var(--bg-2); border-radius: 4px; }
 .sing-scroll { overflow-x: auto; }

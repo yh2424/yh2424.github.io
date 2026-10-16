@@ -67,7 +67,8 @@ excerpt: >-
 | 바꿀 것 | 파일 |
 |---|---|
 | SING 큰 그림과 옆 설명 (Optical RDL, Fiber-to-Glass 등) | `_includes/sing-platform.html`, 그림 `assets/img/sing/sing-platform.png` |
-| SING 확대 개념도 (평면도, 빛 애니메이션) | `_includes/sing-diagram.html` |
+| 홈 SING 제목 옆 광 인터커넥트 애니메이션 | `_includes/sing-hero.html` |
+| SING 확대 개념도 (평면도, 빛 애니메이션) | `_includes/sing-diagram.html` (Research 페이지) |
 | Materials → Devices → Packaging → Systems 목록 | `_includes/sing-path.html` (번호는 개념도의 번호와 맞춰야 합니다) |
 | Si PIC · 메모리 · 디스플레이 연구 | `_includes/other-research.html` |
 | 시설 사진과 설명 | `_includes/facilities.html` |
