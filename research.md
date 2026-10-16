@@ -26,6 +26,7 @@ full-width: true
 <section id="other" class="r-sec">
   <span class="eyebrow">More research</span>
   <h2>Si PIC modulators, next-generation memory and displays</h2>
+  <div class="motion-row"><button type="button" class="motion-toggle" aria-pressed="false" data-pause="Pause animations" data-play="Play animations">Pause animations</button></div>
   {% include other-research.html %}
 </section>
 

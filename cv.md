@@ -9,7 +9,7 @@ links:
   - label: Download PDF
     url: https://raw.githubusercontent.com/yh2424/yh2424.github.io/master/_mydata/CV/cv_younghyunkim.pdf
   - label: Profile
-    url: /people/younghyunkim/
+    url: /people/younghyunkim
 ---
 
 # YOUNGHYUN KIM 
@@ -99,10 +99,10 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 #### Conference 
 
 
-- (Technical Seminar, 기술세미나 개최) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA, sponsored by the Next-Generation Intelligent Semiconductor Program (2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능형반도체사업단 후원)), Aug 18 2025 [[Link]](https://yh2424.github.io/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
-- (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 (한국광학회 하계학술발표회2025), “From wafer to Co-packaged optics: A tutorial on silicon photonics integration,” 2025.07.09 [[Link]](https://yh2424.github.io/2025-07-09-OPC2025Prof/)
-- (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 (한국광학회 동계학술발표회2024), “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” 2024.02.15 [[Link]](https://yh2424.github.io/2024-02-15-OSKtutorial/)
-- (Tutorial) Conference on Optoelectronics and Optical Communications, COOC2023 (한국광학회 광전자 및 광통신 학술대회 COOC2023), “Silicon Photonics – Fabrication and Integration Process” (실리콘 포토닉스 - 집적공정), 2023.06.01 [[Link]](https://yh2424.github.io/2023-06-01-COOCtutorial/)
+- (Technical Seminar, 기술세미나 개최) 2025 Advanced Photonic Packaging Technology Seminar @ Hanyang University ERICA, sponsored by the Next-Generation Intelligent Semiconductor Program (2025 첨단 광패키징 기술세미나 @한양대 ERICA (차세대지능형반도체사업단 후원)), Aug 18 2025 [[Link]](/2025-08-18-2025-%EC%B2%A8%EB%8B%A8-%EA%B4%91%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B8%B0%EC%88%A0-%EC%84%B8%EB%AF%B8%EB%82%98/)
+- (Tutorial) The Optical Society of Korea (OSK) Summer Conference 2025 (한국광학회 하계학술발표회2025), “From wafer to Co-packaged optics: A tutorial on silicon photonics integration,” 2025.07.09 [[Link]](/2025-07-09-OPC2025Prof/)
+- (Tutorial) The Optical Society of Korea (OSK) Winter Conference 2024 (한국광학회 동계학술발표회2024), “Harmonizing Light and Silicon: The Art of Integration in Silicon Photonics,” 2024.02.15 [[Link]](/2024-02-15-OSKtutorial/)
+- (Tutorial) Conference on Optoelectronics and Optical Communications, COOC2023 (한국광학회 광전자 및 광통신 학술대회 COOC2023), “Silicon Photonics – Fabrication and Integration Process” (실리콘 포토닉스 - 집적공정), 2023.06.01 [[Link]](/2023-06-01-COOCtutorial/)
 
 
 
@@ -117,9 +117,9 @@ Advisor: Dr. Hyun Jae Song and Dr. Seongjun Park
 - Technical Director (기술이사), Korean Microelectronics and Packaging Society (KMEPS, 한국마이크로전자 및 패키징학회) [[Link]](https://www.kmeps.or.kr/html/?pmode=executive)
 
 ## HONORS AND AWARD								    
-Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2025, Dec. 3, 2025 [[Link]](https://yh2424.github.io/2025-12-03-PC2025-award/)  
-Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2024, Nov. 27, 2024 [[Link]](https://yh2424.github.io/2024-11-27-PC/)  
-President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](https://yh2424.github.io/2021-11-24-CPU/)  
+Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2025, Dec. 3, 2025 [[Link]](/2025-12-03-PC2025-award/)  
+Contribution Award (기여상), The Optical Society of Korea (OSK, 한국광학회) — Photonics Conference 2024, Nov. 27, 2024 [[Link]](/2024-11-27-PC/)  
+President’s Award, National Academy of Engineering of Korea (NAEK) — 2021 Campus Patent Universiade Competition (한국공학한림원회장상, 2021년도 캠퍼스 특허 유니버시아드), Nov. 24, 2021 [[Link]](/2021-11-24-CPU/)  
 Award for Doctoral thesis in School of engineering, EE Dept., Univ. of Tokyo, March 24 2015  
 Japan Government Scholarship (MEXT) for Ph.D. student, April 2012 - March 2015  
 Japan Government Scholarship (MEXT) for M.S. student, April 2010 - Mar 2012  

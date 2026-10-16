@@ -42,7 +42,7 @@ hero-slides:
     <div class="cta"><a class="btn-a primary" href="#sing">Our research</a><a class="btn-a ghost" href="#join">Join ASDL</a></div>
     <div class="hero-meta">
       <span class="cap mono" aria-live="off">{{ page.hero-slides[0].cap }}</span>
-      <button type="button" class="motion-toggle" aria-pressed="false" data-pause="Pause slideshow" data-play="Play slideshow">Pause slideshow</button>
+      <button type="button" class="motion-toggle" aria-pressed="false" data-pause="Pause animations" data-play="Play animations">Pause animations</button>
       <div class="dots" role="group" aria-label="Photos">
         {%- for s in page.hero-slides %}
         <button type="button" aria-label="Photo {{ forloop.index }}: {{ s.cap }}"{% if forloop.first %} aria-current="true"{% endif %}></button>

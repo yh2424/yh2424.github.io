@@ -19,7 +19,7 @@ prose-class: team
 
 ### 김 영현, Younghyun Kim, Ph.D.
 #### Associate professor 
-#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  [More about me](https://yh2424.github.io/people/younghyunkim)   
+#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA  [More about me](/people/younghyunkim)   
 #### younghyunkim@hanyang.ac.kr
 
 <!-- 
@@ -41,8 +41,8 @@ prose-class: team
 # Researcher
 
 ### 진 태원, Taewon Jin
-#### Ph.D. course, xodnjs3124@hanyang.ac.kr<!--,  [More about me](https://yh2424.github.io/people/taewonjin)-->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D), [[2]](https://yh2424.github.io/2025-11-20-Publication/)
+#### Ph.D. course, xodnjs3124@hanyang.ac.kr<!--,  [More about me](/people/taewonjin)-->
+#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D), [[2]](/2025-11-20-Publication/)
 #### 1st-authored KCI: [[1]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
 
 ---
@@ -53,7 +53,7 @@ prose-class: team
 ---
 
 ### 진 사민, Simin Chen 
-#### Integrated MS and Ph.D. course, sami51@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/siminchen)-->
+#### Integrated MS and Ph.D. course, sami51@hanyang.ac.kr <!--, [More about me](/people/siminchen)-->
 #### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [[2]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract), [[3]](https://ieeexplore.ieee.org/document/11533180)
 
 ---
@@ -82,7 +82,7 @@ prose-class: team
 
 ### 정 희윤, Heeyun Jung
 #### Integrated MS and Ph.D. course (M4), oriole1002@hanyang.ac.kr
-#### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
+#### 1st-authored SCIE: [[1]](/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
 
 ---
 
@@ -174,7 +174,7 @@ prose-class: team
 # Alumni
 ---
 ### 신 용진, Yongjin Shin, M.E.
-#### Graduated in Aug. 2026, djrm98@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/yongjinshin)-->
+#### Graduated in Aug. 2026, djrm98@hanyang.ac.kr <!--, [More about me](/people/yongjinshin)-->
 #### 1st-authored SCIE: [[1]](https://doi.org/10.1063/5.0346181)
 
 ---
@@ -184,12 +184,12 @@ prose-class: team
 ---
 
 ### 김 강석, Kangseok Kim, M.E
-#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/kangseokkim)  -->
+#### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!--, [More about me](/people/kangseokkim)  -->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue), [[2]](https://doi.org/10.1038/s41598-026-43882-1)
 
 ---
 ### 배 영주, Youngjoo Bae, M.E
-#### Graduated in Feb. 2025, Now with Fotolynx, yjbae9441@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/youngjoobae)-->
+#### Graduated in Feb. 2025, Now with Fotolynx, yjbae9441@hanyang.ac.kr <!--, [More about me](/people/youngjoobae)-->
 #### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591), [[2]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd)
 
 ---
@@ -199,17 +199,17 @@ prose-class: team
 
 ---
 ### 박 승민, Seoungmin Park, M.E
-#### Graduated in Feb. 2025, Now with SK Hynix, psm401@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/seoungminpark)-->
-#### 1st-authored SCIE: [[1]](https://yh2424.github.io/2025-11-13-Publication/)
+#### Graduated in Feb. 2025, Now with SK Hynix, psm401@hanyang.ac.kr <!--, [More about me](/people/seoungminpark)-->
+#### 1st-authored SCIE: [[1]](/2025-11-13-Publication/)
 
 ---
 ### 노 태현, Taehyeon Noh, M.E.
-#### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/NTH)  -->
+#### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!--, [More about me](/people/NTH)  -->
 #### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
 
 ---
 ### 주 기준, Gijun Ju, M.E
-#### Graduated in Feb. 2025, Now with SK Hynix, jkj1832@hanyang.ac.kr <!--, [More about me](https://yh2424.github.io/people/gijunju)-->
+#### Graduated in Feb. 2025, Now with SK Hynix, jkj1832@hanyang.ac.kr <!--, [More about me](/people/gijunju)-->
 #### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
 
 ---

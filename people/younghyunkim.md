@@ -1,6 +1,7 @@
 ---
 layout: profile
 title: Younghyun Kim, Ph.D.
+share-description: "Younghyun Kim, Associate Professor at Hanyang University ERICA, leads ASDL research on integrated photonics and advanced packaging for AI semiconductors."
 eyebrow: Principal Investigator
 name-local: 김영현 · 金榮現
 position: Associate Professor

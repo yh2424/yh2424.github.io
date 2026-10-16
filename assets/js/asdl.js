@@ -17,6 +17,7 @@
   // One switch pauses every animation on the page (hero photos and the SING light pulses)
   var userPaused = false;
   var motionButtons = document.querySelectorAll(".motion-toggle");
+  if (reduceMotion) motionButtons.forEach(function (b) { b.hidden = true; });
   var onMotionChange = [];
   var setPaused = function (p) {
     userPaused = p;

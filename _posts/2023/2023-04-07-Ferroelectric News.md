@@ -7,7 +7,7 @@ excerpt: >-
 comments: true
 ---
 
-지난 1월에 Nanoscale advances에 등재된 "Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays" [[Link]](https://yh2424.github.io/2023-01-05-Publication/)가 언론에 소개 되었습니다. 
+지난 1월에 Nanoscale advances에 등재된 "Demonstration of programmable light intensity of a micro-LED with a Hf-based ferroelectric ITZO TFT for Mura-free displays" [[Link]](/2023-01-05-Publication/)가 언론에 소개 되었습니다. 
 
 - 뉴스H, **한양대, 고해상도·초저전력 디스플레이 기술 개발**, 23.02.06, [[Link]](https://www.newshyu.com/news/articleView.html?idxno=1008653)
 ![image](https://user-images.githubusercontent.com/70870983/230548115-a949f756-e09f-4722-ae32-9bfc559af1b1.png)
