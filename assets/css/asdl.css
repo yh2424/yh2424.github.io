@@ -312,7 +312,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 #full-tags-list h2 { font-family: var(--display); font-size: 1.2rem; margin: 2em 0 0.6em; }
 .tag-entry { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 16px; padding: 8px 0; border-bottom: 1px solid var(--line); }
 .tag-entry .entry-date { color: var(--fg-2); font-family: var(--mono); font-size: 0.8rem; }
-.kw-label { display: block; margin: 0 0 8px; font: 600 1.05rem var(--display); color: var(--fg); }
 #search-input { width: 100%; max-width: 520px; padding: 12px 14px; font: 400 1rem var(--body); color: var(--fg); background: var(--bg-2); border: 1px solid var(--line); border-radius: 3px; }
 #results-container { list-style: none; padding: 0; margin: 16px 0 0; }
 #results-container li { padding: 8px 0; border-bottom: 1px solid var(--line); }
