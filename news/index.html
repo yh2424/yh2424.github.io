@@ -1,0 +1,21 @@
+---
+layout: page
+title: News
+eyebrow: ASDL
+subtitle: Publications, conferences, awards and life in the lab.
+full-width: true
+---
+{%- comment -%} Paginated by jekyll-paginate (paginate_path: /news/page:num/ in _config.yml). {%- endcomment -%}
+<div class="news-grid">
+  {%- for post in paginator.posts %}
+  {% include news-card.html post=post excerpt=true %}
+  {%- endfor %}
+</div>
+
+{%- if paginator.total_pages > 1 %}
+<nav class="pager" aria-label="News pages">
+  {%- if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">← Newer</a>{% else %}<span></span>{% endif %}
+  <span class="num mono">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
+  {%- if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older →</a>{% else %}<span></span>{% endif %}
+</nav>
+{%- endif %}

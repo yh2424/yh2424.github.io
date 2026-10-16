@@ -1,29 +1,33 @@
 ---
-layout: page
-title: About me
-subtitle: Hi, I am Younghyun :)
+layout: profile
+title: Younghyun Kim, Ph.D.
+eyebrow: Principal Investigator
+name-local: 김영현 · 金榮現
+position: Associate Professor
+affiliation: School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA
+portrait: /assets/img/hero/asdl-2638.jpg
+email: younghyunkim@hanyang.ac.kr
+links:
+  - label: Curriculum vitae
+    url: /cv
+  - label: CV (PDF)
+    url: https://raw.githubusercontent.com/yh2424/yh2424.github.io/master/_mydata/CV/cv_younghyunkim.pdf
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=-X-RZCgAAAAJ&hl=en
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/younghyun-kim-6806b5119
+  - label: ResearchGate
+    url: https://www.researchgate.net/profile/Younghyun_Kim4
 ---
 <!---
-<p align="center"><img src="https://user-images.githubusercontent.com/32427749/130535244-3c8956f4-23e3-4b1b-92f9-a2343ab566b3.png"></p>
---->
-
-![HY-ERICA(Jan 2026)](/assets/img/big-imgs/014A2638son.jpg)
-
-## Younghyun Kim, Ph.D.
-#### 김 영현 (Korean), 金 榮現 (Hanja)
-#### Associate professor, School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA 
-
-<!--- 
 #### Technical Advisor, PhotoniSol, Inc.
 #### Director of Neuromorphic Materials and Devices, Pebble-Square, Inc.
 --->
 
+## EDUCATION
 - Ph.D. in Electrical Engineering, University of Tokyo (2015)
-- M.E. in Electrical Engineering, University of Tokyo (2012) 
+- M.E. in Electrical Engineering, University of Tokyo (2012)
 - B.E. in Electrical Engineering, University of Tokushima (2010)
-- [Curriculum vitae](https://yh2424.github.io/cv)
-
-
 
 ## TEACHING
 #### Conference 

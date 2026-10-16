@@ -7,20 +7,18 @@
 
 # Name of website
 title: YKResearch
+title-long: AI Semiconductor Driving Laboratory
 
 # Your name to show in the footer
 author: Younghyun Kim
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-#  HOME: "https://yh2424.github.io"
-#  About Me: "aboutme"
   Research: "research"
   Team: "team"
-#  Projects: "projects"
   Publication: "publication"
+  News: "news/"
   Contact: "contact"
-  Link: "link"
   Search: "search/"
 
 # --- Logo --- #
@@ -201,7 +199,8 @@ timezone: "Korea/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 12
+paginate_path: "/news/page:num/"
 
 kramdown:
   input: GFM

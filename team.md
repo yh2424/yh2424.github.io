@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Team
-subtitle: Our team members !
+eyebrow: People
+subtitle: Researchers, students and alumni of ASDL.
+cover-img: "/assets/img/hero/asdl-2601.jpg"
+prose-class: team
 ---
 <!-- 
 [image](https://user-images.githubusercontent.com/32427749/150480395-9e9eb3b9-28cc-4b5e-b56d-7a91ed5d0162.png)
@@ -11,7 +14,6 @@ subtitle: Our team members !
 ![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/ce6cbbf0-5998-4b80-acd3-e16f076e5200)
 
 -->
-![Lab members (Jan 2026)](/assets/img/big-imgs/014A2601son.jpg)
 
 # Principal Invesigator
 

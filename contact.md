@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Contact
+eyebrow: Contact
 subtitle: Please feel free to contact me.
 ---
 
 ## Younghyun Kim, Ph.D.
-#### Associate professor, Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
+#### Associate professor
+#### School of Semiconductor Convergence Engineering, BK21 FOUR ERICA-ACE Center, College of Advanced Technology and Convergence, Hanyang University ERICA
+#### Department of Photonics and Nanoelectronics, College of Science and Convergence Technology, Hanyang University ERICA
 
 - Tel.: 031-400-5474 
 - E-mail: younghyunkim[at]hanyang.ac.kr

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Publication
-subtitle: List of Journal, Patent, and Conference
+eyebrow: Output
+subtitle: Journal papers, patents and conference presentations.
+prose-class: pubs
+toc: true
 ---
 
 
