@@ -33,29 +33,63 @@
     </div>
   </article>
 
-  <article class="ore-card" id="memory">
+  <article class="ore-card ore-mem" id="memory">
+    <svg class="ore-art" viewBox="0 0 120 70" aria-hidden="true">
+      <line x1="10" y1="35" x2="110" y2="35" class="axis"/><line x1="60" y1="6" x2="60" y2="64" class="axis"/>
+      <path d="M18 52 C40 52 52 50 62 30 C70 16 84 14 102 14" class="loop"/>
+      <path d="M102 18 C80 18 68 20 58 40 C50 54 36 56 18 56" class="loop b"/>
+      <circle cx="60" cy="24" r="4" class="bit one"/><circle cx="60" cy="46" r="4" class="bit zero"/>
+      <text x="66" y="22">1</text><text x="66" y="54">0</text>
+    </svg>
     <span class="mono muted">Electronics · Memory</span>
     <h3>Next-generation memory</h3>
+    <p class="ore-lead">Ferroelectric and oxide-semiconductor transistors that keep data without power and compute where data lives.</p>
     <div class="kw-chips"><span>FeFET</span><span>FeDRAM</span><span>MFMIS</span><span>Oxide semiconductor</span><span>Computing-in-memory</span></div>
-    <ul>
-      <li><a href="{{ '/2024-08-19-Publication/' | relative_url }}">2T0C-FeDRAM with a-ITZO FET and a-ITZO/a-IGZO FeFET</a><span class="mono">Nanoscale 2024 · Hot Article</span></li>
-      <li><a href="{{ '/2026-06-26-Publication/' | relative_url }}">Time-dependent dynamics in MFMIS FeFETs</a><span class="mono">IEEE JEDS 2026</span></li>
-      <li><a href="https://ieeexplore.ieee.org/document/11497328">Computing-in-memory cell based on 1T-1MFMIS FeFET</a><span class="mono">EDTM 2026</span></li>
-      <li><a href="{{ '/2024-05-16-Publication/' | relative_url }}">Dual ferroelectric gate FeFET for non-volatile memory</a><span class="mono">JKPS 2024</span></li>
-      <li><a href="{{ '/2024-08-01-Publication/' | relative_url }}">Source/drain electrodes and stability of a-ITZO FETs</a><span class="mono">IEEE TED 2024</span></li>
-      <li><a href="{{ '/2024-04-10-Publication/' | relative_url }}">High-performance ITZO TFTs with HMDS passivation</a><span class="mono">ACS AEM 2024</span></li>
-    </ul>
+    <div class="ore-sub">
+      <h4>Ferroelectric memory</h4>
+      <ul>
+        <li><a href="{{ '/2024-08-19-Publication/' | relative_url }}">2T0C-FeDRAM with a-ITZO FET and a-ITZO/a-IGZO FeFET</a><span class="mono">Nanoscale 2024 · Hot Article</span></li>
+        <li><a href="{{ '/2026-06-26-Publication/' | relative_url }}">Time-dependent dynamics in MFMIS FeFETs</a><span class="mono">IEEE JEDS 2026</span></li>
+        <li><a href="https://ieeexplore.ieee.org/document/11497328">Computing-in-memory cell based on 1T-1MFMIS FeFET</a><span class="mono">EDTM 2026</span></li>
+        <li><a href="{{ '/2024-05-16-Publication/' | relative_url }}">Dual ferroelectric gate FeFET for non-volatile memory</a><span class="mono">JKPS 2024</span></li>
+      </ul>
+      <h4>Oxide-semiconductor transistors</h4>
+      <ul>
+        <li><a href="{{ '/2024-08-01-Publication/' | relative_url }}">Source/drain electrodes and stability of a-ITZO FETs</a><span class="mono">IEEE TED 2024</span></li>
+        <li><a href="{{ '/2024-04-10-Publication/' | relative_url }}">High-performance ITZO TFTs with HMDS passivation</a><span class="mono">ACS AEM 2024</span></li>
+      </ul>
+    </div>
   </article>
 
-  <article class="ore-card" id="display">
+  <article class="ore-card ore-disp" id="display">
+    <svg class="ore-art" viewBox="0 0 120 70" aria-hidden="true">
+      {%- for row in (0..2) %}{%- for col in (0..3) %}
+      {%- assign px = col | times: 28 | plus: 6 %}{%- assign py = row | times: 22 | plus: 4 %}
+      <g class="px{% if row == 1 and col == 1 %} on a{% elsif row == 0 and col == 3 %} on b{% elsif row == 2 and col == 2 %} on c{% endif %}">
+        <rect x="{{ px }}" y="{{ py }}" width="6" height="16" rx="1.5" class="r"/>
+        <rect x="{{ px | plus: 8 }}" y="{{ py }}" width="6" height="16" rx="1.5" class="g"/>
+        <rect x="{{ px | plus: 16 }}" y="{{ py }}" width="6" height="16" rx="1.5" class="bl"/>
+      </g>
+      {%- endfor %}{%- endfor %}
+    </svg>
     <span class="mono muted">Electronics · Display</span>
     <h3>Display devices</h3>
+    <p class="ore-lead">Quantum-dot and micro-LED pixels with smart backplanes that remember and control their own light.</p>
     <div class="kw-chips"><span>QD-LED</span><span>Micro-LED</span><span>Memory-in-pixel</span><span>Charge-trap TFT</span><span>Thermoreflectance</span></div>
-    <ul>
-      <li><a href="{{ '/2025-11-13-Publication/' | relative_url }}">QD-LEDs integrated with charge-trap TFT arrays for memory-in-pixel</a><span class="mono">ACS AMI 2025</span></li>
-      <li><a href="{{ '/2026-08-20-Publication/' | relative_url }}">Self-heating and wall-plug efficiency in RGB QD-LEDs</a><span class="mono">APL 2026</span></li>
-      <li><a href="{{ '/2023-01-05-Publication/' | relative_url }}">Micro-LED with Hf-based ferroelectric ITZO TFT for Mura-free displays</a><span class="mono">Nanoscale Adv. 2023</span></li>
-      <li><a href="{{ '/2025-05-20-Publication/' | relative_url }}">Wavelength-dependent erasing in oxide charge-trap TFTs</a><span class="mono">ACS AEM 2025</span></li>
-    </ul>
+    <div class="ore-sub">
+      <h4>QD-LED</h4>
+      <ul>
+        <li><a href="{{ '/2025-11-13-Publication/' | relative_url }}">QD-LEDs integrated with charge-trap TFT arrays for memory-in-pixel</a><span class="mono">ACS AMI 2025</span></li>
+        <li><a href="{{ '/2026-08-20-Publication/' | relative_url }}">Self-heating and wall-plug efficiency in RGB QD-LEDs, probed by thermoreflectance</a><span class="mono">APL 2026</span></li>
+      </ul>
+      <h4>Micro-LED</h4>
+      <ul>
+        <li><a href="{{ '/2023-01-05-Publication/' | relative_url }}">Micro-LED driven by a Hf-based ferroelectric ITZO TFT for Mura-free displays</a><span class="mono">Nanoscale Adv. 2023</span></li>
+      </ul>
+      <h4>Pixel circuits · TFT</h4>
+      <ul>
+        <li><a href="{{ '/2025-05-20-Publication/' | relative_url }}">Wavelength-dependent erasing in oxide charge-trap TFTs</a><span class="mono">ACS AEM 2025</span></li>
+      </ul>
+    </div>
   </article>
 </div>

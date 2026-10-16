@@ -1,129 +1,109 @@
 {%- comment -%}
-  SING zoom-in diagram. Callout numbers match sing-path.html:
-  devices 1-4 (cyan), packaging 5-7 (amber).
-  Light: four O-band wavelength channels (colors are illustrative). The edge-coupler input carries λ1, λ2,
-  the grating-coupler input carries λ3, λ4; the 4x4 MMI splits every channel into all four outputs.
+  SING zoom-in diagram (top view). Callout numbers match sing-path.html: devices 1-4 (cyan), packaging 5-7 (amber).
+  Light enters through the edge coupler and steps through eight colors (illustrative wavelength channels).
+  A non-volatile ring switch sends it to PIC A or PIC B. In each branch an 8x8 MMI splits the beam into eight
+  lanes at 1/8 power each; each lane has a micro-ring modulator (MRM) for one color, and the modulated signal
+  goes to that PIC's AI accelerator (XPU). assets/js/asdl.js drives the sequence; without JS the picture is static.
 {%- endcomment -%}
-{%- assign outs = "160,183.5,207,230.5" | split: "," -%}
-{%- capture edge_in -%}M0 200 L72 200 L355 200 L365 200 C385 200 392 207 420 207{%- endcapture -%}
-{%- capture grat_in -%}M140 56 L186 104 L208 120 L330 120 C350 120 352 142 355 150 L365 154 C380 160 392 160 420 160{%- endcapture -%}
+{%- assign colors = "#ff5a5a,#ff9d3c,#ffd84d,#5be37d,#3cc7e6,#4d7dff,#7b6cff,#c06bff" | split: "," -%}
+{%- assign branches = "A,B" | split: "," -%}
 <figure class="sing">
   <div class="sing-scroll">
-  <svg viewBox="0 0 1000 330" aria-labelledby="sing-title sing-desc" role="img">
+  <svg viewBox="0 0 1000 412" data-wdm aria-labelledby="sing-title sing-desc" role="img">
     <title id="sing-title">SiN-on-Glass (SING) devices and packaging, zoomed in</title>
-    <desc id="sing-desc">Top view of a glass panel carrying SiN waveguides. Two fibers bring four wavelength channels into the panel, one through a triple-tip edge coupler and one through a grating coupler. The waveguides cross reticle stitching boundaries and enter a 4 by 4 MMI coupler, which splits every channel into all four outputs. One output passes a non-volatile micro-ring switch, and all outputs couple evanescently into a SiN-on-SOI photonic chip placed next to an AI accelerator.</desc>
-    <defs>
-      <marker id="sing-arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="s-acc"/></marker>
-      <marker id="sing-arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="s-acc2"/></marker>
-    </defs>
+    <desc id="sing-desc">Top view of a glass panel. Light from a fiber enters through a triple-tip edge coupler; a grating coupler is also shown. The SiN waveguide crosses a reticle stitching boundary and reaches a non-volatile micro-ring switch that routes the light to photonic chip A or photonic chip B. In each branch an 8 by 8 MMI coupler splits the light into eight lanes at one eighth of the power each. The lanes couple evanescently into the chip, where eight micro-ring modulators each handle one wavelength channel, and the modulated signals go to that chip's AI accelerator.</desc>
 
-    <!-- ===== Top view ===== -->
-    <text x="20" y="28" class="s-lbl s-head">TOP VIEW · devices and packaging on a SiN-on-Glass panel</text>
+    <text x="20" y="26" class="s-lbl s-head">TOP VIEW · devices and packaging on a SiN-on-Glass panel</text>
     <g aria-hidden="true">
-      <text x="694" y="28" class="s-lbl s-sm">O-band channels</text>
-      <line x1="822" y1="24" x2="836" y2="24" class="s-key w1"/><text x="842" y="28" class="s-lbl s-sm">λ1</text>
-      <line x1="862" y1="24" x2="876" y2="24" class="s-key w2"/><text x="882" y="28" class="s-lbl s-sm">λ2</text>
-      <line x1="902" y1="24" x2="916" y2="24" class="s-key w3"/><text x="922" y="28" class="s-lbl s-sm">λ3</text>
-      <line x1="942" y1="24" x2="956" y2="24" class="s-key w4"/><text x="962" y="28" class="s-lbl s-sm">λ4</text>
+      <text x="708" y="26" class="s-lbl s-sm">8 wavelength channels</text>
+      {%- for c in colors %}
+      <rect x="{{ forloop.index0 | times: 14 | plus: 868 }}" y="17" width="12" height="10" rx="2" fill="{{ c }}"/>
+      {%- endfor %}
     </g>
-    <rect x="70" y="50" width="910" height="270" rx="4" class="s-glass"/>
+    <rect x="60" y="40" width="930" height="362" rx="4" class="s-glass"/>
 
     <!-- reticle stitching boundaries -->
-    <line x1="360" y1="50" x2="360" y2="320" class="s-stitch"/>
-    <line x1="660" y1="50" x2="660" y2="320" class="s-stitch"/>
-    <text x="215" y="312" class="s-lbl s-sm" text-anchor="middle">reticle field 1</text>
-    <text x="510" y="312" class="s-lbl s-sm" text-anchor="middle">reticle field 2</text>
-    <text x="800" y="312" class="s-lbl s-sm" text-anchor="middle">reticle field 3</text>
-    <text x="972" y="314" class="s-lbl s-sm" text-anchor="end">glass panel</text>
+    <line x1="290" y1="40" x2="290" y2="402" class="s-stitch"/>
+    <line x1="700" y1="40" x2="700" y2="402" class="s-stitch"/>
+    <text x="175" y="394" class="s-lbl s-sm" text-anchor="middle">reticle field 1</text>
+    <text x="495" y="394" class="s-lbl s-sm" text-anchor="middle">reticle field 2</text>
+    <text x="760" y="394" class="s-lbl s-sm" text-anchor="middle">reticle field 3</text>
+    <text x="982" y="394" class="s-lbl s-sm" text-anchor="end">glass panel</text>
 
-    <!-- fiber from the left edge -->
-    <rect x="0" y="191" width="70" height="18" class="s-fiber"/>
-    <text x="4" y="184" class="s-lbl s-sm">fiber</text>
+    <!-- fiber and triple-tip edge coupler -->
+    <rect x="0" y="211" width="60" height="18" class="s-fiber"/>
+    <text x="4" y="204" class="s-lbl s-sm">fiber</text>
+    <polygon points="62,211 130,218 130,219.5 62,212.6" class="s-wgf"/>
+    <polygon points="62,219.2 130,219.2 130,220.8 62,220.8" class="s-wgf"/>
+    <polygon points="62,227.4 130,220.5 130,222 62,229" class="s-wgf"/>
 
-    <!-- edge coupler (triple tip) -->
-    <polygon points="72,191 150,198 150,199.5 72,192.6" class="s-wgf"/>
-    <polygon points="72,199.2 150,199.2 150,200.8 72,200.8" class="s-wgf"/>
-    <polygon points="72,207.4 150,200.5 150,202 72,209" class="s-wgf"/>
-    <path d="M150 200 L355 200 M365 200 C385 200 392 207 420 207" class="s-wg"/>
-    <rect x="352" y="194" width="16" height="12" rx="2" class="s-stitchbox"/>
-
-    <!-- grating coupler with fiber from above -->
-    <line x1="140" y1="56" x2="186" y2="104" class="s-fiberline"/>
+    <!-- grating coupler with fiber from above (device, idle in this picture) -->
+    <line x1="132" y1="50" x2="172" y2="94" class="s-fiberline"/>
     <g class="s-gc">
-      <rect x="168" y="106" width="3.5" height="28"/><rect x="175" y="106" width="3.5" height="28"/><rect x="182" y="106" width="3.5" height="28"/>
-      <rect x="189" y="106" width="3.5" height="28"/><rect x="196" y="106" width="3.5" height="28"/><rect x="203" y="106" width="3.5" height="28"/>
+      <rect x="160" y="96" width="3.5" height="28"/><rect x="167" y="96" width="3.5" height="28"/><rect x="174" y="96" width="3.5" height="28"/>
+      <rect x="181" y="96" width="3.5" height="28"/><rect x="188" y="96" width="3.5" height="28"/><rect x="195" y="96" width="3.5" height="28"/>
     </g>
-    <rect x="164" y="134" width="48" height="4" class="s-metal"/>
-    <polygon points="208,106 250,118.5 250,121.5 208,134" class="s-wgf"/>
-    <path d="M250 120 L330 120 C350 120 352 142 355 150 M365 154 C380 160 392 160 420 160" class="s-wg"/>
-    <rect x="352" y="146" width="16" height="12" rx="2" class="s-stitchbox"/>
+    <rect x="156" y="124" width="48" height="4" class="s-metal"/>
+    <polygon points="200,96 240,108.5 240,111.5 200,124" class="s-wgf"/>
+    <path d="M240 110 L250 110 C268 110 262 220 282 220" class="s-wg s-thin"/>
 
-    <!-- 4x4 MMI -->
-    <rect x="420" y="148" width="110" height="94" class="s-mmi"/>
-    <path d="M398 183.5 L420 183.5 M398 230.5 L420 230.5" class="s-stub"/>
-    {%- for y in outs %}
-    <path d="M530 {{ y }} L655 {{ y }} M665 {{ y }} L790 {{ y }}" class="s-wg"/>
+    <!-- input waveguide, stitch, non-volatile switch -->
+    <path d="M130 220 L282 220 M298 220 L420 220" class="s-wg"/>
+    <rect x="282" y="214" width="16" height="12" rx="2" class="s-stitchbox"/>
+    <circle cx="398" cy="205" r="12" class="s-ring s-nv"/>
+    <path d="M378 190 L420 190" class="s-wg"/>
+    <path d="M420 190 C440 190 440 115 460 115" class="s-wg"/>
+    <path d="M420 220 C440 220 440 295 460 295" class="s-wg"/>
+    <text x="398" y="246" class="s-lbl s-sm" text-anchor="middle">NV switch</text>
+    <text x="398" y="262" class="s-lbl s-sm s-state" text-anchor="middle" data-sw-state>→ PIC A</text>
+
+    {%- for br in branches %}
+    {%- if br == "A" %}{%- assign y0 = 80 %}{%- assign yin = 115 %}{%- else %}{%- assign y0 = 260 %}{%- assign yin = 295 %}{%- endif %}
+    <!-- branch {{ br }}: 8x8 MMI, lanes, EVC, PIC with 8-channel MRM, XPU -->
+    <g data-branch="{{ br }}">
+      <rect x="460" y="{{ y0 | minus: 8 }}" width="80" height="86" class="s-mmi"/>
+      <text x="500" y="{% if br == 'A' %}{{ y0 | minus: 14 }}{% else %}{{ y0 | plus: 94 }}{% endif %}" class="s-lbl s-sm" text-anchor="middle">8×8 MMI</text>
+      {%- for c in colors %}
+      {%- assign y = forloop.index0 | times: 10 | plus: y0 %}
+      {%- assign rx = forloop.index0 | times: 9 | plus: 822 %}
+      <path d="M448 {{ y }} L460 {{ y }}" class="s-stub"/>
+      <path d="M540 {{ y }} L770 {{ y }}" class="s-lane"/>
+      <polygon points="770,{{ y | minus: 1.6 }} 800,{{ y | minus: 0.4 }} 800,{{ y | plus: 0.4 }} 770,{{ y | plus: 1.6 }}" class="s-wgf"/>
+      <polygon points="786,{{ y | minus: 0.4 }} 812,{{ y | minus: 1.2 }} 812,{{ y | plus: 1.2 }} 786,{{ y | plus: 0.4 }}" class="s-acc2f"/>
+      <path d="M812 {{ y }} L888 {{ y }}" class="s-sig"/>
+      <circle cx="{{ rx }}" cy="{{ y | minus: 4.6 }}" r="3.6" class="s-mrm" stroke="{{ c }}" data-mrm="{{ br }}{{ forloop.index0 }}"/>
+      <path class="s-run" data-lane="{{ br }}{{ forloop.index0 }}" d="M460 {{ yin }} L540 {{ y }} L{{ rx }} {{ y }}"/>
+      <path class="s-run" data-sigpath="{{ br }}{{ forloop.index0 }}" d="M{{ rx }} {{ y }} L912 {{ y }}"/>
+      <line x1="888" y1="{{ y }}" x2="912" y2="{{ y }}" class="s-eio"/>
+      {%- endfor %}
+      <rect x="760" y="{{ y0 | minus: 14 }}" width="128" height="98" rx="2" class="s-pic"/>
+      <text x="824" y="{{ y0 | minus: 20 }}" class="s-lbl s-sm" text-anchor="middle">PIC {{ br }} · 8-ch MRM</text>
+      <rect x="912" y="{{ y0 | minus: 14 }}" width="66" height="98" rx="3" class="s-xpu" data-xpu="{{ br }}"/>
+      <text x="945" y="{{ y0 | plus: 34 }}" class="s-lbl s-xpu-t" text-anchor="middle">AI</text>
+      <text x="945" y="{{ y0 | plus: 52 }}" class="s-lbl s-sm" text-anchor="middle">XPU {{ br }}</text>
+    </g>
     {%- endfor %}
 
-    <!-- non-volatile micro-ring switch on output 1 -->
-    <circle cx="600" cy="134" r="20" class="s-ring"/>
-    <circle cx="600" cy="134" r="20" class="s-ring s-glowring glow"/>
-    <path d="M560 108 L655 108 M665 108 L700 108" class="s-wg s-thin"/>
-    <text x="704" y="112" class="s-lbl s-sm">drop</text>
-
-    <!-- SiN-on-SOI photonic chip and evanescent couplers -->
-    <rect x="760" y="132" width="120" height="126" rx="2" class="s-pic"/>
-    <g class="s-acc2f">
-      {%- for y in outs %}{%- assign yf = y | plus: 0 %}
-      <polygon points="790,{{ yf | minus: 1.4 }} 840,{{ yf | minus: 0.8 }} 840,{{ yf | plus: 0.8 }} 790,{{ yf | plus: 1.4 }}"/>
-      {%- endfor %}
-    </g>
-    {%- for y in outs %}{%- assign yf = y | plus: 0 %}
-    <polygon points="770,{{ yf | minus: 2.5 }} 815,{{ yf | minus: 0.6 }} 815,{{ yf | plus: 0.6 }} 770,{{ yf | plus: 2.5 }}" class="s-wgf"/>
-    {%- endfor %}
-    <text x="820" y="148" class="s-lbl s-sm" text-anchor="middle">SiN-on-SOI PIC</text>
-    <text x="820" y="252" class="s-lbl s-sm" text-anchor="middle">flip-chip</text>
-
-    <!-- AI accelerator and electrical I/O -->
-    <g class="s-eio">
-      <line x1="880" y1="150" x2="904" y2="150"/><line x1="880" y1="170" x2="904" y2="170"/><line x1="880" y1="190" x2="904" y2="190"/>
-      <line x1="880" y1="210" x2="904" y2="210"/><line x1="880" y1="230" x2="904" y2="230"/>
-    </g>
-    <rect x="904" y="104" width="66" height="180" rx="3" class="s-xpu"/>
-    <text x="937" y="190" class="s-lbl s-xpu-t" text-anchor="middle">AI</text>
-    <text x="937" y="208" class="s-lbl s-sm" text-anchor="middle">XPU</text>
-    <text x="892" y="294" class="s-lbl s-sm" text-anchor="middle">electrical I/O</text>
-
-    <!-- light: every input channel reaches every MMI output -->
-    <g class="pulses">
-      {%- for y in outs %}
-      {%- assign k = forloop.index0 | times: 0.3 %}
-      <path class="pulse w1" style="animation-delay:-{{ k }}s" d="{{ edge_in }} L530 {{ y }} L790 {{ y }} L830 {{ y }}"/>
-      <path class="pulse w2" style="animation-delay:-{{ k | plus: 3 }}s" d="{{ edge_in }} L530 {{ y }} L790 {{ y }} L830 {{ y }}"/>
-      <path class="pulse w3" style="animation-delay:-{{ k | plus: 1.5 }}s" d="{{ grat_in }} L530 {{ y }} L790 {{ y }} L830 {{ y }}"/>
-      <path class="pulse w4" style="animation-delay:-{{ k | plus: 4.5 }}s" d="{{ grat_in }} L530 {{ y }} L790 {{ y }} L830 {{ y }}"/>
-      {%- endfor %}
-    </g>
+    <!-- light paths used by the animation -->
+    <path class="s-run" data-input="A" d="M0 220 L130 220 L388 220 C396 216 396 194 404 190 L420 190 C440 190 440 115 460 115"/>
+    <path class="s-run" data-input="B" d="M0 220 L130 220 L420 220 C440 220 440 295 460 295"/>
 
     <!-- callouts: devices (1-4), packaging (5-7) -->
     <g class="s-call dev">
-      <circle cx="290" cy="138" r="11"/><text x="290" y="142.5">1</text>
-      <circle cx="232" cy="96" r="11"/><text x="232" y="100.5">2</text>
-      <circle cx="475" cy="266" r="11"/><text x="475" y="270.5">3</text>
-      <circle cx="636" cy="134" r="11"/><text x="636" y="138.5">4</text>
+      <circle cx="210" cy="238" r="11"/><text x="210" y="242.5">1</text>
+      <circle cx="222" cy="84" r="11"/><text x="222" y="88.5">2</text>
+      <circle cx="500" cy="186" r="11"/><text x="500" y="190.5">3</text>
+      <circle cx="364" cy="176" r="11"/><text x="364" y="180.5">4</text>
     </g>
     <g class="s-call pkg">
-      <circle cx="360" cy="236" r="11"/><text x="360" y="240.5">5</text>
-      <circle cx="112" cy="232" r="11"/><text x="112" y="236.5">6</text>
-      <circle cx="745" cy="272" r="11"/><text x="745" y="276.5">7</text>
+      <circle cx="290" cy="246" r="11"/><text x="290" y="250.5">5</text>
+      <circle cx="96" cy="248" r="11"/><text x="96" y="252.5">6</text>
+      <circle cx="786" cy="186" r="11"/><text x="786" y="190.5">7</text>
     </g>
-    <text x="374" y="266" class="s-lbl s-sm">stitch</text>
-    <text x="475" y="292" class="s-lbl s-sm" text-anchor="middle">4×4 MMI</text>
-
   </svg>
   </div>
   <figcaption>
-    <span>확대 개념도입니다(평면도). 번호는 아래 목록의 개별 연구 결과를 한 패널 위에 배치해 본 것으로, 하나의 실제 회로가 아닙니다. 빛의 색은 O-band 파장 채널을 구분하기 위한 표시이며 실제 빛은 적외선입니다.</span>
+    <span>확대 개념도입니다(평면도). 번호는 아래 목록의 개별 연구 결과를 한 패널 위에 배치해 본 것으로, 하나의 실제 회로가 아닙니다. 색은 파장 채널을 구분하기 위한 표시이며 실제 빛은 적외선입니다. 비휘발 스위치가 빛을 PIC A 또는 PIC B로 보내고, 8×8 MMI가 빛을 8개 레인에 1/8씩 나누면, 각 색을 맡은 MRM이 신호를 변조해 해당 XPU로 보냅니다.</span>
     <span class="cap-row"><span class="swipe">옆으로 밀어서 전체 그림을 볼 수 있습니다.</span><button type="button" class="motion-toggle" aria-pressed="false">Pause animation</button></span>
   </figcaption>
 </figure>
