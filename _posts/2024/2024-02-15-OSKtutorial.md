@@ -9,7 +9,7 @@ comments: true
 김영현 교수가 "Harmonizing light and silicon: The art of integration in silicon photonics"를 주제로 초대되어 2024년 2월 15일 수원에서 열린 제35회 한국광학회 [동계학술발표회 2024](https://www.osk.or.kr/conference/event/index.php?cfrid=101) 에서 단기강좌를 진행하였습니다. 
 
 
-- 단기 강좌 
+- 단기 강좌 [[Link]](https://www.osk.or.kr/conference/event/content/content.php?_mid=2075,2089&cfrid=101)
 ![image](https://github.com/yh2424/yh2424.github.io/assets/32427749/de3fb6fc-5ba6-4f13-b461-b5b6e90f2723)
   
   

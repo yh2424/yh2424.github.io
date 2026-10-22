@@ -9,7 +9,7 @@ comments: true
 김영현 교수가 "Silicon photonics - Integration process"를 주제로 초대되어 2023년 6월 1일 부산에서 열린 국제학회 [COOC2023](https://www.osk.or.kr/conference/event/index.php?cfrid=49) (The 30th Conference on Optoelectronics and Optical Communications)에서 단기강좌를 진행하였습니다. 
 
 
-- 단기 강좌 
+- 단기 강좌 [[Link]](https://www.osk.or.kr/conference/event/content/content.php?_mid=1843,1857&cfrid=49)
 <img width="1375" alt="image" src="https://github.com/yh2424/yh2424.github.io/assets/32427749/82768d60-316f-436b-a730-add5e6f0915a">  
 
 - 김영현 교수 강연 
