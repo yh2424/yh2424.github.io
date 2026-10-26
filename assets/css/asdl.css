@@ -444,6 +444,7 @@ a.sr-only:focus { position: fixed; left: 16px; top: 12px; width: auto; height: a
 .ore-art .loop.b { stroke: #39c6e6; }
 .ore-art .bit.one { fill: #39c6e6; } .ore-art .bit.zero { fill: #8f84ff; }
 .ore-art text { fill: var(--fg-2); font: 10px var(--mono); }
+.ore-art text.ax { font-size: 8px; font-style: italic; fill-opacity: .7; }
 .ore-art .px rect { opacity: .22; }
 .ore-art .r { fill: #ff5a5a; } .ore-art .g { fill: #5be37d; } .ore-art .bl { fill: #4d7dff; }
 .ore-art .px.on rect { opacity: .95; animation: px-glow 3.2s ease-in-out infinite; }
