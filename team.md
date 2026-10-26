@@ -43,25 +43,25 @@ prose-class: team
 
 ### 진 태원, Taewon Jin
 #### Ph.D. course, xodnjs3124@hanyang.ac.kr<!--,  [More about me](/people/taewonjin)-->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/Content/ArticleLanding/2023/NA/D2NA00713D), [[2]](/2025-11-20-Publication/)
-#### 1st-authored KCI: [[1]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158917)
+#### 1st-authored SCIE: [[1]](/2023-01-05-Publication/), [[2]](/2025-11-20-Publication/)
+#### 1st-authored KCI: [[1]](/2025-01-13-Publication/)
 
 ---
 ### 김 대홍, Daehong Kim
 #### Ph.D. course, altair45@hanyang.ac.kr
-#### 1st-authored SCIE: [[1]](https://doi.org/10.1109/JPHOT.2023.3331194), [[2]](https://doi.org/10.1016/j.optlaseng.2024.108742)
+#### 1st-authored SCIE: [[1]](/2023-11-28-Publication/), [[2]](/2024-12-01-Publication/)
 
 ---
 
 ### 진 사민, Simin Chen 
 #### Integrated MS and Ph.D. course, sami51@hanyang.ac.kr <!--, [More about me](/people/siminchen)-->
-#### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [[2]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract), [[3]](https://ieeexplore.ieee.org/document/11533180), [[4]](/publication)
+#### 1st-authored SCIE: [[1]](/2024-05-16-Publication/), [[2]](/2024-08-19-Publication/), [[3]](/2026-06-26-Publication/), {% include paper-link.html n="4" keys="1MFMIS FeFET-Based Computing-in-Memory|1MFMIS FeFET Based Computing-in-Memory" anchor="pub-1t1mfmis-cim" %}
 
 ---
 
 ### 윤 석현, Seokhyeon Yoon
 #### Integrated MS and Ph.D. course (M4), dbsminan@hanyang.ac.kr
-#### 1st-authored SCIE: [[1]](https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-7-1903)
+#### 1st-authored SCIE: [[1]](/2026-03-25-Publication/)
 
 ---
 
@@ -77,19 +77,19 @@ prose-class: team
 
 ### 정 현지, Hyunji Jeong
 #### Integrated MS and Ph.D. course (M4), eu326@hanyang.ac.kr
-#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00447)
+#### 1st-authored SCIE: [[1]](/2025-05-20-Publication/)
 
 ---
 
 ### 정 희윤, Heeyun Jung
 #### Integrated MS and Ph.D. course (M4), oriole1002@hanyang.ac.kr
-#### 1st-authored SCIE: [[1]](/2025-09-08-Publication/), [[2]](https://ieeexplore.ieee.org/document/11268451)
+#### 1st-authored SCIE: [[1]](/2025-09-08-Publication/), [[2]](/2025-12-22-Publication/)
 
 ---
 
 ### 이 종건, Jonggeon Lee
 #### Integrated MS and Ph.D. course (M4), neosue10@hanyang.ac.kr
-#### 1st-authored SCIE: [[1]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd), [[2]](https://doi.org/10.1038/s41598-026-43882-1)
+#### 1st-authored SCIE: [[1]](/2026-03-22-Publication/), {% include paper-link.html n="2" keys="s41598-026-43882|Coupled-Resonator Optical Waveguide" anchor="pub-crow-mzm" %}
 
 ---
 
@@ -176,7 +176,7 @@ prose-class: team
 ---
 ### 신 용진, Yongjin Shin, M.E.
 #### Graduated in Aug. 2026, djrm98@hanyang.ac.kr <!--, [More about me](/people/yongjinshin)-->
-#### 1st-authored SCIE: [[1]](https://doi.org/10.1063/5.0346181)
+#### 1st-authored SCIE: [[1]](/2026-08-20-Publication/)
 
 ---
 ### 왕 택위, Zewei Wang, M.E.
@@ -186,17 +186,17 @@ prose-class: team
 
 ### 김 강석, Kangseok Kim, M.E
 #### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!--, [More about me](/people/kangseokkim)  -->
-#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue), [[2]](https://doi.org/10.1038/s41598-026-43882-1)
+#### 1st-authored SCIE: [[1]](/2023-10-25-Publication/), {% include paper-link.html n="2" keys="s41598-026-43882|Coupled-Resonator Optical Waveguide" anchor="pub-crow-mzm" %}
 
 ---
 ### 배 영주, Youngjoo Bae, M.E
 #### Graduated in Feb. 2025, Now with Fotolynx, yjbae9441@hanyang.ac.kr <!--, [More about me](/people/youngjoobae)-->
-#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10263591), [[2]](https://www.sciencedirect.com/science?_ob=GatewayURL&_origin=AUTHORALERT&_method=citationSearch&_piikey=S0030401826002452&_version=1&md5=43ba991bb7ceaeb5c01c1d5d049557bd)
+#### 1st-authored SCIE: [[1]](/2023-09-27-Publication/), [[2]](/2026-03-22-Publication/)
 
 ---
 ### 선 신개, Xinkai Sun, M.E. 
 #### Graduated in Feb. 2025, Now with ACM Research (Shanghai), q1320472838@hanyang.ac.kr 
-#### 1st-authored SCIE: [[1]](https://pubs.acs.org/doi/full/10.1021/acsaelm.4c00100)
+#### 1st-authored SCIE: [[1]](/2024-04-10-Publication/)
 
 ---
 ### 박 승민, Seoungmin Park, M.E
@@ -206,18 +206,18 @@ prose-class: team
 ---
 ### 노 태현, Taehyeon Noh, M.E.
 #### Graduated in Feb. 2025, Now with ASML, eddienoh@hanyang.ac.kr <!--, [More about me](/people/NTH)  -->
-#### 1st-authored SCIE: [[1]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract)
+#### 1st-authored SCIE: [[1]](/2024-08-19-Publication/)
 
 ---
 ### 주 기준, Gijun Ju, M.E
 #### Graduated in Feb. 2025, Now with SK Hynix, jkj1832@hanyang.ac.kr <!--, [More about me](/people/gijunju)-->
-#### 1st-authored SCIE: [[1]](https://www.coppjournal.org/journal/view.html?uid=1557&pn=current_issue)
+#### 1st-authored SCIE: [[1]](/2023-10-25-Publication/)
 
 ---
 
 ### 안 성의, Seongui An, M.E.
 #### Graduated in Feb. 2024, Now with DB HiTek, asulang01@hanyang.ac.kr 
-#### 1st-authored SCIE: [[1]](https://ieeexplore.ieee.org/document/10620402)
+#### 1st-authored SCIE: [[1]](/2024-08-01-Publication/)
 
 
 <!-- 

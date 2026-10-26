@@ -1,0 +1,19 @@
+{%- comment -%}
+Link to a paper's "Journal Publication" post if one exists, otherwise to its entry on the Publication page.
+  n:      label shown as [[n]]
+  keys:   "|"-separated strings (DOI fragment, title fragment); a post whose title or content contains any of them is used
+  anchor: id of the entry in publication.md, used until a post exists
+Usage: {% include paper-link.html n="1" keys="43882|Coupled-Resonator Optical Waveguide" anchor="pub-crow-mzm" %}
+{%- endcomment -%}
+{%- assign paper_keys = include.keys | downcase | split: "|" -%}
+{%- assign paper_url = "/publication#" | append: include.anchor -%}
+{%- for post in site.posts -%}
+  {%- unless post.title contains "Journal Publication" -%}{%- continue -%}{%- endunless -%}
+  {%- assign post_text = post.title | append: " " | append: post.content | downcase -%}
+  {%- assign found = false -%}
+  {%- for k in paper_keys -%}
+    {%- if post_text contains k -%}{%- assign found = true -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if found -%}{%- assign paper_url = post.url | relative_url -%}{%- break -%}{%- endif -%}
+{%- endfor -%}
+[[{{ include.n }}]]({{ paper_url }})
