@@ -55,7 +55,7 @@ prose-class: team
 
 ### 진 사민, Simin Chen 
 #### Integrated MS and Ph.D. course, sami51@hanyang.ac.kr <!--, [More about me](/people/siminchen)-->
-#### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [[2]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract), [[3]](https://ieeexplore.ieee.org/document/11533180), [[4]](/publication) (Accepted)
+#### 1st-authored SCIE: [[1]](https://link.springer.com/article/10.1007/s40042-024-01079-7), [[2]](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d4nr02393e#!divAbstract), [[3]](https://ieeexplore.ieee.org/document/11533180), [[4]](/publication)
 
 ---
 
