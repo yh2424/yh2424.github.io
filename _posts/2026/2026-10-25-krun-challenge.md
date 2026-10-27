@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fall Social Event 2026 - Miles Apart, Running Together'
+title: 'Fall Social Event 2026 - 4th Marathon, Miles Apart, Running Together'
 thumbnail-img: /assets/img/Thumbnail/261025_marathon.jpg
 date: '2026-10-25'
 by: By
@@ -10,7 +10,7 @@ excerpt: >-
 comments: true
 ---
 
-2026년 10월 25일, ASDL 연구실 구성원들이 서울 뚝섬한강공원에서 열린 K-RUN CHALLENGE에 참가했습니다.
+2026년 10월 25일, ASDL 연구실 구성원들이 서울 뚝섬한강공원에서 열린 K-RUN CHALLENGE에 참가했습니다. 2025년 봄부터 이어 온 ASDL 마라톤 행사도 어느덧 네 번째를 맞았습니다.
 
 연구년을 맞아 MIT에 머물고 계신 김영현 교수님도 학생들의 러닝 소식을 보고 보스턴에서 10km를 달리며 메시지를 보내왔습니다.
 
@@ -39,3 +39,11 @@ comments: true
 <div class="photo-grid" style="display:flex;flex-wrap:wrap;align-items:center;">
   <a href="https://github.com/user-attachments/assets/24e1c97a-a316-4328-83e7-f3e52e3960dc" style="flex:1 1 280px;min-width:0;"><img src="https://github.com/user-attachments/assets/24e1c97a-a316-4328-83e7-f3e52e3960dc" alt="김영현 교수님의 러닝 사진" width="80%" align="top" style="height:auto;margin:0 auto;" /></a><a href="https://github.com/user-attachments/assets/9038f727-0922-497e-9322-2404f2f6bb7b" style="flex:0 0 120px;min-width:0;margin:0 auto;"><img src="https://github.com/user-attachments/assets/9038f727-0922-497e-9322-2404f2f6bb7b" alt="김영현 교수님의 10km 러닝 기록" width="20%" align="top" style="width:auto;max-height:260px;margin:0 auto;" /></a>
 </div>
+
+---
+
+**지난 ASDL 마라톤 이야기**
+
+- [1st · Spring 2025 - Marathon](/2025-05-17-marathon/)
+- [2nd · Fall 2025 - Marathon, Run together, grow together](/2025-11-16-run-together-grown-together/)
+- [3rd · Spring 2026 - Marathon, Run together, grow together](/2026-03-22-run-together-grown-together/)
