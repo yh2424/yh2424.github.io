@@ -184,9 +184,21 @@ prose-class: team
 
 ---
 
+### 김 대홍, Daehong Kim, M.E.
+#### Graduated in Feb. 2026, Now in Ph.D. course at ASDL, altair45@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](/2023-11-28-Publication/), [[2]](/2024-12-01-Publication/)
+
+---
+
 ### 김 강석, Kangseok Kim, M.E
 #### Graduated in Aug. 2025, Now with SAMSUNG Electronics (Singapore) ddol410@hanyang.ac.kr <!--, [More about me](/people/kangseokkim)  -->
 #### 1st-authored SCIE: [[1]](/2023-10-25-Publication/), {% include paper-link.html n="2" keys="s41598-026-43882|Coupled-Resonator Optical Waveguide" anchor="pub-crow-mzm" %}
+
+---
+### 진 태원, Taewon Jin, M.E.
+#### Graduated in Feb. 2025, Now in Ph.D. course at ASDL, xodnjs3124@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](/2023-01-05-Publication/), [[2]](/2025-11-20-Publication/)
+#### 1st-authored KCI: [[1]](/2025-01-13-Publication/)
 
 ---
 ### 배 영주, Youngjoo Bae, M.E
