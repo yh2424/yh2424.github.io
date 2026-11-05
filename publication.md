@@ -11,6 +11,7 @@ toc: true
 # Journal
 
 ### 2026
+- <span id="pub-sin-vernier-ecl"></span>Kyungjin Jo, Daehong Kim, Taewon Jin, Seonghyeok Bae, and **Younghyun Kim**\*. **”Design and fabrication of a silicon nitride double-ring Vernier filter for narrow-linewidth external-cavity lasers in co-packaged optics”**, Optics Express (2026), Accepted
 - <span id="pub-1t1mfmis-cim"></span>Simin Chen, Zewei Wang, Gijun Ju, Jaehoon Han, and **Younghyun Kim**\*. **”A 1T–1MFMIS FeFET-Based Computing-in-Memory Cell With 2.3 V Memory Window and Multibit Storage”**, IEEE Journal of the Electron Devices Society (2026), Early Access [[Link]](https://ieeexplore.ieee.org/document/11769916)
 - Yongjin Shin, Min Seok Kim, JaeMin Lee, Daehong Kim, Jaekyun Kim, Seong-Yong Cho, SangHoon Shin, and **Younghyun Kim**\*. **”Geometry-Dependent Self-Heating and Wall-Plug Efficiency Degradation in RGB Quantum-Dot LEDs Probed by Thermoreflectance Microscopy”**, Applied Physics Letters, Vol. 129, Iss. 8, 083505 (2026) [[Link]](https://doi.org/10.1063/5.0346181)
 - Hyeongrak Lim, Seong Kwang Kim, Jinha Lim, Daewon Ha, Jaehoon Han, **Younghyun Kim**, Jaeyong Jeong, and Sanghyeon Kim\*. **”Uniaxially Compressively Strained Ge (100)-OI p-MOSFET for High-Performance CFET”**, IEEE Transactions on Electron Devices, Vol. 73, Iss. 7, 4250-4256 (2026) [[Link]](https://ieeexplore.ieee.org/document/11559577)
