@@ -72,6 +72,7 @@ prose-class: team
 
 ### 조 경진, Kyungjin Jo
 #### Integrated MS and Ph.D. course (M4), whrudwls41@hanyang.ac.kr
+#### 1st-authored SCIE: [[1]](/2026-11-17-Publication/)
 
 ---
 
