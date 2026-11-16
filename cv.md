@@ -167,6 +167,7 @@ Korea-Japan Government Joint Scholarship, March 2006 - March 2010
 ## PUBLICATION
 #### JOURNAL
 
+- Kyungjin Jo, Daehong Kim, Taewon Jin, Seonghyeok Bae, and **Younghyun Kim**\*, "Design and fabrication of a silicon nitride double-ring Vernier filter for narrow-linewidth external-cavity laser in co-packaged optics", Optics Express, Vol. 34, Iss. 24, 45301-45314 (2026) [[Link]](https://doi.org/10.1364/OE.613418)
 - Yongjin Shin, Min Seok Kim, JaeMin Lee, Daehong Kim, Jaekyun Kim, Seong-Yong Cho, SangHoon Shin, and **Younghyun Kim**\*, "Geometry-Dependent Self-Heating and Wall-Plug Efficiency Degradation in RGB Quantum-Dot LEDs Probed by Thermoreflectance Microscopy", Applied Physics Letters, Vol. 129, Iss. 8, 083505 (2026) [[Link]](https://doi.org/10.1063/5.0346181)
 - Hyeongrak Lim, Seong Kwang Kim, Jinha Lim, Daewon Ha, Jaehoon Han, **Younghyun Kim**, Jaeyong Jeong, and Sanghyeon Kim\*, "Uniaxially Compressively Strained Ge (100)-OI p-MOSFET for High-Performance CFET", IEEE Transactions on Electron Devices, Vol. 73, Iss. 7, 4250-4256 (2026) [[Link]](https://ieeexplore.ieee.org/document/11559577)
 - Simin Chen, Taewon Jin, Xinkai Sun, Gijun Ju, Zewei Wang, Jae-Hoon Han, and **Younghyun Kim**\*, "Unveiling Time-Dependent Dynamics in MFMIS FeFETs", IEEE Journal of the Electron Devices Society, Vol. 14, 332-338 (2026) [[Link]](https://ieeexplore.ieee.org/document/11533180)
