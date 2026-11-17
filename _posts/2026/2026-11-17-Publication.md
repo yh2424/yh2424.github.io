@@ -2,7 +2,7 @@
 layout: post
 title: 'Journal Publication - Design and fabrication of a silicon nitride double-ring Vernier filter for narrow-linewidth external-cavity laser in co-packaged optics'
 thumbnail-img: assets/img/Thumbnail/261117_OE_SiN_Vernier.png
-date: '2026-11-17 10:00'
+date: '2026-11-17 08:00'
 by: By
 author: Younghyun Kim
 comments: true
